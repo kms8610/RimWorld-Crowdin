@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HeatedSunLamp.label>대형 열선 태양등</HeatedSunLamp.label>
+  <HeatedSunLamp.description>작물을 재배할 수 있을 정도로 밝게 빛납니다. 또한 내부를 따뜻하게 유지하는 난로 역할도 합니다.</HeatedSunLamp.description>
+  <HeatedSunLamp_Blueprint.label>대형 열선 태양등 (청사진)</HeatedSunLamp_Blueprint.label>
+  <HeatedSunLamp_Blueprint_Install.label>대형 열선 태양등 (청사진)</HeatedSunLamp_Blueprint_Install.label>
+  <HeatedSunLamp_Frame.label>대형 열선 태양등 (건설 중)</HeatedSunLamp_Frame.label>
+  <HeatedSunLamp_Frame.description>작물을 재배할 수 있을 정도로 밝게 빛납니다. 또한 내부를 따뜻하게 유지하는 난로 역할도 합니다.</HeatedSunLamp_Frame.description>
+
+  <HeatedSmallSunLamp.label>중형 열선 태양등</HeatedSmallSunLamp.label>
+  <HeatedSmallSunLamp.description>작물을 재배할 수 있을 정도로 밝게 빛납니다. 또한 중간 크기의 난로 역할도 합니다.</HeatedSmallSunLamp.description>
+  <HeatedSmallSunLamp_Blueprint.label>중형 열선 태양등 (청사진)</HeatedSmallSunLamp_Blueprint.label>
+  <HeatedSmallSunLamp_Blueprint_Install.label>중형 열선 태양등 (청사진)</HeatedSmallSunLamp_Blueprint_Install.label>
+  <HeatedSmallSunLamp_Frame.label>중형 열선 태양등 (건설 중)</HeatedSmallSunLamp_Frame.label>
+  <HeatedSmallSunLamp_Frame.description>작물을 재배할 수 있을 정도로 밝게 빛납니다. 또한 중간 크기의 난로 역할도 합니다.</HeatedSmallSunLamp_Frame.description>
+
+  <HeatedMiniSunLamp.label>소형 열선 태양등</HeatedMiniSunLamp.label>
+  <HeatedMiniSunLamp.description>작물을 재배할 수 있을 정도로 밝게 빛납니다.</HeatedMiniSunLamp.description>
+  <HeatedMiniSunLamp_Blueprint.label>소형 열선 태양등 (청사진)</HeatedMiniSunLamp_Blueprint.label>
+  <HeatedMiniSunLamp_Blueprint_Install.label>소형 열선 태양등 (청사진)</HeatedMiniSunLamp_Blueprint_Install.label>
+  <HeatedMiniSunLamp_Frame.label>소형 열선 태양등 (건설 중)</HeatedMiniSunLamp_Frame.label>
+  <HeatedMiniSunLamp_Frame.description>작물을 재배할 수 있을 정도로 밝게 빛납니다.</HeatedMiniSunLamp_Frame.description>
+
+</LanguageData>

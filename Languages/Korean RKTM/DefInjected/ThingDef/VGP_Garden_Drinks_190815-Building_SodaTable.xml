@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CPD_DrinksTable.label>탄산주 작업대</CPD_DrinksTable.label>
+  <CPD_DrinksTable.description>다양한 음료를 양조하고 준비하기 위한 작업대 입니다. 전력이 없어도 일반 속도의 70%로 작동이 됩니다.</CPD_DrinksTable.description>
+  <CPD_DrinksTable_Blueprint.label>탄산주 작업대 (청사진)</CPD_DrinksTable_Blueprint.label>
+  <CPD_DrinksTable_Blueprint_Install.label>탄산주 작업대 (청사진)</CPD_DrinksTable_Blueprint_Install.label>
+  <CPD_DrinksTable_Frame.label>탄산주 작업대 (건설 중)</CPD_DrinksTable_Frame.label>
+  <CPD_DrinksTable_Frame.description>다양한 음료를 양조하고 준비하기 위한 작업대 입니다. 전력이 없어도 일반 속도의 70%로 작동이 됩니다.</CPD_DrinksTable_Frame.description>
+
+</LanguageData>

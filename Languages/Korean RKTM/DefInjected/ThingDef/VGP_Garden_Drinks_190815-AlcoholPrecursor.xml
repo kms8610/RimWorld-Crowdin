@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CPD_CornWort.label>옥수수 맥아즙</CPD_CornWort.label>
+  <CPD_CornWort.description>옥수수로 만든 맥아즙. 위스키로 마시기 전에 양조통에서 발효 발효해야 합니다.</CPD_CornWort.description>
+
+  <CPD_RiceMash.label>쌀 당화액</CPD_RiceMash.label>
+  <CPD_RiceMash.description>밀가루에 적신 쌀. 사케로 마시기 전에 양조통에서 발효 발효해야 합니다.</CPD_RiceMash.description>
+
+  <CPD_VodkaPrecursor.label>증류되지 않은 보드카</CPD_VodkaPrecursor.label>
+  <CPD_VodkaPrecursor.description>발효된 보드카. 보드카로 마시기 전에 양조통에서 증류해야 합니다.</CPD_VodkaPrecursor.description>
+
+  <CPD_WineMust.label>딸기와인 발효액</CPD_WineMust.label>
+  <CPD_WineMust.description>딸기를 짜낸 주스. 딸기 와인으로 마시기 전에 양조통에서 발효해야 합니다.</CPD_WineMust.description>
+
+  <VG_CiderMust.label>사과주 발효액</VG_CiderMust.label>
+  <VG_CiderMust.description>사과를 짜낸 주스. 사과주로 마시기 전에 양조통에서 발효해야 합니다.</VG_CiderMust.description>
+
+  <VG_CaneMash.label>럼주 발효액</VG_CaneMash.label>
+  <VG_CaneMash.description>가공하고 적셔서 사탕수수로 만듦. 럼주로 마시기 전에 양조통에서 발효해야 합니다.</VG_CaneMash.description>
+
+  <VG_GrapeMust.label>와인 발효액</VG_GrapeMust.label>
+  <VG_GrapeMust.description>과일을 짜낸 주스. 포도주로 마시기 전에 양조통에서 발효해야 합니다.</VG_GrapeMust.description>
+
+  <VG_AmbrosiaMust.label>암브로시아 발효액</VG_AmbrosiaMust.label>
+  <VG_AmbrosiaMust.description>과일을 짜낸 주스. 암브로시아로 마시기 전에 양조통에서 발효해야 합니다.</VG_AmbrosiaMust.description>
+
+  <VG_AgaveMust.label>데킬라 발효액</VG_AgaveMust.label>
+  <VG_AgaveMust.description>용설란을 짜낸 주스. 데킬라로 마시기 전에 양조통에서 발효해야 합니다.</VG_AgaveMust.description>
+
+  <VG_FruitMash.label>과일 당화액</VG_FruitMash.label>
+  <VG_FruitMash.description>눌러 짜낸 과일 주스. 과색주로 마시기 전에 양조통에서 발효해야 합니다.</VG_FruitMash.description>
+
+  <VG_BrownMalt.label>브라운 맥아즙</VG_BrownMalt.label>
+  <VG_BrownMalt.description>보리를 맥아즙으로 에일을 만듭니다. 브라운 에일로 마시기 전에 양조통에서 발효해야 합니다.</VG_BrownMalt.description>
+
+  <VG_KvassSodaWort.label>탄산 크바스 맥아즙</VG_KvassSodaWort.label>
+  <VG_KvassSodaWort.description>보리와 당밀로 탄산 크바스를 만듭니다. 탄산 크바스로 마시기 전에 양조통에서 발효해야 합니다.</VG_KvassSodaWort.description>
+
+  <VG_FruitKvassWort.label>과일 크바스 맥아즙</VG_FruitKvassWort.label>
+  <VG_FruitKvassWort.description>과일과 당밀로 과일 크바스를 만듭니다. 과일 크바스로 마시기 전에 양조통에서 발효해야 합니다.</VG_FruitKvassWort.description>
+
+  <VG_VegKvassWort.label>크바스 맥아즙</VG_VegKvassWort.label>
+  <VG_VegKvassWort.description>사탕무와 당밀로 사탕무 크바스를 만듭니다. 사탕무 크바스로 마시기 전에 양조통에서 발효해야 합니다.</VG_VegKvassWort.description>
+
+</LanguageData>

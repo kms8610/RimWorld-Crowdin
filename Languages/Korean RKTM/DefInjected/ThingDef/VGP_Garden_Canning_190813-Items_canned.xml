@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MealCannedFood.label>통조림</MealCannedFood.label>
+  <MealCannedFood.description>부패를 방지하기 위해 통조림에 밀봉하였습니다.</MealCannedFood.description>
+
+  <CannedVeg.label>야채 통조림</CannedVeg.label>
+  <CannedVeg.description>부패를 방지하기 위해 야채를 조리하고 통조림에 밀봉하였습니다.</CannedVeg.description>
+
+  <CannedMeat.label>고기 통조림</CannedMeat.label>
+  <CannedMeat.description>부패를 방지하기 위해 고기를 조리하고 통조림에 밀봉하였습니다.</CannedMeat.description>
+
+  <CannedFruit.label>과일 통조림</CannedFruit.label>
+  <CannedFruit.description>부패를 방지하기 위해 과일을 조리하고 통조림에 밀봉하였습니다.</CannedFruit.description>
+
+</LanguageData>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WildAppletree.label>야생 사과 나무</WildAppletree.label>
+  <WildAppletree.description>사과 열매를 수확할 때 나무가 사라지지 않습니다.</WildAppletree.description>
+
+  <WildBananaTree.label>야생 바나나 나무</WildBananaTree.label>
+  <WildBananaTree.description>바나나 열매를 수확할 때 나무가 사라지지 않습니다.</WildBananaTree.description>
+
+  <WildorangeTree.label>야생 오렌지 나무</WildorangeTree.label>
+  <WildorangeTree.description>오렌지 열매를 수확할 때 나무가 사라지지 않습니다.</WildorangeTree.description>
+
+  <WildPeachTree.label>야생 복숭아</WildPeachTree.label>
+  <WildPeachTree.description>복숭아 열매를 수확할 때 나무가 사라지지 않습니다.</WildPeachTree.description>
+
+  <WildDateTree.label>야생 대추야자 나무</WildDateTree.label>
+  <WildDateTree.description>대추야자 열매를 수확할 때 나무가 사라지지 않습니다.</WildDateTree.description>
+
+  <WildFigTree.label>야생 무화과 나무</WildFigTree.label>
+  <WildFigTree.description>무화과 열매를 수확할 때 나무가 사라지지 않습니다.</WildFigTree.description>
+
+  <WildCoconuttree.label>야생 코코넛 나무</WildCoconuttree.label>
+  <WildCoconuttree.description>코코넛 열매를 수확할 때 나무가 사라지지 않습니다.</WildCoconuttree.description>
+
+  <WildPlantCherrytree.label>야생 체리 나무</WildPlantCherrytree.label>
+  <WildPlantCherrytree.description>체리 열매를 수확할 때 나무가 사라지지 않습니다.</WildPlantCherrytree.description>
+
+  <WildPlantpineapple.label>야생 파인애플</WildPlantpineapple.label>
+  <WildPlantpineapple.description>과일 껍질을 벗기는 상상을 해보세요.</WildPlantpineapple.description>
+
+  <WildPlantcloudberry.label>야생 클라우드베리</WildPlantcloudberry.label>
+  <WildPlantcloudberry.description>추운 기후에서도 잘 자랍니다.</WildPlantcloudberry.description>
+
+  <WildPlantgooseberry.label>야생 구스베리</WildPlantgooseberry.label>
+  <WildPlantgooseberry.description>추운 기후에서도 잘 자랍니다.</WildPlantgooseberry.description>
+
+  <Plantmushroom.label>야생 버섯</Plantmushroom.label>
+  <Plantmushroom.description>야생에서 발견되어 육류를 대체하기 위해 유전자가 조작되어 수경재배를 할 수 있는 단단한 버섯입니다.</Plantmushroom.description>
+
+</LanguageData>

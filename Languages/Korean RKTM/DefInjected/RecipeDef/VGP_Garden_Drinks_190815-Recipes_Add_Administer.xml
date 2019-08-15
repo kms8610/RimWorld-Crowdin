@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Administer_cider.label>신지 사과주 투여</Administer_cider.label>
+  <Administer_cider.jobString>신지 사과주 투여하는 중.</Administer_cider.jobString>
+
+  <Administer_rum.label>라인슈타인 럼주 투여</Administer_rum.label>
+  <Administer_rum.jobString>라인슈타인 럼주 투여하는 중.</Administer_rum.jobString>
+
+  <Administer_Wine.label>램지 와인 투여</Administer_Wine.label>
+  <Administer_Wine.jobString>램지 와인 투여하는 중.</Administer_Wine.jobString>
+
+  <Administer_strawberrywine.label>스푼 딸기와인 투여</Administer_strawberrywine.label>
+  <Administer_strawberrywine.jobString>스푼 딸기주 투여하는 중.</Administer_strawberrywine.jobString>
+
+  <Administer_saki.label>위즈 사케 투여</Administer_saki.label>
+  <Administer_saki.jobString>위즈 사케 투여하는 중.</Administer_saki.jobString>
+
+  <Administer_vodka.label>신트리아 보드카 투여</Administer_vodka.label>
+  <Administer_vodka.jobString>신트리아 보드카 투여하는 중.</Administer_vodka.jobString>
+
+  <Administer_tequila.label>키티 데킬라 투여</Administer_tequila.label>
+  <Administer_tequila.jobString>키티 데킬라 투여하는 중.</Administer_tequila.jobString>
+
+  <Administer_whisky.label>퀼 18 위스키 투여</Administer_whisky.label>
+  <Administer_whisky.jobString>퀼 18 위스키 투여하는 중.</Administer_whisky.jobString>
+
+  <Administer_BrownAle.label>브라운 에일 투여</Administer_BrownAle.label>
+  <Administer_BrownAle.jobString>브라운 에일 투여하는 중.</Administer_BrownAle.jobString>
+
+  <Administer_Fruitshine.label>과색주 투여</Administer_Fruitshine.label>
+  <Administer_Fruitshine.jobString>과색주 투여하는 중.</Administer_Fruitshine.jobString>
+
+  <Administer_VG_AmbrosiaWine.label>암브로시아 와인 투여</Administer_VG_AmbrosiaWine.label>
+  <Administer_VG_AmbrosiaWine.jobString>암브로시아 와인 투여하는 중.</Administer_VG_AmbrosiaWine.jobString>
+
+</LanguageData>

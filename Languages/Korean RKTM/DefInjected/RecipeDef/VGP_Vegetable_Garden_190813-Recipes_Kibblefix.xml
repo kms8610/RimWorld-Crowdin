@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakeKibble.label>사료 만들기</MakeKibble.label>
+  <MakeKibble.description>생고기와 채소를 섞어 사료를 만듭니다.\n\n고기 1개와 야채나 과일 또는 건초 1개가 필요합니다.\n\n사료 50개를 만듭니다.</MakeKibble.description>
+  <MakeKibble.jobString>사료 만드는 중.</MakeKibble.jobString>
+
+</LanguageData>

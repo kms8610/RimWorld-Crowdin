@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HedStew.label>스튜 섭취함</HedStew.label>
+  <HedStew.stages.0.label>영양식</HedStew.stages.0.label>
+
+  <HedStirfry.label>볶음요리 섭취함</HedStirfry.label>
+  <HedStirfry.stages.0.label>영양식</HedStirfry.stages.0.label>
+
+</LanguageData>

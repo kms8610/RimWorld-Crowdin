@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CPD_CoffeeBeans.label>커피 원두</CPD_CoffeeBeans.label>
+  <CPD_CoffeeBeans.description>마실 음료를 준비하기엔 커피만큼 좋은게 없습니다.</CPD_CoffeeBeans.description>
+
+  <Rawtea.label>찻잎</Rawtea.label>
+  <Rawtea.description>잎을 물에 달여내서 마시면 심신의 안정을 느끼게 될 것입니다.</Rawtea.description>
+
+  <Silage.label>사일리지</Silage.label>
+  <Silage.description>건초와 곡식을 섞어 영양분이 풍부한 가축용 사료입니다. 사일로에 진공 저장하여 유산균을 발효시켜 만듭니다.</Silage.description>
+
+  <VG_Biofuel.label>생물 연료</VG_Biofuel.label>
+  <VG_Biofuel.description>다양한 유형의 식물을 정제하여 제조된 연료입니다. 그리고 발전기와 작업대에 연료를 공급하는 데 사용됩니다.</VG_Biofuel.description>
+
+</LanguageData>

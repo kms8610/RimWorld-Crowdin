@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Rawsnowbeet.label>사탕무</Rawsnowbeet.label>
+  <Rawsnowbeet.description>사탕무 입니다.</Rawsnowbeet.description>
+
+  <RawBarley.label>보리</RawBarley.label>
+  <RawBarley.description>가축에게 먹이거나, 요리나 맥주 제조에도 사용되는 곡물입니다.</RawBarley.description>
+
+  <Rawbean.label>콩</Rawbean.label>
+  <Rawbean.description>많은 요리에 쓰입니다.</Rawbean.description>
+
+  <RawOlive.label>올리브</RawOlive.label>
+  <RawOlive.description>나무에서 자라는 작은 열매입니다.</RawOlive.description>
+
+  <Rawmushroom.label>버섯</Rawmushroom.label>
+  <Rawmushroom.description>단백질이 풍부한 버섯입니다. 그대로 먹어도 맛있습니다.</Rawmushroom.description>
+
+  <RawCactusFruit.label>선인장 과일</RawCactusFruit.label>
+  <RawCactusFruit.description>선인장 과일입니다.</RawCactusFruit.description>
+
+</LanguageData>
