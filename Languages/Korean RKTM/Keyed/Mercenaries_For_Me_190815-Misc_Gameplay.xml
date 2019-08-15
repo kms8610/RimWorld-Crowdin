@@ -209,6 +209,7 @@
 
   <MFM_SettingsResetBlacklistedTraits>특성 블랙리스트 초기화</MFM_SettingsResetBlacklistedTraits>
   <MFM_SettingsResetBlacklistedPawnKind>pawnKinds 블랙리스트 초기화</MFM_SettingsResetBlacklistedPawnKind>
+  <MFM_SettingsResetHediffToKeepOnMercGen>hediff defName 재설정 유지</MFM_SettingsResetHediffToKeepOnMercGen>
 
   <MFM_SettingsSectionGeneral>일반적</MFM_SettingsSectionGeneral>
   <MFM_SettingsSectionNbMercenaries>레벨에 의한 용병 능력</MFM_SettingsSectionNbMercenaries>
@@ -217,6 +218,7 @@
   <MFM_SettingsSectionBlacklistedTraits>블랙리스트 용병 특성 (defNAME)</MFM_SettingsSectionBlacklistedTraits>
   <MFM_SettingsSectionIncidents>사건</MFM_SettingsSectionIncidents>
   <MFM_SettingsSectionBlacklistedPawnKind>PawnKindDef(은)는 용병 생성을 허용하지 않음</MFM_SettingsSectionBlacklistedPawnKind>
+  <MFM_SettingsSectionHediffToKeepOnMercGen>Hediff (defName)을 통해 용병 생성 유지</MFM_SettingsSectionHediffToKeepOnMercGen>
 
   <MFM_SettingsDisableNotifWhenDisusedMercDie>사용하지 않는 용병이 사망했을 때 알림 비활성</MFM_SettingsDisableNotifWhenDisusedMercDie>
   <MFM_SettingsPercentDisusedMercCanDiePerQuad>분기 시작 시 마다 사용할 수 없는 용병의 백분율 ({0}%)</MFM_SettingsPercentDisusedMercCanDiePerQuad>
