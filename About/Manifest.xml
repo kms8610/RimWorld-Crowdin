@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest>
 
-  <version>19.08.15</version>
+  <identifier>RKTM</identifier>
+  <version>19.08.16</version>
+  <manifestUri>https://raw.githubusercontent.com/kms8610/RimWorld-Korean_Translation_MOD/blob/master/About/Manifest.xml</manifestUri>
 
 </Manifest>
