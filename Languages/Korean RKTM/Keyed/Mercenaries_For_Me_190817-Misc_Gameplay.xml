@@ -288,5 +288,7 @@
   <MFM_SettingsRiskRemovedCyborgPartExplode>USFM의 재산물인 생체공학 부품을 제거하게 되면 폭발할 위험이 있음 ({0}%)</MFM_SettingsRiskRemovedCyborgPartExplode>
   <MFM_SettingsMinAge>용병 최소 나이 ({0})</MFM_SettingsMinAge>
   <MFM_SettingsMaxAge>용병 최대 나이 ({0})</MFM_SettingsMaxAge>
+  <MFM_SettingsMinXPGainPerDayRentedMerc>파견된 용병들의 하루 당 최소 XP 획득량</MFM_SettingsMinXPGainPerDayRentedMerc>
+  <MFM_SettingsMaxXPGainPerDayRentedMerc>파견된 용병들의 하루 당 최대 XP 획득량</MFM_SettingsMaxXPGainPerDayRentedMerc>
 
 </LanguageData>
