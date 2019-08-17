@@ -1,6 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <MFM_GuardMode>경비 태세</MFM_GuardMode>
+  <MFM_GuardModeDesc>경비지점에서 자동으로 할당받을 수 있도록 허용합니다.</MFM_GuardModeDesc>
+
+  <MFM_GuardSpotAffectedPawn>영향받는 경비 : {0}</MFM_GuardSpotAffectedPawn>
+  <MFM_GuardSpotClearAffectedPawn>보호 취소</MFM_GuardSpotClearAffectedPawn>
+  <MFM_GuardSpotAffectGuard>강제 경비</MFM_GuardSpotAffectGuard>
+  <MFM_GuardSpotAffectGuardDesc>경비 지점에 경비원을 배치합니다.</MFM_GuardSpotAffectGuardDesc>
+
   <MFM_Fired>해고!</MFM_Fired>
   <MFM_FiredDesc>분기가 지나기 전에 이 용병의 계약을 끝낼 수 있지만 주의하세요! 이 경우 USFM의 계약을 지키기 않았기 때문에 이 용병에 대한 보증은 유지됩니다.</MFM_FiredDesc>
 
@@ -108,11 +116,12 @@
   <MFM_LetterMercPartRemovingExplosionDesc>(모든 용병들의 몸 속에는 내장된 칩이 있습니다) USFM의 자율 원격 감시 시스템(A.R.S.S)이 장기 중 하나를 훔치려는 시도를 감지하고 이식된 칩에 의해 자체 폭발되었습니다.</MFM_LetterMercPartRemovingExplosionDesc>
 
   <!-- Messages -->
-  <MFM_MsgPawnCannotBeRentedAsMerc>{0}(은)는 이 직업과 양립 할 수없는 특성을 가지고 있기 때문에 전투가 불가능하여 용병으로 파견 할 수 없습니다 (방화광, 나체주의자)</MFM_MsgPawnCannotBeRentedAsMerc>
+  <MFM_MsgPawnCannotBeRentedAsMerc>{0}(은)는 이 직업과 양립 할 수없는 특성을 가지고 있기 때문에 전투가 불가능하여 용병으로 파견 할 수 없습니다. (방화광, 나체주의자)</MFM_MsgPawnCannotBeRentedAsMerc>
   <MFM_MsgPawnBeRentedAsMercInvalidType>{0}(은)는 결격사항 때문에 이 작업을 수행할 수 없습니다!</MFM_MsgPawnBeRentedAsMercInvalidType>
   <MFM_MsgCannotBeRentedAsMercBecauseFired>악행으로 인해 {0}(이)가 USFM에서 해고당했습니다. {1} 지난 후에 다시 허용됩니다.</MFM_MsgCannotBeRentedAsMercBecauseFired>
   <MFM_MsgNotEnoughtSilverPowerBeam>궤도 빔 폭격을 위한 돈이 충분하지 않기 때문에 작동이 취소됐습니다.</MFM_MsgNotEnoughtSilverPowerBeam>
   <MFM_MsgCannotBannishMercenary>용병을 금지할 수 없음</MFM_MsgCannotBannishMercenary>
+  <MFM_MsgCannotDropWeaponDuringCounterOffer>{0}(은)는 무장/장비를 떨구거나 장착하길 원하지 않습니다. (수정 제안 사건 진행 중)</MFM_MsgCannotDropWeaponDuringCounterOffer>
 
   <!-- jobs -->
   <MFM_Artist>예술가</MFM_Artist>
