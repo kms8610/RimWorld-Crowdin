@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GoldenEye.label>황금 의안</GoldenEye.label>
+  <GoldenEye.description>잃어버린 눈을 대체합니다. 믿기 힘들정도로 아름답지만 거울에 비친 자신의 모습을 볼 수 없다는게 안타깝습니다.</GoldenEye.description>
+
+  <ArtificialNose.label>인공 코</ArtificialNose.label>
+  <ArtificialNose.description>코를 대체합니다. 얼굴에 뚫린 구멍을 가립니다.</ArtificialNose.description>
+
+  <HydraulicJaw.label>유압식 턱</HydraulicJaw.label>
+  <HydraulicJaw.description>턱을 대체합니다. 엄청나게 효과적인 치아를 조심하세요!</HydraulicJaw.description>
+
+  <LightReceptor.label>인공 각막</LightReceptor.label>
+  <LightReceptor.description>잃어버린 눈을 대체합니다. 빛과 심지어 사물도 구분할 수 있습니다. 불투명하게 보이지만요.</LightReceptor.description>
+
+  <SimpleProstheticHand.label>간단한 의수 (손)</SimpleProstheticHand.label>
+  <SimpleProstheticHand.description>손을 대체합니다. 갈고리 손보다 훨씬 편안하고 덜 무섭습니다.</SimpleProstheticHand.description>
+
+  <SimpleProstheticFoot.label>간단한 의족 (발)</SimpleProstheticFoot.label>
+  <SimpleProstheticFoot.description>발을 대체합니다. 통나무보다 비쌉니다.</SimpleProstheticFoot.description>
+
+  <ArtificialPelvis.label>인공 골반</ArtificialPelvis.label>
+  <ArtificialPelvis.description>골반을 대체합니다. 기어다니는걸 좋아하지 않는다면 꽤 유용합니다.</ArtificialPelvis.description>
+
+  <ArtificialClavicle.label>인공 쇄골</ArtificialClavicle.label>
+  <ArtificialClavicle.description>잃어버린 쇄골을 대체합니다. 어떻게 스스로 팔을 들어 올릴 수만 있다면요.</ArtificialClavicle.description>
+
+</LanguageData>

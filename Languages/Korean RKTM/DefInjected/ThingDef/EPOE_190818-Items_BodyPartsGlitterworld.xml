@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MuscleStimulator.label>근육 자극기</MuscleStimulator.label>
+  <MuscleStimulator.description>이 작은 칩은 특수 화학물질과 전기충격을 이용해 근육을 자극하여 최대 성능을 뽐낼 수 있습니다.</MuscleStimulator.description>
+
+  <TacticalCorneaImplant.label>전술 각막</TacticalCorneaImplant.label>
+  <TacticalCorneaImplant.description>사용자에게 잠재적인 목표와 완벽한 사격 각도를 추천하는 추가적인 정보를 제공 합니다.</TacticalCorneaImplant.description>
+
+  <ConstructorCore.label>건설 보조 인공지능</ConstructorCore.label>
+  <ConstructorCore.description>두뇌에 삽입된 인공지능이 사용자에게 지속적인 소통을 하며 안내역할을 해줌으로써 번화계에서는 교육과 훈련, 심지어 복잡한 직업조차 더 이상 필요가 없습니다. 설치하기 전에 뇌 수술 연구가 필요합니다.</ConstructorCore.description>
+
+  <FarmerCore.label>재배 보조 인공지능</FarmerCore.label>
+  <FarmerCore.description>두뇌에 삽입된 인공지능이 사용자에게 지속적인 소통을 하며 안내역할을 해줌으로써 번화계에서는 교육과 훈련, 심지어 복잡한 직업조차 더 이상 필요가 없습니다. 설치하기 전에 뇌 수술 연구가 필요합니다.</FarmerCore.description>
+
+  <MinerCore.label>채굴 보조 인공지능</MinerCore.label>
+  <MinerCore.description>두뇌에 삽입된 인공지능이 사용자에게 지속적인 소통을 하며 안내역할을 해줌으로써 번화계에서는 교육과 훈련, 심지어 복잡한 직업조차 더 이상 필요가 없습니다. 설치하기 전에 뇌 수술 연구가 필요합니다.</MinerCore.description>
+
+  <DoctorCore.label>의학 보조 인공지능</DoctorCore.label>
+  <DoctorCore.description>두뇌에 삽입된 인공지능이 사용자에게 지속적인 소통을 하며 안내역할을 해줌으로써 번화계에서는 교육과 훈련, 심지어 복잡한 직업조차 더 이상 필요가 없습니다. 설치하기 전에 뇌 수술 연구가 필요합니다.</DoctorCore.description>
+
+  <DiplomatCore.label>사교 보조 인공지능</DiplomatCore.label>
+  <DiplomatCore.description>두뇌에 삽입된 인공지능이 사용자에게 지속적인 소통을 하며 안내역할을 해줌으로써 번화계에서는 교육과 훈련, 심지어 복잡한 직업조차 더 이상 필요가 없습니다. 설치하기 전에 뇌 수술 연구가 필요합니다.</DiplomatCore.description>
+
+</LanguageData>

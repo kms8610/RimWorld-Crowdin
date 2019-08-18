@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <InstallGoldenEye.label>황금 의안 수술</InstallGoldenEye.label>
+  <InstallGoldenEye.description>황금 의안으로 수술합니다.</InstallGoldenEye.description>
+  <InstallGoldenEye.jobString>황금 의안 수술 중.</InstallGoldenEye.jobString>
+
+  <InstallLightReceptor.label>인공 안막 수술</InstallLightReceptor.label>
+  <InstallLightReceptor.description>인공 안막으로 수술합니다.</InstallLightReceptor.description>
+  <InstallLightReceptor.jobString>인공 안막 수술 중.</InstallLightReceptor.jobString>
+
+  <InstallSimpleProstheticHand.label>간단한 의수 설치</InstallSimpleProstheticHand.label>
+  <InstallSimpleProstheticHand.description>간단한 의수를 설치합니다.</InstallSimpleProstheticHand.description>
+  <InstallSimpleProstheticHand.jobString>간단한 의수 설치 중.</InstallSimpleProstheticHand.jobString>
+
+  <InstallSimpleProstheticFoot.label>간단한 의족 설치</InstallSimpleProstheticFoot.label>
+  <InstallSimpleProstheticFoot.description>간단한 의족을 설치합니다.</InstallSimpleProstheticFoot.description>
+  <InstallSimpleProstheticFoot.jobString>간단한 의족 설치 중.</InstallSimpleProstheticFoot.jobString>
+
+  <InstallArtificialNose.label>인공 코 설치</InstallArtificialNose.label>
+  <InstallArtificialNose.description>인공 코를 설치합니다.</InstallArtificialNose.description>
+  <InstallArtificialNose.jobString>인공 코 설치 중.</InstallArtificialNose.jobString>
+
+  <InstallHydraulicJaw.label>유압식 턱 설치</InstallHydraulicJaw.label>
+  <InstallHydraulicJaw.description>유압식 턱을 설치합니다.</InstallHydraulicJaw.description>
+  <InstallHydraulicJaw.jobString>유압식 턱 설치 중.</InstallHydraulicJaw.jobString>
+
+  <InstallArtificialPelvis.label>인공 골반 설치</InstallArtificialPelvis.label>
+  <InstallArtificialPelvis.description>인공 골반을 설치합니다.</InstallArtificialPelvis.description>
+  <InstallArtificialPelvis.jobString>인공 골반 설치 중.</InstallArtificialPelvis.jobString>
+
+  <InstallArtificialClavicle.label>인공 쇄골 설치</InstallArtificialClavicle.label>
+  <InstallArtificialClavicle.description>인공 쇄골을 설치합니다.</InstallArtificialClavicle.description>
+  <InstallArtificialClavicle.jobString>인공 쇄골 설치 중.</InstallArtificialClavicle.jobString>
+
+</LanguageData>
