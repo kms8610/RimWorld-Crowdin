@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Caramel.label>카라멜</Caramel.label>
+  <Caramel.description>설탕으로 만든 간단한 간식입니다.</Caramel.description>
+
+  <Hardcandy.label>알사탕</Hardcandy.label>
+  <Hardcandy.description>설탕으로 만든 알사탕입니다.</Hardcandy.description>
+
+  <Taffy.label>엿</Taffy.label>
+  <Taffy.description>설탕을 녹여 만든 엿 입니다.</Taffy.description>
+
+  <Chocomilk.label>초콜릿 우유</Chocomilk.label>
+  <Chocomilk.description>초콜릿을 첨가한 우유입니다.</Chocomilk.description>
+
+</LanguageData>

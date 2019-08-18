@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GrillKabob.label>산적 만들기 (x2)</GrillKabob.label>
+  <GrillKabob.description>고기와 채소를 꼬챙이에 끼워 완벽하게 구운 요리입니다.</GrillKabob.description>
+  <GrillKabob.jobString>산적 굽는 중.</GrillKabob.jobString>
+
+  <Grillsteak.label>스테이크 만들기 (x2)</Grillsteak.label>
+  <Grillsteak.description>불판 위에 고기를 구워 냈습니다.</Grillsteak.description>
+  <Grillsteak.jobString>스테이크 굽는 중.</Grillsteak.jobString>
+
+  <GrillVegetables.label>야채 만들기 (x2)</GrillVegetables.label>
+  <GrillVegetables.description>불판위에 야채를 구워 냈습니다.</GrillVegetables.description>
+  <GrillVegetables.jobString>야채 굽는 중.</GrillVegetables.jobString>
+
+</LanguageData>
