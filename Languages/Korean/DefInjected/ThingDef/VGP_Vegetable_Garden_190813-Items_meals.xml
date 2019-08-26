@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Cuptea.label>차</Cuptea.label>
+  <Cuptea.description>찻잎을 우려낸 향긋한 차입니다.</Cuptea.description>
+  <Cuptea.ingestible.ingestCommandString>{0} 마시기</Cuptea.ingestible.ingestCommandString>
+  <Cuptea.ingestible.ingestReportString>{0} 마시는 중.</Cuptea.ingestible.ingestReportString>
+
+  <Coffee.label>커피</Coffee.label>
+  <Coffee.description>한 잔의 커피입니다.</Coffee.description>
+  <Coffee.ingestible.ingestCommandString>{0} 마시기</Coffee.ingestible.ingestCommandString>
+  <Coffee.ingestible.ingestReportString>{0} 마시는 중.</Coffee.ingestible.ingestReportString>
+
+  <Fruitdrink.label>과일 주스</Fruitdrink.label>
+  <Fruitdrink.description>과일의 즙을 짜내어 만들었습니다.</Fruitdrink.description>
+  <Fruitdrink.ingestible.ingestCommandString>{0} 마시기</Fruitdrink.ingestible.ingestCommandString>
+  <Fruitdrink.ingestible.ingestReportString>{0} 마시는 중.</Fruitdrink.ingestible.ingestReportString>
+
+  <bowlstew.label>스튜</bowlstew.label>
+  <bowlstew.description>스튜를 그릇에 나눠 담았습니다.\n\n음식 효과: 의식, 신진대사, 혈액여과, 혈액순환.</bowlstew.description>
+
+  <stirfry.label>볶음 요리</stirfry.label>
+  <stirfry.description>기름을 두른 뜨거운 온도에서 볶아내는 요리입니다.\n\n음식 효과: 조작, 혈액여과.</stirfry.description>
+
+</LanguageData>

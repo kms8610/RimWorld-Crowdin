@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AttendedFuneral.stages.attended_a_funeral.label>장례식에 참석함</AttendedFuneral.stages.attended_a_funeral.label>
+  <AttendedFuneral.stages.attended_a_funeral.description>정착민의 장례식에 참석했어. 기분이 좀 나아진것 같애.</AttendedFuneral.stages.attended_a_funeral.description>
+
+  <WitnessedDeathAllyBleedingHeart.stages.witnessed_allys_death.label>동료의 죽음을 목격함</WitnessedDeathAllyBleedingHeart.stages.witnessed_allys_death.label>
+  <WitnessedDeathAllyBleedingHeart.stages.witnessed_allys_death.description>동료가 죽었어. 이렇게 죽다니 믿을 수가 없어. 다신 웃으며 대화를 나눌 수 없다니 너무 슬퍼.</WitnessedDeathAllyBleedingHeart.stages.witnessed_allys_death.description>
+
+  <WitnessedDeathNonAllyBleedingHeart.stages.witnessed_outsiders_death.label>외부인의 죽음을 목격함</WitnessedDeathNonAllyBleedingHeart.stages.witnessed_outsiders_death.label>
+  <WitnessedDeathNonAllyBleedingHeart.stages.witnessed_outsiders_death.description>누군가 죽는 걸 봤어. 눈동자에 불이 켜져있었는데, 마치 촛불이 꺼지는 것처럼 사라지더군.</WitnessedDeathNonAllyBleedingHeart.stages.witnessed_outsiders_death.description>
+
+  <KnowGuestExecutedBleedingHeart.stages.justified_execution.label>정당한 처형</KnowGuestExecutedBleedingHeart.stages.justified_execution.label>
+  <KnowGuestExecutedBleedingHeart.stages.justified_execution.description>죄를 지은 사람이 처형당했어. 정당한 일이라고해도 생명을 잃는다는건 슬픈 일이야.</KnowGuestExecutedBleedingHeart.stages.justified_execution.description>
+  <KnowGuestExecutedBleedingHeart.stages.someone_was_euthanized.label>안락사</KnowGuestExecutedBleedingHeart.stages.someone_was_euthanized.label>
+  <KnowGuestExecutedBleedingHeart.stages.someone_was_euthanized.description>누군가 안락사되었어. 인도적이긴 하지만 여전히 가슴이 아파.</KnowGuestExecutedBleedingHeart.stages.someone_was_euthanized.description>
+  <KnowGuestExecutedBleedingHeart.stages.someone_was_executed.label>처형</KnowGuestExecutedBleedingHeart.stages.someone_was_executed.label>
+  <KnowGuestExecutedBleedingHeart.stages.someone_was_executed.description>누군가 냉혹하게 처형을 당했어. 내 눈으로 보고도 믿을수가 없군!</KnowGuestExecutedBleedingHeart.stages.someone_was_executed.description>
+  <KnowGuestExecutedBleedingHeart.stages.someone_killed_by_organ_harvest.label>장기 적출로 사망</KnowGuestExecutedBleedingHeart.stages.someone_killed_by_organ_harvest.label>
+  <KnowGuestExecutedBleedingHeart.stages.someone_killed_by_organ_harvest.description>누군가의 장기를 적출하려다 죽어버렸어. 아직도 생생한게 너무 끔찍해!</KnowGuestExecutedBleedingHeart.stages.someone_killed_by_organ_harvest.description>
+
+  <KnowColonistExecutedBleedingHeart.stages.justified_execution_of_colonist.label>정당한 처형 (정착민)</KnowColonistExecutedBleedingHeart.stages.justified_execution_of_colonist.label>
+  <KnowColonistExecutedBleedingHeart.stages.justified_execution_of_colonist.description>죄를 지은 정착민이 처형당했어. 정당한 일이라고해도 생명을 잃는다는건 슬픈 일이야.</KnowColonistExecutedBleedingHeart.stages.justified_execution_of_colonist.description>
+  <KnowColonistExecutedBleedingHeart.stages.colonist_euthanized.label>안락사 (정착민)</KnowColonistExecutedBleedingHeart.stages.colonist_euthanized.label>
+  <KnowColonistExecutedBleedingHeart.stages.colonist_euthanized.description>정착민이 안락사되었어. 인도적이긴 하지만 여전히 가슴이 아파.</KnowColonistExecutedBleedingHeart.stages.colonist_euthanized.description>
+  <KnowColonistExecutedBleedingHeart.stages.colonist_executed.label>처형 (정착민)</KnowColonistExecutedBleedingHeart.stages.colonist_executed.label>
+  <KnowColonistExecutedBleedingHeart.stages.colonist_executed.description>정착민이 냉혹하게 처형을 당했어. 내 눈으로 보고도 믿을수가 없군!</KnowColonistExecutedBleedingHeart.stages.colonist_executed.description>
+  <KnowColonistExecutedBleedingHeart.stages.colonist_killed_by_organ_harvest.label>장기적출로 사망 (정착민)</KnowColonistExecutedBleedingHeart.stages.colonist_killed_by_organ_harvest.label>
+  <KnowColonistExecutedBleedingHeart.stages.colonist_killed_by_organ_harvest.description>정착민의 장기를 적출하려다 죽어버렸어. 아직도 생생한게 너무 끔찍해!</KnowColonistExecutedBleedingHeart.stages.colonist_killed_by_organ_harvest.description>
+
+  <KnowPrisonerDiedInnocentBleedingHeart.stages.innocent_prisoner_died.label>결백한 수감자 사망</KnowPrisonerDiedInnocentBleedingHeart.stages.innocent_prisoner_died.label>
+  <KnowPrisonerDiedInnocentBleedingHeart.stages.innocent_prisoner_died.description>무죄임에도 불구하고 수감자 한 명이 죽었어. 우린 저들을 챙겨줬어야 해. 그 사람이 죽길 원했다고 해도, 야만적으로 방치하지 말고 규칙에 맞는 처형을 했어야 됐다고.</KnowPrisonerDiedInnocentBleedingHeart.stages.innocent_prisoner_died.description>
+
+  <KnowColonistDiedBleedingHeart.stages.colonist_died.label>정착민 사망</KnowColonistDiedBleedingHeart.stages.colonist_died.label>
+  <KnowColonistDiedBleedingHeart.stages.colonist_died.description>동료가 죽었어. 이렇게 내버려둬선 안돼...</KnowColonistDiedBleedingHeart.stages.colonist_died.description>
+
+</LanguageData>

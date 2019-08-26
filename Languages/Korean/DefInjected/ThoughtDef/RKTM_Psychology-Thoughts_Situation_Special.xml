@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ColonistLeftUnburiedBleedingHeart.stages.colonist_left_unburied.label>정착민 시체 방치</ColonistLeftUnburiedBleedingHeart.stages.colonist_left_unburied.label>
+  <ColonistLeftUnburiedBleedingHeart.stages.colonist_left_unburied.description>죽은 동료를 밖에 그냥 내버려 두고 있어. 안돼, 생각을 멈출 수가 없어. 어떻게 죽은 동료가 그냥 썩어가게 방치할 수 있지?</ColonistLeftUnburiedBleedingHeart.stages.colonist_left_unburied.description>
+
+  <NakedPrude.stages.naked.label>벌거벗음</NakedPrude.stages.naked.label>
+  <NakedPrude.stages.naked.description>난 알몸이야. 모두가 날 쳐다본다고! 빨리!! 나에게!! 옷 좀 줘!!</NakedPrude.stages.naked.description>
+
+  <PanicAttack.stages.having_a_panic_attack.label>공황발작</PanicAttack.stages.having_a_panic_attack.label>
+  <PanicAttack.stages.having_a_panic_attack.description>좀 떨어져! 숨 좀 쉬자고!</PanicAttack.stages.having_a_panic_attack.description>
+
+</LanguageData>

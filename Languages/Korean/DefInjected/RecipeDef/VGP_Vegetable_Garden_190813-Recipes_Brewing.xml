@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Fruitdrink.label>과일주스 만들기</Fruitdrink.label>
+  <Fruitdrink.description>과일을 눌러짜서 주스를 만듭니다.</Fruitdrink.description>
+  <Fruitdrink.jobString>과일 짜내는 중.</Fruitdrink.jobString>
+
+  <BrewCoffee.label>커피 만들기 (x4)</BrewCoffee.label>
+  <BrewCoffee.description>커피를 끓입니다.</BrewCoffee.description>
+  <BrewCoffee.jobString>커피 끓이는 중.</BrewCoffee.jobString>
+
+  <BulkBrewCoffee.label>커피 만들기 (x12)</BulkBrewCoffee.label>
+  <BulkBrewCoffee.description>커피를 끓입니다.</BulkBrewCoffee.description>
+  <BulkBrewCoffee.jobString>커피 끓이는 중.</BulkBrewCoffee.jobString>
+
+  <BrewTea.label>차 만들기 (x2)</BrewTea.label>
+  <BrewTea.description>찻잎을 준비하고 찻잔에 넣어 끓입니다.</BrewTea.description>
+  <BrewTea.jobString>차 끓이는 중.</BrewTea.jobString>
+
+  <BulkBrewTea.label>차 만들기 (x10)</BulkBrewTea.label>
+  <BulkBrewTea.description>찻잎을 준비하고 찻잔에 넣어 끓입니다.</BulkBrewTea.description>
+  <BulkBrewTea.jobString>차 끓이는 중.</BulkBrewTea.jobString>
+
+</LanguageData>

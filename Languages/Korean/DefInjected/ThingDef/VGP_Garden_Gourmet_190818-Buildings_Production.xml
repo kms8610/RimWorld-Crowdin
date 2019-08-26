@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Oven.label>오븐</Oven.label>
+  <Oven.description>베이킹 요리를 할 수 있는 오븐입니다.</Oven.description>
+  <Oven_Blueprint.label>오븐 (청사진)</Oven_Blueprint.label>
+  <Oven_Blueprint_Install.label>오븐 (청사진)</Oven_Blueprint_Install.label>
+  <Oven_Frame.label>오븐 (건설 중)</Oven_Frame.label>
+  <Oven_Frame.description>베이킹 요리를 할 수 있는 오븐입니다.</Oven_Frame.description>
+
+  <ElectricOven.label>전기 오븐</ElectricOven.label>
+  <ElectricOven.description>베이킹 요리를 할 수 있는 전기 오븐입니다.</ElectricOven.description>
+  <ElectricOven_Blueprint.label>전기 오븐 (청사진)</ElectricOven_Blueprint.label>
+  <ElectricOven_Blueprint_Install.label>전기 오븐 (청사진)</ElectricOven_Blueprint_Install.label>
+  <ElectricOven_Frame.label>전기 오븐 (건설 중)</ElectricOven_Frame.label>
+  <ElectricOven_Frame.description>베이킹 요리를 할 수 있는 전기 오븐입니다.</ElectricOven_Frame.description>
+
+  <HandCanningstove.label>식료 가공대</HandCanningstove.label>
+  <HandCanningstove.description>각종 식자재를 가공 할 수 있는 조리대입니다.전동 가공대에 비해 40％감소된 작업 효율을 보입니다.</HandCanningstove.description>
+  <HandCanningstove_Blueprint.label>식료 가공대 (청사진)</HandCanningstove_Blueprint.label>
+  <HandCanningstove_Blueprint_Install.label>식료 가공대 (청사진)</HandCanningstove_Blueprint_Install.label>
+  <HandCanningstove_Frame.label>식료 가공대 (건설 중)</HandCanningstove_Frame.label>
+  <HandCanningstove_Frame.description>각종 식자재를 가공 할 수 있는 조리대입니다.전동 가공대에 비해 40％감소된 작업 효율을 보입니다.</HandCanningstove_Frame.description>
+
+  <Canningstove.label>전기 식료 가공대</Canningstove.label>
+  <Canningstove.description>전기를 사용하여 각종 식자재를 가공 할 수 있는 조리대입니다.</Canningstove.description>
+  <Canningstove_Blueprint.label>전기 식료 가공대 (청사진)</Canningstove_Blueprint.label>
+  <Canningstove_Blueprint_Install.label>전기 식료 가공대 (청사진)</Canningstove_Blueprint_Install.label>
+  <Canningstove_Frame.label>전기 식료 가공대 (건설 중)</Canningstove_Frame.label>
+  <Canningstove_Frame.description>전기를 사용하여 각종 식자재를 가공 할 수 있는 조리대입니다.</Canningstove_Frame.description>
+
+  <FueledCandyTable.label>사탕 제조대</FueledCandyTable.label>
+  <FueledCandyTable.description>맛있는 간식을 만들어 보세요.</FueledCandyTable.description>
+  <FueledCandyTable_Blueprint.label>사탕 제조대 (청사진)</FueledCandyTable_Blueprint.label>
+  <FueledCandyTable_Blueprint_Install.label>사탕 제조대 (청사진)</FueledCandyTable_Blueprint_Install.label>
+  <FueledCandyTable_Frame.label>사탕 제조대 (건설 중)</FueledCandyTable_Frame.label>
+  <FueledCandyTable_Frame.description>맛있는 간식을 만들어 보세요.</FueledCandyTable_Frame.description>
+
+  <CandyTable.label>전기 사탕 제조대</CandyTable.label>
+  <CandyTable.description>맛있는 간식을 만들어 보세요.</CandyTable.description>
+  <CandyTable_Blueprint.label>전기 사탕 제조대 (청사진)</CandyTable_Blueprint.label>
+  <CandyTable_Blueprint_Install.label>전기 사탕 제조대 (청사진)</CandyTable_Blueprint_Install.label>
+  <CandyTable_Frame.label>전기 사탕 제조대 (건설 중)</CandyTable_Frame.label>
+  <CandyTable_Frame.description>맛있는 간식을 만들어보아요.</CandyTable_Frame.description>
+
+  <CookingTools.label>조리 도구</CookingTools.label>
+  <CookingTools.description>작업 속도를 14％ 향상시킵니다. 조리기구 근처에 놓아보세요. 근처에 있는 조리기구의 작업능률을 높여줍니다.</CookingTools.description>
+  <CookingTools_Blueprint.label>조리 도구 (청사진)</CookingTools_Blueprint.label>
+  <CookingTools_Blueprint_Install.label>조리 도구 (청사진)</CookingTools_Blueprint_Install.label>
+  <CookingTools_Frame.label>조리 도구 (건설 중)</CookingTools_Frame.label>
+  <CookingTools_Frame.description>작업 속도를 14％ 향상시킵니다. 조리기구 근처에 놓아보세요. 근처에 있는 조리기구의 작업능률을 높여줍니다.</CookingTools_Frame.description>
+
+  <GrindStone.label>맷돌</GrindStone.label>
+  <GrindStone.description>작은 돌덩이지만 식재료를 갈아내는 힘은 일품입니다.</GrindStone.description>
+  <GrindStone_Blueprint.label>맷돌 (청사진)</GrindStone_Blueprint.label>
+  <GrindStone_Blueprint_Install.label>맷돌 (청사진)</GrindStone_Blueprint_Install.label>
+  <GrindStone_Frame.label>맷돌 (건설 중)</GrindStone_Frame.label>
+  <GrindStone_Frame.description>작은 돌덩이지만 식재료를 갈아내는 힘은 일품입니다.</GrindStone_Frame.description>
+
+  <ElectricGrindStone.label>전기 맷돌</ElectricGrindStone.label>
+  <ElectricGrindStone.description>작은 돌덩이지만 전기의 힘으로 작물들을 빠르게 갈아버립니다.</ElectricGrindStone.description>
+  <ElectricGrindStone_Blueprint.label>전기 맷돌 (청사진)</ElectricGrindStone_Blueprint.label>
+  <ElectricGrindStone_Blueprint_Install.label>전기 맷돌 (청사진)</ElectricGrindStone_Blueprint_Install.label>
+  <ElectricGrindStone_Frame.label>전기 맷돌 (건설 중)</ElectricGrindStone_Frame.label>
+  <ElectricGrindStone_Frame.description>작은 돌덩이지만 전기의 힘으로 작물들을 빠르게 갈아버립니다.</ElectricGrindStone_Frame.description>
+
+</LanguageData>

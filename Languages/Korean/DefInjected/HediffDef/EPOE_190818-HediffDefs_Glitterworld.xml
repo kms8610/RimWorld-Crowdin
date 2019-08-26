@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MuscleStimulatorArms.label>팔근육 자극기</MuscleStimulatorArms.label>
+  <MuscleStimulatorLegs.label>다리근육 자극기</MuscleStimulatorLegs.label>
+  <TacticalCorneaImplant.label>전술 각막</TacticalCorneaImplant.label>
+  <ConstructorCore.label>건설 보조 인공지능</ConstructorCore.label>
+  <FarmerCore.label>재배 보조 인공지능</FarmerCore.label>
+  <MinerCore.label>채굴 보조 인공지능</MinerCore.label>
+  <DoctorCore.label>의학 보조 인공지능</DoctorCore.label>
+  <DiplomatCore.label>사교 보조 인공지능</DiplomatCore.label>
+
+</LanguageData>

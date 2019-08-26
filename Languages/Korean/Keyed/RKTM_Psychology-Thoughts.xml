@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ComplaintLabel>지도자에게 항의</ComplaintLabel>
+  <ComplaintDesc>지도자에게 항의 한다는 건 이런 기분이군.</ComplaintDesc>
+
+  <VisitLabel>정착민 방문</VisitLabel>
+  <VisitDesc>정착민이 방문 한다는 건 이런 기분이군.</VisitDesc>
+
+  <AttendedFuneralThought>{0}의 장례식 참석</AttendedFuneralThought>
+  <AttendedFuneralDesc>아직도 {0_pronoun}가 죽었다는 게 믿기지 않지만... 장례식도 끝나고 나니, 후련해졌어.</AttendedFuneralDesc>
+
+</LanguageData>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CanningFactory.label>통조림 작업대</CanningFactory.label>
+  <CanningFactory.description>식품을 밀봉하기 위해 강철을 적재해둬야 합니다. 고기와 야채들을 통조림으로 만들수 있습니다.</CanningFactory.description>
+  <CanningFactory_Blueprint.label>통조림 작업대 (청사진)</CanningFactory_Blueprint.label>
+  <CanningFactory_Blueprint_Install.label>통조림 작업대 (청사진)</CanningFactory_Blueprint_Install.label>
+  <CanningFactory_Frame.label>통조림 작업대 (건설 중)</CanningFactory_Frame.label>
+  <CanningFactory_Frame.description>식품을 밀봉하기 위해 강철을 적재해둬야 합니다. 고기와 야채들을 통조림으로 만들수 있습니다.</CanningFactory_Frame.description>
+
+  <VG_CanningFactory.label>통조림 기계</VG_CanningFactory.label>
+  <VG_CanningFactory.description>다른 종류의 음식을 보존하거나 식사를 만들 수 있도록 설정할 수 있는 통조림 기계입니다.</VG_CanningFactory.description>
+  <VG_CanningFactory_Blueprint.label>통조림 기계 (청사진)</VG_CanningFactory_Blueprint.label>
+  <VG_CanningFactory_Blueprint_Install.label>통조림 기계 (청사진)</VG_CanningFactory_Blueprint_Install.label>
+  <VG_CanningFactory_Frame.label>통조림 기계 (건설 중)</VG_CanningFactory_Frame.label>
+  <VG_CanningFactory_Frame.description>다른 종류의 음식을 보존하거나 식사를 만들 수 있도록 설정할 수 있는 통조림 기계입니다.</VG_CanningFactory_Frame.description>
+
+</LanguageData>

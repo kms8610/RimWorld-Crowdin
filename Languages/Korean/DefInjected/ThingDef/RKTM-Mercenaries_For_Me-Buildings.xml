@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MFM_GuardSpot.label>경비 지점</MFM_GuardSpot.label>
+  <MFM_GuardSpot.description>경비원이 경계해야 할 지점을 지상에 지정할 수 있습니다.</MFM_GuardSpot.description>
+  <MFM_GuardSpot_Blueprint.label>경비 지점 (청사진)</MFM_GuardSpot_Blueprint.label>
+  <MFM_GuardSpot_Frame.label>경비 지점 (건설 중)</MFM_GuardSpot_Frame.label>
+  <MFM_GuardSpot_Frame.description>경비원이 경계해야 할 지점을 지상에 지정할 수 있습니다.</MFM_GuardSpot_Frame.description>
+
+</LanguageData>

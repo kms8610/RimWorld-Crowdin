@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CookMakiVegRoll.label>김밥 만들기 (x4)</CookMakiVegRoll.label>
+  <CookMakiVegRoll.description>쌀과 작물을 이용하여 다소 복잡한 좋은 식사를 만듭니다.\n\n제조량 4줄</CookMakiVegRoll.description>
+  <CookMakiVegRoll.jobString>김밥 마는 중.</CookMakiVegRoll.jobString>
+
+</LanguageData>

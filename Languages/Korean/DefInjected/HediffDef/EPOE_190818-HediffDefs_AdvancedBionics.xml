@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AdvancedPowerArm.label>강화 동력 팔</AdvancedPowerArm.label>
+  <AdvancedPowerArm.comps.0.tools.0.label>생체공학 주먹</AdvancedPowerArm.comps.0.tools.0.label>
+  <AdvancedPowerArm.labelNoun>강화 동력 팔</AdvancedPowerArm.labelNoun>
+
+  <AdvancedBionicArm.label>강화 생체공학 팔</AdvancedBionicArm.label>
+  <AdvancedBionicArm.comps.0.tools.0.label>생체공학 주먹</AdvancedBionicArm.comps.0.tools.0.label>
+  <AdvancedBionicArm.labelNoun>강화 생체공학 팔</AdvancedBionicArm.labelNoun>
+
+  <AdvancedBionicLeg.label>강화 생체공학 다리</AdvancedBionicLeg.label>
+  <AdvancedBionicLeg.labelNoun>강화 생체공학 다리</AdvancedBionicLeg.labelNoun>
+
+  <AdvancedBionicHand.label>강화 생체공학 손</AdvancedBionicHand.label>
+  <AdvancedBionicHand.comps.0.tools.0.label>생체공학 주먹</AdvancedBionicHand.comps.0.tools.0.label>
+  <AdvancedBionicHand.labelNoun>강화 생체공학 손</AdvancedBionicHand.labelNoun>
+
+  <AdvancedBionicFoot.label>강화 생체공학 발</AdvancedBionicFoot.label>
+  <AdvancedBionicFoot.labelNoun>강화 생체공학 발</AdvancedBionicFoot.labelNoun>
+
+  <AdvancedBionicEar.label>강화 생체공학 귀</AdvancedBionicEar.label>
+  <AdvancedBionicEar.labelNoun>강화 생체공학 귀</AdvancedBionicEar.labelNoun>
+
+  <AdvancedBionicJaw.label>강화 생체공학 턱</AdvancedBionicJaw.label>
+  <AdvancedBionicJaw.labelNoun>강화 생체공학 턱</AdvancedBionicJaw.labelNoun>
+
+  <AdvancedBionicEye.label>강화 생체공학 눈</AdvancedBionicEye.label>
+  <AdvancedBionicEye.labelNoun>강화 생체공학 눈</AdvancedBionicEye.labelNoun>
+
+  <AdvancedBionicSpine.label>강화 생체공학 척추</AdvancedBionicSpine.label>
+  <AdvancedBionicSpine.labelNoun>강화 생체공학 척추</AdvancedBionicSpine.labelNoun>
+
+  <ExoskeletonSuit.label>외골격 장갑</ExoskeletonSuit.label>
+  <ExoskeletonSuit.labelNoun>외골격 장갑</ExoskeletonSuit.labelNoun>
+
+</LanguageData>

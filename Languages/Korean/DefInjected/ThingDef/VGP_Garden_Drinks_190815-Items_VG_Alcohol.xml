@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <cider.label>신지 사과주</cider.label>
+  <cider.description>사과로 만든 향긋한 술입니다.</cider.description>
+  <cider.tools.0.label>병</cider.tools.0.label>
+  <cider.tools.1.label>병목</cider.tools.1.label>
+  <cider.ingestible.ingestCommandString>{0} 마시기</cider.ingestible.ingestCommandString>
+  <cider.ingestible.ingestReportString>{0} 마시는 중.</cider.ingestible.ingestReportString>
+
+  <rum.label>라인슈타인 럼주</rum.label>
+  <rum.description>내 럼주는 어디갔어?</rum.description>
+  <rum.tools.0.label>병</rum.tools.0.label>
+  <rum.tools.1.label>병목</rum.tools.1.label>
+  <rum.ingestible.ingestCommandString>{0} 마시기</rum.ingestible.ingestCommandString>
+  <rum.ingestible.ingestReportString>{0} 마시는 중.</rum.ingestible.ingestReportString>
+
+  <Wine.label>램지 와인</Wine.label>
+  <Wine.description>포도로 만든 향긋한 술입니다. 램지의 사유지에서 종종 도난당하고 밀반출되고는 했습니다.</Wine.description>
+  <Wine.tools.0.label>병</Wine.tools.0.label>
+  <Wine.tools.1.label>병목</Wine.tools.1.label>
+  <Wine.ingestible.ingestCommandString>{0} 마시기</Wine.ingestible.ingestCommandString>
+  <Wine.ingestible.ingestReportString>{0} 마시는 중.</Wine.ingestible.ingestReportString>
+
+  <strawberrywine.label>스푼 딸기와인</strawberrywine.label>
+  <strawberrywine.description>예술가 스푼숏에이지는 인생에서 두가지 열정을 가지고 있었습니다. 예술과 딸기 와인에 대한 그녀의 사랑. 그래서 그녀는 많은 돈을 들여 자신의 브랜드를 개발했습니다. 그것은 림월드를 가로 질러 최고이자 유일한 브랜드로 빨리 퍼져 나갔습니다. 그것은 딸기에서 나온, 달콤한 분홍빛 알코올 입니다.</strawberrywine.description>
+  <strawberrywine.tools.0.label>병</strawberrywine.tools.0.label>
+  <strawberrywine.tools.1.label>병목</strawberrywine.tools.1.label>
+  <strawberrywine.ingestible.ingestCommandString>{0} 마시기</strawberrywine.ingestible.ingestCommandString>
+  <strawberrywine.ingestible.ingestReportString>{0} 마시는 중.</strawberrywine.ingestible.ingestReportString>
+
+  <saki.label>위즈 사케</saki.label>
+  <saki.description>맛의 깊이가 있는 쌀로 만든 술입니다.</saki.description>
+  <saki.tools.0.label>병</saki.tools.0.label>
+  <saki.tools.1.label>병목</saki.tools.1.label>
+  <saki.ingestible.ingestCommandString>{0} 마시기</saki.ingestible.ingestCommandString>
+  <saki.ingestible.ingestReportString>{0} 마시는 중.</saki.ingestible.ingestReportString>
+
+  <vodka.label>신트리아 보드카</vodka.label>
+  <vodka.description>정말로 신트리아 브랜드를 자랑스럽게 생각하고 있어요. 감자를 기반으로 한 맑고 투명한 알콜입니다.</vodka.description>
+  <vodka.tools.0.label>병</vodka.tools.0.label>
+  <vodka.tools.1.label>병목</vodka.tools.1.label>
+  <vodka.ingestible.ingestCommandString>{0} 마시기</vodka.ingestible.ingestCommandString>
+  <vodka.ingestible.ingestReportString>{0} 마시는 중.</vodka.ingestible.ingestReportString>
+
+  <tequila.label>키티 데킬라</tequila.label>
+  <tequila.description>용설란으로 만든 강력한 술. 이 병에는 벌거벗은 암고양이 사진이 담겨 있습니다. 어느 특정한 오라산이 발견했고 그녀는 재빨리 제조법을 완성, 오라시아에서 가장 인기있는 술이 되어 훨씬 더 유명한 명성을 얻었습니다.</tequila.description>
+  <tequila.tools.0.label>병</tequila.tools.0.label>
+  <tequila.tools.1.label>병목</tequila.tools.1.label>
+  <tequila.ingestible.ingestCommandString>{0} 마시기</tequila.ingestible.ingestCommandString>
+  <tequila.ingestible.ingestReportString>{0} 마시는 중.</tequila.ingestible.ingestReportString>
+
+  <whisky.label>퀼 18 위스키</whisky.label>
+  <whisky.description>옥수수를 기반으로한 황금 빛깔의 퀼 18 위스키. 이 위스키를 숙성 시키는데 18년이 걸립니다. 합리적인 가격의 값싼 주류는 그 숙성 과정을 가속화하기 위해 다른 향을 첨가해서 만들었습니다.</whisky.description>
+  <whisky.tools.0.label>병</whisky.tools.0.label>
+  <whisky.tools.1.label>병목</whisky.tools.1.label>
+  <whisky.ingestible.ingestCommandString>{0} 마시기</whisky.ingestible.ingestCommandString>
+  <whisky.ingestible.ingestReportString>{0} 마시는 중.</whisky.ingestible.ingestReportString>
+
+  <BrownAle.label>브라운 에일</BrownAle.label>
+  <BrownAle.description>보리로 만든 농갈색의 맥주로 바키의 브라운 에일입니다.</BrownAle.description>
+  <BrownAle.tools.0.label>병</BrownAle.tools.0.label>
+  <BrownAle.tools.1.label>병목</BrownAle.tools.1.label>
+  <BrownAle.ingestible.ingestCommandString>{0} 마시기</BrownAle.ingestible.ingestCommandString>
+  <BrownAle.ingestible.ingestReportString>{0} 마시는 중.</BrownAle.ingestible.ingestReportString>
+
+  <Fruitshine.label>과색주</Fruitshine.label>
+  <Fruitshine.description>오래된 밀주 조리법을 기반으로 만들었고 과채색이 띄는 달콤한 알콜입니다.</Fruitshine.description>
+  <Fruitshine.tools.0.label>병</Fruitshine.tools.0.label>
+  <Fruitshine.tools.1.label>병목</Fruitshine.tools.1.label>
+  <Fruitshine.ingestible.ingestCommandString>{0} 마시기</Fruitshine.ingestible.ingestCommandString>
+  <Fruitshine.ingestible.ingestReportString>{0} 마시는 중.</Fruitshine.ingestible.ingestReportString>
+
+</LanguageData>

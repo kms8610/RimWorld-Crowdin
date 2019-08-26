@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BakeBread.label>빵 만들기 (x3) </BakeBread.label>
+  <BakeBread.description>빵을 굽습니다.\n\n제조량: 3개</BakeBread.description>
+  <BakeBread.jobString>빵 굽는 중.</BakeBread.jobString>
+
+  <Bakesweetroll.label>롤빵 만들기 (x4)</Bakesweetroll.label>
+  <Bakesweetroll.description>둥글게 말은 빵 위에 설탕을 뿌린 롤빵을 구워냅니다.\n\n제조량: 4개\n\n음식 효과: 의식, 이동</Bakesweetroll.description>
+  <Bakesweetroll.jobString>롤빵 굽는 중.</Bakesweetroll.jobString>
+
+  <Bakepizza.label>피자 만들기 (x3)</Bakepizza.label>
+  <Bakepizza.description>피자를 굽습니다.\n\n제조량: 3조각\n\n음식 효과: 의식, 신진대사</Bakepizza.description>
+  <Bakepizza.jobString>피자 굽는 중.</Bakepizza.jobString>
+
+  <BakeCookies.label>쿠키 만들기 (x6)</BakeCookies.label>
+  <BakeCookies.description>쿠키를 굽습니다.\n\n제조량 6조각</BakeCookies.description>
+  <BakeCookies.jobString>쿠기 굽는 중.</BakeCookies.jobString>
+
+  <BakeBlueberryPie.label>파이 만들기 (x3)</BakeBlueberryPie.label>
+  <BakeBlueberryPie.description>풍미가 좋은 파이를 구워냅니다.\n\n제조량: 3조각</BakeBlueberryPie.description>
+  <BakeBlueberryPie.jobString>파이 굽는 중.</BakeBlueberryPie.jobString>
+
+  <DryFruit.label>건과 만들기 (x10)</DryFruit.label>
+  <DryFruit.description>과일을 건조시켜 즙을 빼냅니다.</DryFruit.description>
+  <DryFruit.jobString>과일 건조시키는 중.</DryFruit.jobString>
+
+  <Bakepolenta.label>폴렌타 만들기</Bakepolenta.label>
+  <Bakepolenta.description>폴렌타 반죽을 구워냅니다.\n\n제조량: 1인분\n\n음식 효과: 조작, 신진대사</Bakepolenta.description>
+  <Bakepolenta.jobString>폴렌타 반죽을 굽는 중.</Bakepolenta.jobString>
+
+  <BakeCornbread.label>옥수수빵 만들기 (x2)</BakeCornbread.label>
+  <BakeCornbread.description>옥수수빵을 구워냅니다.\n\n제조량: 2개\n\n음식 효과: 의식, 이동</BakeCornbread.description>
+  <BakeCornbread.jobString>옥수수빵 굽는 중.</BakeCornbread.jobString>
+
+  <Bakemuffin.label>머핀 만들기 (x6)</Bakemuffin.label>
+  <Bakemuffin.description>머핀을 구워냅니다.\n\n제조량: 6개.\n\n음식 효과: 의식, 이동</Bakemuffin.description>
+  <Bakemuffin.jobString>머핀 굽는 중.</Bakemuffin.jobString>
+
+  <BakeMeatPie.label>고기 파이 만들기 (x2)</BakeMeatPie.label>
+  <BakeMeatPie.description>맛있는 파이를 구워냅니다.\n\n제조량: 2개</BakeMeatPie.description>
+  <BakeMeatPie.jobString>고기 파이 굽는 중.</BakeMeatPie.jobString>
+
+</LanguageData>

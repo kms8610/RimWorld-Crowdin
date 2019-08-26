@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bamboo.label>대나무</Bamboo.label>
+  <Bamboo.description>건설에 사용되는 빠르게 자라는 나무입니다.</Bamboo.description>
+  <Bamboo.tools.0.label>목재</Bamboo.tools.0.label>
+  <Bamboo.stuffProps.stuffAdjective>대나무</Bamboo.stuffProps.stuffAdjective>
+
+  <VG_IronWoodLog.label>철목</VG_IronWoodLog.label>
+  <VG_IronWoodLog.description>철목에서 나온 목재. 건설물, 무기, 심지어는 간단한 인공기구에도 사용됩니다. 나무 막대를 무기로 사용할 수도 있습니다. 매우 아름다운 관상재료 입니다.</VG_IronWoodLog.description>
+  <VG_IronWoodLog.tools.0.label>목재</VG_IronWoodLog.tools.0.label>
+  <VG_IronWoodLog.stuffProps.stuffAdjective>철목</VG_IronWoodLog.stuffProps.stuffAdjective>
+
+</LanguageData>

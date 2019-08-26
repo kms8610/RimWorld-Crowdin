@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GD_CarpetRed_Blueprint.label>염색된 빨간 양탄자 (청사진)</GD_CarpetRed_Blueprint.label>
+  <GD_CarpetRed_Frame.label>염색된 빨간 양탄자 (건설 중)</GD_CarpetRed_Frame.label>
+  <GD_CarpetRed_Frame.description>지형 건설이 진행 중입니다.</GD_CarpetRed_Frame.description>
+
+  <GD_CarpetPink_Blueprint.label>염색된 분홍 양탄자 (청사진)</GD_CarpetPink_Blueprint.label>
+  <GD_CarpetPink_Frame.label>염색된 분홍 양탄자 (건설 중)</GD_CarpetPink_Frame.label>
+  <GD_CarpetPink_Frame.description>지형 건설이 진행 중입니다.</GD_CarpetPink_Frame.description>
+
+  <GD_CarpetOrange_Blueprint.label>염색된 주황 양탄자 (청사진)</GD_CarpetOrange_Blueprint.label>
+  <GD_CarpetOrange_Frame.label>염색된 주황 양탄자 (건설 중)</GD_CarpetOrange_Frame.label>
+  <GD_CarpetOrange_Frame.description>지형 건설이 진행 중입니다.</GD_CarpetOrange_Frame.description>
+
+  <GD_CarpetYellow_Blueprint.label>염색된 노란 양탄자 (청사진)</GD_CarpetYellow_Blueprint.label>
+  <GD_CarpetYellow_Frame.label>염색된 노란 양탄자 (건설 중)</GD_CarpetYellow_Frame.label>
+  <GD_CarpetYellow_Frame.description>지형 건설이 진행 중입니다.</GD_CarpetYellow_Frame.description>
+
+  <GD_CarpetGreen_Blueprint.label>염색된 초록 양탄자 (청사진)</GD_CarpetGreen_Blueprint.label>
+  <GD_CarpetGreen_Frame.label>염색된 초록 양탄자 (건설 중)</GD_CarpetGreen_Frame.label>
+  <GD_CarpetGreen_Frame.description>지형 건설이 진행 중입니다.</GD_CarpetGreen_Frame.description>
+
+  <GD_CarpetTeal_Blueprint.label>염색된 청록 양탄자 (청사진)</GD_CarpetTeal_Blueprint.label>
+  <GD_CarpetTeal_Frame.label>염색된 청록 양탄자 (건설 중)</GD_CarpetTeal_Frame.label>
+  <GD_CarpetTeal_Frame.description>지형 건설이 진행 중입니다.</GD_CarpetTeal_Frame.description>
+
+  <GD_CarpetBlue_Blueprint.label>염색된 파란 양탄자 (청사진)</GD_CarpetBlue_Blueprint.label>
+  <GD_CarpetBlue_Frame.label>염색된 파란 양탄자 (건설 중)</GD_CarpetBlue_Frame.label>
+  <GD_CarpetBlue_Frame.description>지형 건설이 진행 중입니다.</GD_CarpetBlue_Frame.description>
+
+  <GD_Carpetviolet_Blueprint.label>염색된 연보라 양탄자 (청사진)</GD_Carpetviolet_Blueprint.label>
+  <GD_Carpetviolet_Frame.label>염색된 연보라 양탄자 (건설 중)</GD_Carpetviolet_Frame.label>
+  <GD_Carpetviolet_Frame.description>지형 건설이 진행 중입니다.</GD_Carpetviolet_Frame.description>
+
+  <GD_CarpetPurple_Blueprint.label>염색된 진보라 양탄자 (청사진)</GD_CarpetPurple_Blueprint.label>
+  <GD_CarpetPurple_Frame.label>염색된 진보라 양탄자 (건설 중)</GD_CarpetPurple_Frame.label>
+  <GD_CarpetPurple_Frame.description>지형 건설이 진행 중입니다.</GD_CarpetPurple_Frame.description>
+
+  <GD_CarpetWhite_Blueprint.label>염색된 하얀 양탄자 (청사진)</GD_CarpetWhite_Blueprint.label>
+  <GD_CarpetWhite_Frame.label>염색된 하얀 양탄자 (건설 중)</GD_CarpetWhite_Frame.label>
+  <GD_CarpetWhite_Frame.description>지형 건설이 진행 중입니다.</GD_CarpetWhite_Frame.description>
+
+  <GD_CarpetGrey_Blueprint.label>염색된 잿빛 양탄자 (청사진)</GD_CarpetGrey_Blueprint.label>
+  <GD_CarpetGrey_Frame.label>염색된 잿빛 양탄자 (건설 중)</GD_CarpetGrey_Frame.label>
+  <GD_CarpetGrey_Frame.description>지형 건설이 진행 중입니다.</GD_CarpetGrey_Frame.description>
+
+  <GD_CarpetBlack_Blueprint.label>염색된 검은 양탄자 (청사진)</GD_CarpetBlack_Blueprint.label>
+  <GD_CarpetBlack_Frame.label>염색된 검은 양탄자 (건설 중)</GD_CarpetBlack_Frame.label>
+  <GD_CarpetBlack_Frame.description>지형 건설이 진행 중입니다.</GD_CarpetBlack_Frame.description>
+
+</LanguageData>

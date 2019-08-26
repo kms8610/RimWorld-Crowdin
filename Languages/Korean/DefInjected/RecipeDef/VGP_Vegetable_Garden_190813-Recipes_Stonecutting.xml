@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakeBambooWood.label>대나무를 목재로 변환</MakeBambooWood.label>
+  <MakeBambooWood.description>대나무를 잘라 목재로 변환합니다.\n\n대나무 100개를 목재 75로 변환합니다.</MakeBambooWood.description>
+  <MakeBambooWood.jobString>목재 자르는 중.</MakeBambooWood.jobString>
+
+</LanguageData>

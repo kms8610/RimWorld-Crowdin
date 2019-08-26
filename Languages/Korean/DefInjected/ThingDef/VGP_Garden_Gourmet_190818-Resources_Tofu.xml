@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Rawtofu.label>두부</Rawtofu.label>
+  <Rawtofu.description>콩으로 만든 단백질이 풍부한 두부입니다. 그대로 먹어도 맛있습니다.</Rawtofu.description>
+
+  <RawPolenta.label>폴렌타</RawPolenta.label>
+  <RawPolenta.description>수수가루로 만들어 내는 죽요리의 일종인 폴렌타입니다. 기본적으로 죽으로 먹으나, 소스로서 사용되거나 구이로도 사용되는 등 활용도가 많습니다.</RawPolenta.description>
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BarrelDye.label>염료통</BarrelDye.label>
+  <BarrelDye.description>다양한 색으로 천을 염색하기 위한 통입니다.</BarrelDye.description>
+  <BarrelDye_Blueprint.label>염료통 (청사진)</BarrelDye_Blueprint.label>
+  <BarrelDye_Blueprint_Install.label>염료통 (청사진)</BarrelDye_Blueprint_Install.label>
+  <BarrelDye_Frame.label>염료통 (건설 중)</BarrelDye_Frame.label>
+  <BarrelDye_Frame.description>다양한 색으로 천을 염색하기 위한 통입니다.</BarrelDye_Frame.description>
+
+</LanguageData>

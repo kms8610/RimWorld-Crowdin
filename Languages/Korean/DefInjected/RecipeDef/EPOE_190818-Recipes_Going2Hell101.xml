@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MinceOrgans.label>내장 손질</MinceOrgans.label>
+  <MinceOrgans.description>인간의 내장을 손질하여 식재료로 활용할 수 있는 고기를 얻습니다. 수감자의 식사로 만들기에 좋습니다.</MinceOrgans.description>
+  <MinceOrgans.jobString>도축 중.</MinceOrgans.jobString>
+
+  <MinceLimbs.label>사지 손질</MinceLimbs.label>
+  <MinceLimbs.description>인간의 사지를 손질하여 식재료로 활용할 수 있는 고기를 얻습니다. 손발톱을 조심하세요.</MinceLimbs.description>
+  <MinceLimbs.jobString>도축 중.</MinceLimbs.jobString>
+
+</LanguageData>

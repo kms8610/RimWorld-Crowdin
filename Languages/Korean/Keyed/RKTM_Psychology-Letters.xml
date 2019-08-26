@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LetterLabelNewElection>{0}에서 선거가 열림</LetterLabelNewElection>
+  <LetterNewElection>{0}에서 지도자 선거가 치뤄집니다. 일부 정착민들이 출마를 선언했습니다.</LetterNewElection>
+  <LetterLabelElectionHeld>{0}에서 선거가 진행 중</LetterLabelElectionHeld>
+  <LetterElectionHeld>{0}에서 현재 선거가 진행 중 입니다. 빈 모임장소에 투표소가 개설되었고, 정착민들은 이곳에서 투표를 할 것 입니다.</LetterElectionHeld>
+  <LetterLabelElectionCandidate>후보: {0_labelShort}</LetterLabelElectionCandidate>
+  <LetterElectionCandidate>{1}의 지도자 선거에 {0_labelShort}(이)가 출마합니다. 이것이 {0_possessive} 연설 내용입니다:\n{2}</LetterElectionCandidate>
+  <LetterLabelTieSettled>{0_labelShort}의 유리함에도 선거가 동점</LetterLabelTieSettled>
+  <LetterTieSettled>지도자 선거 결과는 동점이었고, 격렬한 논쟁 끝에 {0}만이 논쟁을 계속할 의향을 보였습니다. 다른 후보자들은 기권하여 {0_possessive} 승리로 끝났습니다.</LetterTieSettled>
+  <LetterLabelElectionWon>{0_labelShort}의 당선</LetterLabelElectionWon>
+  <LetterElectionWon>{0_labelShort}(이)가 {1}의 지도자 선거에서 당선되었습니다. {0_pronoun}는 {2}표를 획득하였습니다.\n\n다시 {0_possessive} 연설 내용을 알려드립니다:\n{3}\n\n{0_pronoun}는 이제 정착민들로부터 {0_possessive} 방에서 상담 방문을 받을 것 입니다. {0_pronoun}가 충분한 대화능력과 공감능력이 있다면, 불만있는 정착민이 {0_pronoun}와의 대화를 통해서 기분이 나아질 것입니다. 응접실이 아름다울수록 상담의 효과는 증가합니다.\n\n{0_objective} 계속 주시하십시오. 다른 정착민들과는 다르게, {0_pronoun}는 불만을 토로할 상대도 없고 정착지의 지도자라는 의무감의 무게에 짓눌려 있을지도 모릅니다. 정착지의 상황이 나빠질수록, 지도자에게 가해지는 부담도 커질 것 입니다.</LetterElectionWon>
+  <LetterLabelFuneralPlanned>{0}의 장례식</LetterLabelFuneralPlanned>
+  <LetterFuneralPlanned>{0_labelShort}(이)가 {1_labelShort}(을)를 위한 장례식을 계획했습니다. 장례식은 {2}에서 {3}시에 열릴 예정입니다.</LetterFuneralPlanned>
+  <LetterLabelFuneralStarted>{0}(을)를 추모하는 장례식이 열림</LetterLabelFuneralStarted>
+  <LetterFuneralStarted>{0_labelShort}의 장례식이 진행 중입니다. {0}(와)과의 관계가 좋지 않았던 정착민들은 참석하지 않을 수 있습니다.</LetterFuneralStarted>
+  <LetterLabelFuneralEnded>장례식 끝남</LetterLabelFuneralEnded>
+  <LetterFuneralEnded>{0_labelShort}의 장례식이 끝났습니다.\n\n장례식에 참석한 사람들:\n{1}</LetterFuneralEnded>
+  <LetterLabelPTSD>스트레스 트라우마</LetterLabelPTSD>
+  <LetterPTSD>{0_labelShort}(은)는 정신분열의 결과로 불안장애를 가지게 되었습니다. 불안은 영구적인 상태이지만, 심각도를 관리 가능한 수준으로 천천히 감소시키고, 정상적인 활동을 하도록 할 수 있습니다. 계속 정신분열이 일어난다면 {0_possessive} 불안감을 더 악화시킬 것입니다.\n\n번화계 의사들은 환자의 불안과 같은 정신질환을 치료했다는 소문이 있습니다. 만약 정착지에서 어떤 번화계 의약품을 구했다면, 매우 숙련된 의사가 그것을 사용해서 {0_labelShort}의 불안장애를 치료하는데 사용할 수 있을 것입니다.</LetterPTSD>
+  <LetterLabelDatePlanned>데이트</LetterLabelDatePlanned>
+  <LetterDatePlanned>{0_labelShort}(은)는 {2} {3}시에 {1_labelShort}(와)과 데이트를 하기로 했습니다.\n\n정착민이 작업에 할당되거나, 소집되거나, 부상으로 쓰러지거나, 정착지 내 긴급한 작업 등 여러가지 이유로 인해 데이트가 취소될 수도 있습니다.\n\n데이트가 취소되면 두 정착민 모두 불행 해집니다. 정착민들이 잠을 자는 동안에도 데이트 시간을 놓칠 수 있습니다. 이러한 일들로 인해 상대방이 기분 나빠하겠지만 부정적인 의견은 가지지 않습니다.</LetterDatePlanned>
+
+  <!-- Replaced vanilla letters -->
+  <LetterRejectedProposalPsychology>각각의 성격에 따라 그들의 기분과 관계가 영향을 받게 될 것입니다.</LetterRejectedProposalPsychology>
+
+</LanguageData>

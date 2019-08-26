@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RedCloth.label>빨간 천</RedCloth.label>
+  <RedCloth.description>유기 섬유를 염색하여 만든 빨간색 천입니다.</RedCloth.description>
+  <RedCloth.stuffProps.stuffAdjective>빨간 천</RedCloth.stuffProps.stuffAdjective>
+
+  <PinkCloth.label>분홍 천</PinkCloth.label>
+  <PinkCloth.description>유기 섬유를 염색하여 만든 분홍색 천입니다.</PinkCloth.description>
+  <PinkCloth.stuffProps.stuffAdjective>분홍 천</PinkCloth.stuffProps.stuffAdjective>
+
+  <OrangeCloth.label>주황 천</OrangeCloth.label>
+  <OrangeCloth.description>유기 섬유를 염색하여 만든 주황색 천입니다.</OrangeCloth.description>
+  <OrangeCloth.stuffProps.stuffAdjective>주황 천</OrangeCloth.stuffProps.stuffAdjective>
+
+  <YellowCloth.label>노란 천</YellowCloth.label>
+  <YellowCloth.description>유기 섬유를 염색하여 만든 노란색 천입니다.</YellowCloth.description>
+  <YellowCloth.stuffProps.stuffAdjective>노란 천</YellowCloth.stuffProps.stuffAdjective>
+
+  <GreenCloth.label>초록 천</GreenCloth.label>
+  <GreenCloth.description>유기 섬유를 염색하여 만든 초록색 천입니다.</GreenCloth.description>
+  <GreenCloth.stuffProps.stuffAdjective>초록 천</GreenCloth.stuffProps.stuffAdjective>
+
+  <TealCloth.label>청록 천</TealCloth.label>
+  <TealCloth.description>유기 섬유를 염색하여 만든 청록색 천입니다.</TealCloth.description>
+  <TealCloth.stuffProps.stuffAdjective>청록 천</TealCloth.stuffProps.stuffAdjective>
+
+  <BlueCloth.label>파란 천</BlueCloth.label>
+  <BlueCloth.description>유기 섬유를 염색하여 만든 파란색 천입니다.</BlueCloth.description>
+  <BlueCloth.stuffProps.stuffAdjective>파란 천</BlueCloth.stuffProps.stuffAdjective>
+
+  <VioletCloth.label>연보라 천</VioletCloth.label>
+  <VioletCloth.description>유기 섬유를 염색하여 만든 연한 보라색 천입니다.</VioletCloth.description>
+  <VioletCloth.stuffProps.stuffAdjective>연보라 천</VioletCloth.stuffProps.stuffAdjective>
+
+  <PurpleCloth.label>진보라 천</PurpleCloth.label>
+  <PurpleCloth.description>유기 섬유를 염색하여 만든 진한 보라색 천입니다.</PurpleCloth.description>
+  <PurpleCloth.stuffProps.stuffAdjective>진보라 천</PurpleCloth.stuffProps.stuffAdjective>
+
+  <PureWhiteCloth.label>하얀 천</PureWhiteCloth.label>
+  <PureWhiteCloth.description>유기 섬유를 염색하여 만든 하얀색 천입니다.</PureWhiteCloth.description>
+  <PureWhiteCloth.stuffProps.stuffAdjective>하얀 천</PureWhiteCloth.stuffProps.stuffAdjective>
+
+  <GreyCloth.label>잿빛 천</GreyCloth.label>
+  <GreyCloth.description>유기 섬유를 염색하여 만든 회색 천입니다.</GreyCloth.description>
+  <GreyCloth.stuffProps.stuffAdjective>잿빛 천</GreyCloth.stuffProps.stuffAdjective>
+
+  <BlackCloth.label>검은 천</BlackCloth.label>
+  <BlackCloth.description>유기 섬유를 염색하여 만든 검은 천입니다.</BlackCloth.description>
+  <BlackCloth.stuffProps.stuffAdjective>검은 천</BlackCloth.stuffProps.stuffAdjective>
+
+</LanguageData>

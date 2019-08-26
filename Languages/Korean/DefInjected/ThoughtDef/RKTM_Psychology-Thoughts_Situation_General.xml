@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ApparelDamagedPrude.stages.wearing_wornout_apparel.label>해진 복장</ApparelDamagedPrude.stages.wearing_wornout_apparel.label>
+  <ApparelDamagedPrude.stages.wearing_wornout_apparel.description>내 옷 상태가 별로 좋지 않아. 속이 다 비치고 있어...</ApparelDamagedPrude.stages.wearing_wornout_apparel.description>
+  <ApparelDamagedPrude.stages.wearing_tattered_apparel.label>누더기가 된 복장</ApparelDamagedPrude.stages.wearing_tattered_apparel.label>
+  <ApparelDamagedPrude.stages.wearing_tattered_apparel.description>쓰레기같은 누더기를 입고 있어. 모두 날 쳐다보고 있는것 같아!</ApparelDamagedPrude.stages.wearing_tattered_apparel.description>
+
+  <Individuality.stages.matching_apparel-0.label>같은 복장</Individuality.stages.matching_apparel-0.label>
+  <Individuality.stages.matching_apparel-0.description>머리부터 발끝까지, 동료가 나와 똑같은 복장을 입고 있어. 뭔가 어색한데.</Individuality.stages.matching_apparel-0.description>
+  <Individuality.stages.matching_apparel-1.label>같은 복장</Individuality.stages.matching_apparel-1.label>
+  <Individuality.stages.matching_apparel-1.description>머리부터 발끝까지, 동료들이 나와 똑같은 복장을 입고 있어. 유쾌하지 않군.</Individuality.stages.matching_apparel-1.description>
+  <Individuality.stages.stifled_individuality-0.label>억압된 개성</Individuality.stages.stifled_individuality-0.label>
+  <Individuality.stages.stifled_individuality-0.description>머리부터 발끝까지, 거의 모두가 나와 똑같은 복장을 하고 있어. 소름 돋아, 나도 나만의 개성을 표현하고 싶다고.</Individuality.stages.stifled_individuality-0.description>
+  <Individuality.stages.stifled_individuality-1.label>억압된 개성</Individuality.stages.stifled_individuality-1.label>
+  <Individuality.stages.stifled_individuality-1.description>머리부터 발끝까지, 모두가 나와 똑같은 복장을 하고 있어! 정말 맘에 안들어. 나도 나만의 개성을 표현하고 싶다고.</Individuality.stages.stifled_individuality-1.description>
+
+  <SurvivedTogether.stages.survived_together_for_a_year.label>1년 동안 같이 살아남았어</SurvivedTogether.stages.survived_together_for_a_year.label>
+  <SurvivedTogether.stages.survived_together_for_two_years.label>2년 동안 같이 살아남았어</SurvivedTogether.stages.survived_together_for_two_years.label>
+  <SurvivedTogether.stages.survived_together_for_three_years.label>3년 동안 같이 살아남았어</SurvivedTogether.stages.survived_together_for_three_years.label>
+  <SurvivedTogether.stages.survived_together_for_four_years.label>4년 동안 같이 살아남았어</SurvivedTogether.stages.survived_together_for_four_years.label>
+  <SurvivedTogether.stages.survived_together_for_five_years.label>5년 동안 같이 살아남았어</SurvivedTogether.stages.survived_together_for_five_years.label>
+  <SurvivedTogether.stages.survived_together_for_more_than_five_years.label>5년 넘게 같이 살아남았어</SurvivedTogether.stages.survived_together_for_more_than_five_years.label>
+
+  <LongDistance.stages.longdistance_relationship-0.label>장거리 관계</LongDistance.stages.longdistance_relationship-0.label>
+  <LongDistance.stages.longdistance_relationship-1.label>장거리 관계</LongDistance.stages.longdistance_relationship-1.label>
+  <LongDistance.stages.longdistance_relationship-2.label>장거리 관계</LongDistance.stages.longdistance_relationship-2.label>
+  <LongDistance.stages.longdistance_relationship-3.label>장거리 관계</LongDistance.stages.longdistance_relationship-3.label>
+  <LongDistance.stages.longdistance_relationship-4.label>장거리 관계</LongDistance.stages.longdistance_relationship-4.label>
+  <LongDistance.stages.longdistance_relationship-5.label>장거리 관계</LongDistance.stages.longdistance_relationship-5.label>
+  <LongDistance.stages.longdistance_relationship-6.label>장거리 관계</LongDistance.stages.longdistance_relationship-6.label>
+
+</LanguageData>

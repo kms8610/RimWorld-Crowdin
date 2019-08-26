@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakeHardcandy.label>알사탕 만들기 (x4)</MakeHardcandy.label>
+  <MakeHardcandy.description>설탕으로 알사탕을 만듭니다.</MakeHardcandy.description>
+  <MakeHardcandy.jobString>알사탕 만드는 중.</MakeHardcandy.jobString>
+
+  <MakeCaramel.label>카라멜 만들기 (x4)</MakeCaramel.label>
+  <MakeCaramel.description>설탕으로 카라멜을 만듭니다.</MakeCaramel.description>
+  <MakeCaramel.jobString>카라멜 만드는 중.</MakeCaramel.jobString>
+
+  <MakeTaffy.label>엿 만들기 (x4)</MakeTaffy.label>
+  <MakeTaffy.description>설탕을 녹여 엿으로 만듭니다</MakeTaffy.description>
+  <MakeTaffy.jobString>엿 만드는 중.</MakeTaffy.jobString>
+
+  <MakeIcecream.label>아이스크림 만들기 (x2)</MakeIcecream.label>
+  <MakeIcecream.description>우유로 만든 맛있고 달콤한 냉동된 간식입니다.\n\n제조량 2개\n\n음식 효과: 이동, 혈액순환</MakeIcecream.description>
+  <MakeIcecream.jobString>아이스크림 만드는 중.</MakeIcecream.jobString>
+
+  <MakeYogurt.label>요거트 만들기 (x2)</MakeYogurt.label>
+  <MakeYogurt.description>우유로 만든 맛있고 달콤한 간식입니다.\n\n제조량 2개\n\n음식 효과: 시야, 혈액여과</MakeYogurt.description>
+  <MakeYogurt.jobString>요거트 만드는 중.</MakeYogurt.jobString>
+
+  <MakeSmoothie.label>스무디 만들기 (x4)</MakeSmoothie.label>
+  <MakeSmoothie.description>우유와 과일로 만든 달콤한 음료입니다.\n\n제조량 4개\n\n음식 효과 : 시야, 이동</MakeSmoothie.description>
+  <MakeSmoothie.jobString>스무디 만드는 중.</MakeSmoothie.jobString>
+
+</LanguageData>

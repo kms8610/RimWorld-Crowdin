@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BrainStimulator.label>두뇌 증폭기</BrainStimulator.label>
+  <SurrogateLung.label>폐 유지장치</SurrogateLung.label>
+  <SurrogateStomach.label>위 유지장치</SurrogateStomach.label>
+  <SurrogateLiver.label>간 유지장치</SurrogateLiver.label>
+  <SurrogateKidney.label>신장 유지장치</SurrogateKidney.label>
+  <SurrogateHeart.label>심장 유지장치</SurrogateHeart.label>
+
+</LanguageData>

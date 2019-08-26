@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SmallSunLamp.label>중형 태양등</SmallSunLamp.label>
+  <SmallSunLamp.description>작물이 성장 할 수 있도록 인공적인 태양광을 발산합니다.</SmallSunLamp.description>
+  <SmallSunLamp.comps.3.offMessage>작물 휴식시간동안 꺼짐</SmallSunLamp.comps.3.offMessage>
+  <SmallSunLamp_Blueprint.label>중형 태양등 (청사진)</SmallSunLamp_Blueprint.label>
+  <SmallSunLamp_Blueprint_Install.label>중형 태양등 (청사진)</SmallSunLamp_Blueprint_Install.label>
+  <SmallSunLamp_Frame.label>중형 태양등 (건설중)</SmallSunLamp_Frame.label>
+  <SmallSunLamp_Frame.description>작물이 성장 할 수 있도록 인공적인 태양광을 발산합니다.</SmallSunLamp_Frame.description>
+
+  <MiniSunLamp.label>소형 태양등</MiniSunLamp.label>
+  <MiniSunLamp.description>작물이 성장 할 수 있도록 인공적인 태양광을 발산합니다.</MiniSunLamp.description>
+  <MiniSunLamp.comps.3.offMessage>작물 휴식시간동안 꺼짐</MiniSunLamp.comps.3.offMessage>
+  <MiniSunLamp_Blueprint.label>소형 태양등 (청사진)</MiniSunLamp_Blueprint.label>
+  <MiniSunLamp_Blueprint_Install.label>소형 태양등 (청사진)</MiniSunLamp_Blueprint_Install.label>
+  <MiniSunLamp_Frame.label>소형 태양등 (건설중)</MiniSunLamp_Frame.label>
+  <MiniSunLamp_Frame.description>작물이 성장 할 수 있도록 인공적인 태양광을 발산합니다.</MiniSunLamp_Frame.description>
+
+  <VG_DiggingSpot.label>채굴 지점</VG_DiggingSpot.label>
+  <VG_DiggingSpot.description>땅에서 채취 가능한 토양을 파내는 장소입니다.</VG_DiggingSpot.description>
+  <VG_DiggingSpot_Blueprint.label>채굴 지점 (청사진)</VG_DiggingSpot_Blueprint.label>
+  <VG_DiggingSpot_Frame.label>채굴 지점 (건설중)</VG_DiggingSpot_Frame.label>
+  <VG_DiggingSpot_Frame.description>땅에서 채취 가능한 토양을 파내는 장소입니다.</VG_DiggingSpot_Frame.description>
+
+</LanguageData>

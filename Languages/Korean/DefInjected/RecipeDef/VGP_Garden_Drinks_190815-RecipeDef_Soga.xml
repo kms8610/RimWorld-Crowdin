@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BrewAppleSoda.label>사과 탄산주 만들기</BrewAppleSoda.label>
+  <BrewAppleSoda.description>사과와 당밀로 달콤한 탄산주를 만듭니다.</BrewAppleSoda.description>
+  <BrewAppleSoda.jobString>사과 탄산주 양조 중.</BrewAppleSoda.jobString>
+
+  <BrewBananaSoda.label>바나나 탄산주 만들기</BrewBananaSoda.label>
+  <BrewBananaSoda.description>바나나와 당밀로 달콤한 탄산주를 만듭니다.</BrewBananaSoda.description>
+  <BrewBananaSoda.jobString>바나나 탄산주 양조 중.</BrewBananaSoda.jobString>
+
+  <BrewGrapeSoda.label>포도 탄산주 만들기</BrewGrapeSoda.label>
+  <BrewGrapeSoda.description>포도와 당밀로 달콤한 탄산주를 만듭니다.</BrewGrapeSoda.description>
+  <BrewGrapeSoda.jobString>포도 탄산주 양조 중.</BrewGrapeSoda.jobString>
+
+  <BrewOrangeSoda.label>오렌지 탄산주 만들기</BrewOrangeSoda.label>
+  <BrewOrangeSoda.description>오렌지와 당밀로 달콤한 탄산주를 만듭니다.</BrewOrangeSoda.description>
+  <BrewOrangeSoda.jobString>오렌지 탄산주 양조 중.</BrewOrangeSoda.jobString>
+
+  <BrewPeachSoda.label>복숭아 탄산주 만들기</BrewPeachSoda.label>
+  <BrewPeachSoda.description>복숭아와 당밀로 달콤한 탄산주를 만듭니다.</BrewPeachSoda.description>
+  <BrewPeachSoda.jobString>복숭아 탄산주 양조 중.</BrewPeachSoda.jobString>
+
+  <BrewPineappleSoda.label>파인애플 탄산주 만들기</BrewPineappleSoda.label>
+  <BrewPineappleSoda.description>파인애플과 당밀로 달콤한 탄산주를 만듭니다.</BrewPineappleSoda.description>
+  <BrewPineappleSoda.jobString>파인애플 탄산주 양조 중.</BrewPineappleSoda.jobString>
+
+  <BrewBlueberrySoda.label>블루베리 탄산주 만들기</BrewBlueberrySoda.label>
+  <BrewBlueberrySoda.description>블루베리와 당밀로 달콤한 탄산주를 만듭니다.</BrewBlueberrySoda.description>
+  <BrewBlueberrySoda.jobString>블루베리 탄산주 양조 중.</BrewBlueberrySoda.jobString>
+
+  <BrewWatermelonSoda.label>수박 탄산주 만들기</BrewWatermelonSoda.label>
+  <BrewWatermelonSoda.description>수박과 당밀로 달콤한 탄산주를 만듭니다.</BrewWatermelonSoda.description>
+  <BrewWatermelonSoda.jobString>수박 탄산주 양조 중.</BrewWatermelonSoda.jobString>
+
+  <BrewCloudberrySoda.label>클라우드베리 탄산주 만들기</BrewCloudberrySoda.label>
+  <BrewCloudberrySoda.description>클라우드베리와 당밀로 달콤한 탄산주를 만듭니다.</BrewCloudberrySoda.description>
+  <BrewCloudberrySoda.jobString>클라우드베리 탄산주 양조 중.</BrewCloudberrySoda.jobString>
+
+  <BrewGooseberrySoda.label>구스베리 탄산주 만들기</BrewGooseberrySoda.label>
+  <BrewGooseberrySoda.description>구스베리와 당밀로 달콤한 탄산주를 만듭니다.</BrewGooseberrySoda.description>
+  <BrewGooseberrySoda.jobString>구스베리 탄산주 양조 중.</BrewGooseberrySoda.jobString>
+
+  <BrewDateSoda.label>대추 탄산주 만들기</BrewDateSoda.label>
+  <BrewDateSoda.description>대추와 당밀로 달콤한 탄산주를 만듭니다.</BrewDateSoda.description>
+  <BrewDateSoda.jobString>대추 탄산주 양조 중.</BrewDateSoda.jobString>
+
+  <BrewFigSoda.label>무화과 탄산주 만들기</BrewFigSoda.label>
+  <BrewFigSoda.description>무화과와 당밀로 달콤한 탄산주를 만듭니다.</BrewFigSoda.description>
+  <BrewFigSoda.jobString>무화과 탄산주 양조 중.</BrewFigSoda.jobString>
+
+  <BrewCherrySoda.label>체리 탄산주 만들기</BrewCherrySoda.label>
+  <BrewCherrySoda.description>체리와 당밀로 달콤한 탄산주를 만듭니다.</BrewCherrySoda.description>
+  <BrewCherrySoda.jobString>체리 탄산주 양조 중.</BrewCherrySoda.jobString>
+
+  <BrewMysterySoda.label>혼합 탄산주 만들기</BrewMysterySoda.label>
+  <BrewMysterySoda.description>과일과 당밀로 달콤한 탄산주를 만듭니다.</BrewMysterySoda.description>
+  <BrewMysterySoda.jobString>혼합 탄산주 양조 중.</BrewMysterySoda.jobString>
+
+  <BrewCoconutSoda.label>코코넛 탄산주 만들기</BrewCoconutSoda.label>
+  <BrewCoconutSoda.description>코코넛과 당밀로 달콤한 탄산주를 만듭니다.</BrewCoconutSoda.description>
+  <BrewCoconutSoda.jobString>코코넛 탄산주 양조 중.</BrewCoconutSoda.jobString>
+
+  <BrewSimpleSyrupVG.label>간단한 당밀 만들기</BrewSimpleSyrupVG.label>
+  <BrewSimpleSyrupVG.description>베지터블 가든의 당분이 높은 과일을 절여 당밀을 양조합니다.</BrewSimpleSyrupVG.description>
+  <BrewSimpleSyrupVG.jobString>간단한 당밀 양조 중.</BrewSimpleSyrupVG.jobString>
+
+  <BulkBrewSimpleSyrupVG.label>간단한 당밀 대량 만들기 (x8)</BulkBrewSimpleSyrupVG.label>
+  <BulkBrewSimpleSyrupVG.description>베지터블 가든의 당분이 높은 과일을 절여 당밀을 대량으로 양조하며 8개씩 만듭니다.</BulkBrewSimpleSyrupVG.description>
+  <BulkBrewSimpleSyrupVG.jobString>간단한 당밀 양조 중.</BulkBrewSimpleSyrupVG.jobString>
+
+</LanguageData>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Rawapple.label>사과</Rawapple.label>
+  <Rawapple.description>나무에서 자라는 빨간 과일입니다.</Rawapple.description>
+
+  <Rawbanana.label>바나나</Rawbanana.label>
+  <Rawbanana.description>나무에서 자라는 노란 과일입니다.</Rawbanana.description>
+
+  <Rawgrape.label>포도</Rawgrape.label>
+  <Rawgrape.description>덩굴에서 자라는 달콤한 과일입니다.</Rawgrape.description>
+
+  <Raworange.label>오렌지</Raworange.label>
+  <Raworange.description>나무에서 자라는 달콤한 과일입니다.</Raworange.description>
+
+  <Rawpeach.label>복숭아</Rawpeach.label>
+  <Rawpeach.description>나무에서 자라는 달콤한 과일입니다.</Rawpeach.description>
+
+  <Rawpineapple.label>파인애플</Rawpineapple.label>
+  <Rawpineapple.description>파인애플이란 이름은 솔방울과 비슷하게 생겼다하여 붙여지게 되었습니다.</Rawpineapple.description>
+
+  <Rawblueberry.label>블루베리</Rawblueberry.label>
+  <Rawblueberry.description>덤불에서 자라는 파란빛깔의 딸기. 생으로 먹어도 맛있습니다.</Rawblueberry.description>
+
+  <Rawwatermelon.label>수박</Rawwatermelon.label>
+  <Rawwatermelon.description>날로 먹어도 맛있으며 비타민A와 소량의 비타민C가 함유되어 있습니다. 다양한 요리에 사용 됩니다.</Rawwatermelon.description>
+
+  <Rawdate.label>대추</Rawdate.label>
+  <Rawdate.description>나무에서 자라는 달콤한 과일입니다.</Rawdate.description>
+
+  <Rawfig.label>무화과</Rawfig.label>
+  <Rawfig.description>나무에서 자라는 달콤한 과일입니다.</Rawfig.description>
+
+  <Rawgooseberry.label>구스베리</Rawgooseberry.label>
+  <Rawgooseberry.description>덩굴에서 자라는 달콤한 과일입니다.</Rawgooseberry.description>
+
+  <Rawcloudberry.label>클라우드베리</Rawcloudberry.label>
+  <Rawcloudberry.description>덩굴에서 자라는 달콤한 과일입니다.</Rawcloudberry.description>
+
+  <RawCherry.label>체리</RawCherry.label>
+  <RawCherry.description>나무에서 자라는 빨간 열매입니다.</RawCherry.description>
+
+  <RawCoconut.label>코코넛</RawCoconut.label>
+  <RawCoconut.description>코코야자 나무에서 수확한 열매입니다. 단단한 껍질을 가지고 있고 속에는 신선한 즙이 많이 들어있습니다.</RawCoconut.description>
+
+</LanguageData>

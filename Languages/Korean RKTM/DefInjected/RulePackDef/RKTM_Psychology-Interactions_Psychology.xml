@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-
-  <Sentence_SocialFightConvoInitiatorStarted.rulePack.rulesStrings.0>sent->의견 차이로 인해 [INITIATOR_nameDef](이)가 싸움을 시작합니다!</Sentence_SocialFightConvoInitiatorStarted.rulePack.rulesStrings.0>
-  <Sentence_SocialFightConvoRecipientStarted.rulePack.rulesStrings.0>sent->의견 차이로 인해 [RECIPIENT_nameDef](이)가 싸움을 시작합니다!</Sentence_SocialFightConvoRecipientStarted.rulePack.rulesStrings.0>
-
-</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SawedOff.label>단순화된</SawedOff.label>
+  <SawedOff.labelShort>단순화</SawedOff.labelShort>
+
+  <SawedOff_Common.label>단순화된</SawedOff_Common.label>
+  <SawedOff_Common.labelShort>단순화</SawedOff_Common.labelShort>
+
+  <SawedOff_Uncommon.label>단순화된</SawedOff_Uncommon.label>
+  <SawedOff_Uncommon.labelShort>단순화</SawedOff_Uncommon.labelShort>
+
+  <SawedOff_Rare.label>단순화된</SawedOff_Rare.label>
+  <SawedOff_Rare.labelShort>단순화</SawedOff_Rare.labelShort>
+
+  <SawedOff_Epic.label>단순화된</SawedOff_Epic.label>
+  <SawedOff_Epic.labelShort>단순화</SawedOff_Epic.labelShort>
+
+</LanguageData>
