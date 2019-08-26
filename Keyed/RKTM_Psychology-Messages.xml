@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-
-  <TreatedTrait>{0_labelShort}의 {1}(이)가 성공적으로 치료되었습니다.</TreatedTrait>
-  <MessageElectionCalledOff>투표소의 조건으로 인해 {0}의 선거가 취소되었습니다.</MessageElectionCalledOff>
-  <MessageElectionCancelled>적절한 투표소가 없어서 {0}의 선거가 취소되었습니다.</MessageElectionCancelled>
-  <MessageFuneralCalledOff>장례식이 정착지의 상황 때문에 취소되었습니다.</MessageFuneralCalledOff>
-
-</LanguageData>
