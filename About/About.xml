@@ -6,21 +6,23 @@
   <supportedVersions>
     <li>1.0</li>
   </supportedVersions>
-  <url>https://steamcommunity.com/id/kms8610</url>
+  <url>https://steamcommunity.com/sharedfiles/filedetails/?id=1567305463</url>
   <description>
-  Call of Cthulhu - Straitjackets 190827
-  EPOE 190818
-  Hospitality 190825
-  Infused 190819
-  Mercenaries For Me 190821
-  Psychology 190824
-  Simple Sidearms 190821
-  VGP Garden Canning 190813
-  VGP Garden Drinks 190815
-  VGP Garden Dyes 190819
-  VGP Garden Fabrics 190813
-  VGP Garden Tools 190813
-  VGP Vegetable Garden 190813
+** 현재 RKTP 모드를 흡수하고 통합하는 과정을 진행 중입니다.
+기존의 RKTP 업로드 방식은 고수하되 점점 새로운 방식으로 고쳐 나갈 예정입니다.
+해당 모드에는 최근에 업로드 된 RKTP의 번역이 통째로 들어 있으니 이 모드만 사용하셔도 됩니다.
+
+RimWorld Korean Translation MOD (RKTM)
+림월드 모드들을 번역하는 한글화 모드 입니다.
+
+모드를 최하위로 놔둘 경우 모드 자체에 들어 있는 한글을 우선적으로 인식하고,
+중복되는 번역은 무시가 되므로 해당 모드의 배열을 Core 모드 바로 아래쪽으로 두시길 권장합니다.
+
+1. Core
+2. RKTM
+
+오역제보나 번역 요청은 그대로 받을 생각이지만,
+당분간 새로운 모드 번역보다는 기존의 번역 오류 위주로 수정해 나갈 생각입니다.
   </description>
 
 </ModMetaData>
