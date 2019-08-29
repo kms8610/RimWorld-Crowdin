@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-
-  <VG_AmbrosiaWine.label>암브로시아 와인</VG_AmbrosiaWine.label>
-  <VG_AmbrosiaWine.description>암브로시아로 만든 달콤한 와인입니다.</VG_AmbrosiaWine.description>
-  <VG_AmbrosiaWine.ingestible.ingestCommandString>{0} 마시기</VG_AmbrosiaWine.ingestible.ingestCommandString>
-  <VG_AmbrosiaWine.ingestible.ingestReportString>{0} 마시는 중.</VG_AmbrosiaWine.ingestible.ingestReportString>
-
-</LanguageData>
