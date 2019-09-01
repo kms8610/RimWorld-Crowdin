@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AEXP_Camel.label>쌍봉낙타</AEXP_Camel.label>
+  <AEXP_Camel.labelPlural>쌍봉낙타</AEXP_Camel.labelPlural>
+  <AEXP_Camel.lifeStages.0.label>쌍봉낙타 새끼</AEXP_Camel.lifeStages.0.label>
+  <AEXP_Camel.lifeStages.0.labelPlural>쌍봉낙타 새끼</AEXP_Camel.lifeStages.0.labelPlural>
+  <AEXP_Camel.lifeStages.0.labelMale>수컷 쌍봉낙타 새끼</AEXP_Camel.lifeStages.0.labelMale>
+  <AEXP_Camel.lifeStages.0.labelMalePlural>수컷 쌍봉낙타 새끼</AEXP_Camel.lifeStages.0.labelMalePlural>
+  <AEXP_Camel.lifeStages.0.labelFemale>암컷 쌍봉낙타 새끼</AEXP_Camel.lifeStages.0.labelFemale>
+  <AEXP_Camel.lifeStages.0.labelFemalePlural>암컷 쌍봉낙타 새끼</AEXP_Camel.lifeStages.0.labelFemalePlural>
+  <AEXP_Camel.lifeStages.1.label>쌍봉낙타</AEXP_Camel.lifeStages.1.label>
+  <AEXP_Camel.lifeStages.1.labelPlural>쌍봉낙타</AEXP_Camel.lifeStages.1.labelPlural>
+  <AEXP_Camel.lifeStages.1.labelMale>수컷 쌍봉낙타</AEXP_Camel.lifeStages.1.labelMale>
+  <AEXP_Camel.lifeStages.1.labelMalePlural>수컷 쌍봉낙타</AEXP_Camel.lifeStages.1.labelMalePlural>
+  <AEXP_Camel.lifeStages.1.labelFemale>암컷 쌍봉낙타</AEXP_Camel.lifeStages.1.labelFemale>
+  <AEXP_Camel.lifeStages.1.labelFemalePlural>암컷 쌍봉낙타</AEXP_Camel.lifeStages.1.labelFemalePlural>
+  <AEXP_Camel.lifeStages.2.label>쌍봉낙타</AEXP_Camel.lifeStages.2.label>
+  <AEXP_Camel.lifeStages.2.labelPlural>쌍봉낙타</AEXP_Camel.lifeStages.2.labelPlural>
+  <AEXP_Camel.lifeStages.2.labelMale>수컷 쌍봉낙타</AEXP_Camel.lifeStages.2.labelMale>
+  <AEXP_Camel.lifeStages.2.labelMalePlural>수컷 쌍봉낙타</AEXP_Camel.lifeStages.2.labelMalePlural>
+  <AEXP_Camel.lifeStages.2.labelFemale>암컷 쌍봉낙타</AEXP_Camel.lifeStages.2.labelFemale>
+  <AEXP_Camel.lifeStages.2.labelFemalePlural>암컷 쌍봉낙타</AEXP_Camel.lifeStages.2.labelFemalePlural>
+  <AEXP_Camel.labelMale>수컷 쌍봉낙타</AEXP_Camel.labelMale>
+  <AEXP_Camel.labelMalePlural>수컷 쌍봉낙타</AEXP_Camel.labelMalePlural>
+  <AEXP_Camel.labelFemale>암컷 쌍봉낙타</AEXP_Camel.labelFemale>
+  <AEXP_Camel.labelFemalePlural>암컷 쌍봉낙타</AEXP_Camel.labelFemalePlural>
+  <AEXP_Rattlesnake.label>방울뱀</AEXP_Rattlesnake.label>
+  <AEXP_Rattlesnake.labelPlural>방울뱀</AEXP_Rattlesnake.labelPlural>
+  <AEXP_Rattlesnake.lifeStages.0.label>방울뱀</AEXP_Rattlesnake.lifeStages.0.label>
+  <AEXP_Rattlesnake.lifeStages.0.labelPlural>방울뱀</AEXP_Rattlesnake.lifeStages.0.labelPlural>
+  <AEXP_Rattlesnake.lifeStages.0.labelMale>수컷 방울뱀</AEXP_Rattlesnake.lifeStages.0.labelMale>
+  <AEXP_Rattlesnake.lifeStages.0.labelMalePlural>수컷 방울뱀</AEXP_Rattlesnake.lifeStages.0.labelMalePlural>
+  <AEXP_Rattlesnake.lifeStages.0.labelFemale>암컷 방울뱀</AEXP_Rattlesnake.lifeStages.0.labelFemale>
+  <AEXP_Rattlesnake.lifeStages.0.labelFemalePlural>암컷 방울뱀</AEXP_Rattlesnake.lifeStages.0.labelFemalePlural>
+  <AEXP_Rattlesnake.lifeStages.1.label>방울뱀</AEXP_Rattlesnake.lifeStages.1.label>
+  <AEXP_Rattlesnake.lifeStages.1.labelPlural>방울뱀</AEXP_Rattlesnake.lifeStages.1.labelPlural>
+  <AEXP_Rattlesnake.lifeStages.1.labelMale>수컷 방울뱀</AEXP_Rattlesnake.lifeStages.1.labelMale>
+  <AEXP_Rattlesnake.lifeStages.1.labelMalePlural>수컷 방울뱀</AEXP_Rattlesnake.lifeStages.1.labelMalePlural>
+  <AEXP_Rattlesnake.lifeStages.1.labelFemale>암컷 방울뱀</AEXP_Rattlesnake.lifeStages.1.labelFemale>
+  <AEXP_Rattlesnake.lifeStages.1.labelFemalePlural>암컷 방울뱀</AEXP_Rattlesnake.lifeStages.1.labelFemalePlural>
+  <AEXP_Rattlesnake.lifeStages.2.label>방울뱀</AEXP_Rattlesnake.lifeStages.2.label>
+  <AEXP_Rattlesnake.lifeStages.2.labelPlural>방울뱀</AEXP_Rattlesnake.lifeStages.2.labelPlural>
+  <AEXP_Rattlesnake.lifeStages.2.labelMale>수컷 방울뱀</AEXP_Rattlesnake.lifeStages.2.labelMale>
+  <AEXP_Rattlesnake.lifeStages.2.labelMalePlural>수컷 방울뱀</AEXP_Rattlesnake.lifeStages.2.labelMalePlural>
+  <AEXP_Rattlesnake.lifeStages.2.labelFemale>암컷 방울뱀</AEXP_Rattlesnake.lifeStages.2.labelFemale>
+  <AEXP_Rattlesnake.lifeStages.2.labelFemalePlural>암컷 방울뱀</AEXP_Rattlesnake.lifeStages.2.labelFemalePlural>
+  <AEXP_Rattlesnake.labelMale>수컷 방울뱀</AEXP_Rattlesnake.labelMale>
+  <AEXP_Rattlesnake.labelMalePlural>수컷 방울뱀</AEXP_Rattlesnake.labelMalePlural>
+  <AEXP_Rattlesnake.labelFemale>암컷 방울뱀</AEXP_Rattlesnake.labelFemale>
+  <AEXP_Rattlesnake.labelFemalePlural>암컷 방울뱀</AEXP_Rattlesnake.labelFemalePlural>
+  <AEXP_Megascorpion.label>거대전갈</AEXP_Megascorpion.label>
+  <AEXP_Megascorpion.labelPlural>거대전갈</AEXP_Megascorpion.labelPlural>
+  <AEXP_Megascorpion.lifeStages.0.label>거대전갈</AEXP_Megascorpion.lifeStages.0.label>
+  <AEXP_Megascorpion.lifeStages.0.labelPlural>거대전갈</AEXP_Megascorpion.lifeStages.0.labelPlural>
+  <AEXP_Megascorpion.lifeStages.0.labelMale>수컷 거대전갈</AEXP_Megascorpion.lifeStages.0.labelMale>
+  <AEXP_Megascorpion.lifeStages.0.labelMalePlural>수컷 거대전갈</AEXP_Megascorpion.lifeStages.0.labelMalePlural>
+  <AEXP_Megascorpion.lifeStages.0.labelFemale>암컷 거대전갈</AEXP_Megascorpion.lifeStages.0.labelFemale>
+  <AEXP_Megascorpion.lifeStages.0.labelFemalePlural>암컷 거대전갈</AEXP_Megascorpion.lifeStages.0.labelFemalePlural>
+  <AEXP_Megascorpion.lifeStages.1.label>거대전갈</AEXP_Megascorpion.lifeStages.1.label>
+  <AEXP_Megascorpion.lifeStages.1.labelPlural>거대전갈</AEXP_Megascorpion.lifeStages.1.labelPlural>
+  <AEXP_Megascorpion.lifeStages.1.labelMale>수컷 거대전갈</AEXP_Megascorpion.lifeStages.1.labelMale>
+  <AEXP_Megascorpion.lifeStages.1.labelMalePlural>수컷 거대전갈</AEXP_Megascorpion.lifeStages.1.labelMalePlural>
+  <AEXP_Megascorpion.lifeStages.1.labelFemale>암컷 거대전갈</AEXP_Megascorpion.lifeStages.1.labelFemale>
+  <AEXP_Megascorpion.lifeStages.1.labelFemalePlural>암컷 거대전갈</AEXP_Megascorpion.lifeStages.1.labelFemalePlural>
+  <AEXP_Megascorpion.lifeStages.2.label>거대전갈</AEXP_Megascorpion.lifeStages.2.label>
+  <AEXP_Megascorpion.lifeStages.2.labelPlural>거대전갈</AEXP_Megascorpion.lifeStages.2.labelPlural>
+  <AEXP_Megascorpion.lifeStages.2.labelMale>수컷 거대전갈</AEXP_Megascorpion.lifeStages.2.labelMale>
+  <AEXP_Megascorpion.lifeStages.2.labelMalePlural>수컷 거대전갈</AEXP_Megascorpion.lifeStages.2.labelMalePlural>
+  <AEXP_Megascorpion.lifeStages.2.labelFemale>암컷 거대전갈</AEXP_Megascorpion.lifeStages.2.labelFemale>
+  <AEXP_Megascorpion.lifeStages.2.labelFemalePlural>암컷 거대전갈</AEXP_Megascorpion.lifeStages.2.labelFemalePlural>
+  <AEXP_Megascorpion.labelMale>수컷 거대전갈</AEXP_Megascorpion.labelMale>
+  <AEXP_Megascorpion.labelMalePlural>수컷 거대전갈</AEXP_Megascorpion.labelMalePlural>
+  <AEXP_Megascorpion.labelFemale>암컷 거대전갈</AEXP_Megascorpion.labelFemale>
+  <AEXP_Megascorpion.labelFemalePlural>암컷 거대전갈</AEXP_Megascorpion.labelFemalePlural>
+
+</LanguageData>
