@@ -418,81 +418,81 @@
   <TableSA_Blueprint_Install.label>소비에트 무기 테이블 (청사진)</TableSA_Blueprint_Install.label>
   <TableSA_Frame.label>소비에트 무기 테이블 (건설 중)</TableSA_Frame.label>
   <TableSA_Frame.description>소련과 러시아 연방의 영광스러운 무기를 조립하기 위한 작업소(자신을 속이지 마라, 기본적으로 같은 것이지만 이름은 다르다)</TableSA_Frame.description>
-  <Turret_AGS.label>AGS-17 Plamya 포탑 만들기</Turret_AGS.label>
+  <Turret_AGS.label>AGS-17 Plamya 포탑</Turret_AGS.label>
   <Turret_AGS.description>삼각대가 장착된 30MM 자동 유탄 발사기입니다.</Turret_AGS.description>
-  <Turret_AGS_Blueprint.label>AGS-17 Plamya 포탑 만들기 (청사진)</Turret_AGS_Blueprint.label>
-  <Turret_AGS_Blueprint_Install.label>AGS-17 Plamya 포탑 만들기 (청사진)</Turret_AGS_Blueprint_Install.label>
-  <Turret_AGS_Frame.label>AGS-17 Plamya 포탑 만들기 (건설 중)</Turret_AGS_Frame.label>
+  <Turret_AGS_Blueprint.label>AGS-17 Plamya 포탑 (청사진)</Turret_AGS_Blueprint.label>
+  <Turret_AGS_Blueprint_Install.label>AGS-17 Plamya 포탑 (청사진)</Turret_AGS_Blueprint_Install.label>
+  <Turret_AGS_Frame.label>AGS-17 Plamya 포탑 (건설 중)</Turret_AGS_Frame.label>
   <Turret_AGS_Frame.description>삼각대가 장착된 30MM 자동 유탄 발사기입니다.</Turret_AGS_Frame.description>
-  <Bullet_300mm.label>유탄 발사기 탄환 만들기</Bullet_300mm.label>
-  <Gun_AGS.label>AGS 17 Plamya 만들기</Gun_AGS.label>
+  <Bullet_300mm.label>유탄 발사기 탄환</Bullet_300mm.label>
+  <Gun_AGS.label>AGS 17 Plamya</Gun_AGS.label>
   <Gun_AGS.description>삼각대가 장착된 30MM 자동 유탄 발사기입니다.</Gun_AGS.description>
-  <Turret_NSV.label>NSV Utyos 포탑 만들기</Turret_NSV.label>
+  <Turret_NSV.label>NSV Utyos 포탑</Turret_NSV.label>
   <Turret_NSV.description>삼각대가 장착된 12,7mm 중기관총입니다.</Turret_NSV.description>
   <Turret_NSV_Blueprint.label>NSV Utyos 포탑 (청사진)</Turret_NSV_Blueprint.label>
   <Turret_NSV_Blueprint_Install.label>NSV Utyos 포탑 (청사진)</Turret_NSV_Blueprint_Install.label>
   <Turret_NSV_Frame.label>NSV Utyos 포탑 (건설 중)</Turret_NSV_Frame.label>
   <Turret_NSV_Frame.description>삼각대가 장착된 12,7mm 중기관총입니다.</Turret_NSV_Frame.description>
-  <Bullet_1270mm.label>중기관총 탄환 만들기</Bullet_1270mm.label>
-  <Gun_NSV.label>NSV 만들기</Gun_NSV.label>
+  <Bullet_1270mm.label>중기관총 탄환</Bullet_1270mm.label>
+  <Gun_NSV.label>NSV</Gun_NSV.label>
   <Gun_NSV.description>삼각대가 장착된 12,7mm 중기관총입니다.</Gun_NSV.description>
-  <Bullet_762mm.label>소총 탄환 만들기</Bullet_762mm.label>
-  <Bullet_545mm.label>경기관총 탄환 만들기</Bullet_545mm.label>
-  <Bullet_900mm.label>권총 탄환 만들기</Bullet_900mm.label>
-  <Bullet_762mmR.label>저격소총 탄환 만들기</Bullet_762mmR.label>
-  <Bullet_12G.label>샷건 탄환 만들기</Bullet_12G.label>
-  <Bullet_PG-7M.label>로켓 만들기</Bullet_PG-7M.label>
-  <Bullet_RPO-Z.label>소이탄 만들기</Bullet_RPO-Z.label>
-  <Bullet_900mm_wtm.label>권총 탄환 만들기</Bullet_900mm_wtm.label>
-  <Bullet_50mm.label>수류탄 만들기</Bullet_50mm.label>
-  <Gun_AKM_SA.label>AKM 돌격소총 만들기</Gun_AKM_SA.label>
+  <Bullet_762mm.label>소총 탄환</Bullet_762mm.label>
+  <Bullet_545mm.label>경기관총 탄환</Bullet_545mm.label>
+  <Bullet_900mm.label>권총 탄환</Bullet_900mm.label>
+  <Bullet_762mmR.label>저격소총 탄환</Bullet_762mmR.label>
+  <Bullet_12G.label>샷건 탄환</Bullet_12G.label>
+  <Bullet_PG-7M.label>로켓</Bullet_PG-7M.label>
+  <Bullet_RPO-Z.label>소이탄</Bullet_RPO-Z.label>
+  <Bullet_900mm_wtm.label>권총 탄환</Bullet_900mm_wtm.label>
+  <Bullet_50mm.label>수류탄</Bullet_50mm.label>
+  <Gun_AKM_SA.label>AKM 돌격소총</Gun_AKM_SA.label>
   <Gun_AKM_SA.description>값싸고 믿을만한 AK의 약간 현대화된 버전입니다.</Gun_AKM_SA.description>
   <Gun_AKM_SA.tools.0.label>개머리판</Gun_AKM_SA.tools.0.label>
-  <Gun_AKMS_SA.label>AKMS 돌격소총 만들기</Gun_AKMS_SA.label>
+  <Gun_AKMS_SA.label>AKMS 돌격소총</Gun_AKMS_SA.label>
   <Gun_AKMS_SA.description>AKM에 접철식 개머리판을 붙였습니다.</Gun_AKMS_SA.description>
   <Gun_AKMS_SA.tools.0.label>개머리판</Gun_AKMS_SA.tools.0.label>
-  <Gun_AKS-74U_SA.label>AKS-74U 단축형 돌격소총 만들기</Gun_AKS-74U_SA.label>
+  <Gun_AKS-74U_SA.label>AKS-74U 단축형 돌격소총</Gun_AKS-74U_SA.label>
   <Gun_AKS-74U_SA.description>소형 무기가 필요한 운전사, 전차병 등을 위해 설계된 AK-74의 단축 버전.</Gun_AKS-74U_SA.description>
   <Gun_AKS-74U_SA.tools.0.label>개머리판</Gun_AKS-74U_SA.tools.0.label>
-  <Gun_RPK_SA.label>RPK 경기관총 만들기</Gun_RPK_SA.label>
+  <Gun_RPK_SA.label>RPK 경기관총</Gun_RPK_SA.label>
   <Gun_RPK_SA.description>AKM에 더 큰 탄통과 더 긴 총열, 받침대를 붙였습니다. 경기관총처럼 사용합니다.</Gun_RPK_SA.description>
   <Gun_RPK_SA.tools.0.label>개머리판</Gun_RPK_SA.tools.0.label>
-  <Gun_SKS_SA.label>SKS 소총 만들기</Gun_SKS_SA.label>
+  <Gun_SKS_SA.label>SKS 소총</Gun_SKS_SA.label>
   <Gun_SKS_SA.description>반자동 소총. 정확한 사격이 가능해서 장거리 사격에 사용할 수 있습니다.</Gun_SKS_SA.description>
   <Gun_SKS_SA.tools.0.label>개머리판</Gun_SKS_SA.tools.0.label>
-  <Gun_Makarov_SA.label>마카로프 권총 만들기</Gun_Makarov_SA.label>
+  <Gun_Makarov_SA.label>마카로프 권총</Gun_Makarov_SA.label>
   <Gun_Makarov_SA.description>마카로프 권총은 경찰이 가장 좋아하는 무기였지만, 당신이 원한다면 사용 가능합니다.</Gun_Makarov_SA.description>
   <Gun_Makarov_SA.tools.0.label>손잡이</Gun_Makarov_SA.tools.0.label>
-  <Gun_AK-74M_SA.label>AK-74M 돌격소총 만들기</Gun_AK-74M_SA.label>
+  <Gun_AK-74M_SA.label>AK-74M 돌격소총</Gun_AK-74M_SA.label>
   <Gun_AK-74M_SA.description>폴리머 개머리판을 장착한 AK-74의 현대화 버전입니다.</Gun_AK-74M_SA.description>
   <Gun_AK-74M_SA.tools.0.label>개머리판</Gun_AK-74M_SA.tools.0.label>
-  <Gun_SVD_SA.label>SVD 드라구노프 저격소총 만들기</Gun_SVD_SA.label>
+  <Gun_SVD_SA.label>SVD 드라구노프 저격소총</Gun_SVD_SA.label>
   <Gun_SVD_SA.description>스코프가 달린 반자동 저격소총입니다. 사용자에 따라 치명적인 무기가 됩니다.</Gun_SVD_SA.description>
   <Gun_SVD_SA.tools.0.label>개머리판</Gun_SVD_SA.tools.0.label>
-  <Gun_Saiga12K_SA.label>사이가12K 산탄총 만들기</Gun_Saiga12K_SA.label>
+  <Gun_Saiga12K_SA.label>사이가12K 산탄총</Gun_Saiga12K_SA.label>
   <Gun_Saiga12K_SA.description>12-게이지 탄을 사용하는 전투산탄총입니다. 박스 탄창이 장착되어 있습니다.</Gun_Saiga12K_SA.description>
   <Gun_Saiga12K_SA.tools.0.label>개머리판</Gun_Saiga12K_SA.tools.0.label>
-  <Gun_RPG_SA.label>RPG-7V2 대전차로켓 만들기</Gun_RPG_SA.label>
+  <Gun_RPG_SA.label>RPG-7V2 대전차로켓</Gun_RPG_SA.label>
   <Gun_RPG_SA.description>RPG-7의 견고성, 단순성, 낮은 비용, 그리고 효과성은 그것을 세계에서 가장 널리 사용되는 대장갑 무기로 만들었습니다. 알라의 마법봉</Gun_RPG_SA.description>
   <Gun_RPG_SA.tools.0.label>개머리판</Gun_RPG_SA.tools.0.label>
-  <Gun_AK-74_SA.label>AK-74 돌격소총 만들기</Gun_AK-74_SA.label>
+  <Gun_AK-74_SA.label>AK-74 돌격소총</Gun_AK-74_SA.label>
   <Gun_AK-74_SA.description>5,45mm 탄을 사용하는 새로운 AK 시리즈입니다.</Gun_AK-74_SA.description>
   <Gun_AK-74_SA.tools.0.label>개머리판</Gun_AK-74_SA.tools.0.label>
-  <Gun_RPO-Z_SA.label>RPO-Z 시멜 무반동총 만들기</Gun_RPO-Z_SA.label>
+  <Gun_RPO-Z_SA.label>RPO-Z 시멜 무반동총</Gun_RPO-Z_SA.label>
   <Gun_RPO-Z_SA.description>단독 사용, 사람이 운반 가능한 로켓 런처입니다. 소이탄을 사용합니다. 식민지인들은 명령 없이는 사격하지 않습니다.</Gun_RPO-Z_SA.description>
-  <Gun_MR-444_SA.label>MR-444 권총 만들기</Gun_MR-444_SA.label>
+  <Gun_MR-444_SA.label>MR-444 권총</Gun_MR-444_SA.label>
   <Gun_MR-444_SA.description>MR-444 바기라는 구형 마카로프를 대체하기 위한 새로운 권총 모델입니다.</Gun_MR-444_SA.description>
   <Gun_MR-444_SA.tools.0.label>손잡이</Gun_MR-444_SA.tools.0.label>
-  <Gun_PP-19_SA.label>PP-19 기관단총 만들기</Gun_PP-19_SA.label>
+  <Gun_PP-19_SA.label>PP-19 기관단총</Gun_PP-19_SA.label>
   <Gun_PP-19_SA.description>근거리에서의 강력한 화력 덕에 대테러 부대와 많은 특수부대에서 주로 사용합니다.</Gun_PP-19_SA.description>
   <Gun_PP-19_SA.tools.0.label>개머리판</Gun_PP-19_SA.tools.0.label>
   <Gun_VSS_SA.label>VSS 빈토레즈 저격소총</Gun_VSS_SA.label>
   <Gun_VSS_SA.description>이 위력적인 저격소총은 주로 첩보나 비밀 작전을 위해 스페츠나즈 부대에서 사용했습니다.</Gun_VSS_SA.description>
   <Gun_VSS_SA.tools.0.label>개머리판</Gun_VSS_SA.tools.0.label>
-  <Gun_RGS-50_SA.label>RGS-50 유탄발사기 만들기</Gun_RGS-50_SA.label>
+  <Gun_RGS-50_SA.label>RGS-50 유탄발사기</Gun_RGS-50_SA.label>
   <Gun_RGS-50_SA.description>단발, 비강선식 50mm 유탄 발사기입니다.</Gun_RGS-50_SA.description>
   <Gun_RGS-50_SA.tools.0.label>개머리판</Gun_RGS-50_SA.tools.0.label>
-  <Gun_PKM_SA.label>PKM 기관총 만들기</Gun_PKM_SA.label>
+  <Gun_PKM_SA.label>PKM 기관총</Gun_PKM_SA.label>
   <Gun_PKM_SA.description>PKM은 PK 기관총의 현대화 개량형입니다. 개량은 주로 무게를 줄이고 쉬운 생산성과 더 쉬운 운용을 목표로 진행되었습니다.</Gun_PKM_SA.description>
   <Gun_PKM_SA.tools.0.label>개머리판</Gun_PKM_SA.tools.0.label>
 
@@ -1020,7 +1020,7 @@
   <OGT_Melee_HonorBlade.description>타우 아너 블레이드 이테리얼 타우와 이테리얼 가드가 여러 용도로 사용하는 무기입니다. 이 무기는 그들의 지위의 상징이자 예식용 무기로 사용됩니다. 그리고 스스로를 보호하기 위해서도 사용됩니다. 각 무기 모두가 주문 제작으로 만들어지지만, 모든 아너 블레이드에는 길고 가벼운 금속성 막대기가 넓은 칼날에 끼워져 있습니다. 아주 길고, 양식화된 분쟁을 해결하기 위해서 아너 블레이드의 칼날을 사용하는 이테리얼은, 전쟁보다는 공동 명상을 통해 조화를 이루는 것에 더 적합합니다. 전투원들은 마치 마치 무아지경에 빠진 듯 엮여서 춤을 추고, 그들의 무기는 끔찍한 피해를 입힐 수 있는 간격으로부터 밀리미터 그리고 마이크로초 수준으로 서로를 스쳐 지나갑니다. 하지만 어찌된 일인지 언제나 춤에는 피가 존재하지 않습니다. 마치, 이테리얼들이 서로 완전히 통합된 것처럼 말이죠. 진실은, 전투원들은 그들의 카스트가 아닌, 어느 누구도 알아볼 수 없는 수준에 깊은 정신적 결투를 하고 있습니다. 몇몇 이테리얼들은 그들의 아너 블레이드를 전쟁터에 가져가지만, 아너 블레드를 사용할 것이라고 기대는 하지 않습니다. 그럼에도 불구하고 그들은 자신의 적들을 상대로 최우의 저항을 할 준비를 합니다.</OGT_Melee_HonorBlade.description>
   <OGT_Melee_HonorBlade.tools.0.label>손잡이</OGT_Melee_HonorBlade.tools.0.label>
   <OGT_Melee_HonorBlade.tools.1.label>머리</OGT_Melee_HonorBlade.tools.1.label>
-  <OGT_Melee_PowerSword.label>파워 소드 만들기(크룻)</OGT_Melee_PowerSword.label>
+  <OGT_Melee_PowerSword.label>파워 소드(크룻)</OGT_Melee_PowerSword.label>
   <OGT_Melee_PowerSword.description>파워소드는 다양한 길이와 디자인을 가진 검 모양 파워 웨폰입니다. 다양한 재료로 만들어지지만, 보통 아다만티움을 사용합니다. 자루에 있는 컨트롤을 만져서 파워 셀이 활성화되면, 칼날은 파괴적인 에너지를 가진 치명적인 코로나에 둘러싸입니다 치명적인 코로나에 둘러싸입니다. 이 에너지장 덕분에 파워소드의 칼날이 적의 살과 뼈, 그리고 장갑판으로 구성된 대부분을 조각내 버리게 해주고 임페리얼의 근접 전투 무기로 매우 효과적이게 만들어줍니다. 파워 소드는 임페리얼 가드맨 병단과 아뎁투스 아스타르테스의 스페이스 마린을 포함한, 임페리얼의 구성원 모두가 무기로 사용합니다..</OGT_Melee_PowerSword.description>
   <OGT_Melee_PowerSword.tools.0.label>칼날</OGT_Melee_PowerSword.tools.0.label>
   <OGT_Melee_PowerSword.tools.1.label>칼끝</OGT_Melee_PowerSword.tools.1.label>
@@ -1505,7 +1505,7 @@
   <HBarrierShell.description>내부가 비어있고 재질 압축 처리된 H-방벽입니다. 가볍고 휴대성이 뛰어나며 신속하게 설치가 가능하여 장애물 또는 방어벽을 제공합니다.</HBarrierShell.description>
   <RazorWire.label>윤형 철조망</RazorWire.label>
   <RazorWire.description>침입자를 막기 위해 길고 날카로운 칼날이 있는 강철 윤형 철조망입니다. 장애물로 배치되거나 보다 강력한 방어 수단을 구축하는데 사용할 수 있습니다. 장갑을 착용하고 다루세요.</RazorWire.description>
-  <M14Mine.label>M14 지뢰 (비장갑)</M14Mine.label>
+  <M14Mine.label>M14 지뢰 (미설치)</M14Mine.label>
   <M14Mine.description>작고 가벼운, 대인용 지뢰입니다. 건조하고 안전한 곳에 보관하세요.</M14Mine.description>
   <RazorWireObstacle.label>윤형 철조망 장애물</RazorWireObstacle.label>
   <RazorWireObstacle.description>단일 코일로 이루어진 고정된 윤형 철조망 장애물입니다. 저렴하고 가벼우며 설치가 매우 빠릅니다.</RazorWireObstacle.description>
@@ -3473,7 +3473,7 @@
   <RC2_Quernstone_Frame.label>맷돌 (건설 중)</RC2_Quernstone_Frame.label>
   <RC2_Quernstone_Frame.description>몸의 근육을 사용해 곡식을 가는 작은 돌입니다.</RC2_Quernstone_Frame.description>
   <RC2_RollerMill.label>롤러 제분기</RC2_RollerMill.label>
-  <RC2_RollerMill.description>전기를 사용해서 곡식으 가는 작은 전동 기계입니다.</RC2_RollerMill.description>
+  <RC2_RollerMill.description>전기를 사용해서 곡식을 가는 작은 전동 기계입니다.</RC2_RollerMill.description>
   <RC2_RollerMill_Blueprint.label>롤러 제분기 (청사진)</RC2_RollerMill_Blueprint.label>
   <RC2_RollerMill_Blueprint_Install.label>롤러 제분기 (청사진)</RC2_RollerMill_Blueprint_Install.label>
   <RC2_RollerMill_Frame.label>롤러 제분기 (건설 중)</RC2_RollerMill_Frame.label>
@@ -5496,18 +5496,18 @@
   <SadjuukCarpetBF_Frame.description>아주 좋은 원단으로 꾸며진 양탄자, 가장 호화로운 곳을 위해 제작되었습니다.</SadjuukCarpetBF_Frame.description>
   <SadjuukCarpetCF.description>아주 좋은 원단으로 꾸며진 양탄자, 가장 호화로운 곳을 위해 제작되었습니다.</SadjuukCarpetCF.description>
   <SadjuukCarpetCF_Frame.description>아주 좋은 원단으로 꾸며진 양탄자, 가장 호화로운 곳을 위해 제작되었습니다.</SadjuukCarpetCF_Frame.description>
-  <SadjuukChairCA.description>토론을 위한 공간을 만들기 위한 좋은 디자인의 의자..</SadjuukChairCA.description>
-  <SadjuukChairCA_Frame.description>토론을 위한 공간을 만들기 위한 좋은 디자인의 의자..</SadjuukChairCA_Frame.description>
-  <SadjuukChairCB.description>토론을 위한 공간을 만들기 위한 좋은 디자인의 의자..</SadjuukChairCB.description>
-  <SadjuukChairCB_Frame.description>토론을 위한 공간을 만들기 위한 좋은 디자인의 의자..</SadjuukChairCB_Frame.description>
-  <SadjuukChairCC.description>토론을 위한 공간을 만들기 위한 좋은 디자인의 의자..</SadjuukChairCC.description>
-  <SadjuukChairCC_Frame.description>토론을 위한 공간을 만들기 위한 좋은 디자인의 의자..</SadjuukChairCC_Frame.description>
-  <SadjuukChairAA.description>생활공간을 만드는데 필수적인 요소, 의자.</SadjuukChairAA.description>
-  <SadjuukChairAA_Frame.description>생활공간을 만드는데 필수적인 요소, 의자.</SadjuukChairAA_Frame.description>
-  <SadjuukChairAB.description>생활공간을 만드는데 필수적인 요소, 의자.</SadjuukChairAB.description>
-  <SadjuukChairAB_Frame.description>생활공간을 만드는데 필수적인 요소, 의자.</SadjuukChairAB_Frame.description>
-  <SadjuukChairAC.description>생활공간을 만드는데 필수적인 요소, 의자.</SadjuukChairAC.description>
-  <SadjuukChairAC_Frame.description>생활공간을 만드는데 필수적인 요소, 의자.</SadjuukChairAC_Frame.description>
+  <SadjuukChairCA.description>토론을 위한 공간을 만들기 위한 좋은 디자인의 의자입니다.</SadjuukChairCA.description>
+  <SadjuukChairCA_Frame.description>토론을 위한 공간을 만들기 위한 좋은 디자인의 의자입니다.</SadjuukChairCA_Frame.description>
+  <SadjuukChairCB.description>토론을 위한 공간을 만들기 위한 좋은 디자인의 의자입니다.</SadjuukChairCB.description>
+  <SadjuukChairCB_Frame.description>토론을 위한 공간을 만들기 위한 좋은 디자인의 의자입니다.</SadjuukChairCB_Frame.description>
+  <SadjuukChairCC.description>토론을 위한 공간을 만들기 위한 좋은 디자인의 의자입니다.</SadjuukChairCC.description>
+  <SadjuukChairCC_Frame.description>토론을 위한 공간을 만들기 위한 좋은 디자인의 의자입니다.</SadjuukChairCC_Frame.description>
+  <SadjuukChairAA.description>생활공간을 만드는데 필수적인 요소, 의자입니다.</SadjuukChairAA.description>
+  <SadjuukChairAA_Frame.description>생활공간을 만드는데 필수적인 요소, 의자입니다.</SadjuukChairAA_Frame.description>
+  <SadjuukChairAB.description>생활공간을 만드는데 필수적인 요소, 의자입니다.</SadjuukChairAB.description>
+  <SadjuukChairAB_Frame.description>생활공간을 만드는데 필수적인 요소, 의자입니다.</SadjuukChairAB_Frame.description>
+  <SadjuukChairAC.description>생활공간을 만드는데 필수적인 요소, 의자입니다.</SadjuukChairAC.description>
+  <SadjuukChairAC_Frame.description>생활공간을 만드는데 필수적인 요소, 의자입니다.</SadjuukChairAC_Frame.description>
   <SadjuukBedAB.description>안락한 나무 침대.</SadjuukBedAB.description>
   <SadjuukBedAB_Frame.description>안락한 나무 침대.</SadjuukBedAB_Frame.description>
   <SadjuukBedBB.description>편안한 나무 큰 침대.</SadjuukBedBB.description>
