@@ -33,7 +33,7 @@
   <AU_Extra>추가</AU_Extra>
   <AU_MentalStateChance>정신상태 확률</AU_MentalStateChance>
   <AU_EffectChance>효과 확률</AU_EffectChance>
-  <AU_PawnAbilityRecharging>{0} 은 재사용 대기 중입니다</AU_PawnAbilityRecharging>
+  <AU_PawnAbilityRecharging>{0}(은)는 재사용 대기 중입니다</AU_PawnAbilityRecharging>
   <AU_AoEProperties>광역 특성</AU_AoEProperties>
   <AU_TargetClass>목표:</AU_TargetClass>
   <AU_AoECharacters>캐릭터</AU_AoECharacters>
@@ -169,18 +169,6 @@
   <FenceLinkable>울타리가 벽과 연결되도록 허용:</FenceLinkable>
   <FenceRoofable>울타리가 지붕을 지탱하도록 허용:</FenceRoofable>
 
-  <!--1833592062_190816_RimCuisine 2 Core-->
-  <NoFermentingIngredient>사용 불가 (재료 없음)</NoFermentingIngredient>
-  <FermentingBuildingContainsSomething>{0} / {1} {2}가 들어있음.</FermentingBuildingContainsSomething>
-
-  <!--1833592532_190816_RimCuisine 2 Bottling and Booze Expansion-->
-  <NoFermentingIngredient>사용 불가 (재료 없음)</NoFermentingIngredient>
-  <FermentingBuildingContainsSomething>{0} / {1} {2}가 들어있음.</FermentingBuildingContainsSomething>
-
-  <!--1833592940_190816_RimCuisine 2 Meals and Munchies Expansion-->
-  <NoFermentingIngredient>사용 불가 (재료 없음)</NoFermentingIngredient>
-  <FermentingBuildingContainsSomething>{0} / {1} {2}가 들어있음.</FermentingBuildingContainsSomething>
-
   <!--761379469_190814_Remote Tech-->
   <DetonatorTable_detonate_label>폭발</DetonatorTable_detonate_label>
   <DetonatorTable_detonate_desc>범위내 같은 채널에 있는 모든 폭발물을 폭파시킵니다.</DetonatorTable_detonate_desc>
@@ -314,10 +302,6 @@
   <!--1561713784_190818_High Density Hydroponics-->
   <HDHHighestGrowth>재배</HDHHighestGrowth>
   <HDHPlantCount>재배중인 수경재배기</HDHPlantCount>
-
-  <!--1833163132_190826_Ceramics-->
-  <NoFermentingIngredient>성분이 필요합니다.</NoFermentingIngredient>
-  <FermentingBuildingContainsSomething>{0}개채워짐/ {1} {2}.</FermentingBuildingContainsSomething>
 
   <!--1536615776_190822_Cargo Pod Transport-->
   <CommandAddFuel>연료넣기</CommandAddFuel>

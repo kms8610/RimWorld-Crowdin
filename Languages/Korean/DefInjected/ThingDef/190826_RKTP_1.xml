@@ -16062,7 +16062,7 @@
   <PlantProcessingTable_Blueprint.label>식물 가공 작업대 (청사진)</PlantProcessingTable_Blueprint.label>
   <PlantProcessingTable_Frame.label>식물 가공 작업대 (건설 중)</PlantProcessingTable_Frame.label>
   <RawCotton.label>면 원료</RawCotton.label>
-  <RawCotton.description>면 원료에서 채취한 가공되지 않은 면입니다. 식물 가공 작업대에서 면으로 가공해야 합니다.</RawCotton.description>
+  <RawCotton.description>목화에서 채취한 가공되지 않은 면입니다. 식물 가공 작업대에서 면으로 가공해야 합니다.</RawCotton.description>
   <RawDevilstrand.label>악마가닥 원료</RawDevilstrand.label>
   <RawDevilstrand.description>악마가닥에서 채취한 가공되지 않은 악마가닥입니다. 식물 가공 작업대에서 악마가닥으로 가공해야 합니다.</RawDevilstrand.description>
   <RawHealroot.label>생약 재료</RawHealroot.label>

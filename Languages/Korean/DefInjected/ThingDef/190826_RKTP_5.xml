@@ -411,91 +411,6 @@
   <IV_BloodBag.label>혈액팩</IV_BloodBag.label>
   <IV_BloodBag.description>적당량의 인간 혈액이 들어있는 비닐봉지입니다. 혈액형? 누가 신경쓰겠어요?</IV_BloodBag.description>
 
-  <!--1469664205_190622_Soviet Armory [1.0]-->
-  <TableSA.label>소비에트 무기 테이블</TableSA.label>
-  <TableSA.description>소련과 러시아 연방의 영광스러운 무기를 조립하기 위한 작업소(자신을 속이지 마라, 기본적으로 같은 것이지만 이름은 다르다)</TableSA.description>
-  <TableSA_Blueprint.label>소비에트 무기 테이블 (청사진)</TableSA_Blueprint.label>
-  <TableSA_Blueprint_Install.label>소비에트 무기 테이블 (청사진)</TableSA_Blueprint_Install.label>
-  <TableSA_Frame.label>소비에트 무기 테이블 (건설 중)</TableSA_Frame.label>
-  <TableSA_Frame.description>소련과 러시아 연방의 영광스러운 무기를 조립하기 위한 작업소(자신을 속이지 마라, 기본적으로 같은 것이지만 이름은 다르다)</TableSA_Frame.description>
-  <Turret_AGS.label>AGS-17 Plamya 포탑</Turret_AGS.label>
-  <Turret_AGS.description>삼각대가 장착된 30MM 자동 유탄 발사기입니다.</Turret_AGS.description>
-  <Turret_AGS_Blueprint.label>AGS-17 Plamya 포탑 (청사진)</Turret_AGS_Blueprint.label>
-  <Turret_AGS_Blueprint_Install.label>AGS-17 Plamya 포탑 (청사진)</Turret_AGS_Blueprint_Install.label>
-  <Turret_AGS_Frame.label>AGS-17 Plamya 포탑 (건설 중)</Turret_AGS_Frame.label>
-  <Turret_AGS_Frame.description>삼각대가 장착된 30MM 자동 유탄 발사기입니다.</Turret_AGS_Frame.description>
-  <Bullet_300mm.label>유탄 발사기 탄환</Bullet_300mm.label>
-  <Gun_AGS.label>AGS 17 Plamya</Gun_AGS.label>
-  <Gun_AGS.description>삼각대가 장착된 30MM 자동 유탄 발사기입니다.</Gun_AGS.description>
-  <Turret_NSV.label>NSV Utyos 포탑</Turret_NSV.label>
-  <Turret_NSV.description>삼각대가 장착된 12,7mm 중기관총입니다.</Turret_NSV.description>
-  <Turret_NSV_Blueprint.label>NSV Utyos 포탑 (청사진)</Turret_NSV_Blueprint.label>
-  <Turret_NSV_Blueprint_Install.label>NSV Utyos 포탑 (청사진)</Turret_NSV_Blueprint_Install.label>
-  <Turret_NSV_Frame.label>NSV Utyos 포탑 (건설 중)</Turret_NSV_Frame.label>
-  <Turret_NSV_Frame.description>삼각대가 장착된 12,7mm 중기관총입니다.</Turret_NSV_Frame.description>
-  <Bullet_1270mm.label>중기관총 탄환</Bullet_1270mm.label>
-  <Gun_NSV.label>NSV</Gun_NSV.label>
-  <Gun_NSV.description>삼각대가 장착된 12,7mm 중기관총입니다.</Gun_NSV.description>
-  <Bullet_762mm.label>소총 탄환</Bullet_762mm.label>
-  <Bullet_545mm.label>경기관총 탄환</Bullet_545mm.label>
-  <Bullet_900mm.label>권총 탄환</Bullet_900mm.label>
-  <Bullet_762mmR.label>저격소총 탄환</Bullet_762mmR.label>
-  <Bullet_12G.label>샷건 탄환</Bullet_12G.label>
-  <Bullet_PG-7M.label>로켓</Bullet_PG-7M.label>
-  <Bullet_RPO-Z.label>소이탄</Bullet_RPO-Z.label>
-  <Bullet_900mm_wtm.label>권총 탄환</Bullet_900mm_wtm.label>
-  <Bullet_50mm.label>수류탄</Bullet_50mm.label>
-  <Gun_AKM_SA.label>AKM 돌격소총</Gun_AKM_SA.label>
-  <Gun_AKM_SA.description>값싸고 믿을만한 AK의 약간 현대화된 버전입니다.</Gun_AKM_SA.description>
-  <Gun_AKM_SA.tools.0.label>개머리판</Gun_AKM_SA.tools.0.label>
-  <Gun_AKMS_SA.label>AKMS 돌격소총</Gun_AKMS_SA.label>
-  <Gun_AKMS_SA.description>AKM에 접철식 개머리판을 붙였습니다.</Gun_AKMS_SA.description>
-  <Gun_AKMS_SA.tools.0.label>개머리판</Gun_AKMS_SA.tools.0.label>
-  <Gun_AKS-74U_SA.label>AKS-74U 단축형 돌격소총</Gun_AKS-74U_SA.label>
-  <Gun_AKS-74U_SA.description>소형 무기가 필요한 운전사, 전차병 등을 위해 설계된 AK-74의 단축 버전.</Gun_AKS-74U_SA.description>
-  <Gun_AKS-74U_SA.tools.0.label>개머리판</Gun_AKS-74U_SA.tools.0.label>
-  <Gun_RPK_SA.label>RPK 경기관총</Gun_RPK_SA.label>
-  <Gun_RPK_SA.description>AKM에 더 큰 탄통과 더 긴 총열, 받침대를 붙였습니다. 경기관총처럼 사용합니다.</Gun_RPK_SA.description>
-  <Gun_RPK_SA.tools.0.label>개머리판</Gun_RPK_SA.tools.0.label>
-  <Gun_SKS_SA.label>SKS 소총</Gun_SKS_SA.label>
-  <Gun_SKS_SA.description>반자동 소총. 정확한 사격이 가능해서 장거리 사격에 사용할 수 있습니다.</Gun_SKS_SA.description>
-  <Gun_SKS_SA.tools.0.label>개머리판</Gun_SKS_SA.tools.0.label>
-  <Gun_Makarov_SA.label>마카로프 권총</Gun_Makarov_SA.label>
-  <Gun_Makarov_SA.description>마카로프 권총은 경찰이 가장 좋아하는 무기였지만, 당신이 원한다면 사용 가능합니다.</Gun_Makarov_SA.description>
-  <Gun_Makarov_SA.tools.0.label>손잡이</Gun_Makarov_SA.tools.0.label>
-  <Gun_AK-74M_SA.label>AK-74M 돌격소총</Gun_AK-74M_SA.label>
-  <Gun_AK-74M_SA.description>폴리머 개머리판을 장착한 AK-74의 현대화 버전입니다.</Gun_AK-74M_SA.description>
-  <Gun_AK-74M_SA.tools.0.label>개머리판</Gun_AK-74M_SA.tools.0.label>
-  <Gun_SVD_SA.label>SVD 드라구노프 저격소총</Gun_SVD_SA.label>
-  <Gun_SVD_SA.description>스코프가 달린 반자동 저격소총입니다. 사용자에 따라 치명적인 무기가 됩니다.</Gun_SVD_SA.description>
-  <Gun_SVD_SA.tools.0.label>개머리판</Gun_SVD_SA.tools.0.label>
-  <Gun_Saiga12K_SA.label>사이가12K 산탄총</Gun_Saiga12K_SA.label>
-  <Gun_Saiga12K_SA.description>12-게이지 탄을 사용하는 전투산탄총입니다. 박스 탄창이 장착되어 있습니다.</Gun_Saiga12K_SA.description>
-  <Gun_Saiga12K_SA.tools.0.label>개머리판</Gun_Saiga12K_SA.tools.0.label>
-  <Gun_RPG_SA.label>RPG-7V2 대전차로켓</Gun_RPG_SA.label>
-  <Gun_RPG_SA.description>RPG-7의 견고성, 단순성, 낮은 비용, 그리고 효과성은 그것을 세계에서 가장 널리 사용되는 대장갑 무기로 만들었습니다. 알라의 마법봉</Gun_RPG_SA.description>
-  <Gun_RPG_SA.tools.0.label>개머리판</Gun_RPG_SA.tools.0.label>
-  <Gun_AK-74_SA.label>AK-74 돌격소총</Gun_AK-74_SA.label>
-  <Gun_AK-74_SA.description>5,45mm 탄을 사용하는 새로운 AK 시리즈입니다.</Gun_AK-74_SA.description>
-  <Gun_AK-74_SA.tools.0.label>개머리판</Gun_AK-74_SA.tools.0.label>
-  <Gun_RPO-Z_SA.label>RPO-Z 시멜 무반동총</Gun_RPO-Z_SA.label>
-  <Gun_RPO-Z_SA.description>단독 사용, 사람이 운반 가능한 로켓 런처입니다. 소이탄을 사용합니다. 식민지인들은 명령 없이는 사격하지 않습니다.</Gun_RPO-Z_SA.description>
-  <Gun_MR-444_SA.label>MR-444 권총</Gun_MR-444_SA.label>
-  <Gun_MR-444_SA.description>MR-444 바기라는 구형 마카로프를 대체하기 위한 새로운 권총 모델입니다.</Gun_MR-444_SA.description>
-  <Gun_MR-444_SA.tools.0.label>손잡이</Gun_MR-444_SA.tools.0.label>
-  <Gun_PP-19_SA.label>PP-19 기관단총</Gun_PP-19_SA.label>
-  <Gun_PP-19_SA.description>근거리에서의 강력한 화력 덕에 대테러 부대와 많은 특수부대에서 주로 사용합니다.</Gun_PP-19_SA.description>
-  <Gun_PP-19_SA.tools.0.label>개머리판</Gun_PP-19_SA.tools.0.label>
-  <Gun_VSS_SA.label>VSS 빈토레즈 저격소총</Gun_VSS_SA.label>
-  <Gun_VSS_SA.description>이 위력적인 저격소총은 주로 첩보나 비밀 작전을 위해 스페츠나즈 부대에서 사용했습니다.</Gun_VSS_SA.description>
-  <Gun_VSS_SA.tools.0.label>개머리판</Gun_VSS_SA.tools.0.label>
-  <Gun_RGS-50_SA.label>RGS-50 유탄발사기</Gun_RGS-50_SA.label>
-  <Gun_RGS-50_SA.description>단발, 비강선식 50mm 유탄 발사기입니다.</Gun_RGS-50_SA.description>
-  <Gun_RGS-50_SA.tools.0.label>개머리판</Gun_RGS-50_SA.tools.0.label>
-  <Gun_PKM_SA.label>PKM 기관총</Gun_PKM_SA.label>
-  <Gun_PKM_SA.description>PKM은 PK 기관총의 현대화 개량형입니다. 개량은 주로 무게를 줄이고 쉬운 생산성과 더 쉬운 운용을 목표로 진행되었습니다.</Gun_PKM_SA.description>
-  <Gun_PKM_SA.tools.0.label>개머리판</Gun_PKM_SA.tools.0.label>
-
   <!--1501413120_190811_Flamethrower-->
   <Bullet_Flamethrower.label>불</Bullet_Flamethrower.label>
   <Gun_Flamethrower.label>화염방사기</Gun_Flamethrower.label>
@@ -2921,290 +2836,6 @@
   <Oni_WarDagger_ToxicGun.description>오니 전쟁 단검은 매우 무시무시한 무기입니다. 훈련된 이가 들면, 근접전에서나 원거리 전투 양쪽에서 치명적인 도구가 될 수 있습니다.</Oni_WarDagger_ToxicGun.description>
   <Oni_WarDagger_ToxicGun.tools.0.label>칼날</Oni_WarDagger_ToxicGun.tools.0.label>
   <Oni_WarDagger_ToxicGun.tools.1.label>칼끝</Oni_WarDagger_ToxicGun.tools.1.label>
-
-  <!--1768843436_190622_Kaiser Armory [1.0]-->
-  <TableKA.label>카이저 기계 테이블</TableKA.label>
-  <TableKA.description>카이저 병기고 모드의 무기 및 기타 물건을 조립하는 작업 스테이션입니다.</TableKA.description>
-  <TableKA_Blueprint.label>카이저 기계 테이블 (청사진)</TableKA_Blueprint.label>
-  <TableKA_Blueprint_Install.label>카이저 기계 테이블 (청사진)</TableKA_Blueprint_Install.label>
-  <TableKA_Frame.label>카이저 기계 테이블 (건설 중)</TableKA_Frame.label>
-  <TableKA_Frame.description>카이저 병기고 모드의 무기 및 기타 물건을 조립하는 작업 스테이션입니다.</TableKA_Frame.description>
-  <Turret_FK_96_KA.label>7,7cm FK 96 n.A. 곡사포</Turret_FK_96_KA.label>
-  <Turret_FK_96_KA.description>이 곡사포는 이전의 7.7cm FK 96의 포신을 새로운 반동 시스템, 약실, 운반용 바퀴와 결합시킨 것입니다. 기존의 FK 96s을 오랜 시간에 걸쳐 업그레이드 시켰습니다. The FK 96 n.A.</Turret_FK_96_KA.description>
-  <Turret_FK_96_KA_Blueprint.label>7,7cm FK 96 n.A. (청사진)</Turret_FK_96_KA_Blueprint.label>
-  <Turret_FK_96_KA_Blueprint_Install.label>7,7cm FK 96 n.A. (청사진)</Turret_FK_96_KA_Blueprint_Install.label>
-  <Turret_FK_96_KA_Frame.label>7,7cm FK 96 n.A. (건설 중)</Turret_FK_96_KA_Frame.label>
-  <Turret_FK_96_KA_Frame.description>이 야포는 이전의 7.7cm FK 96의 포신을 새로운 반동 시스템, 약실, 운반용 바퀴와 결합시킨 것입니다. 기존의 FK 96s을 오랜 시간에 걸쳐 업그레이드 시켰습니다. The FK 96 n.A.</Turret_FK_96_KA_Frame.description>
-  <Artillery_FK_96_KA.label>7,7cm FK 96 n.A. 곡사포</Artillery_FK_96_KA.label>
-  <Artillery_FK_96_KA.description>이 곡사포는 이전의 7.7cm FK 96의 포신을 새로운 반동 시스템, 약실, 운반용 바퀴와 결합시킨 것입니다. 기존의 FK 96s을 오랜 시간에 걸쳐 업그레이드 시켰습니다. The FK 96 n.A.</Artillery_FK_96_KA.description>
-  <Shell_77cm_HE_KA.label>7,7cm 고폭탄</Shell_77cm_HE_KA.label>
-  <Shell_77cm_HE_KA.description>가연성 물질로 가득 찬 포탄입니다. 손상되면 폭발합니다.</Shell_77cm_HE_KA.description>
-  <Shell_77cm_AP_KA.label>7,7cm 철갑탄</Shell_77cm_AP_KA.label>
-  <Shell_77cm_AP_KA.description>폭발성 충전제가 없는 포탄입니다. 훨씬 더 많은 갑옷을 뚫고 들어갈 수 있지만, 맞은 후에 폭발하지는 않습니다.</Shell_77cm_AP_KA.description>
-  <Bullet_FK_96_HE_KA.label>고폭탄</Bullet_FK_96_HE_KA.label>
-  <Bullet_FK_96_AP_KA.label>철갑탄</Bullet_FK_96_AP_KA.label>
-  <Turret_leFH_16_KA.label>10,5cm leFH 16</Turret_leFH_16_KA.label>
-  <Turret_leFH_16_KA.description>10,5 cm 16호 경곡사포는 10, 5 cm 경곡사포 98/09의 후속 모델로, 1916년에 도입되었습니다. 보다 긴 배럴과 그에 따른 더 긴 범위가 특징입니다.</Turret_leFH_16_KA.description>
-  <Turret_leFH_16_KA_Blueprint.label>10,5cm leFH 16 (청사진)</Turret_leFH_16_KA_Blueprint.label>
-  <Turret_leFH_16_KA_Blueprint_Install.label>10,5cm leFH 16 (청사진)</Turret_leFH_16_KA_Blueprint_Install.label>
-  <Turret_leFH_16_KA_Frame.label>10,5cm leFH 16 (건설 중)</Turret_leFH_16_KA_Frame.label>
-  <Turret_leFH_16_KA_Frame.description>10,5 cm 16호 경곡사포는 10, 5 cm 경곡사포 98/09의 후속 모델로, 1916년에 도입되었습니다. 보다 긴 배럴과 그에 따른 더 긴 범위가 특징입니다.</Turret_leFH_16_KA_Frame.description>
-  <Artillery_leFH_16_KA.label>10,5cm leFH 16 야포</Artillery_leFH_16_KA.label>
-  <Artillery_leFH_16_KA.description>10,5 cm 16호 경곡사포는 10, 5 cm 경곡사포 98/09의 후속 모델로, 1916년에 도입되었습니다. 보다 긴 배럴과 그에 따른 더 긴 범위가 특징입니다.</Artillery_leFH_16_KA.description>
-  <Shell_105cm_HE_KA.label>10,5cm 고폭탄</Shell_105cm_HE_KA.label>
-  <Shell_105cm_HE_KA.description>가연성 물질로 가득 찬 포탄입니다. 손상되면 폭발합니다.</Shell_105cm_HE_KA.description>
-  <Bullet_leFH_16_HE_KA.label>고폭탄</Bullet_leFH_16_HE_KA.label>
-  <Turret_MG_08_KA.label>맥심 MG 08</Turret_MG_08_KA.label>
-  <Turret_MG_08_KA.description>하이람 S. 맥심의 1884년에 만들어진 맥심 기관총의 파생형으로, 세계 1차 대전 당시의 독일군의 기본 기관총입니다. 전쟁중 여러 파생형이 만들어졌습니다.</Turret_MG_08_KA.description>
-  <Turret_MG_08_KA_Blueprint.label>맥심 MG 08 (청사진)</Turret_MG_08_KA_Blueprint.label>
-  <Turret_MG_08_KA_Blueprint_Install.label>맥심 MG 08 (청사진)</Turret_MG_08_KA_Blueprint_Install.label>
-  <Turret_MG_08_KA_Frame.label>맥심 MG 08 (건설 중)</Turret_MG_08_KA_Frame.label>
-  <Turret_MG_08_KA_Frame.description>하이람 S. 맥심의 1884년에 만들어진 맥심 기관총의 파생형으로, 세계 1차 대전 당시의 독일군의 기본 기관총입니다. 전쟁중 여러 파생형이 만들어졌습니다.</Turret_MG_08_KA_Frame.description>
-  <Bullet_792mm_MG_08_KA.label>MG 08 탄환</Bullet_792mm_MG_08_KA.label>
-  <Gun_MG_08_KA.label>맥심 MG 08</Gun_MG_08_KA.label>
-  <Gun_MG_08_KA.description>하이람 S. 맥심의 1884년에 만들어진 맥심 기관총의 파생형으로, 세계 1차 대전 당시의 독일군의 기본 기관총입니다. 전쟁중 여러 파생형이 만들어졌습니다.</Gun_MG_08_KA.description>
-  <MeleeWeapon_Feldspaten.label>M1887 Feldspaten (야전삽)</MeleeWeapon_Feldspaten.label>
-  <MeleeWeapon_Feldspaten.description>M1887 야전삽은 대부분의 보병들이 휴대했으며, 야전 작업에 활용했습니다. 참호의 아슬아슬한 틈바구니에서 소총과 고정 총검은 효과적인 사용을 위해 너무 긴 경우가 많았고, 종종 이런 연장들을 근접 전투에 투입하기도 했습니다. 1915년부터, 양측의 병사들은 무기로 사용하기 위해 삽의 가장자리를 일상적으로 갈았습니다.</MeleeWeapon_Feldspaten.description>
-  <MeleeWeapon_Feldspaten.tools.0.label>손잡이</MeleeWeapon_Feldspaten.tools.0.label>
-  <MeleeWeapon_Feldspaten.tools.1.label>모서리</MeleeWeapon_Feldspaten.tools.1.label>
-  <MeleeWeapon_Sabel.label>M1873 사브르</MeleeWeapon_Sabel.label>
-  <MeleeWeapon_Sabel.description>1873년 도입되었으며, 포병 연대가 사용하였습니다.</MeleeWeapon_Sabel.description>
-  <MeleeWeapon_Sabel.tools.0.label>손잡이</MeleeWeapon_Sabel.tools.0.label>
-  <MeleeWeapon_Sabel.tools.1.label>모서리</MeleeWeapon_Sabel.tools.1.label>
-  <Bullet_900mm_KA.label>9mm MP18 탄환</Bullet_900mm_KA.label>
-  <Bullet_792mm_KA.label>7.92mm 게베어 98 탄환</Bullet_792mm_KA.label>
-  <Bullet_763mm_KA.label>7.63mm C96 탄환</Bullet_763mm_KA.label>
-  <Bullet_Flame_KA.label>WEX 화염방사기 탄환</Bullet_Flame_KA.label>
-  <Gun_MP_18_KA.label>MP 18</Gun_MP_18_KA.label>
-  <Gun_MP_18_KA.description>MP18은 베르크만사의 후고 슈마이서가 개발해낸 기관단총입니다. 1918년 제1차 세계대전 당시 독일군에 의해 참호전투 전문 공격집단인 슈투름트루펜의 1차 무기로 도입되었습니다. 비록 MP 18 생산이 1920년대에 끝났지만, 그것의 디자인은 1920년에서 1960년 사이에 제작된 대부분의 서브 머신 건들의 기초를 형성했습니다.</Gun_MP_18_KA.description>
-  <Gun_MP_18_KA.tools.0.label>개머리판</Gun_MP_18_KA.tools.0.label>
-  <Gun_Gew_98_KA.label>게베어 98</Gun_Gew_98_KA.label>
-  <Gun_Gew_98_KA.description>게베어 98은 독일 볼트 액션 소총으로, 마우저가 5-라운드 클립 장착 매거진을 카트리지 형식으로 만든 것입니다. 1898년부터 1935년까지 독일군 제식 소총으로 사용되었으며, 같은 기본 설계를 사용한 단축형 무기인 카라비너 98k로 대체되었습니다.\nGewehr 98의 7.92×57mm 마우저 카트리지를 장착한 스트리퍼 클립을 사용하는 방식은 영국, 일본 및 미국 등 많은 국가에서 곧 채택된 여러 볼트 액션 엔지니어링 개념을 성공적으로 결합 및 개선하였습니다.</Gun_Gew_98_KA.description>
-  <Gun_Gew_98_KA.tools.0.label>개머리판</Gun_Gew_98_KA.tools.0.label>
-  <Gun_C96_KA.label>C96</Gun_C96_KA.label>
-  <Gun_C96_KA.description>마우저 C96은 원래 1896년부터 1937년까지 독일의 무기 제조업체인 마우저가 생산한 반자동 권총입니다. 이 총의 무면허 복제품은 20세기 전반 스페인과 중국에서도 제작되었습다.</Gun_C96_KA.description>
-  <Gun_C96_KA.tools.0.label>손잡이</Gun_C96_KA.tools.0.label>
-  <Gun_WEX_KA.label>WEX 화염방사기</Gun_WEX_KA.label>
-  <Gun_WEX_KA.description>독일군은 1917년 이전의 클라이프 화염방사기를 대체하기 위해 작은 화염방사기를 도입했습니다. Wechselapparat - 이하 WEX에는 도넛 모양의 배낭 연료통이 있고 가운데에는 구형의 추진제 컨테니어가 있습니다. 이 디자인은 2차 세계 대전 전에 업데이트되어 화염방사기 모델 35가 되었습니다.</Gun_WEX_KA.description>
-  <Gun_P08_KA.label>P08</Gun_P08_KA.label>
-  <Gun_P08_KA.description>흔히 그냥 루거로 알려진 피스톨 파라벨럼은 1898년부터 1948년까지 여러 모델과 여러 국가에서 생산된 토글 잠금식 반자동 권총입니다. 이 디자인은 보르하르트 오토매틱 피스톨의 개량형으로 게오르그 루거에 의해 처음 특허를 받았으며, 독일 무기 제조업체 Deutsche Waffen- und Munitionsfabriken Aktien-Gesellschaft에 의해 파라벨럼 자동 피스톨, 보르하르트-루거 시스템으로 제작되었다.</Gun_P08_KA.description>
-  <Gun_P08_KA.tools.0.label>손잡이</Gun_P08_KA.tools.0.label>
-  <Gun_P08_Artillerie_KA.label>P08 포병형</Gun_P08_Artillerie_KA.label>
-  <Gun_P08_Artillerie_KA.description>더 긴 배럴, 향상된 가늠자, 32발들이 드럼형 탄창, 8인치 배럴 및 탈착식 목재 개머리판이 있는 P08.</Gun_P08_Artillerie_KA.description>
-  <Gun_P08_Artillerie_KA.tools.0.label>개머리판</Gun_P08_Artillerie_KA.tools.0.label>
-
-  <!--1778648673_190712_Reich_Armory-->
-  <Belt_Flak_38_HEFIT_RA.label>2cm 고폭파편소이예광탄(HEFI-T) 탄띠</Belt_Flak_38_HEFIT_RA.label>
-  <Belt_Flak_38_HEFIT_RA.description>폭발성이 높은 탄띠. 손상되면 폭발합니다.</Belt_Flak_38_HEFIT_RA.description>
-  <Bullet_Flak_38_HEFIT_RA.label>AA Bullet</Bullet_Flak_38_HEFIT_RA.label>
-  <TableRA.label>제3제국 기계 테이블</TableRA.label>
-  <TableRA.description>제3제국 병기고 모드의 무기와 다른 것들을 조립하기 위한 작업소입니다.</TableRA.description>
-  <TableRA_Blueprint.label>제3제국 기계 테이블 (청사진)</TableRA_Blueprint.label>
-  <TableRA_Blueprint_Install.label>제3제국 기계 테이블 (청사진)</TableRA_Blueprint_Install.label>
-  <TableRA_Frame.label>제3제국 기계 테이블 (건설 중)</TableRA_Frame.label>
-  <TableRA_Frame.description>제3제국 병기고 모드의 무기와 다른 것들을 조립하기 위한 작업소입니다.</TableRA_Frame.description>
-  <Turret_Flak_38_Camo_RA.label>2cm Flak 38 포탑 (위장 도색)</Turret_Flak_38_Camo_RA.label>
-  <Turret_Flak_38_Camo_RA.description>Flak 30과 개량된 Flak 38은 제2차 세계 대전 내내 다양한 독일군이 사용한 20mm 대공포였습니다. 독일의 주력 대공포는 아니지만, 전쟁 내내 지금까지 가장 많이 생산된 독일의 포입니다. 다양한 모델로 제작되었는데, 특히 Flak 38 오토캐넌 4대를 하나의 마차에 결합시킨 Flak 38이 특히 그러했습니다.</Turret_Flak_38_Camo_RA.description>
-  <Turret_Flak_38_Camo_RA_Blueprint.label>2cm Flak 38 포탑 (위장 도색) (청사진)</Turret_Flak_38_Camo_RA_Blueprint.label>
-  <Turret_Flak_38_Camo_RA_Blueprint_Install.label>2cm Flak 38 포탑 (위장 도색) (청사진)</Turret_Flak_38_Camo_RA_Blueprint_Install.label>
-  <Turret_Flak_38_Camo_RA_Frame.label>2cm Flak 38 포탑 (위장 도색) (건설 중)</Turret_Flak_38_Camo_RA_Frame.label>
-  <Turret_Flak_38_Camo_RA_Frame.description>Flak 30과 개량된 Flak 38은 제2차 세계 대전 내내 다양한 독일군이 사용한 20mm 대공포였습니다. 독일의 주력 대공포는 아니지만, 전쟁 내내 지금까지 가장 많이 생산된 독일의 포입니다. 다양한 모델로 제작되었는데, 특히 Flak 38 오토캐넌 4대를 하나의 마차에 결합시킨 Flak 38이 특히 그러했습니다.</Turret_Flak_38_Camo_RA_Frame.description>
-  <Gun_Flak_38_Camo_RA.label>2cm Flak 38</Gun_Flak_38_Camo_RA.label>
-  <Gun_Flak_38_Camo_RA.description>Flak 30과 개량된 Flak 38은 제2차 세계 대전 내내 다양한 독일군이 사용한 20mm 대공포였습니다. 독일의 주력 대공포는 아니지만, 전쟁 내내 지금까지 가장 많이 생산된 독일의 포입니다. 다양한 모델로 제작되었는데, 특히 Flak 38 오토캐넌 4대를 하나의 마차에 결합시킨 Flak 38이 특히 그러했습니다.</Gun_Flak_38_Camo_RA.description>
-  <Turret_Flak_38_Dunkelgelb_RA.label>2cm Flak 38 포탑 (진한 노랑)</Turret_Flak_38_Dunkelgelb_RA.label>
-  <Turret_Flak_38_Dunkelgelb_RA.description>Flak 30과 개량된 Flak 38은 제2차 세계 대전 내내 다양한 독일군이 사용한 20mm 대공포였습니다. 독일의 주력 대공포는 아니지만, 전쟁 내내 지금까지 가장 많이 생산된 독일의 포입니다. 다양한 모델로 제작되었는데, 특히 Flak 38 오토캐넌 4대를 하나의 마차에 결합시킨 Flak 38이 특히 그러했습니다.</Turret_Flak_38_Dunkelgelb_RA.description>
-  <Turret_Flak_38_Dunkelgelb_RA_Blueprint.label>2cm Flak 38 포탑 (진한 노랑) (청사진)</Turret_Flak_38_Dunkelgelb_RA_Blueprint.label>
-  <Turret_Flak_38_Dunkelgelb_RA_Blueprint_Install.label>2cm Flak 38 포탑 (진한 노랑) (청사진)</Turret_Flak_38_Dunkelgelb_RA_Blueprint_Install.label>
-  <Turret_Flak_38_Dunkelgelb_RA_Frame.label>2cm Flak 38 포탑 (진한 노랑) (건설 중)</Turret_Flak_38_Dunkelgelb_RA_Frame.label>
-  <Turret_Flak_38_Dunkelgelb_RA_Frame.description>Flak 30과 개량된 Flak 38은 제2차 세계 대전 내내 다양한 독일군이 사용한 20mm 대공포였습니다. 독일의 주력 대공포는 아니지만, 전쟁 내내 지금까지 가장 많이 생산된 독일의 포입니다. 다양한 모델로 제작되었는데, 특히 Flak 38 오토캐넌 4대를 하나의 마차에 결합시킨 Flak 38이 특히 그러했습니다.</Turret_Flak_38_Dunkelgelb_RA_Frame.description>
-  <Gun_Flak_38_Dunkelgelb_RA.label>2cm Flak 38</Gun_Flak_38_Dunkelgelb_RA.label>
-  <Gun_Flak_38_Dunkelgelb_RA.description>Flak 30과 개량된 Flak 38은 제2차 세계 대전 내내 다양한 독일군이 사용한 20mm 대공포였습니다. 독일의 주력 대공포는 아니지만, 전쟁 내내 지금까지 가장 많이 생산된 독일의 포입니다. 다양한 모델로 제작되었는데, 특히 Flak 38 오토캐넌 4대를 하나의 마차에 결합시킨 Flak 38이 특히 그러했습니다.</Gun_Flak_38_Dunkelgelb_RA.description>
-  <Turret_Flak_38_Panzergrau_RA.label>2cm Flak 38 포탑 (탱크 회색)</Turret_Flak_38_Panzergrau_RA.label>
-  <Turret_Flak_38_Panzergrau_RA.description>Flak 30과 개량된 Flak 38은 제2차 세계 대전 내내 다양한 독일군이 사용한 20mm 대공포였습니다. 독일의 주력 대공포는 아니지만, 전쟁 내내 지금까지 가장 많이 생산된 독일의 포입니다. 다양한 모델로 제작되었는데, 특히 Flak 38 오토캐넌 4대를 하나의 마차에 결합시킨 Flak 38이 특히 그러했습니다.</Turret_Flak_38_Panzergrau_RA.description>
-  <Turret_Flak_38_Panzergrau_RA_Blueprint.label>2cm Flak 38 포탑 (탱크 회색) (청사진)</Turret_Flak_38_Panzergrau_RA_Blueprint.label>
-  <Turret_Flak_38_Panzergrau_RA_Blueprint_Install.label>2cm Flak 38 포탑 (탱크 회색) (청사진)</Turret_Flak_38_Panzergrau_RA_Blueprint_Install.label>
-  <Turret_Flak_38_Panzergrau_RA_Frame.label>2cm Flak 38 포탑 (탱크 회색) (건설 중)</Turret_Flak_38_Panzergrau_RA_Frame.label>
-  <Turret_Flak_38_Panzergrau_RA_Frame.description>Flak 30과 개량된 Flak 38은 제2차 세계 대전 내내 다양한 독일군이 사용한 20mm 대공포였습니다. 독일의 주력 대공포는 아니지만, 전쟁 내내 지금까지 가장 많이 생산된 독일의 포입니다. 다양한 모델로 제작되었는데, 특히 Flak 38 오토캐넌 4대를 하나의 마차에 결합시킨 Flak 38이 특히 그러했습니다.</Turret_Flak_38_Panzergrau_RA_Frame.description>
-  <Gun_Flak_38_Panzergrau_RA.label>2cm Flak 38 탱크 회색 도색</Gun_Flak_38_Panzergrau_RA.label>
-  <Gun_Flak_38_Panzergrau_RA.description>Flak 30과 개량된 Flak 38은 제2차 세계 대전 내내 다양한 독일군이 사용한 20mm 대공포였습니다. 독일의 주력 대공포는 아니지만, 전쟁 내내 지금까지 가장 많이 생산된 독일의 포입니다. 다양한 모델로 제작되었는데, 특히 Flak 38 오토캐넌 4대를 하나의 마차에 결합시킨 Flak 38이 특히 그러했습니다.</Gun_Flak_38_Panzergrau_RA.description>
-  <ZF39_RA.label>ZF39 조준경</ZF39_RA.label>
-  <ZF39_RA.description>Kar98K용 망원조준경 입니다.</ZF39_RA.description>
-  <ZF4_RA.label>ZF4 조준경</ZF4_RA.label>
-  <ZF4_RA.description>Gew 43과 StG 44용 망원조준경 입니다.</ZF4_RA.description>
-  <Schiessbecher_RA.label>총류탄</Schiessbecher_RA.label>
-  <Schiessbecher_RA.description>Kar98K에 장착하는 총류탄 발사기입니다.</Schiessbecher_RA.description>
-  <Kar98K_Ammo_RA.label>7,92mm 고품질 탄약 상자</Kar98K_Ammo_RA.label>
-  <Kar98K_Ammo_RA.description>정밀 사격에 완벽한 7,92mm 마우저 고품질 탄약 팩.</Kar98K_Ammo_RA.description>
-  <Shell_PaK_40_HE_RA.label>7,5cm 고폭탄</Shell_PaK_40_HE_RA.label>
-  <Shell_PaK_40_HE_RA.description>폭발물이 가득 들어있습니다. 충격을 받으면 폭발합니다.</Shell_PaK_40_HE_RA.description>
-  <Shell_PaK_40_APHECBC_RA.label>7,5cm 저저항피모철갑유탄</Shell_PaK_40_APHECBC_RA.label>
-  <Shell_PaK_40_APHECBC_RA.description>대전차용 고폭탄입니다. 경금속 피모와 유선형 캡이 씌워져 있습니다.</Shell_PaK_40_APHECBC_RA.description>
-  <Shell_PaK_40_APCR_RA.label>7,5cm 경심철갑탄</Shell_PaK_40_APCR_RA.label>
-  <Shell_PaK_40_APCR_RA.description>중앙에 심이 들어있고, 겉은 심보다 약한 철갑탄입니다.</Shell_PaK_40_APCR_RA.description>
-  <Bullet_PaK_40_HE_RA.label>고폭탄</Bullet_PaK_40_HE_RA.label>
-  <Bullet_PaK_40_APHECBC_RA.label>저저항피모철갑유탄</Bullet_PaK_40_APHECBC_RA.label>
-  <Bullet_PaK_40_APCR_RA.label>경심철갑탄</Bullet_PaK_40_APCR_RA.label>
-  <Turret_PaK_40_Camo_RA.label>7,5cm PaK 40 (위장 도색)</Turret_PaK_40_Camo_RA.label>
-  <Turret_PaK_40_Camo_RA.description>1939-1941년 라인메탈이 개발한 독일의 대전차포로, 제2차 세계대전 당시 사용되었습니다. Pak 40은 23,303기가 생산되어 제2차 세계 대전 후기에 독일 대전차포의 중추를 이루었으며, 주로 견인형태로 사용되었습니다. 마르더 시리즈와 같은 다수의 구축전차에도 탑재되었습니다.</Turret_PaK_40_Camo_RA.description>
-  <Turret_PaK_40_Camo_RA_Blueprint.label>7,5cm PaK 40 (위장 도색) (청사진)</Turret_PaK_40_Camo_RA_Blueprint.label>
-  <Turret_PaK_40_Camo_RA_Blueprint_Install.label>7,5cm PaK 40 (위장 도색) (청사진)</Turret_PaK_40_Camo_RA_Blueprint_Install.label>
-  <Turret_PaK_40_Camo_RA_Frame.label>7,5cm PaK 40 (위장 도색) (건설 중)</Turret_PaK_40_Camo_RA_Frame.label>
-  <Turret_PaK_40_Camo_RA_Frame.description>1939-1941년 라인메탈이 개발한 독일의 대전차포로, 제2차 세계대전 당시 사용되었습니다. Pak 40은 23,303기가 생산되어 제2차 세계 대전 후기에 독일 대전차포의 중추를 이루었으며, 주로 견인형태로 사용되었습니다. 마르더 시리즈와 같은 다수의 구축전차에도 탑재되었습니다.</Turret_PaK_40_Camo_RA_Frame.description>
-  <Artillery_PaK_40_Camo_RA.label>7,5cm PaK 40 포탑</Artillery_PaK_40_Camo_RA.label>
-  <Artillery_PaK_40_Camo_RA.description>1939-1941년 라인메탈이 개발한 독일의 대전차포로, 제2차 세계대전 당시 사용되었습니다. Pak 40은 23,303기가 생산되어 제2차 세계 대전 후기에 독일 대전차포의 중추를 이루었으며, 주로 견인형태로 사용되었습니다. 마르더 시리즈와 같은 다수의 구축전차에도 탑재되었습니다.</Artillery_PaK_40_Camo_RA.description>
-  <Turret_PaK_40_Dunkelgelb_RA.label>7,5cm PaK 40 포탑 (진한 노랑)</Turret_PaK_40_Dunkelgelb_RA.label>
-  <Turret_PaK_40_Dunkelgelb_RA.description>1939-1941년 라인메탈이 개발한 독일의 대전차포로, 제2차 세계대전 당시 사용되었습니다. Pak 40은 23,303기가 생산되어 제2차 세계 대전 후기에 독일 대전차포의 중추를 이루었으며, 주로 견인형태로 사용되었습니다. 마르더 시리즈와 같은 다수의 구축전차에도 탑재되었습니다.</Turret_PaK_40_Dunkelgelb_RA.description>
-  <Turret_PaK_40_Dunkelgelb_RA_Blueprint.label>7,5cm PaK 40 포탑 (진한 노랑) (청사진)</Turret_PaK_40_Dunkelgelb_RA_Blueprint.label>
-  <Turret_PaK_40_Dunkelgelb_RA_Blueprint_Install.label>7,5cm PaK 40 포탑 (진한 노랑) (청사진)</Turret_PaK_40_Dunkelgelb_RA_Blueprint_Install.label>
-  <Turret_PaK_40_Dunkelgelb_RA_Frame.label>7,5cm PaK 40 포탑 (진한 노랑) (건설 중)</Turret_PaK_40_Dunkelgelb_RA_Frame.label>
-  <Turret_PaK_40_Dunkelgelb_RA_Frame.description>1939-1941년 라인메탈이 개발한 독일의 대전차포로, 제2차 세계대전 당시 사용되었습니다. Pak 40은 23,303기가 생산되어 제2차 세계 대전 후기에 독일 대전차포의 중추를 이루었으며, 주로 견인형태로 사용되었습니다. 마르더 시리즈와 같은 다수의 구축전차에도 탑재되었습니다.</Turret_PaK_40_Dunkelgelb_RA_Frame.description>
-  <Artillery_PaK_40_Dunkelgelb_RA.label>7,5cm PaK 40 포탑</Artillery_PaK_40_Dunkelgelb_RA.label>
-  <Artillery_PaK_40_Dunkelgelb_RA.description>1939-1941년 라인메탈이 개발한 독일의 대전차포로, 제2차 세계대전 당시 사용되었습니다. Pak 40은 23,303기가 생산되어 제2차 세계 대전 후기에 독일 대전차포의 중추를 이루었으며, 주로 견인형태로 사용되었습니다. 마르더 시리즈와 같은 다수의 구축전차에도 탑재되었습니다.</Artillery_PaK_40_Dunkelgelb_RA.description>
-  <Turret_PaK_40_Panzergrau_RA.label>7,5cm PaK 40 포탑 (탱크 회색)</Turret_PaK_40_Panzergrau_RA.label>
-  <Turret_PaK_40_Panzergrau_RA.description>1939-1941년 라인메탈이 개발한 독일의 대전차포로, 제2차 세계대전 당시 사용되었습니다. Pak 40은 23,303기가 생산되어 제2차 세계 대전 후기에 독일 대전차포의 중추를 이루었으며, 주로 견인형태로 사용되었습니다. 마르더 시리즈와 같은 다수의 구축전차에도 탑재되었습니다.</Turret_PaK_40_Panzergrau_RA.description>
-  <Turret_PaK_40_Panzergrau_RA_Blueprint.label>7,5cm PaK 40 포탑 (탱크 회색) (청사진)</Turret_PaK_40_Panzergrau_RA_Blueprint.label>
-  <Turret_PaK_40_Panzergrau_RA_Blueprint_Install.label>7,5cm PaK 40 포탑 (탱크 회색) (청사진)</Turret_PaK_40_Panzergrau_RA_Blueprint_Install.label>
-  <Turret_PaK_40_Panzergrau_RA_Frame.label>7,5cm PaK 40 포탑 (탱크 회색) (건설 중)</Turret_PaK_40_Panzergrau_RA_Frame.label>
-  <Turret_PaK_40_Panzergrau_RA_Frame.description>1939-1941년 라인메탈이 개발한 독일의 대전차포로, 제2차 세계대전 당시 사용되었습니다. Pak 40은 23,303기가 생산되어 제2차 세계 대전 후기에 독일 대전차포의 중추를 이루었으며, 주로 견인형태로 사용되었습니다. 마르더 시리즈와 같은 다수의 구축전차에도 탑재되었습니다.</Turret_PaK_40_Panzergrau_RA_Frame.description>
-  <Artillery_PaK_40_Panzergrau_RA.label>7,5cm PaK 40 포</Artillery_PaK_40_Panzergrau_RA.label>
-  <Artillery_PaK_40_Panzergrau_RA.description>1939-1941년 라인메탈이 개발한 독일의 대전차포로, 제2차 세계대전 당시 사용되었습니다. Pak 40은 23,303기가 생산되어 제2차 세계 대전 후기에 독일 대전차포의 중추를 이루었으며, 주로 견인형태로 사용되었습니다. 마르더 시리즈와 같은 다수의 구축전차에도 탑재되었습니다.</Artillery_PaK_40_Panzergrau_RA.description>
-  <Turret_leIG_18_RA.label>7,5cm le.IG 18 포탑</Turret_leIG_18_RA.label>
-  <Turret_leIG_18_RA.description>제2차 세계대전 당시 사용했던 독일 웨흐르마흐트의 보병지원포였습니다.</Turret_leIG_18_RA.description>
-  <Turret_leIG_18_RA_Blueprint.label>7,5cm le.IG 18 포탑 (청사진)</Turret_leIG_18_RA_Blueprint.label>
-  <Turret_leIG_18_RA_Blueprint_Install.label>7,5cm le.IG 18 포탑 (청사진)</Turret_leIG_18_RA_Blueprint_Install.label>
-  <Turret_leIG_18_RA_Frame.label>7,5cm le.IG 18 포탑 (건설 중)</Turret_leIG_18_RA_Frame.label>
-  <Turret_leIG_18_RA_Frame.description>제2차 세계대전 당시 사용했던 독일 웨흐르마흐트의 보병지원포였습니다.</Turret_leIG_18_RA_Frame.description>
-  <Artillery_leIG_18_RA.label>7,5cm le.IG 18 포</Artillery_leIG_18_RA.label>
-  <Artillery_leIG_18_RA.description>제2차 세계대전 당시 사용했던 독일 웨흐르마흐트의 보병지원포였습니다.</Artillery_leIG_18_RA.description>
-  <Shell_leIG_18_HE_RA.label>7,5cm le.IG 18 고폭탄</Shell_leIG_18_HE_RA.label>
-  <Shell_leIG_18_HE_RA.description>폭발물이 가득 들어있습니다. 충격을 받으면 폭발합니다.</Shell_leIG_18_HE_RA.description>
-  <Shell_leIG_18_HEAT_RA.label>7,5cm le.IG 18 대전차고폭탄</Shell_leIG_18_HEAT_RA.label>
-  <Shell_leIG_18_HEAT_RA.description>폭발물이 가득 들어있는 대전차용 포탄입니다. 충격을 받으면 폭발합니다.</Shell_leIG_18_HEAT_RA.description>
-  <Bullet_leIG_18_HE_RA.label>고폭탄</Bullet_leIG_18_HE_RA.label>
-  <Bullet_leIG_18_HEAT_RA.label>대전차고폭탄</Bullet_leIG_18_HEAT_RA.label>
-  <Turret_MG_42_RA.label>거치된 MG42</Turret_MG_42_RA.label>
-  <Turret_MG_42_RA.description>저렴하고 제작이 용이하도록 설계된 MG 42는 신뢰성이 높고 조작이 용이하다는 것이 입증되었습니다. 기본 발사속도는 분당 평균 1,200발로, MG 34의 경우 약 850발, M19 브라우닝이나 브렌과 같은 다른 일반 기관총의 경우 450~600발 정도로 빠른 사격속도로 유명합니다. 이 능력은 진압용 화력을 제공하는 데 매우 효과적이었으며, 그 독특한 소리는 "히틀러의 전기톱"이라는 별명을 얻게 했습니다.</Turret_MG_42_RA.description>
-  <Turret_MG_42_RA_Blueprint.label>거치된 MG42 (청사진)</Turret_MG_42_RA_Blueprint.label>
-  <Turret_MG_42_RA_Blueprint_Install.label>거치된 MG42 (청사진)</Turret_MG_42_RA_Blueprint_Install.label>
-  <Turret_MG_42_RA_Frame.label>거치된 MG42 (건설 중)</Turret_MG_42_RA_Frame.label>
-  <Turret_MG_42_RA_Frame.description>저렴하고 제작이 용이하도록 설계된 MG 42는 신뢰성이 높고 조작이 용이하다는 것이 입증되었습니다. 기본 발사속도는 분당 평균 1,200발로, MG 34의 경우 약 850발, M19 브라우닝이나 브렌과 같은 다른 일반 기관총의 경우 450~600발 정도로 빠른 사격속도로 유명합니다. 이 능력은 진압용 화력을 제공하는 데 매우 효과적이었으며, 그 독특한 소리는 "히틀러의 전기톱"이라는 별명을 얻게 했습니다.</Turret_MG_42_RA_Frame.description>
-  <Gun_MG_42_T_RA.label>거치된 MG42</Gun_MG_42_T_RA.label>
-  <Gun_MG_42_T_RA.description>저렴하고 제작이 용이하도록 설계된 MG 42는 신뢰성이 높고 조작이 용이하다는 것이 입증되었습니다. 기본 발사속도는 분당 평균 1,200발로, MG 34의 경우 약 850발, M19 브라우닝이나 브렌과 같은 다른 일반 기관총의 경우 450~600발 정도로 빠른 사격속도로 유명합니다. 이 능력은 진압용 화력을 제공하는 데 매우 효과적이었으며, 그 독특한 소리는 "히틀러의 전기톱"이라는 별명을 얻게 했습니다.</Gun_MG_42_T_RA.description>
-  <Turret_Nebelwerfer_41_KA.label>15cm 네벨베르퍼 41 포탑</Turret_Nebelwerfer_41_KA.label>
-  <Turret_Nebelwerfer_41_KA.description>15cm NbW 41은 2차 세계대전에 사용된 독일의 다연장로켓입니다. 독일 화학군단 네벨트루펜 부대에서 운용했는데, 이 부대는 독가스와 연막탄 투사기에 대한 책임을 지고 있었으며, 전쟁 중 고폭탄을 전달하는 데도 사용되었습니다. 네벨베르퍼라는 이름은 "연막탄 투사기"로 가장 잘 번역됩니다. 연합군은 특유의 사운드로 인해 '비명지르는 미미'나 '흐느끼는 미니'라는 별명을 붙였다.</Turret_Nebelwerfer_41_KA.description>
-  <Turret_Nebelwerfer_41_KA_Blueprint.label>15cm 네벨베르퍼 41 포탑 (청사진)</Turret_Nebelwerfer_41_KA_Blueprint.label>
-  <Turret_Nebelwerfer_41_KA_Blueprint_Install.label>15cm 네벨베르퍼 41 포탑 (청사진)</Turret_Nebelwerfer_41_KA_Blueprint_Install.label>
-  <Turret_Nebelwerfer_41_KA_Frame.label>15cm 네벨베르퍼 41 포탑 (건설 중)</Turret_Nebelwerfer_41_KA_Frame.label>
-  <Turret_Nebelwerfer_41_KA_Frame.description>15cm NbW 41은 2차 세계대전에 사용된 독일의 다연장로켓입니다. 독일 화학군단 네벨트루펜 부대에서 운용했는데, 이 부대는 독가스와 연막탄 투사기에 대한 책임을 지고 있었으며, 전쟁 중 고폭탄을 전달하는 데도 사용되었습니다. 네벨베르퍼라는 이름은 "연막탄 투사기"로 가장 잘 번역됩니다. 연합군은 특유의 사운드로 인해 '비명지르는 미미'나 '흐느끼는 미니'라는 별명을 붙였다.</Turret_Nebelwerfer_41_KA_Frame.description>
-  <Artillery_Nebelwerfer_41_RA.label>15cm 네벨베르퍼 41</Artillery_Nebelwerfer_41_RA.label>
-  <Artillery_Nebelwerfer_41_RA.description>15cm NbW 41은 2차 세계대전에 사용된 독일의 다연장로켓입니다. 독일 화학군단 네벨트루펜 부대에서 운용했는데, 이 부대는 독가스와 연막탄 투사기에 대한 책임을 지고 있었으며, 전쟁 중 고폭탄을 전달하는 데도 사용되었습니다. 네벨베르퍼라는 이름은 "연막탄 투사기"로 가장 잘 번역됩니다. 연합군은 특유의 사운드로 인해 '비명지르는 미미'나 '흐느끼는 미니'라는 별명을 붙였다.</Artillery_Nebelwerfer_41_RA.description>
-  <Shell_Nebelwerfer_41_HE_RA.label>15cm 고폭탄 로켓</Shell_Nebelwerfer_41_HE_RA.label>
-  <Shell_Nebelwerfer_41_HE_RA.description>폭발물이 가득 들어있는 로켓입니다. 충격을 받으면 폭발합니다.</Shell_Nebelwerfer_41_HE_RA.description>
-  <Bullet_Nebelwerfer_41_HE_RA.label>고폭탄 로켓</Bullet_Nebelwerfer_41_HE_RA.label>
-  <Shell_PaK_36_HE_RA.label>3,7cm 고폭탄</Shell_PaK_36_HE_RA.label>
-  <Shell_PaK_36_HE_RA.description>폭발물이 가득 들어있습니다. 충격을 받으면 폭발합니다.</Shell_PaK_36_HE_RA.description>
-  <Shell_PaK_36_APCR_RA.label>3,7cm 경심철갑탄</Shell_PaK_36_APCR_RA.label>
-  <Shell_PaK_36_APCR_RA.description>중앙에 심이 들어있고, 겉은 심보다 약한 철갑탄입니다.</Shell_PaK_36_APCR_RA.description>
-  <Bullet_PaK_36_HE_RA.label>고폭탄</Bullet_PaK_36_HE_RA.label>
-  <Bullet_PaK_36_APCR_RA.label>경심철갑탄</Bullet_PaK_36_APCR_RA.label>
-  <Turret_PaK_36_RA.label>3,7cm PaK 36 포탑</Turret_PaK_36_RA.label>
-  <Turret_PaK_36_RA.description>제2차 세계대전 때 사용한 3,7cm의 독일 대전차포입니다. 1942년까지 베흐마흐트 기갑 부대의 주력 대전차 무기였습니다. 1933년 라인메탈에 의해 개발되었으며, 1936년 독일 육군에 처음 배치되었으며, 1939년 9월 전쟁이 시작될 때까지 9120대를 사용할 수 있었고, 전쟁 중에 추가로 5339대를 생산했습니다.</Turret_PaK_36_RA.description>
-  <Turret_PaK_36_RA_Blueprint.label>3,7cm PaK 36 포탑 (청사진)</Turret_PaK_36_RA_Blueprint.label>
-  <Turret_PaK_36_RA_Blueprint_Install.label>3,7cm PaK 36 포탑 (청사진)</Turret_PaK_36_RA_Blueprint_Install.label>
-  <Turret_PaK_36_RA_Frame.label>3,7cm PaK 36 포탑 (건설 중)</Turret_PaK_36_RA_Frame.label>
-  <Turret_PaK_36_RA_Frame.description>제2차 세계대전 때 사용한 3,7cm의 독일 대전차포입니다. 1942년까지 베흐마흐트 기갑 부대의 주력 대전차 무기였습니다. 1933년 라인메탈에 의해 개발되었으며, 1936년 독일 육군에 처음 배치되었으며, 1939년 9월 전쟁이 시작될 때까지 9120대를 사용할 수 있었고, 전쟁 중에 추가로 5339대를 생산했습니다.</Turret_PaK_36_RA_Frame.description>
-  <Artillery_PaK_36_RA.label>3,7cm PaK 36 포</Artillery_PaK_36_RA.label>
-  <Artillery_PaK_36_RA.description>제2차 세계대전 때 사용한 3,7cm의 독일 대전차포입니다. 1942년까지 베흐마흐트 기갑 부대의 주력 대전차 무기였습니다. 1933년 라인메탈에 의해 개발되었으며, 1936년 독일 육군에 처음 배치되었으며, 1939년 9월 전쟁이 시작될 때까지 9120대를 사용할 수 있었고, 전쟁 중에 추가로 5339대를 생산했습니다.</Artillery_PaK_36_RA.description>
-  <Bullet_900mm_RA.label>권총탄</Bullet_900mm_RA.label>
-  <Bullet_792mm_RA.label>소총탄</Bullet_792mm_RA.label>
-  <Bullet_792mm_MG_RA.label>소총탄</Bullet_792mm_MG_RA.label>
-  <Bullet_792mm_Kurz_RA.label>소총탄</Bullet_792mm_Kurz_RA.label>
-  <Bullet_Faustpatrone_RA.label>로켓</Bullet_Faustpatrone_RA.label>
-  <Bullet_792mm_Sniper_RA.label>소총탄</Bullet_792mm_Sniper_RA.label>
-  <Bullet_792mm_AT_RA.label>소총탄</Bullet_792mm_AT_RA.label>
-  <Bullet_765mm_RA.label>권총탄</Bullet_765mm_RA.label>
-  <Bullet_Flame_RA.label>소이탄</Bullet_Flame_RA.label>
-  <Proj_M24_RA.label>m24 수류탄</Proj_M24_RA.label>
-  <Bullet_Schiessbecher_RA.label>총류탄</Bullet_Schiessbecher_RA.label>
-  <Gun_StG_44_Scope_RA.label>StG 44 조준경 장착</Gun_StG_44_Scope_RA.label>
-  <Gun_StG_44_Scope_RA.description>StG 44는 비교적 짧은 카트리지, 제어 가능한 자동 사격, 더 빠른 사격 속도를 가진 전투 소총보다 더 작은 설계, 그리고 몇 백 미터 이내에 목표물을 타격할 수 있는 기능을 갖춘 최초의 성공적인 돌격소총이었습니다. StG 44는 특히 동부 전선에서 그 역할을 효과적으로 수행하여 표준 보병 소총에 비해 상당히 많은 화력을 제공했습니다. 전쟁에 큰 영향을 미치기에는 너무 늦었지만, 전쟁이 끝난 지 2년 후에 도입된 소련 AK에 영향을 주었습니다. 이 소총의 영향은 현대의 돌격 소총에서도 여전히 볼 수 있습니다.</Gun_StG_44_Scope_RA.description>
-  <Gun_StG_44_Scope_RA.tools.0.label>개머리판</Gun_StG_44_Scope_RA.tools.0.label>
-  <Gun_StG_44_RA.label>StG 44</Gun_StG_44_RA.label>
-  <Gun_StG_44_RA.description>StG 44는 비교적 짧은 카트리지, 제어 가능한 자동 사격, 더 빠른 사격 속도를 가진 전투 소총보다 더 작은 설계, 그리고 몇 백 미터 이내에 목표물을 타격할 수 있는 기능을 갖춘 최초의 성공적인 돌격소총이었습니다. StG 44는 특히 동부 전선에서 그 역할을 효과적으로 수행하여 표준 보병 소총에 비해 상당히 많은 화력을 제공했습니다. 전쟁에 큰 영향을 미치기에는 너무 늦었지만, 전쟁이 끝난 지 2년 후에 도입된 소련 AK에 영향을 주었습니다. 이 소총의 영향은 현대의 돌격 소총에서도 여전히 볼 수 있습니다.</Gun_StG_44_RA.description>
-  <Gun_StG_44_RA.tools.0.label>개머리판</Gun_StG_44_RA.tools.0.label>
-  <Gun_FG_42_RA.label>FG 42</Gun_FG_42_RA.label>
-  <Gun_FG_42_RA.description>폴스미르예게르웨르 42는 제2차 세계대전 당시 나치 독일에서 생산된 선택 사격형 자동 소총입니다. 이 무기는 1942년 폴스처미르제거 공수 보병대의 사용을 위해 특별히 개발되었으며, 전쟁이 끝날 때까지 매우 제한된 숫자로 사용되었습니다. 경기관총의 특성과 화력을 Kar98k 소총보다 크지 않은 경량 형태로 조합했습니다. 제2차 세계대전의 가장 진보된 무기 설계 중 하나로 여겨지는 FG 42는 전후 소규모 무기 개발에 영향을 미쳤으며, 대부분의 설계는 M60 기관총을 개발하면서 미 육군에 의해 모방되었습니다.</Gun_FG_42_RA.description>
-  <Gun_FG_42_RA.tools.0.label>개머리판</Gun_FG_42_RA.tools.0.label>
-  <Gun_MP_507_RA.label>MP 507</Gun_MP_507_RA.label>
-  <Gun_MP_507_RA.description>1944년 구스틀로프-베르케의 카를 바르니츠케가 Primitiv-Waffen-Programm(원시 무기 프로그램)을 위해 설계한 것으로, 국민돌격대가 사용하고자 했던 것입니다. 구스틀로프의 생산은 1945년 1월부터 전쟁이 끝날 때까지 이루어졌고, 대략 10,000개가 만들어졌습니다. 이 무기는 이전의 StG 44 돌격 소총과 동일한 7,92×33mm Kurz 카트리지를 사용했으며, 또한 동일한 분리형 30라운드 박스 매거진을 사용하였습니다.</Gun_MP_507_RA.description>
-  <Gun_MP_507_RA.tools.0.label>개머리판</Gun_MP_507_RA.tools.0.label>
-  <Gun_MP_40_RA.label>MP 40</Gun_MP_40_RA.label>
-  <Gun_MP_40_RA.description>1938년 하인리히 폴머가 전신인 MP 38의 영감을 받아 디자인한 이 기관단총은 보병(특히 소대와 분대 지휘관)과 낙하산병들에 의해 많이 사용되었습니다. 고급스럽고 현대적인 특징으로 인해 군인들 사이에서 인기가 있었고 전후 세계 각지의 나라에서 인기가 있었습니다. 후고 슈마이서는 무기의 설계나 제작에 관여하지 않았지만 연합군으로부터 종종 "슈마이서"라고 잘못 불렸습니다.</Gun_MP_40_RA.description>
-  <Gun_MP_40_RA.tools.0.label>개머리판</Gun_MP_40_RA.tools.0.label>
-  <Gun_MP_35_RA.label>MP 35</Gun_MP_35_RA.label>
-  <Gun_MP_35_RA.description>MP 35는 제2차 세계 대전 전후 독일 경찰, 무장친위대, 독일 국방군에서 사용된 보조 기관총이었습니다. 1930년대 초 에밀 베르그만에 의해 개발되어 슐(Sull)에 있는 베르크만사에서 제조되었습니다(최초의 서브 머신 건 중 하나인 MP 18 또한).</Gun_MP_35_RA.description>
-  <Gun_MP_35_RA.tools.0.label>개머리판</Gun_MP_35_RA.tools.0.label>
-  <Gun_MP_3008_RA.label>MP 3008</Gun_MP_3008_RA.label>
-  <Gun_MP_3008_RA.description>일명 ' Volksmaschinenpistole'로도 알려진 이 무기는 수직 탄창을 제외하고는 스텐 Mk II 기관총의 하위 호환에 가깝습니다. 일부는 추가로 권총 손잡이을 가지고 있었습니다. MP 3008은 독일이 붕괴 위기에 처했을 때 고안된 비상 조치였습니다. 원자재 부족에 허덕이는 독일인들은 표준 소형 기관총인 MP 40에 비해 훨씬 저렴한 대체품을 생산하려고 했었습니다.</Gun_MP_3008_RA.description>
-  <Gun_MP_3008_RA.tools.0.label>개머리판</Gun_MP_3008_RA.tools.0.label>
-  <Gun_P38_RA.label>P38</Gun_P38_RA.label>
-  <Gun_P38_RA.description>발터 P38은 칼 발터 GmbH가 제2차 세계대전이 시작될 때 1942년에 생산 중단될 루거 P08의 대체 목적으로 독일 국방군 지급용 권총으로 개발한 9mm 반자동 권총입니다.</Gun_P38_RA.description>
-  <Gun_P38_RA.tools.0.label>손잡이</Gun_P38_RA.tools.0.label>
-  <Gun_P08_RA.label>P08</Gun_P08_RA.label>
-  <Gun_P08_RA.description>흔히 그냥 루거로 알려진 피스톨 파라벨럼은 1898년부터 1948년까지 여러 모델과 여러 국가에서 생산된 토글 잠금식 반자동 권총이다. 이 디자인은 보르하르트 오토매틱 피스톨의 개량형으로 게오르그 루거에 의해 처음 특허를 받았으며, 독일 무기 제조업체 DMW(Deutsche Waffen und Munitionsfabriken)에 의해 파라벨럼 자동 피스톨, 보르하르트-루거 시스템으로 제작되었습니다.</Gun_P08_RA.description>
-  <Gun_P08_RA.tools.0.label>손잡이</Gun_P08_RA.tools.0.label>
-  <Gun_PPK_RA.label>PPK</Gun_PPK_RA.label>
-  <Gun_PPK_RA.description>PP와 PPK는 세계 최초로 성공한 이중 동작 반자동 권총에 속합니다. 여전히 발터가 제작하고 있으며, 널리 복사되었습니다. 그 디자인은 다른 권총들을 고무시켰는데, 그 중에서도 소비에트 마카로프와 아메리칸 어큐-텍 AT-380 II에 영감을 주었습니다. PP와 PPK는 신뢰할 수 있고 숨길 수 있다는 이유로 유럽 경찰과 민간인들에게 인기가 있었습니다. 제2차 세계대전 당시 독일군은 물론 루프트와프(Luftwaffe)까지 사용했었습니다.</Gun_PPK_RA.description>
-  <Gun_PPK_RA.tools.0.label>손잡이</Gun_PPK_RA.tools.0.label>
-  <Gun_Volkspistole_RA.label>국민돌격권총</Gun_Volkspistole_RA.label>
-  <Gun_Volkspistole_RA.description>국민돌격권총은 최소한의 가공된 부품으로 단순한 강철 압착기로 조립된 비상형 독일의 권총 설계였습니다. 제2차 세계대전이 끝나기 전에 프로토타입만 제작되었습니다. 이 프로토타입들은 총알이 총구를 떠날 때까지 추진제 가스를 앞으로 유도하여 배럴을 지연시키는 특이한 잠금 장치를 가지고 있었습니다.</Gun_Volkspistole_RA.description>
-  <Gun_Volkspistole_RA.tools.0.label>손잡이</Gun_Volkspistole_RA.tools.0.label>
-  <Gun_MG_42_RA.label>MG 42</Gun_MG_42_RA.label>
-  <Gun_MG_42_RA.description>저렴하고 제작이 용이하도록 설계된 MG 42는 신뢰성이 높고 조작이 용이하다는 것이 입증되었습니다. 기본 발사속도는 분당 평균 1,200발로, MG 34의 경우 약 850발, M19 브라우닝이나 브렌과 같은 다른 일반 기관총의 경우 450~600발 정도로 빠른 사격속도로 유명합니다. 이 능력은 진압용 화력을 제공하는 데 매우 효과적이었으며, 그 독특한 소리는 "히틀러의 전기톱"이라는 별명을 얻게 했습니다.</Gun_MG_42_RA.description>
-  <Gun_MG_42_RA.tools.0.label>개머리판</Gun_MG_42_RA.tools.0.label>
-  <Gun_MG_34_RA.label>MG 34</Gun_MG_34_RA.label>
-  <Gun_MG_34_RA.description>MG 34 다용도 기관총은 7,92×57mm Mauser 탄띠나 드럼 탄창을 사용했고, 거의 틀림없이 배치 당시 세계에서 가장 진보된 기관총이었습니다. MG 34는 휴대성과 중 기관총 역할 , 대공 지원, 그리고 저격 능력까지 제공할 수 있도록 잘 구상되고 개발되었다. 한 사람이 휴대할 수 있을 만큼 가볍고 높은 화력과 탁월한 이동성과 조합은 타의 추종을 불허했습니다. 1936년 히틀러가 베르사유 조약을 거부한 후 많은 수의 제작에 들어갔으며, 스페인 내전에서 프랑코 민족주의자들을 돕는 독일군에 의해 첫 전투 시험을 받았습니다.</Gun_MG_34_RA.description>
-  <Gun_MG_34_RA.tools.0.label>개머리판</Gun_MG_34_RA.tools.0.label>
-  <Gun_Kar98K_Sniper_RA.label>Kar98K 스나이퍼</Gun_Kar98K_Sniper_RA.label>
-  <Gun_Kar98K_Sniper_RA.description>1898년형 단기병총( Karabiner 98 kurz)는 1935년 독일 국방군의 제식 소총으로 채택된 7,92×57mm 마우저 탄을 사용하는 볼트액션 소총입니다. 마우저 탄종을 쓰는 병기들 중 거의 마지막에 해당됩니다. 제2차 세계대전 당시 반자동소총으로 보완되었지만, 1945년 전쟁이 끝날 때까지 독일의 제식 소총으로 남아 있었습니다.</Gun_Kar98K_Sniper_RA.description>
-  <Gun_Kar98K_Sniper_RA.tools.0.label>개머리판</Gun_Kar98K_Sniper_RA.tools.0.label>
-  <Gun_Kar98K_Schiessbecher_RA.label>Kar98K 총류탄</Gun_Kar98K_Schiessbecher_RA.label>
-  <Gun_Kar98K_Schiessbecher_RA.description>1898년형 단기병총( Karabiner 98 kurz)는 1935년 독일 국방군의 제식 소총으로 채택된 7,92×57mm 마우저 탄을 사용하는 볼트액션 소총입니다. 마우저 탄종을 쓰는 병기들 중 거의 마지막에 해당됩니다. 제2차 세계대전 당시 반자동소총으로 보완되었지만, 1945년 전쟁이 끝날 때까지 독일의 제식 소총으로 남아 있었습니다.</Gun_Kar98K_Schiessbecher_RA.description>
-  <Gun_Kar98K_Schiessbecher_RA.tools.0.label>개머리판</Gun_Kar98K_Schiessbecher_RA.tools.0.label>
-  <Gun_Kar98K_Bayonet_RA.label>Kar98K 총검 장착</Gun_Kar98K_Bayonet_RA.label>
-  <Gun_Kar98K_Bayonet_RA.description>1898년형 단기병총( Karabiner 98 kurz)는 1935년 독일 국방군의 제식 소총으로 채택된 7,92×57mm 마우저 탄을 사용하는 볼트액션 소총입니다. 마우저 탄종을 쓰는 병기들 중 거의 마지막에 해당됩니다. 제2차 세계대전 당시 반자동소총으로 보완되었지만, 1945년 전쟁이 끝날 때까지 독일의 제식 소총으로 남아 있었습니다.</Gun_Kar98K_Bayonet_RA.description>
-  <Gun_Kar98K_Bayonet_RA.tools.0.label>개머리판</Gun_Kar98K_Bayonet_RA.tools.0.label>
-  <Gun_Kar98K_Bayonet_RA.tools.1.label>총검</Gun_Kar98K_Bayonet_RA.tools.1.label>
-  <Gun_Kar98K_RA.label>Kar98K</Gun_Kar98K_RA.label>
-  <Gun_Kar98K_RA.description>1898년형 단기병총( Karabiner 98 kurz)는 1935년 독일 국방군의 제식 소총으로 채택된 7,92×57mm 마우저 탄을 사용하는 볼트액션 소총입니다. 마우저 탄종을 쓰는 병기들 중 거의 마지막에 해당됩니다. 제2차 세계대전 당시 반자동소총으로 보완되었지만, 1945년 전쟁이 끝날 때까지 독일의 제식 소총으로 남아 있었습니다.</Gun_Kar98K_RA.description>
-  <Gun_Kar98K_RA.tools.0.label>개머리판</Gun_Kar98K_RA.tools.0.label>
-  <Gun_VG1_RA.label>VG.1</Gun_VG1_RA.label>
-  <Gun_VG1_RA.description>국민돌격소총 VG.1은 수동식 볼트 액션 라이플입니다. 이 시스템은 간단한 회전 볼트를 사용하며, 두 개의 전면 러그가 제공하는 잠금 장치와 함께 주강 리시버의 절단을 체결하여 추가적인 안전성을 제공합니다. 이 구조는 원래 G.43 소총용으로 개발된 분리형 박스 탄창에서 나온 것입니다.</Gun_VG1_RA.description>
-  <Gun_VG1_RA.tools.0.label>개머리판</Gun_VG1_RA.tools.0.label>
-  <Gun_Gew_Scope_43_RA.label>Gew 43 조준경 장착</Gun_Gew_Scope_43_RA.label>
-  <Gun_Gew_Scope_43_RA.description>게베어 43 혹은 카라비너 43은 제2차 세계대전 중반 등장한 7,92×57mm 마우저 탄을 쓰는 독일의 반자동소총입니다. 설계는 초기 G41(W)의 설계에 기초했지만, 소련 토카레프 SVT-40과 유사한 개선된 단타 피스톤 가스 시스템을 통합하였으며, 혁신적인 양산 기법을 통합하였습니다.</Gun_Gew_Scope_43_RA.description>
-  <Gun_Gew_Scope_43_RA.tools.0.label>개머리판</Gun_Gew_Scope_43_RA.tools.0.label>
-  <Gun_Gew_43_RA.label>Gew 43</Gun_Gew_43_RA.label>
-  <Gun_Gew_43_RA.description>게베어 43 혹은 카라비너 43은 제2차 세계대전 중반 등장한 7,92×57mm 마우저 탄을 쓰는 독일의 반자동소총입니다. 설계는 초기 G41(W)의 설계에 기초했지만, 소련 토카레프 SVT-40과 유사한 개선된 단타 피스톤 가스 시스템을 통합하였으며, 혁신적인 양산 기법을 통합하였습니다.</Gun_Gew_43_RA.description>
-  <Gun_Gew_43_RA.tools.0.label>개머리판</Gun_Gew_43_RA.tools.0.label>
-  <Gun_Panzerfaust_60_RA.label>판저파우스트 60</Gun_Panzerfaust_60_RA.label>
-  <Gun_Panzerfaust_60_RA.description>판처파우스트는 제2차 세계대전때 값싼 독일 대전차 무기로, 고폭탄 탄두를 발사하는 소형 1회용 사전 탑재 발사관으로 구성돼 있으며, 한 명의 병사가 운용할 예정이었습니다.</Gun_Panzerfaust_60_RA.description>
-  <Gun_PzB_39_RA.label>PzB 39</Gun_PzB_39_RA.label>
-  <Gun_PzB_39_RA.description>판저뷕세 39 는 제2차 세계대전에 사용된 독일의 대전차소총입니다. 판저뷕세38 소총의 개량형입니다.</Gun_PzB_39_RA.description>
-  <Gun_PzB_39_RA.tools.0.label>개머리판</Gun_PzB_39_RA.tools.0.label>
-  <Gun_Eintossflammenwerfer_46_RA.label>Einstossflammenwerfer 46 일회용 화염방사기</Gun_Eintossflammenwerfer_46_RA.label>
-  <Gun_Eintossflammenwerfer_46_RA.description>Einstossflammenwerfer 46는 1944년에 처음 선을 보인 제2차 세계대전에서 사용된 1회용 화염방사기입니다. 값싸고 대량 생산이 가능하도록 설계되었습니다. 이 1회용 무기는 최대 27m의 불꽃을 0.5초간 발사했습니다. 국민돌격대 또는 베어울프(지원부대)에게도 지급되었고, 공수부대에도 지급되었었습니다.</Gun_Eintossflammenwerfer_46_RA.description>
-  <Weapon_M24_RA.label>M24 슈틸한트그라나테 수류탄</Weapon_M24_RA.label>
-  <Weapon_M24_RA.description>독일산 수류탄은 독특한 디자인의 수류탄이었습니다. 제1차 세계대전 당시 독일군의 주된 문제였고, 2차 대전 당시의 나치 독일의 문제 중 하나이기도 했습니다. 그 독특한 외형으로 인해 영국군에게 '막대 수류탄' 혹은 '감자 으깨기' 등으로 불렸습니다.</Weapon_M24_RA.description>
-  <Weapon_M24_RA.verbs.0.label>파편 수류탄 투척</Weapon_M24_RA.verbs.0.label>
-  <MeleeWeapon_Feldspaten.label>M31 야전삽</MeleeWeapon_Feldspaten.label>
-  <MeleeWeapon_Feldspaten.description>M31 야전삽입니다.</MeleeWeapon_Feldspaten.description>
-  <MeleeWeapon_Feldspaten.tools.0.label>손잡이</MeleeWeapon_Feldspaten.tools.0.label>
-  <MeleeWeapon_Feldspaten.tools.1.label>날</MeleeWeapon_Feldspaten.tools.1.label>
-  <MeleeWeapon_S84_98_III_RA.label>S84/98 III 총검 장착</MeleeWeapon_S84_98_III_RA.label>
-  <MeleeWeapon_S84_98_III_RA.description>S84/98 III는 초기 제1차 세계 대전 때의 S84/98과는 다른 점으로, 플래시 가드가 더 작았다. 그러나 S84/98 시리즈를 다른 총검의 예와 차별화시킨 것은 그것이 톱니바퀴가 아니라는 것이었습니다. 이는 독일군이 칼날이 꽂히지 않고 적으로부터 무기를 제거하고 가능한 한 신속하고 효율적으로 다음 표적을 교전할 수 있다는 것을 의미했습니다.</MeleeWeapon_S84_98_III_RA.description>
-  <MeleeWeapon_S84_98_III_RA.tools.0.label>손잡이</MeleeWeapon_S84_98_III_RA.tools.0.label>
-  <MeleeWeapon_S84_98_III_RA.tools.1.label>끝</MeleeWeapon_S84_98_III_RA.tools.1.label>
 
   <!--1780182516_190707_Rotmeth-->
   <Rotmeth.label>롯메스</Rotmeth.label>
@@ -8258,11 +7889,75 @@
   <Synthylene.label>신틸렌</Synthylene.label>
   <Synthylene.description>합성 건축 자재입니다.</Synthylene.description>
   <Synthylene.stuffProps.stuffAdjective>신틸렌</Synthylene.stuffProps.stuffAdjective>
+
+  <SynthyleneWhite.label>하얀색 신틸렌</SynthyleneWhite.label>
+  <SynthyleneWhite.description>합성 건축 자재입니다.</SynthyleneWhite.description>
+  <SynthyleneWhite.stuffProps.stuffAdjective>하얀색 신틸렌</SynthyleneWhite.stuffProps.stuffAdjective>
+  <SynthyleneBlack.label>검은색 신틸렌</SynthyleneBlack.label>
+  <SynthyleneBlack.description>합성 건축 자재입니다.</SynthyleneBlack.description>
+  <SynthyleneBlack.stuffProps.stuffAdjective>검은색 신틸렌</SynthyleneBlack.stuffProps.stuffAdjective>
+  <SynthyleneGreen.label>초록색 신틸렌</SynthyleneGreen.label>
+  <SynthyleneGreen.description>합성 건축 자재입니다.</SynthyleneGreen.description>
+  <SynthyleneGreen.stuffProps.stuffAdjective>초록색 신틸렌</SynthyleneGreen.stuffProps.stuffAdjective>
+  <SynthyleneBlue.label>파란색 신틸렌</SynthyleneBlue.label>
+  <SynthyleneBlue.description>합성 건축 자재입니다.</SynthyleneBlue.description>
+  <SynthyleneBlue.stuffProps.stuffAdjective>파란색 신틸렌</SynthyleneBlue.stuffProps.stuffAdjective>
+  <SynthyleneViolet.label>보라색 신틸렌</SynthyleneViolet.label>
+  <SynthyleneViolet.description>합성 건축 자재입니다.</SynthyleneViolet.description>
+  <SynthyleneViolet.stuffProps.stuffAdjective>보라색 신틸렌</SynthyleneViolet.stuffProps.stuffAdjective>
+  <SynthyleneOrange.label>주황색 신틸렌</SynthyleneOrange.label>
+  <SynthyleneOrange.description>합성 건축 자재입니다.</SynthyleneOrange.description>
+  <SynthyleneOrange.stuffProps.stuffAdjective>주황색 신틸렌</SynthyleneOrange.stuffProps.stuffAdjective>
+  <SynthyleneYellow.label>노란색 신틸렌</SynthyleneYellow.label>
+  <SynthyleneYellow.description>합성 건축 자재입니다.</SynthyleneYellow.description>
+  <SynthyleneYellow.stuffProps.stuffAdjective>노란색 신틸렌</SynthyleneYellow.stuffProps.stuffAdjective>
+  <SynthyleneRed.label>빨간색 신틸렌</SynthyleneRed.label>
+  <SynthyleneRed.description>합성 건축 자재입니다.</SynthyleneRed.description>
+  <SynthyleneRed.stuffProps.stuffAdjective>빨간색 신틸렌</SynthyleneRed.stuffProps.stuffAdjective>
+  <SynthyleneOlive.label>황록색 신틸렌</SynthyleneOlive.label>
+  <SynthyleneOlive.description>합성 건축 자재입니다.</SynthyleneOlive.description>
+  <SynthyleneOlive.stuffProps.stuffAdjective>황록색 신틸렌</SynthyleneOlive.stuffProps.stuffAdjective>
+  <SynthyleneSand.label>크림색 신틸렌</SynthyleneSand.label>
+  <SynthyleneSand.description>합성 건축 자재입니다.</SynthyleneSand.description>
+  <SynthyleneSand.stuffProps.stuffAdjective>크림색 신틸렌</SynthyleneSand.stuffProps.stuffAdjective>
+
   <UncuredComposite.label>미경화 신타마이드 합성물</UncuredComposite.label>
   <UncuredComposite.description>미경화 신타마이드 합성물은 고압 반응로에 넣어 사용할 수 있습니다.</UncuredComposite.description>
-  <FiberComposite.label>신타마이드</FiberComposite.label>
+  <FiberComposite.label>신타마이드 합성물</FiberComposite.label>
   <FiberComposite.description>신타마이드 합성물은 고강도, 경량, 내화성 우주급 복합 재료입니다.</FiberComposite.description>
   <FiberComposite.stuffProps.stuffAdjective>신타마이드 합성물</FiberComposite.stuffProps.stuffAdjective>
+
+  <FiberCompositeWhite.label>하얀색 신타마이트 합성물</FiberCompositeWhite.label>
+  <FiberCompositeWhite.description>신타마이드 합성물은 고강도, 경량, 내화성 우주급 복합 재료입니다.</FiberCompositeWhite.description>
+  <FiberCompositeWhite.stuffProps.stuffAdjective>하얀색 신타마이트 합성물</FiberCompositeWhite.stuffProps.stuffAdjective>
+  <FiberCompositeBlack.label>검은색 신타마이트 합성물</FiberCompositeBlack.label>
+  <FiberCompositeBlack.description>신타마이드 합성물은 고강도, 경량, 내화성 우주급 복합 재료입니다.</FiberCompositeBlack.description>
+  <FiberCompositeBlack.stuffProps.stuffAdjective>검은색 신타마이트 합성물</FiberCompositeBlack.stuffProps.stuffAdjective>
+  <FiberCompositeGreen.label>초록색 신타마이트 합성물</FiberCompositeGreen.label>
+  <FiberCompositeGreen.description>신타마이드 합성물은 고강도, 경량, 내화성 우주급 복합 재료입니다.</FiberCompositeGreen.description>
+  <FiberCompositeGreen.stuffProps.stuffAdjective>초록색 신타마이트 합성물</FiberCompositeGreen.stuffProps.stuffAdjective>
+  <FiberCompositeBlue.label>파란색 신타마이트 합성물</FiberCompositeBlue.label>
+  <FiberCompositeBlue.description>신타마이드 합성물은 고강도, 경량, 내화성 우주급 복합 재료입니다.</FiberCompositeBlue.description>
+  <FiberCompositeBlue.stuffProps.stuffAdjective>파란색 신타마이트 합성물</FiberCompositeBlue.stuffProps.stuffAdjective>
+  <FiberCompositeViolet.label>보라색 신타마이트 합성물</FiberCompositeViolet.label>
+  <FiberCompositeViolet.description>신타마이드 합성물은 고강도, 경량, 내화성 우주급 복합 재료입니다.</FiberCompositeViolet.description>
+  <FiberCompositeViolet.stuffProps.stuffAdjective>보라색 신타마이트 합성물</FiberCompositeViolet.stuffProps.stuffAdjective>
+  <FiberCompositeOrange.label>주황색 신타마이트 합성물</FiberCompositeOrange.label>
+  <FiberCompositeOrange.description>신타마이드 합성물은 고강도, 경량, 내화성 우주급 복합 재료입니다.</FiberCompositeOrange.description>
+  <FiberCompositeOrange.stuffProps.stuffAdjective>주황색 신타마이트 합성물</FiberCompositeOrange.stuffProps.stuffAdjective>
+  <FiberCompositeYellow.label>노란색 신타마이트 합성물</FiberCompositeYellow.label>
+  <FiberCompositeYellow.description>신타마이드 합성물은 고강도, 경량, 내화성 우주급 복합 재료입니다.</FiberCompositeYellow.description>
+  <FiberCompositeYellow.stuffProps.stuffAdjective>노란색 신타마이트 합성물</FiberCompositeYellow.stuffProps.stuffAdjective>
+  <FiberCompositeRed.label>빨간색 신타마이트 합성물</FiberCompositeRed.label>
+  <FiberCompositeRed.description>신타마이드 합성물은 고강도, 경량, 내화성 우주급 복합 재료입니다.</FiberCompositeRed.description>
+  <FiberCompositeRed.stuffProps.stuffAdjective>빨간색 신타마이트 합성물</FiberCompositeRed.stuffProps.stuffAdjective>
+  <FiberCompositeOlive.label>황록색 신타마이트 합성물</FiberCompositeOlive.label>
+  <FiberCompositeOlive.description>신타마이드 합성물은 고강도, 경량, 내화성 우주급 복합 재료입니다.</FiberCompositeOlive.description>
+  <FiberCompositeOlive.stuffProps.stuffAdjective>황록색 신타마이트 합성물</FiberCompositeOlive.stuffProps.stuffAdjective>
+  <FiberCompositeSand.label>크림색 신타마이트 합성물</FiberCompositeSand.label>
+  <FiberCompositeSand.description>신타마이드 합성물은 고강도, 경량, 내화성 우주급 복합 재료입니다.</FiberCompositeSand.description>
+  <FiberCompositeSand.stuffProps.stuffAdjective>크림색 신타마이트 합성물</FiberCompositeSand.stuffProps.stuffAdjective>
+
   <Lino_TilesDiagonal_Blueprint.label>대각선 타일 (청사진)</Lino_TilesDiagonal_Blueprint.label>
   <Lino_TilesDiagonal_Frame.label>대각선 타일 (건설 중)</Lino_TilesDiagonal_Frame.label>
   <Lino_TilesDiagonal_Frame.description>작업이 진행중 입니다.</Lino_TilesDiagonal_Frame.description>

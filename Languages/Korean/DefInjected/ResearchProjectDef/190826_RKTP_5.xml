@@ -61,22 +61,6 @@
   <MultiElectric.label>번화계 IV</MultiElectric.label>
   <MultiElectric.description>혈액팩에 진통제와 항생제를 사전 주입하여 진통제 IV, 항생제 IV와 혈액팩 IV의 효과를 가진 전기 번화계 IV 입니다.</MultiElectric.description>
 
-  <!--1469664205_190622_Soviet Armory [1.0]-->
-  <Stage0_SA.label>기본 소비에트 강선 만들기</Stage0_SA.label>
-  <Stage0_SA.description>이 기술로 소비에트 무기 가공대를 만들 수 있고, AKM 돌격소총, AKMS 돌격소총, RPK 경기관총과 SKS 소총을 만들 수 있습니다.</Stage0_SA.description>
-  <Stage1_SA.label>개선된 소비에트 강선 만들기</Stage1_SA.label>
-  <Stage1_SA.description>이 기술로 AK-74 돌격소총, AKS-74U 돌격소총, 마카로프 권총, VSS 빈토레즈 저격소총, PKM 기관총을 만들 수 있습니다.</Stage1_SA.description>
-  <Stage1a_SA.label>차량용 무기 I</Stage1a_SA.label>
-  <Stage1a_SA.description>12,7mm NSV Utyos 중 기관총을 만들 수 있습니다.</Stage1a_SA.description>
-  <Stage1c_SA.label>저격 소총 기술</Stage1c_SA.label>
-  <Stage1c_SA.description>스코프가 장착된 SVD 드라구노프 저격소총을 해금합니다.</Stage1c_SA.description>
-  <Stage1b_SA.label>소비에트 중형 무기 기술</Stage1b_SA.label>
-  <Stage1b_SA.description>RPG-7V2 대전차로켓, RPO-Z 시멜 무반동총, RGS-50 유탄발사기를 해금합니다.</Stage1b_SA.description>
-  <Stage2_SA.label>고급 소비에트 강선 만들기</Stage2_SA.label>
-  <Stage2_SA.description>이 기술로 AK-74M 돌격소총, Saiga 12K 산탄총, PP-19 경기관총, MR-444 권총을 만들 수 있습니다.</Stage2_SA.description>
-  <Stage2a_SA.label>차량용 무기 II</Stage2a_SA.label>
-  <Stage2a_SA.description>AGS-17 Plamya 자동 유탄 발사기를 만들 수 있습니다.</Stage2a_SA.description>
-
   <!--1541438614_190622_Adeptus Mechanicus Armoury-->
   <ImperialTechBase.label>임페리얼 웨폰</ImperialTechBase.label>
   <ImperialTechBase.description>기본적인 임페리얼 웨폰의 연구를 허락합니다</ImperialTechBase.description>
@@ -226,40 +210,6 @@
   <CNSocialAnalyzerImplant.description>사교 분석기 보철물은 감각 데이터를 사고의 주제, 사고 방식 및 성격에 대한 통찰력으로 통합됩니다. 이것은 이식자와 함께 어울리는 이들에 대한 기이할 정도의 사교 통찰력을 제공합니다.</CNSocialAnalyzerImplant.description>
   <CNConsciousnessEnhancementImplant.label>의식 향상 보철물</CNConsciousnessEnhancementImplant.label>
   <CNConsciousnessEnhancementImplant.description>뇌 강화의 성배나 마찬가지인 의식 향상 보철물은 사용자의 뇌 모드 부분을 통합하는 글리터넷과 통합시켜, 사용자 대신에 고도의 계산과정을 처리해주는 극히 침습적인 보철물입니다. 이는 사용자의 뇌 기능을 종합적으로 향상시켜주고, 모든 것을 더 낫게 만들어줍니다.</CNConsciousnessEnhancementImplant.description>
-
-  <!--1768843436_190622_Kaiser Armory [1.0]-->
-  <Stage0_KA.label>기본 독일 무기들</Stage0_KA.label>
-  <Stage0_KA.description>이 기술로 카이저 기계 가공대를 만들 수 있고, 게베어 98, C96, M1887 Feldspaten (야전삽)을 만들 수 있습니다.</Stage0_KA.description>
-  <Stage1_KA.label>개선된 독일 무기</Stage1_KA.label>
-  <Stage1_KA.description>이 기술로 P08, P08 포병형, M1873 사브르를 생산할 수 있습니다.</Stage1_KA.description>
-  <Stage1a_KA.label>팀 무기들 I</Stage1a_KA.label>
-  <Stage1a_KA.description>7,92mm MG 08 중기관총을 만들 수 있습니다.</Stage1a_KA.description>
-  <Stage1b_KA.label>화염방사기</Stage1b_KA.label>
-  <Stage1b_KA.description>Wechselapparat (WEX), 경량형 화염 방사기를 해금합니다.</Stage1b_KA.description>
-  <Stage2_KA.label>고급 독일 무기들</Stage2_KA.label>
-  <Stage2_KA.description>MP 18 기관단총을 만들 수 있습니다.</Stage2_KA.description>
-  <Stage2a_KA.label>팀 무기들 II</Stage2a_KA.label>
-  <Stage2a_KA.description>7,7cm FK 96 n.A.야포를 만들 수 있습니다.</Stage2a_KA.description>
-  <Stage3a_KA.label>독일 중형 곡사포를 만들 수 있습니다.</Stage3a_KA.label>
-  <Stage3a_KA.description>10,5cm leFH 16 곡사포를 만들 수 있습니다.</Stage3a_KA.description>
-
-  <!--1778648673_190712_Reich_Armory-->
-  <Stage0b_RA.label>전쟁 초기 무기들</Stage0b_RA.label>
-  <Stage0b_RA.description>제3제국 기계 테이블과 Kar98K, Kar98K 총검 장착, Kar98K 스나이퍼, MP 35, MG 34, P08, 발터 PPK, M31 야전삽, S84/98 III 총검, M24 수류탄을 해금합니다.</Stage0b_RA.description>
-  <Stage1b_RA.label>전쟁 중기 무기들</Stage1b_RA.label>
-  <Stage1b_RA.description>Gew 43, Gew 43 조준경 장착, Kar98K 총류탄 장착, MP 40, FG 42, MG 42, P38, PzB 39을 해금합니다.</Stage1b_RA.description>
-  <Stage2b_RA.label>전쟁 말기 무기들</Stage2b_RA.label>
-  <Stage2b_RA.description>StG 44, StG 44 조준경 장착, 판저파우스트 60을 해금합니다.</Stage2b_RA.description>
-  <Stage2c_RA.label>국민돌격대</Stage2c_RA.label>
-  <Stage2c_RA.description>VG.1, 국민돌격권총, MP 3008, MP 507, Eintossflammenwerfer 46 화염방사기를 해금합니다.</Stage2c_RA.description>
-  <Stage0a_RA.label>분대 화기 I</Stage0a_RA.label>
-  <Stage0a_RA.description>3,7cm PaK 36 and 7,5cm le.IG 18을 해금합니다.</Stage0a_RA.description>
-  <Stage1a_RA.label>분대 화기 II</Stage1a_RA.label>
-  <Stage1a_RA.description>MG 42 거치대 장착, 7,5cm PaK 40, 2cm Flak 38을 해금합니다.</Stage1a_RA.description>
-  <Stage1_RA.label>로켓 포병</Stage1_RA.label>
-  <Stage1_RA.description>15cm Nebelwerfer 41을 해금합니다.</Stage1_RA.description>
-  <Stage0c_RA.label>고급 광학 사이트</Stage0c_RA.label>
-  <Stage0c_RA.description>ZF39 (Kar98K) ZF4 (Gew 43, StG 44)조준경을 해금합니다.</Stage0c_RA.description>
 
   <!--1780182516_190707_Rotmeth-->
   <Rotmeth.label>롯메스</Rotmeth.label>
