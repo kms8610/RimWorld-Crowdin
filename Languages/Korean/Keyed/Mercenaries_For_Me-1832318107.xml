@@ -186,7 +186,7 @@
   <MFM_Affinity>친밀감: {0}</MFM_Affinity>
   <MFM_GuaranteeCS>보증서: {0}% ({1}/{2})</MFM_GuaranteeCS>
   <MFM_FiredCountDown>{0}에서 해고 됨, 남은 시간: {1}</MFM_FiredCountDown>
-  <MFM_AffinityOK>상급</MFM_AffinityOK>
+  <MFM_AffinityOK>좋음</MFM_AffinityOK>
   <MFM_AffinityNeutral>중립</MFM_AffinityNeutral>
   <MFM_AffinityBad>나쁨</MFM_AffinityBad>
   <MFM_SettingsResetBlacklistedTraits>특성 블랙리스트 초기화</MFM_SettingsResetBlacklistedTraits>
