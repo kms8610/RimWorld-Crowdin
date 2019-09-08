@@ -1,6 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <MFM_GuardSpotDirLeft>왼쪽</MFM_GuardSpotDirLeft>
+  <MFM_GuardSpotDirRight>오른쪽</MFM_GuardSpotDirRight>
+  <MFM_GuardSpotDirTop>위쪽</MFM_GuardSpotDirTop>
+  <MFM_GuardSpotDirBottom>아래쪽</MFM_GuardSpotDirBottom>
   <MFM_USFMTitle>USFM</MFM_USFMTitle>
   <MFM_USFMMedievalTitle>강철 연맹</MFM_USFMMedievalTitle>
   <MFM_MedievalHireRent>고용/파견</MFM_MedievalHireRent>
@@ -67,8 +71,8 @@
   <MFM_LetterRentedMercInjured>부상당한 용병</MFM_LetterRentedMercInjured>
   <MFM_LetterRentedMercInjuredDesc>부상으로 인해 {0}의 계약이 취소되었습니다. ({1} 손상)</MFM_LetterRentedMercInjuredDesc>
   <MFM_LetterRentedMercDeath>용병 사망</MFM_LetterRentedMercDeath>
-  <MFM_LetterRentedMercDeathDesc>임무를 수행하던 {0}(이)가 {1}에서 사망했다는 소식을 알려드리게 되어 매우 유감스럽게 생각하며</MFM_LetterRentedMercDeathDesc>
-  <MFM_LetterRentedMercDeathDescComp>, 근시일내로 시신을 보내드리도록 하겠습니다.</MFM_LetterRentedMercDeathDescComp>
+  <MFM_LetterRentedMercDeathDesc>임무를 수행하던 {0}(이)가 사망했다는 소식을 알려드리게 되어 유감입니다 {1}</MFM_LetterRentedMercDeathDesc>
+  <MFM_LetterRentedMercDeathDescComp>. 시신을 바로 보내드리도록 하겠습니다.</MFM_LetterRentedMercDeathDescComp>
   <MFM_LetterRentedMercEarnMoney>임무 전리품</MFM_LetterRentedMercEarnMoney>
   <MFM_LetterRentedMercEarnMoneyDesc>기지를 성공적으로 급습한 후 {0}(이)가 {2}(을)를 통해 성과금 ({1})을 받았습니다.</MFM_LetterRentedMercEarnMoneyDesc>
   <MFM_LetterMercRaid>용병대 습격</MFM_LetterMercRaid>
@@ -182,7 +186,7 @@
   <MFM_Affinity>친밀감: {0}</MFM_Affinity>
   <MFM_GuaranteeCS>보증서: {0}% ({1}/{2})</MFM_GuaranteeCS>
   <MFM_FiredCountDown>{0}에서 해고 됨, 남은 시간: {1}</MFM_FiredCountDown>
-  <MFM_AffinityOK>좋음</MFM_AffinityOK>
+  <MFM_AffinityOK>상급</MFM_AffinityOK>
   <MFM_AffinityNeutral>중립</MFM_AffinityNeutral>
   <MFM_AffinityBad>나쁨</MFM_AffinityBad>
   <MFM_SettingsResetBlacklistedTraits>특성 블랙리스트 초기화</MFM_SettingsResetBlacklistedTraits>
@@ -269,5 +273,6 @@
   <MFM_SettingsCurrentEpochAuto>자동</MFM_SettingsCurrentEpochAuto>
   <MFM_SettingsCurrentEpochMedieval>중세</MFM_SettingsCurrentEpochMedieval>
   <MFM_SettingsCurrentEpochModern>현대</MFM_SettingsCurrentEpochModern>
+  <MFM_SettingsCurrentEpochModernOnly>현대 시대만 (강철 연맹 제거)</MFM_SettingsCurrentEpochModernOnly>
 
 </LanguageData>
