@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <CPD_FermentingBarrel.label>쿠프로의 발효통</CPD_FermentingBarrel.label>
+  <CPD_FermentingBarrel.label>쿠프로 발효통</CPD_FermentingBarrel.label>
   <CPD_FermentingBarrel.description>다양한 유형의 알코올 음료를 만들기 위한 발효통입니다.</CPD_FermentingBarrel.description>
   <CPD_FermentingBarrel_Blueprint.label>쿠프로 발효통 (청사진)</CPD_FermentingBarrel_Blueprint.label>
   <CPD_FermentingBarrel_Blueprint_Install.label>쿠프로 발효통 (청사진)</CPD_FermentingBarrel_Blueprint_Install.label>
@@ -35,8 +35,8 @@
   <CPD_WhiskeyCrate.description>위스키 75 병이 들어있는 상자입니다.</CPD_WhiskeyCrate.description>
   <CPD_WineCrate.label>와인 상자</CPD_WineCrate.label>
   <CPD_WineCrate.description>와인 75 병이 들어있는 상자입니다.</CPD_WineCrate.description>
-  <CPD_GreenDragonCrate.label>녹색용 상자</CPD_GreenDragonCrate.label>
-  <CPD_GreenDragonCrate.description>녹색용 75 병이 들어있는 상자입니다.</CPD_GreenDragonCrate.description>
+  <CPD_GreenDragonCrate.label>대반하 상자</CPD_GreenDragonCrate.label>
+  <CPD_GreenDragonCrate.description>대반하 75 병이 들어있는 상자입니다.</CPD_GreenDragonCrate.description>
   <CPD_RawCoffeeBeans.label>생 커피 원두</CPD_RawCoffeeBeans.label>
   <CPD_RawCoffeeBeans.description>생 커피 원두를 작게 포장해놨습니다.</CPD_RawCoffeeBeans.description>
   <CPD_CoffeeBeans.label>볶은 커피 원두</CPD_CoffeeBeans.label>

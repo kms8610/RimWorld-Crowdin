@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Make_WCE_HeartIrregulator.label>심장 비안정기 생산</Make_WCE_HeartIrregulator.label>
+  <Make_WCE_HeartIrregulator.description>심장 비안정기를 만듭니다.</Make_WCE_HeartIrregulator.description>
+  <Make_WCE_HeartIrregulator.jobString>심장 비안정기를 만드는 중.</Make_WCE_HeartIrregulator.jobString>
+  <Make_WCE_SleepDeprivator.label>수면 방해기 생산</Make_WCE_SleepDeprivator.label>
+  <Make_WCE_SleepDeprivator.description>수면 방해기를 만듭니다.</Make_WCE_SleepDeprivator.description>
+  <Make_WCE_SleepDeprivator.jobString>수면 방해기를 만드는 중.</Make_WCE_SleepDeprivator.jobString>
+  <Make_WCE_PainAmplifier.label>고통 증폭기 생산</Make_WCE_PainAmplifier.label>
+  <Make_WCE_PainAmplifier.description>고통 증폭기를 만듭니다.</Make_WCE_PainAmplifier.description>
+  <Make_WCE_PainAmplifier.jobString>고통 증폭기를 만드는 중.</Make_WCE_PainAmplifier.jobString>
+  <Make_WCE_AggressionAmplifier.label>공격성 증폭기 생산</Make_WCE_AggressionAmplifier.label>
+  <Make_WCE_AggressionAmplifier.description>공격성 증폭기를 만듭니다.</Make_WCE_AggressionAmplifier.description>
+  <Make_WCE_AggressionAmplifier.jobString>공격성 증폭기 만드는 중.</Make_WCE_AggressionAmplifier.jobString>
+  <Make_WCE_PanicInducer.label>공황 유도기 생산</Make_WCE_PanicInducer.label>
+  <Make_WCE_PanicInducer.description>공황 유도기를 만듭니다.</Make_WCE_PanicInducer.description>
+  <Make_WCE_PanicInducer.jobString>공황 유도기를 만드는 중.</Make_WCE_PanicInducer.jobString>
+  <Make_WCE_StomachClamp.label>위 압박기 생산</Make_WCE_StomachClamp.label>
+  <Make_WCE_StomachClamp.description>위 악박기를 만듭니다.</Make_WCE_StomachClamp.description>
+  <Make_WCE_StomachClamp.jobString>위 압박기를 만드는 중.</Make_WCE_StomachClamp.jobString>
+  <Make_WCE_NeutroamineIncubator.label>뉴트로아민 종양 배양기 생산</Make_WCE_NeutroamineIncubator.label>
+  <Make_WCE_NeutroamineIncubator.description>뉴트로아민 종양 배양기를 만듭니다.</Make_WCE_NeutroamineIncubator.description>
+  <Make_WCE_NeutroamineIncubator.jobString>뉴트로아민 종양 배양기 만드는 중.</Make_WCE_NeutroamineIncubator.jobString>
+  <WCE_DrugProcessingBase.label>약 생산</WCE_DrugProcessingBase.label>
+  <WCE_DrugProcessingBase.description>모종의 약을 만듭니다.</WCE_DrugProcessingBase.description>
+  <WCE_DrugProcessingBase.jobString>약을 만드는 중.</WCE_DrugProcessingBase.jobString>
+  <WCE_ProcessNeutroamineSac.label>종양에서 뉴트로아민 적출</WCE_ProcessNeutroamineSac.label>
+  <WCE_ProcessNeutroamineSac.description>환자에서 성장한 뉴트로아민 종양에서 뉴트로아민을 적출합니다. 5개의 뉴트로아민을 적출합니다.</WCE_ProcessNeutroamineSac.description>
+  <WCE_ProcessNeutroamineSac.jobString>뉴트로아민 적출 중</WCE_ProcessNeutroamineSac.jobString>
+  <WCE_SutureMouth.label>봉합하여 입 닫기</WCE_SutureMouth.label>
+  <WCE_SutureMouth.description>봉합하여 입을 닫습니다.</WCE_SutureMouth.description>
+  <WCE_SutureMouth.jobString>봉합하여 입 닫는 중.</WCE_SutureMouth.jobString>
+  <WCE_RemoveSutures.label>입을 꿰맨 실 제거하기</WCE_RemoveSutures.label>
+  <WCE_RemoveSutures.description>입을 꿰맨 실을 제거합니다.</WCE_RemoveSutures.description>
+  <WCE_RemoveSutures.jobString>꿰맨 실 제거 중.</WCE_RemoveSutures.jobString>
+  <WCE_RemoveSutures.successfullyRemovedHediffMessage>{0}(은)는 성공적으로 {1}의 입에서 실을 제거했습니다.</WCE_RemoveSutures.successfullyRemovedHediffMessage>
+  <WCE_SutureEyes.label>봉합하여 눈 닫기</WCE_SutureEyes.label>
+  <WCE_SutureEyes.description>봉합하여 눈을 닫습니다.</WCE_SutureEyes.description>
+  <WCE_SutureEyes.jobString>봉합하여 눈 닫는 중.</WCE_SutureEyes.jobString>
+  <WCE_ImplantSteelSpikes.label>강철 가시 이식하기</WCE_ImplantSteelSpikes.label>
+  <WCE_ImplantSteelSpikes.description>희생자의 몸통에 강철 가시를 이식합니다. 고통만을 일으킵니다. 아주 많이.</WCE_ImplantSteelSpikes.description>
+  <WCE_ImplantSteelSpikes.jobString>강철 가시 이식 중.</WCE_ImplantSteelSpikes.jobString>
+  <WCE_RemoveSuturesEye.label>눈을 꿰맨 실 제거하기</WCE_RemoveSuturesEye.label>
+  <WCE_RemoveSuturesEye.description>눈을 꿰맨 실을 제거합니다.</WCE_RemoveSuturesEye.description>
+  <WCE_RemoveSuturesEye.jobString>꿰맨 실 제거 중.</WCE_RemoveSuturesEye.jobString>
+  <WCE_RemoveSuturesEye.successfullyRemovedHediffMessage>{0}(은)는 성공적으로 {1}의 눈에서 실을 제거했습니다.</WCE_RemoveSuturesEye.successfullyRemovedHediffMessage>
+  <WCE_RemoveSteelSpikes.label>몸통에서 강철가시 제거하기</WCE_RemoveSteelSpikes.label>
+  <WCE_RemoveSteelSpikes.description>이식된 강철 가시를 제거합니다.</WCE_RemoveSteelSpikes.description>
+  <WCE_RemoveSteelSpikes.jobString>강철 가시 제거 중.</WCE_RemoveSteelSpikes.jobString>
+  <WCE_RemoveSteelSpikes.successfullyRemovedHediffMessage>{0}(은)는 성공적으로 {1}의 몸통에서 가시를 제거했습니다.</WCE_RemoveSteelSpikes.successfullyRemovedHediffMessage>
+  <WCE_HeartIrregulator.label>심장 비안정기 설치하기</WCE_HeartIrregulator.label>
+  <WCE_HeartIrregulator.description>심장 비안정기를 설치합니다. 이따금 심장의 오작동을 일으키고 전반적인 효율을 떨어뜨립니다.</WCE_HeartIrregulator.description>
+  <WCE_HeartIrregulator.jobString>시장 비안정기 설치 중.</WCE_HeartIrregulator.jobString>
+  <WCE_StomachClamp.label>위 압박기 설치하기</WCE_StomachClamp.label>
+  <WCE_StomachClamp.description>위 압박기를 설치합니다. 주기적으로 경련을 일으키고, 휘젓고, 위를 쥐어짜서 자주 구토를 일으키고, 효율을 떨어뜨리고, 통증을 유발합니다.</WCE_StomachClamp.description>
+  <WCE_StomachClamp.jobString>위 압박기 설치 중.</WCE_StomachClamp.jobString>
+  <WCE_IncubateNeutroamine.label>뉴트로아민 배양기 설치</WCE_IncubateNeutroamine.label>
+  <WCE_IncubateNeutroamine.description>뉴트로아민 배양기를 사용하여 대상에게서 더 많은 뉴트로아민 종양을 '성장'시키십시오. 의사의 적절한 관리로 몇 주 후에 성장을 끝낼 가슴 배양기를 설치합니다. 다 성장하면 팔과 다리로 퍼집니다. 서서히 퍼진 다음 성장하면, 희생자는 뉴트로아민을 총 20 개 만들어냅니다.</WCE_IncubateNeutroamine.description>
+  <WCE_IncubateNeutroamine.jobString>뉴트로아민 배양기 설치 중.</WCE_IncubateNeutroamine.jobString>
+  <WCE_InstallAggressionAmplifier.label>공격성 증폭기 설치하기</WCE_InstallAggressionAmplifier.label>
+  <WCE_InstallAggressionAmplifier.description>공격서 증폭기 이식물을 설치합니다. 이 장치는 희생자의 공격성을 크게 증가시켜 극도로 빈번하게 모욕에 대한 폭력으로 반응하게 만듭니다 - 때때로 계속해서 살인하게 만드는 것은 말할 것도 없습니다.</WCE_InstallAggressionAmplifier.description>
+  <WCE_InstallAggressionAmplifier.jobString>공격성 증폭기 설치 중.</WCE_InstallAggressionAmplifier.jobString>
+  <WCE_InstallPanicInducer.label>공황 유도기 설치하기</WCE_InstallPanicInducer.label>
+  <WCE_InstallPanicInducer.description>공황 유도기 이식물을 설치합니다. 이 장치는 희생자의 정신이상임계치를 높일 뿐만 아니라 공황발작과 정신병의 비교적 빈번한 발생을 유도합니다.</WCE_InstallPanicInducer.description>
+  <WCE_InstallPanicInducer.jobString>공황 유도기 설치 중.</WCE_InstallPanicInducer.jobString>
+  <WCE_InstallPainAmplifier.label>고통 증폭기 설치하기</WCE_InstallPainAmplifier.label>
+  <WCE_InstallPainAmplifier.description>고통 증폭기 이식물을 설치합니다.. 이 잔인한 이식물은 이식된 사람이 느끼는 고통을 증가시킵니다.</WCE_InstallPainAmplifier.description>
+  <WCE_InstallPainAmplifier.jobString>고통 증폭기 설치 중.</WCE_InstallPainAmplifier.jobString>
+  <WCE_InstallSleepDeprivator.label>수면 방해기 설치하기</WCE_InstallSleepDeprivator.label>
+  <WCE_InstallSleepDeprivator.description>수면 방해기를 설치합니다.이 잔인한 이식물은 사용자의 수면 사이클을 엉망으로 만든다. 그것은 그들을 더 자주 피곤하게 만들고 그들이 충분한 잠을 자지 못하게 만듭니다.</WCE_InstallSleepDeprivator.description>
+  <WCE_InstallSleepDeprivator.jobString>수면 방해기 설치 중.</WCE_InstallSleepDeprivator.jobString>
+  <WCE_BashTeeth.label>때려서 이빨 빠지게 하기</WCE_BashTeeth.label>
+  <WCE_BashTeeth.description>통나무를 가져다 반복적으로 휘둘러 누군가의 이빨을 전부 빠지게 하는 '섬세한' 수술입니다.</WCE_BashTeeth.description>
+  <WCE_BashTeeth.jobString>때려서 이빨 빠지게 하는 중.</WCE_BashTeeth.jobString>
+  <WCE_InjureSpine.label>척추 후려치기</WCE_InjureSpine.label>
+  <WCE_InjureSpine.description>누군가를 침대에 납작 엎드리게 한 후 통나무를 허리에 반복적으로 휘두르는 사랑스러운 수술입니다. 요통을 유발합니다.</WCE_InjureSpine.description>
+  <WCE_InjureSpine.jobString>척추를 후려치는 중.</WCE_InjureSpine.jobString>
+  <WCE_CutoutTongue.label>혀 잘라버리기</WCE_CutoutTongue.label>
+  <WCE_CutoutTongue.description>혀를 잘라버려 말을 제대로 못하게 합니다. 식사에도 덜하게 영향을 줍니다. 쇳조각같은 날카로운 물체가 필요합니다.</WCE_CutoutTongue.description>
+  <WCE_CutoutTongue.jobString>혀 잘라버리는 중.</WCE_CutoutTongue.jobString>
+  <WCE_PunctureEye.label>눈 찌르기</WCE_PunctureEye.label>
+  <WCE_PunctureEye.description>날카로운 쇳조각을 이용해 희생자의 눈을 찌릅니다. 실명을 유발합니다.</WCE_PunctureEye.description>
+  <WCE_PunctureEye.jobString>눈에 구멍내는 중.</WCE_PunctureEye.jobString>
+  <WCE_PunctureEardrum.label>고막에 구멍내기</WCE_PunctureEardrum.label>
+  <WCE_PunctureEardrum.description>놈들의 고막에 구멍을 냅니다.고막, 이건 날붙이에요. 날붙이, 여긴 고막이에요. 이제 키스하세요!</WCE_PunctureEardrum.description>
+  <WCE_PunctureEardrum.jobString>고막에 구멍내기</WCE_PunctureEardrum.jobString>
+  <WCE_CutOpen.label>수술 연습</WCE_CutOpen.label>
+  <WCE_CutOpen.description>수술을 연습합니다. 아무데나 자르면서, 재미있고 유익한 연습을 할 수 있습니다. 글쎄요. 당하는 대상자는 제외하고요.</WCE_CutOpen.description>
+  <WCE_CutOpen.jobString>수술 연습 중.</WCE_CutOpen.jobString>
+  <WCE_Vivisect.label>해부함</WCE_Vivisect.label>
+  <WCE_Vivisect.description>수술 연습… 환상적인 교육(및 고문)의 형태로 내부를 관찰하기 위해 살아있는 상대를 절단하여 해부합니다.</WCE_Vivisect.description>
+  <WCE_Vivisect.jobString>해부를 하는 중.</WCE_Vivisect.jobString>
+  <WCE_RemoveVivisection.label>봉합함.</WCE_RemoveVivisection.label>
+  <WCE_RemoveVivisection.description>해부를 봉합합니다. 희망적으로. 해부를 하는 것보다 훨씬 어렵습니다!</WCE_RemoveVivisection.description>
+  <WCE_RemoveVivisection.jobString>봉합하는 중.</WCE_RemoveVivisection.jobString>
+  <WCE_RemoveVivisection.successfullyRemovedHediffMessage>해부 후, {0}(이)가 {1}의 해부된 부위를 성공적으로 봉합했습니다.</WCE_RemoveVivisection.successfullyRemovedHediffMessage>
+  <WCE_HobbleKnees.label>무릎 절뚝거리게하기</WCE_HobbleKnees.label>
+  <WCE_HobbleKnees.description>통나무로 무릎을 치고 또 쳐서 무릎을 절뚝거리게 합니다. 영구적으로 절게 만듭니다.</WCE_HobbleKnees.description>
+  <WCE_HobbleKnees.jobString>무릎 절게 만드는 중.</WCE_HobbleKnees.jobString>
+  <WCE_DislocateShoulder.label>어깨 탈골시키기</WCE_DislocateShoulder.label>
+  <WCE_DislocateShoulder.description>어깨를 탈골시킵니다. 제대로 치료되지도 않고 영구적인 손상을 일으켜 교체될 때까지 그 팔을 사용하는 것을 어렵게 만듭니다.</WCE_DislocateShoulder.description>
+  <WCE_DislocateShoulder.jobString>어깨 탈골시키는 중.</WCE_DislocateShoulder.jobString>
+  <WCE_Lobotomize.label>전두엽 절제술</WCE_Lobotomize.label>
+  <WCE_Lobotomize.description>불쌍한 희생자의 전두엽을 절제합니다. 이 수술은 뇌의 나머지 부분을 잘라내는 것으로 구성되어있습니다. 원래는 정신 질환을 치료하기 위한 방법으로 행해졌는데, 요즘은 그저 사람들을 거의 정신이 나가도록 만드는데 쓰입니다. 망치지 않도록 해야합니다. 그렇지 않으면 그들이 죽을 가능성이 높습니다...</WCE_Lobotomize.description>
+  <WCE_Lobotomize.jobString>전두엽 절제중.</WCE_Lobotomize.jobString>
+  <WCE_TraumaSavant.label>서번트 증후군으로 만들기</WCE_TraumaSavant.label>
+  <WCE_TraumaSavant.description>누군가의 뒤통수와 통나무를 결합하는 하기 쉬운 수술입니다. 비교적 높은 실패율을 가지고 있지만 저는 누구든 해보려는 사람은 괜찮을거라고 확신합니다. 이게 작용하든 안하든 보통 뇌에 손상을 일으킵니다.</WCE_TraumaSavant.description>
+  <WCE_TraumaSavant.jobString>서번트 증후군으로 만드는 중.</WCE_TraumaSavant.jobString>
+  <WCE_Sedate.label>진정시키기</WCE_Sedate.label>
+  <WCE_Sedate.description>대상을 진정시킵니다. 마취제처럼 작용하지만, 의사가 제거하거나 치료 중단을 지시할 때까지 의사가 자동으로 갱신합니다.</WCE_Sedate.description>
+  <WCE_Sedate.jobString>진정제 투여 중.</WCE_Sedate.jobString>
+  <WCE_RemoveSedation.label>진정제 투여 중지.</WCE_RemoveSedation.label>
+  <WCE_RemoveSedation.description>대상에게 진정제를 더 이상 투여하지 않습니다. 빠르고 쉬운 작업이죠.</WCE_RemoveSedation.description>
+  <WCE_RemoveSedation.jobString>진정제 투여 중지 중.</WCE_RemoveSedation.jobString>
+  <WCE_RemoveSedation.successfullyRemovedHediffMessage>{0}(이)가 {1}에게서 진정제를 성공적으로 제거 및 투여 중지시켰습니다.</WCE_RemoveSedation.successfullyRemovedHediffMessage>
+
+</LanguageData>

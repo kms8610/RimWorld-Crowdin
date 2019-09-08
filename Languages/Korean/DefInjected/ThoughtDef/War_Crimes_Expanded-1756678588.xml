@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WCE_TorturedMe.stages.0.label>고문당함</WCE_TorturedMe.stages.0.label>
+  <WCE_TorturedMeMood.stages.0.label>고문당했어.</WCE_TorturedMeMood.stages.0.label>
+  <WCE_TorturedMeMood.stages.0.description>아아아아아! 아아아아아아! 아아아아아아아!</WCE_TorturedMeMood.stages.0.description>
+  <WCE_SuturedEye.stages.0.label>봉합된 눈</WCE_SuturedEye.stages.0.label>
+  <WCE_SuturedEye.stages.0.description>그래 참 대단하네. 이제 이 눈으로는 볼 수 없겠어.</WCE_SuturedEye.stages.0.description>
+  <WCE_BadBack.stages.0.label>부숴진 허리</WCE_BadBack.stages.0.label>
+  <WCE_BadBack.stages.0.description>내 허리가 부숴졌어! 아악! 아파!</WCE_BadBack.stages.0.description>
+  <RC2_SuturedMouth.stages.0.label>봉합된 입</RC2_SuturedMouth.stages.0.label>
+  <RC2_SuturedMouth.stages.0.description>난 말할 수도 없고 빨대로 뭘 먹어야해. 내 입을 열고 소리지르고 싶어!</RC2_SuturedMouth.stages.0.description>
+  <WCE_SteelSpikes.stages.0.label>박힌 강철가시</WCE_SteelSpikes.stages.0.label>
+  <WCE_SteelSpikes.stages.0.description>아악! 놈들이 내 몸에 강철로 된 가시를 박았어! 이거 진짜 아파!</WCE_SteelSpikes.stages.0.description>
+  <WCE_HeartIrregulator.stages.0.label>심장 두근거림</WCE_HeartIrregulator.stages.0.label>
+  <WCE_HeartIrregulator.stages.0.description>으, 내 심장이 좀 이상해. 일정하지 않거나 너무 빨리 두근거리는거같아.</WCE_HeartIrregulator.stages.0.description>
+  <WCE_SleepDeprivator.stages.0.label>수면 부족</WCE_SleepDeprivator.stages.0.label>
+  <WCE_SleepDeprivator.stages.0.description>난 잘 잘수도 없고 빨리 지쳐. 놈들이 내 몸에 뭘 넣은거야?! 난 그냥 다시 한번 푹 자보고 싶어..</WCE_SleepDeprivator.stages.0.description>
+  <WCE_AggressionAmplifier.stages.0.label>공격성 증폭기</WCE_AggressionAmplifier.stages.0.label>
+  <WCE_AggressionAmplifier.stages.0.description>난 그냥 좀.. 화가 나! 언제나! 으, 그냥 누굴 좀 때리거나 아프게 해주고 싶어!</WCE_AggressionAmplifier.stages.0.description>
+  <WCE_PanicInducer.stages.0.label>불안함</WCE_PanicInducer.stages.0.label>
+  <WCE_PanicInducer.stages.0.description>그들은 내게 뭔가를 넣었어.. 공황발작이 일어날 것 같은 느낌이 자꾸 들어.</WCE_PanicInducer.stages.0.description>
+  <WCE_StomachClamp.stages.0.label>위 경련</WCE_StomachClamp.stages.0.label>
+  <WCE_StomachClamp.stages.0.description>내가 그 수술을 받은 이후로 계속 배가 아프고 토하고 싶어..</WCE_StomachClamp.stages.0.description>
+  <WCE_HearingLoss.stages.0.label>구멍난 고막</WCE_HearingLoss.stages.0.label>
+  <WCE_HearingLoss.stages.0.description>내 귀! 난 놈들이 거길 찌른 이후로 더이상 잘 들을 수 없어.</WCE_HearingLoss.stages.0.description>
+  <WCE_Blindness.stages.0.label>찔린 눈알</WCE_Blindness.stages.0.label>
+  <WCE_Blindness.stages.0.description>내 눈은 날카로운 쇳조각으로 찔렸어!</WCE_Blindness.stages.0.description>
+  <WCE_BashedTeeth.stages.0.label>얻어맞아 빠진 이빨</WCE_BashedTeeth.stages.0.label>
+  <WCE_BashedTeeth.stages.0.description>통나무에 내 이빨을 얻어맞아 빠졌어!</WCE_BashedTeeth.stages.0.description>
+  <WCE_CutoutTongue.stages.0.label>혀를 잘라버림</WCE_CutoutTongue.stages.0.label>
+  <WCE_CutoutTongue.stages.0.description>옴으이 애 여으 아아어!</WCE_CutoutTongue.stages.0.description>
+  <WCE_HobbledKnee.stages.0.label>절뚝거리는 무릎</WCE_HobbledKnee.stages.0.label>
+  <WCE_HobbledKnee.stages.0.description>내 무릎! 난 이제 간신히 서있을 수 있고 너무 아파!</WCE_HobbledKnee.stages.0.description>
+  <WCE_TraumaSavant.stages.0.label>강제된 서번트 증후군</WCE_TraumaSavant.stages.0.label>
+  <WCE_TraumaSavant.stages.0.description>놈들이 반복적으로 내 뒷통수에 통나무를 후려쳤어! 으흐으.. 난 더이상 말하거나 들을 수 없어.. 뭔가 잘못됬어..</WCE_TraumaSavant.stages.0.description>
+  <WCE_DislocatedShoulder.stages.0.label>탈골된 어깨</WCE_DislocatedShoulder.stages.0.label>
+  <WCE_DislocatedShoulder.stages.0.description>놈들이 내 어깨를 탈골시켰어! 움직일...수가 없어... 그리고 고통스러워...</WCE_DislocatedShoulder.stages.0.description>
+  <WCE_Lobotomized.stages.0.label>전두엽 절제됨</WCE_Lobotomized.stages.0.label>
+  <WCE_Lobotomized.stages.0.description>웅으! 느우후우으르두으르!</WCE_Lobotomized.stages.0.description>
+  <WCE_Vivisected.stages.0.label>해부됨</WCE_Vivisected.stages.0.label>
+  <WCE_Vivisected.stages.0.description>아아아아아아아아아아아아아아아아아아아아아아!!!!\n아아아아아아아아아아아아아아아아아아아아아아!!!!\n아아아아아아아아아아아아아아아아아아아아아아!!!!</WCE_Vivisected.stages.0.description>
+
+</LanguageData>

@@ -951,24 +951,6 @@
   <Orassan_Mud.titleShort>채굴자</Orassan_Mud.titleShort>
   <Orassan_Mud.baseDescription>[PAWN_nameDef](은)는 좀 더 안전한 행성에서 태어났고, 어렸을 때 진흙을 파헤치며 정원에서 구덩이를 파고 있는 것을 자주 볼 수 있었습니다. [PAWN_pronoun]는 파낸 것을 고쳐놓으면서 재배에 대해 조금 이해하게 되었습니다.</Orassan_Mud.baseDescription>
 
-  <!--1468290672_181114_Troll Race-->
-  <PTrollStandardChild.title>동굴 트롤</PTrollStandardChild.title>
-  <PTrollStandardChild.baseDescription>[PAWN_nameDef](은)는 동굴 트롤 부족에서 태어났습니다.</PTrollStandardChild.baseDescription>
-  <PTrollBruteChild.title>싸움꾼 트롤</PTrollBruteChild.title>
-  <PTrollBruteChild.baseDescription>[PAWN_nameDef](은)는 어둠의 주인을 위해 봉사하고 싸우기 위해 태어났습니다.</PTrollBruteChild.baseDescription>
-  <PTrollWorker.title>노동자 트롤</PTrollWorker.title>
-  <PTrollWorker.baseDescription>[PAWN_nameDef](은)는 무거운 물건을 옮기는 단순한 작업을 시키려는 목적으로 노동자로 키워졌습니다.</PTrollWorker.baseDescription>
-  <PTrollRaider.title>습격자 트롤</PTrollRaider.title>
-  <PTrollRaider.baseDescription>[PAWN_nameDef](은)는 살인 및 약탈을 일삼는 습격자로 자랐습니다.</PTrollRaider.baseDescription>
-  <PTrollCook.title>요리사 트롤</PTrollCook.title>
-  <PTrollCook.baseDescription>[PAWN_nameDef](은)는 다른 트롤들의 식사를 책임지는 요리사로 자랐습니다.</PTrollCook.baseDescription>
-  <PTrollLoner.title>외톨이 트롤</PTrollLoner.title>
-  <PTrollLoner.baseDescription>[PAWN_nameDef](은)는 대부분의 삶을 홀로 동굴을 돌아다니며 보냈습니다.</PTrollLoner.baseDescription>
-  <PTrollArena.title>검투사 트롤</PTrollArena.title>
-  <PTrollArena.baseDescription>[PAWN_nameDef](은)는 감금되어, 탈출할때까지 검투장에서 싸우도록 강요받았습니다.</PTrollArena.baseDescription>
-  <PTrollThrower.title>투사 트롤</PTrollThrower.title>
-  <PTrollThrower.baseDescription>[PAWN_nameDef](은)는 적과 그들의 건설물에 거대한 돌을 던지기 위해 원거리 투사로 키워졌습니다.</PTrollThrower.baseDescription>
-
   <!--1541064015_190628_Androids-->
   <ChJAndroid_Adult_Basic.title>정착지 주민</ChJAndroid_Adult_Basic.title>
   <ChJAndroid_Adult_Basic.titleShort>시민</ChJAndroid_Adult_Basic.titleShort>

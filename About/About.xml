@@ -8,25 +8,14 @@
   </supportedVersions>
   <url>https://steamcommunity.com/sharedfiles/filedetails/?id=1567305463</url>
   <description>
-** 현재 RKTP 모드를 흡수하고 통합하는 과정을 진행 중입니다.
-기존의 RKTP 업로드 방식은 고수하되 점점 새로운 방식으로 고쳐 나갈 예정입니다.
-해당 모드에는 최근에 업로드 된 RKTP의 번역이 통째로 들어 있으니 이 모드만 사용하셔도 됩니다.
-
 RimWorld Korean Translation MOD (RKTM)
 림월드 모드들을 번역하는 한글화 모드 입니다.
 
-모드를 최하위로 놔둘 경우 모드 자체에 들어 있는 한글을 우선적으로 인식하고,
-중복되는 번역은 무시가 되므로 해당 모드의 배열을 Core 모드 바로 아래쪽으로 두시길 권장합니다.
-
-만약 다른 한글 모드도 같이 사용하고 싶으시다면 배열을 맞춰주시길 권장합니다.
+모드를 최하위로 놔둘 경우 모드 자체에 들어 있는 한글을 우선적으로 인식하고 중복되는 번역은 무시가 되므로
+해당 모드의 배열을 Core 모드 바로 아래쪽으로 두시길 권장합니다.
 
 &lt;color=orange&gt;1. Core&lt;/color&gt;
 &lt;color=orange&gt;2. RKTM&lt;/color&gt;
-3. PKTE
-4. RKTP
-
-오역제보나 번역 요청은 그대로 받을 생각이지만,
-당분간 새로운 모드 번역보다는 기존의 번역 오류 위주로 수정해 나갈 생각입니다.
   </description>
 
 </ModMetaData>
