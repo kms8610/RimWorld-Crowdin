@@ -20,7 +20,7 @@
   <CPD_WineMust.label>와인 발효액</CPD_WineMust.label>
   <CPD_WineMust.description>과일을 눌러서 즙으로 만들었습니다. 마시는 와인이 되기 위해선 발효통에서 양조해야 됩니다.</CPD_WineMust.description>
   <CPD_GreenDragonPrecursor.label>연초잎 알코올 추출액</CPD_GreenDragonPrecursor.label>
-  <CPD_GreenDragonPrecursor.description>연초잎의 추출액과 보드카를 혼합했습니다. 녹색용이 되기 위해선 발효통에서 양조되어야 합니다.</CPD_GreenDragonPrecursor.description>
+  <CPD_GreenDragonPrecursor.description>연초잎의 추출액과 보드카를 혼합했습니다. 그린 드래곤을 만들기 위해 발효통에서 양조되어야 합니다.</CPD_GreenDragonPrecursor.description>
   <CPD_EmptyCrate.label>빈 상자</CPD_EmptyCrate.label>
   <CPD_EmptyCrate.description>보관 또는 판매를 위해서 많은 술병을 담을 수 있는 상자입니다.</CPD_EmptyCrate.description>
   <CPD_BeerCrate.label>맥주 상자</CPD_BeerCrate.label>
@@ -35,8 +35,8 @@
   <CPD_WhiskeyCrate.description>위스키 75 병이 들어있는 상자입니다.</CPD_WhiskeyCrate.description>
   <CPD_WineCrate.label>와인 상자</CPD_WineCrate.label>
   <CPD_WineCrate.description>와인 75 병이 들어있는 상자입니다.</CPD_WineCrate.description>
-  <CPD_GreenDragonCrate.label>대반하 상자</CPD_GreenDragonCrate.label>
-  <CPD_GreenDragonCrate.description>대반하 75 병이 들어있는 상자입니다.</CPD_GreenDragonCrate.description>
+  <CPD_GreenDragonCrate.label>그린 드래곤 상자</CPD_GreenDragonCrate.label>
+  <CPD_GreenDragonCrate.description>그린 드래곤 75 병이 들어있는 상자입니다.</CPD_GreenDragonCrate.description>
   <CPD_RawCoffeeBeans.label>생 커피 원두</CPD_RawCoffeeBeans.label>
   <CPD_RawCoffeeBeans.description>생 커피 원두를 작게 포장해놨습니다.</CPD_RawCoffeeBeans.description>
   <CPD_CoffeeBeans.label>볶은 커피 원두</CPD_CoffeeBeans.label>
@@ -81,7 +81,7 @@
   <CPD_Wine.tools.1.label>병목</CPD_Wine.tools.1.label>
   <CPD_Wine.ingestible.ingestCommandString>{0} 마시기</CPD_Wine.ingestible.ingestCommandString>
   <CPD_Wine.ingestible.ingestReportString>{0}을 마시는 중.</CPD_Wine.ingestible.ingestReportString>
-  <CPD_GreenDragon.label>대반하</CPD_GreenDragon.label>
+  <CPD_GreenDragon.label>그린 드래곤</CPD_GreenDragon.label>
   <CPD_GreenDragon.description>연초잎으로 만든 알코올 음료입니다.</CPD_GreenDragon.description>
   <CPD_GreenDragon.tools.1.label>병목</CPD_GreenDragon.tools.1.label>
   <CPD_GreenDragon.ingestible.ingestCommandString>{0} 마시기</CPD_GreenDragon.ingestible.ingestCommandString>

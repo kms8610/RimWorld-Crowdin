@@ -1179,12 +1179,4 @@
   <ProductivityRepeatable.label>생산성 (반복 가능)</ProductivityRepeatable.label>
   <ProductivityRepeatable.description>연구할 때마다 전역 작업 속도를 1%, 이동 속도를 1%향상합니다. 이 연구는 반복 가능하며, 밸런스를 위해 연구가 끝낼 때마다 비용이 20%씩 증가할 것입니다. 이 연구를 반복한 횟수: 0</ProductivityRepeatable.description>
 
-  <!--1515570606_170712_Medic Addons-->
-  <sd_medicaddons_research_industrial_med.description>당신의 정착지에 있는 병원 구역을 설치하는 것은 당신의 정착민들의 생존 가능성을 높일 것이다. 새로운 방법은 당신의 의학 분야를 다소 문명화시키는 것이다.</sd_medicaddons_research_industrial_med.description>
-  <sd_medicaddons_research_spacer_med.description>당신의 최신 기술의 진보는 당신의 정착지의 모든 부분에서 보여져야 한다. 새로운 방법은 우주선처럼 당신의 의료 영역을 설치하는 것이다.</sd_medicaddons_research_spacer_med.description>
-  <sd_medicaddons_research_industrial_med.label>산업 의료</sd_medicaddons_research_industrial_med.label>
-  <sd_medicaddons_research_medieval_med.description>새로운 방법은 당신의 의료구역을 중세스타일로 확립하는것이다</sd_medicaddons_research_medieval_med.description>
-  <sd_medicaddons_research_spacer_med.label>우주 의료</sd_medicaddons_research_spacer_med.label>
-  <sd_medicaddons_research_medieval_med.label>중세 의료</sd_medicaddons_research_medieval_med.label>
-
 </LanguageData>

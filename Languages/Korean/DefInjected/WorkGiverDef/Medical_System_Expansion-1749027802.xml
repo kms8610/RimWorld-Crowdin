@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DoBillsTableBionicProstheses.label>생체 공학 가공 테이블에서 생체 공학 물건 만들기</DoBillsTableBionicProstheses.label>
+  <DoBillsTableBionicProstheses.gerund>작업</DoBillsTableBionicProstheses.gerund>
+  <DoBillsTableBionicProstheses.verb>작업</DoBillsTableBionicProstheses.verb>
+  <DoBillsArchotechProsthesesBench.label>초월공학 물건 제작</DoBillsArchotechProsthesesBench.label>
+  <DoBillsArchotechProsthesesBench.gerund>초월공학 물건 제작</DoBillsArchotechProsthesesBench.gerund>
+  <DoBillsArchotechProsthesesBench.verb>초월공학 물건 제작</DoBillsArchotechProsthesesBench.verb>
+
+</LanguageData>

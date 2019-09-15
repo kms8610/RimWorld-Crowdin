@@ -275,7 +275,7 @@
   <QE_GenomeSequencerFilled.description>생명체의 유전체 정보가 들어있는 데이터 보드입니다. 이 기능은 복제 중에 아래에 표시된 특성을 새로 생성된 클론에 적용하는 데 사용됩니다. 클론 배양조를 선택하고 "배양 개시" 기능을 클릭해서 이 견본을 사용합니다.</QE_GenomeSequencerFilled.description>
   <QE_NerveStaple.label>신경 고정 장치</QE_NerveStaple.label>
   <QE_NerveStaple.description>충성심을 관장하는 중추 신경을 자극하여 개척지에 합류하도록 강제하는 뇌 이식물입니다. 이 자극은 폰에게 끊임없이 기쁨을 가져다주지만, 동시에 작업 속도를 줄입니다. 이 이식물들은 번화계 개척선 출신의 변방계 반란 세력을 진압하는 데 큰 영향을 끼쳤습니다.</QE_NerveStaple.description>
-  <QE_NutrientSolution.label>영약액</QE_NutrientSolution.label>
+  <QE_NutrientSolution.label>영양액</QE_NutrientSolution.label>
   <QE_NutrientSolution.description>물과 아미노산, 지방과 비타민이 섞인 혼합물로, 클론 혹은 장기를 배양하는 데 쓰입니다.</QE_NutrientSolution.description>
   <QE_ProteinMash.label>단백질 덩어리</QE_ProteinMash.label>
   <QE_ProteinMash.description>여러 재료에서 추출된 단백질이 섞여 있어 기분 나쁜 덩어리가 되어있습니다. 장기나 생명체의 배양에 최적입니다.</QE_ProteinMash.description>

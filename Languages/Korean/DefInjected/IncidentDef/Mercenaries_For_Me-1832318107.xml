@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <MFM_RentedSlaveMercFactionRelationDecrease.label>노예 용병 세력과 관계 악화</MFM_RentedSlaveMercFactionRelationDecrease.label>
+  <MFM_RentedSlaveMercEscape.label>노예 용병 탈출</MFM_RentedSlaveMercEscape.label>
   <MFM_RentedMercInjured.label>파견된 용병 부상당함</MFM_RentedMercInjured.label>
   <MFM_RentedMercFired.label>용병 해고</MFM_RentedMercFired.label>
   <MFM_RentedMercDeath.label>용병 사망</MFM_RentedMercDeath.label>
