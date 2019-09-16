@@ -6,7 +6,7 @@
   <RequestForTenancyOpportunity>{PAWN_nameDef}(은)는 방송을 듣고 {PAWN_pronoun}가 잠시 거주할 수 있는지 묻습니다.</RequestForTenancyOpportunity>
   <RequestForTenancyContinued>{PAWN_nameDef}(이)가 계약 연장을 요청합니다. 계약을 연장 하겠습니까?</RequestForTenancyContinued>
   <RequestForTenancyContract>{PAWN_nameDef}(은)는 하루 당 {1}은을 지불하며 총 {0}일 동안 거주하게 됩니다. 안정성을 포함해 {PAWN_possessive} 모든 요구사항을 확인하세요. 실패하게 되면 다음과 같은 결과가 발생할 수 있습니다.\n\n{PAWN_pronoun}는 언제든지 계약을 해지할 수 있습니다. {PAWN_pronoun}가 계약을 해지하거나 계약기간이 종료되면 일시불로 지급이 됩니다. 계약 해지를 할 수 있지만 입주금은 무효처리 됩니다.</RequestForTenancyContract>
-  <RequestForTenancyRejected>{1_labelShort}(은)는 '어쨋든 같이 살길 원한다'며 중얼리고 있습니다...</RequestForTenancyRejected>
+  <RequestForTenancyRejected>{1_labelShort}(은)는 '아무튼 같이 살길 원한다'며 중얼거리고 있습니다...</RequestForTenancyRejected>
   <RequestForTenancyContinuedRejected>{1_labelShort}(은)는 슬프지만 결정을 받아들이기로 했습니다.</RequestForTenancyContinuedRejected>
   <RequestTenantWantToJoinTitle>{0}의 세입자 요청</RequestTenantWantToJoinTitle>
   <RequestTenantWantToJoin>{PAWN_nameDef}(은)는 이 곳에서의 생활에 만족하며 평생 머물고 싶어합니다! {PAWN_objective} 수락겠습니까?</RequestTenantWantToJoin>

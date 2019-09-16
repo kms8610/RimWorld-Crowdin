@@ -1548,19 +1548,4 @@
   <AteAwfulMealFlavored.stages.0.label>형편없는 음식 (조미됨)</AteAwfulMealFlavored.stages.0.label>
   <AteAwfulMealFlavored.stages.0.description>역겨운 음식을 먹었어. 적어도 맛은 있었지만, 여전히 그 식감을 버티질 못하겠어.</AteAwfulMealFlavored.stages.0.description>
 
-  <!--1621571024_190824_Additional Traits w Heroes + Gods-->
-  <ObservedLayingCorpseMorbid.stages.0.label>병적인 시체 관찰</ObservedLayingCorpseMorbid.stages.0.label>
-  <ObservedLayingCorpseMorbid.stages.0.description>나는 시체가 땅에 누워있는 것을 봤어! 혼란스러웠지만, 난 그 풍경이 마음에 들었어.</ObservedLayingCorpseMorbid.stages.0.description>
-  <ObservedLayingRottingCorpseMorbid.stages.0.label>병적인 썩은 시체 관찰</ObservedLayingRottingCorpseMorbid.stages.0.label>
-  <ObservedLayingRottingCorpseMorbid.stages.0.description>나는 썩은 시체가 땅에 누워있는 것을 봤어! 역겨웠지만 참 좋았어.</ObservedLayingRottingCorpseMorbid.stages.0.description>
-  <Perverted.stages.0.label>기분 나쁜 사람</Perverted.stages.0.label>
-  <MoodOffsetConfident.stages.0.label>자신감</MoodOffsetConfident.stages.0.label>
-  <MoodOffsetConfident.stages.0.description>자신감에서 나오는 긍정적인 효과입니다.</MoodOffsetConfident.stages.0.description>
-  <MoodOffsetShootingAmateur.stages.0.label>원거리 무기를 들었음</MoodOffsetShootingAmateur.stages.0.label>
-  <MoodOffsetShootingAmateur.stages.0.description>나는 총이 싫어! 이걸 들고 있으면, 그들이 나를 두려워해...</MoodOffsetShootingAmateur.stages.0.description>
-  <MoodOffsetShootingEnthusiast.stages.0.label>원거리 무기를 들었음</MoodOffsetShootingEnthusiast.stages.0.label>
-  <MoodOffsetShootingEnthusiast.stages.0.description>항상 사정거리 안에 있는 거나 마찬가지라구!</MoodOffsetShootingEnthusiast.stages.0.description>
-  <MoodOffsetShootingProfessional.stages.0.label>원거리 무기를 들었음</MoodOffsetShootingProfessional.stages.0.label>
-  <MoodOffsetShootingProfessional.stages.0.description>아무것도 당신을 다치게 하지 않을 거에요... 내가 근처에 있는 동안에는 아니지만요. 내가 주변에 있지 않으면 , 아무것도 당신을 해치지 않을 거에요.</MoodOffsetShootingProfessional.stages.0.description>
-
 </LanguageData>
