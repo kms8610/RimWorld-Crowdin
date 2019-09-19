@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Ammo_265Flare_Illumination.label>26.5mm 조명탄 라운드 (조명)</Ammo_265Flare_Illumination.label>
+  <Ammo_265Flare_Illumination.description>주위를 밝게 비추기 위해서 작고 가벼우며, 낙하산에 매달려있는 조명탄 라운드입니다.</Ammo_265Flare_Illumination.description>
+  <EccentricBurningFlare.label>빛나고 있는 조명탄</EccentricBurningFlare.label>
+  <Proj_EccentricFlare.label>조명탄</Proj_EccentricFlare.label>
+  <Eccentric_Flare.label>조명탄</Eccentric_Flare.label>
+  <Eccentric_Flare.description>불이 붙었을 때 일정시간, 밝은 빛의 불꽃을 일으키는 막대기 형태의 조명탄입니다.</Eccentric_Flare.description>
+  <Eccentric_Flare.verbs.0.label>조명탄 던지기</Eccentric_Flare.verbs.0.label>
+  <EccentricSkyFlare.label>낙하산 조명탄</EccentricSkyFlare.label>
+  <Proj_EccentricSkyFlare.label>조명탄</Proj_EccentricSkyFlare.label>
+  <Eccentric_FlareGun.label>조명탄 총</Eccentric_FlareGun.label>
+  <Eccentric_FlareGun.description>조명탄을 발사하는 총입니다.</Eccentric_FlareGun.description>
+  <Eccentric_FlareGun.tools.0.label>손잡이</Eccentric_FlareGun.tools.0.label>
+  <Eccentric_FlareGun.tools.1.label>총열</Eccentric_FlareGun.tools.1.label>
+
+</LanguageData>

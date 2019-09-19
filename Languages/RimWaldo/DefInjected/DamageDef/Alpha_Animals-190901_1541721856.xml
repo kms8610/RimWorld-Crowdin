@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AA_ToxicSting.label>독 꼬리</AA_ToxicSting.label>
+  <AA_ToxicSting.deathMessage>{0}(은)는 쏘여 죽었습니다.</AA_ToxicSting.deathMessage>
+  <AA_AcidSpit.label>산성 침</AA_AcidSpit.label>
+  <AA_AcidSpit.deathMessage>{0}(은)는 부식되어 죽었습니다.</AA_AcidSpit.deathMessage>
+  <AA_SecondaryAcidBurn.label>산성 화성</AA_SecondaryAcidBurn.label>
+  <AA_SecondaryAcidBurn.deathMessage>{0}(은)는 부식되어 죽었습니다.</AA_SecondaryAcidBurn.deathMessage>
+  <AA_VeryToxicSting.label>맹독 꼬리</AA_VeryToxicSting.label>
+  <AA_VeryToxicSting.deathMessage>{0}(은)는 쏘여 죽었습니다.</AA_VeryToxicSting.deathMessage>
+  <AA_ParalysingBite.label>마비 물기</AA_ParalysingBite.label>
+  <AA_ParalysingBite.deathMessage>{0}(은)는 물려 죽었습니다.</AA_ParalysingBite.deathMessage>
+  <AA_Electric.label>전기충격</AA_Electric.label>
+  <AA_Electric.deathMessage>{0}(은)는 감전되어 죽었습니다.</AA_Electric.deathMessage>
+  <AA_SiegeBlunt.label>으깨짐</AA_SiegeBlunt.label>
+  <AA_SiegeBlunt.deathMessage>{0}(은)는 으깨여 죽었습니다.</AA_SiegeBlunt.deathMessage>
+  <AA_PermanentBurn.label>영구 화상</AA_PermanentBurn.label>
+  <AA_PermanentBurn.deathMessage>{0}(은)는 불타죽었습니다.</AA_PermanentBurn.deathMessage>
+  <AA_BoulderScratch.label>긁힘</AA_BoulderScratch.label>
+  <AA_BoulderScratch.deathMessage>{0}(은)는 참수당했습니다.</AA_BoulderScratch.deathMessage>
+  <AA_LockJawDamage.label>거대 턱</AA_LockJawDamage.label>
+  <AA_LockJawDamage.deathMessage>{0}(은)는 물려 죽었습니다.</AA_LockJawDamage.deathMessage>
+  <AA_Pierce.label>꿰뚫림</AA_Pierce.label>
+  <AA_Pierce.deathMessage>{0}(은)는 도려져 죽었습니다.</AA_Pierce.deathMessage>
+  <BodyCrush.label>으깨짐</BodyCrush.label>
+  <BodyCrush.deathMessage>{0}(은)는 으깨여 죽었습니다.</BodyCrush.deathMessage>
+
+</LanguageData>

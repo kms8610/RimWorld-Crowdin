@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Carbonsuit.label>카본 점프슈트</Carbonsuit.label>
+  <Carbonsuit.description>결정화 탄소 섬유로 제작한 점프슈트입니다. 얇고 가볍지만 놀랍도록 튼튼합니다.</Carbonsuit.description>
+  <Apparel_Laconian.label>그레이데일 공병 방호복</Apparel_Laconian.label>
+  <Apparel_Laconian.description>그레이데일이 전투공병을 위해 제작한 "라코니안" 공병 방호복입니다. 내장형 도구세트가 있어 총격전 와중에 무언가를 지어야하는 상황에 이상적입니다.</Apparel_Laconian.description>
+  <Apparel_LaconianH.label>그레이데일 공병 헬멧</Apparel_LaconianH.label>
+  <Apparel_LaconianH.description>"라코니안" 공병 방호 헬멧에는 간단한 진통 시스템이 내장되어 있습니다.</Apparel_LaconianH.description>
+  <Apparel_Dropsuit.label>연화 강하복</Apparel_Dropsuit.label>
+  <Apparel_Dropsuit.description>연화 정밀사의 "잔영" 강하복은 기업계의 강하 부대가 사용하는 특수장비입니다. 완전히 밀봉된 장비로 우주의 진공상태처럼 극한 환경에서의 작전을 염두하고 설계되었습니다. 추진기가 달려있어 착용자의 이동 속도가 빨라집니다.</Apparel_Dropsuit.description>
+  <Apparel_DropsuitH.label>연화 강하 헬멧</Apparel_DropsuitH.label>
+  <Apparel_DropsuitH.description>외우주 환경및 궤도 강하 상황에 최적화된 최첨단 헬멧입니다. 무중력 전투 상황을 위해 온갖 특수기능을 갖추고 있으나 지표의 여러분에게는 목표 조준용 보조 인공지능을 제외하면 아무짝에도 쓸모없는 것들입니다.</Apparel_DropsuitH.description>
+  <Apparel_Nervesuit.label>연화 신경복</Apparel_Nervesuit.label>
+  <Apparel_Nervesuit.description>연화 정밀제 "진천" 신경복입니다. 신경복의 인공 신경계와 착용자의 신경계를 직접 연결해 기동성을 놀랄만치 증폭시킵니다. 하지만 신경 가속으로 인해 착용자는 통증에 훨씬 더 민감하게 반응합니다.</Apparel_Nervesuit.description>
+  <Apparel_NervesuitH.label>연화 신경 헬멧</Apparel_NervesuitH.label>
+  <Apparel_NervesuitH.description>정교한 신경복 헬멧입니다. 헬멧 내부의 섬세한 인공 신경 체계 덕에 착용자는 외부 자극에 더 빠르게 반응할 수 있습니다. 불행히도 이 외부 자극에는 고통도 포함됩니다.</Apparel_NervesuitH.description>
+  <Apparel_Bjorn.label>요튠 강습장갑복</Apparel_Bjorn.label>
+  <Apparel_Bjorn.description>견고하고 믿음직스러운 헬멧과 한쌍을 이루는 "비요른" 강습장갑복은 기본적으로 전신에 플라스틸 합금을 떡칠한 사람 모양의 걸어다니는 탱크라 할 수 있습니다.</Apparel_Bjorn.description>
+  <Apparel_BjornH.label>요튠 강습장갑 헬멧</Apparel_BjornH.label>
+  <Apparel_BjornH.description>강습장갑복의 견고하고 믿음직스러운 헬멧입니다.</Apparel_BjornH.description>
+  <Apparel_FSArmor.label>요튠 화력지원복</Apparel_FSArmor.label>
+  <Apparel_FSArmor.description>걸어다니는 포탑이 필요합니까? "바르그(늑대)" 화력지원복을 사용하세요. 신속 재장전 체계, 추가 탄약 컨테이너, 내장 화력 통제 체계, 바르그의 이 모든 것은 화력 지원 하나만을 위해 존재합니다. 그 대가로 백병전에는 매우 취약해졌습니다.</Apparel_FSArmor.description>
+  <Apparel_FSArmorH.label>요튠 화력지원 헬멧</Apparel_FSArmorH.label>
+  <Apparel_FSArmorH.description>바르그 화력 지원복과 한 쌍을 이루는 화력 지원 인터페이스 내장 헬멧입니다.</Apparel_FSArmorH.description>
+  <Apparel_Nemesis.label>티시폰 반사 피갑복</Apparel_Nemesis.label>
+  <Apparel_Nemesis.description>"네메시스"는 연방 잔당을 사냥하기 위해 제작된 동력 장갑복입니다. 열 에너지 피해에 거의 면역으로, 티시폰 사냥 파견대는 정예 사냥꾼들에게 이 갑옷을 지급합니다.</Apparel_Nemesis.description>
+  <Apparel_NemesisH.label>티시폰 반사 피갑 헬멧</Apparel_NemesisH.label>
+  <Apparel_NemesisH.description>열 편향 장치가 완비된 헬멧입니다.</Apparel_NemesisH.description>
+  <Apparel_HazardCarapace.label>티시폰 위험피갑복</Apparel_HazardCarapace.label>
+  <Apparel_HazardCarapace.description>"알렉토" 위험피갑복은 최악의 환경에서도 작전을 수행할 수 있도록 제작되었습니다. 얼어붙은 극지대, 열파의 한가운데, 하다못해 방사능 황무지 한가운데라도 티시폰 사냥꾼들은 끝없는 사냥을 이어갑니다.</Apparel_HazardCarapace.description>
+  <Apparel_HazardCarapaceH.label>티시폰 위험피갑 헬멧</Apparel_HazardCarapaceH.label>
+  <Apparel_HazardCarapaceH.description>"알렉토" 위험 피갑복의 헬멧으로 적대지역 활동에 중덤을 두고 설계됐습니다.</Apparel_HazardCarapaceH.description>
+  <Apparel_CloseCombatArmor.label>백병전 장갑복</Apparel_CloseCombatArmor.label>
+  <Apparel_CloseCombatArmor.description>실드가 내장된 "엑셀시어" 백병전 장갑복은 기동성과 내구성, 그리고 치명성이 조합되어 있습니다.</Apparel_CloseCombatArmor.description>
+  <Apparel_CloseCombatHelmet.label>백병전 헬멧</Apparel_CloseCombatHelmet.label>
+  <Apparel_CloseCombatHelmet.description>"엑셀시어" 백병전 장갑복 헬멧은 근접전투를 위한 첨단 보조 인터페이스가 내장되어 있습니다.</Apparel_CloseCombatHelmet.description>
+  <GDTable.label>장비 조립 설비</GDTable.label>
+  <GDTable.description>그레이데일 장비를 분해 조립하기 위한 시설입니다.</GDTable.description>
+  <YPTable.label>결정 구조 주조소</YPTable.label>
+  <YPTable.description>연화 정밀 장비를 조립하기 위한 시설입니다.</YPTable.description>
+  <JITable.label>자기 단조장</JITable.label>
+  <JITable.description>요튠 인터스텔라 장비를 조립하기 위한 시설입니다.</JITable.description>
+  <TETable.label>운동에너지 조작기</TETable.label>
+  <TETable.description>티시폰 엔터프라이즈 장비를 조립하기 위한 시설입니다.</TETable.description>
+  <MRSKitR.label>모듈형 라이플킷</MRSKitR.label>
+  <MRSKitR.description>팬서-C 카빈을 소총형으로 조립할 때 필요한 부품입니다. 이미 조립된 모듈형 소총 체계를 재조립하려면 카빈과 컨버전 킷으로 다시 분해해야 합니다.</MRSKitR.description>
+  <MRSKitM.label>모듈형 DMR킷</MRSKitM.label>
+  <MRSKitM.description>팬서-C 카빈을 지정 사수 소총형으로 조립할 때 필요한 부품입니다. 이미 조립된 모듈형 소총 체계를 재조립하려면 카빈과 컨버전 킷으로 다시 분해해야 합니다.</MRSKitM.description>
+  <MRSKitS.label>모듈형 기관총킷</MRSKitS.label>
+  <MRSKitS.description>팬서-C 카빈을 경기관총형으로 조립할 때 필요한 부품입니다. 이미 조립된 모듈형 소총 체계를 재조립하려면 카빈과 컨버전 킷으로 다시 분해해야 합니다.</MRSKitS.description>
+  <MRSKitH.label>모듈형 가속기 킷</MRSKitH.label>
+  <MRSKitH.description>그레이데일 모듈형 무기 시스템의 첨단 컨버전 킷입니다. 고용량 축전지와 자기 가속 총열 같은 정교한 부품들을 포함하고 있습니다.</MRSKitH.description>
+  <MSSKit.label>모듈형 부무장킷</MSSKit.label>
+  <MSSKit.description>"오셀롯" 모듈형 부무장 체계를 제작하기 위한 각종 부품들입니다. 모듈형 부무장 체계를 완성하려면 시간과 부품을 더 소비해야 합니다.</MSSKit.description>
+  <Bullet_MSST.label>고속 장갑 관통탄</Bullet_MSST.label>
+  <GD_MSST.label>GD 모듈형 삼혈총</GD_MSST.label>
+  <GD_MSST.description>그레이데일 디펜스 "오셀롯" 모듈식 부무장 시스템의 표준형 삼혈총 버전입니다. 전작인 링스 전술 권총 같은 재래식 권총과 달리 이 권총은 튜브식 총열 겸 탄창과 전기 격발식 탄약을 사용합니다. 총알 세 발을 동시에 사격합니다.</GD_MSST.description>
+  <GD_MSST.tools.0.label>손잡이</GD_MSST.tools.0.label>
+  <GD_MSST.tools.1.label>총열</GD_MSST.tools.1.label>
+  <Bullet_MSSS.label>플레솃탄</Bullet_MSSS.label>
+  <GD_MSSS.label>GD 모듈형 속사권총</GD_MSSS.label>
+  <GD_MSSS.description>그레이데일 디펜스 "오셀롯" 모듈식 부무장 시스템의 속사총 타입입니다. 탄창 겸 총열 튜브에서 대량의 장갑관통 다트를 고속으로 쏟아냅니다.</GD_MSSS.description>
+  <GD_MSSS.tools.0.label>손잡이</GD_MSSS.tools.0.label>
+  <GD_MSSS.tools.1.label>총열</GD_MSSS.tools.1.label>
+  <Bullet_MSSF.label>소형 유탄</Bullet_MSSF.label>
+  <GD_MSSF.label>GD 모듈형 유탄 권총</GD_MSSF.label>
+  <GD_MSSF.description>그레이데일 디펜스 "오셀롯" 모듈식 부무장 시스템의 유탄권총 타입입니다. 본래 신호탄 발사기로 설계되었지만 금새 살상용도로 전환되어 지금은 파편 유탄을 발사하고 있습니다.</GD_MSSF.description>
+  <GD_MSSF.tools.0.label>손잡이</GD_MSSF.tools.0.label>
+  <GD_MSSF.tools.1.label>총열</GD_MSSF.tools.1.label>
+  <Bullet_TacticalPistol.label>고속 장갑 관통탄</Bullet_TacticalPistol.label>
+  <GD_TacticalPistol.label>GD 전술권총</GD_TacticalPistol.label>
+  <GD_TacticalPistol.description>그레이데일 디펜스의 "링스" 전술권총입니다. 가볍고 다루기 쉬운 무기지만 이제는 도태되어 오셀롯 모듈형 부무장 시스템으로 대체되었습니다.</GD_TacticalPistol.description>
+  <GD_TacticalPistol.tools.0.label>손잡이</GD_TacticalPistol.tools.0.label>
+  <GD_TacticalPistol.tools.1.label>총열</GD_TacticalPistol.tools.1.label>
+  <Bullet_ModularRifle.label>소총탄</Bullet_ModularRifle.label>
+  <GD_ModularCarbine.label>GD 모듈형 카빈</GD_ModularCarbine.label>
+  <GD_ModularCarbine.description>그레이데일 디펜스 "팬서" 모듈형 소총 체계(MRS). 이 카빈 모델은 작고 가벼워 보안 임무에 주로 사용됩니다. 다른 모듈형 소총 체계의 기반입니다.</GD_ModularCarbine.description>
+  <GD_ModularCarbine.tools.0.label>개머리판</GD_ModularCarbine.tools.0.label>
+  <GD_ModularCarbine.tools.1.label>총열</GD_ModularCarbine.tools.1.label>
+  <GD_ModularRifle.label>GD 모듈형 소총</GD_ModularRifle.label>
+  <GD_ModularRifle.description>그레이데일 디펜스 "팬서" 모듈형 소총 체계(MRS). 튼튼하고 단순한 디자인 덕에 이 카빈 모델은 변두리 개척지 민병대 사이에서 인기가 높습니다.</GD_ModularRifle.description>
+  <GD_ModularRifle.tools.0.label>개머리판</GD_ModularRifle.tools.0.label>
+  <GD_ModularRifle.tools.1.label>총열</GD_ModularRifle.tools.1.label>
+  <Bullet_ModularDMR.label>소총탄</Bullet_ModularDMR.label>
+  <GD_ModularDMR.label>GD 모듈형 DMR</GD_ModularDMR.label>
+  <GD_ModularDMR.description>그레이데일 디펜스 "팬서" 모듈형 소총 체계(MRS). 가벼운 정밀 화력지원 화기로 설계된 지정 사수 소총 모델입니다.</GD_ModularDMR.description>
+  <GD_ModularDMR.tools.0.label>개머리판</GD_ModularDMR.tools.0.label>
+  <GD_ModularDMR.tools.1.label>총열</GD_ModularDMR.tools.1.label>
+  <GD_ModularLMG.label>GD 모듈형 기관총</GD_ModularLMG.label>
+  <GD_ModularLMG.description>그레이데일 디펜스 "팬서" 모듈형 소총 체계(MRS). 이 경기관총 모델은 분대급 화력 지원용으로 설계됐습니다.</GD_ModularLMG.description>
+  <GD_ModularLMG.tools.0.label>개머리판</GD_ModularLMG.tools.0.label>
+  <GD_ModularLMG.tools.1.label>총열</GD_ModularLMG.tools.1.label>
+  <GD_HybridRifle.label>GD 모듈형 하이브리드 소총</GD_HybridRifle.label>
+  <GD_HybridRifle.description>그레이데일 디펜스의 "블랙 팬서" 첨단 모듈형 소총 체계(Advanced Modular Rifle System)입니다. 다른 팬서 MRS와 달리 이 모델은 화력과 장갑 관통 능력을 강화하기 위해 추가적인 사격 메커니즘을 탑재하고 있습니다. 전자기 유도 총신에서 가속된 이 소총의 발사체는 극초음속으로 사출됩니다.</GD_HybridRifle.description>
+  <GD_HybridRifle.tools.stock.label>개머리판</GD_HybridRifle.tools.stock.label>
+  <GD_HybridRifle.tools.barrel.label>총열</GD_HybridRifle.tools.barrel.label>
+  <Bullet_HVSMG.label>고속 장갑 관통탄</Bullet_HVSMG.label>
+  <GD_HVSMG.label>GD 고속 기관단총</GD_HVSMG.label>
+  <GD_HVSMG.description>"카라칼"은 그레이데일에서 제작한 기관단총으로, 근접 강습전에 맞춰 설계되었습니다. 이제는 "오셀롯" 부무장 시스템으로 대체되어 더 이상 생산되지 않습니다.</GD_HVSMG.description>
+  <Bullet_MultiLauncher.label>유탄</Bullet_MultiLauncher.label>
+  <GD_GrenadeLauncher.label>GD 다목적 발사기</GD_GrenadeLauncher.label>
+  <GD_GrenadeLauncher.description>그레이데일 디펜스가 설계한 "재규어" 다목적 발사기는 다재다능한 간접화력 지원 무기입니다. 적절한 설비가 갖춰져 있다면 간단한 조작으로 설정을 변경할 수 있습니다. 이 기본 버전은 파편 유탄을 발사합니다.</GD_GrenadeLauncher.description>
+  <GD_GrenadeLauncher.tools.0.label>개머리판</GD_GrenadeLauncher.tools.0.label>
+  <GD_GrenadeLauncher.tools.1.label>총열</GD_GrenadeLauncher.tools.1.label>
+  <GD_GrenadeLauncher.verbs.Verb_Shoot.label>다목적 발사기</GD_GrenadeLauncher.verbs.Verb_Shoot.label>
+  <Bullet_INGrenadeLauncher.label>소이탄</Bullet_INGrenadeLauncher.label>
+  <GD_INGrenadeLauncher.label>GD 소이탄 발사기</GD_INGrenadeLauncher.label>
+  <GD_INGrenadeLauncher.description>그레이데일 디펜스가 설계한 "재규어" 다목적 발사기는 다재다능한 간접화력 지원 무기입니다. 이 버전은 불을 붙이는 소이탄을 발사합니다.</GD_INGrenadeLauncher.description>
+  <GD_INGrenadeLauncher.tools.0.label>개머리판</GD_INGrenadeLauncher.tools.0.label>
+  <GD_INGrenadeLauncher.tools.1.label>총열</GD_INGrenadeLauncher.tools.1.label>
+  <Bullet_SKGrenadeLauncher.label>연막탄</Bullet_SKGrenadeLauncher.label>
+  <GD_SKGrenadeLauncher.label>GD 연막탄 발사기</GD_SKGrenadeLauncher.label>
+  <GD_SKGrenadeLauncher.description>그레이데일 디펜스가 설계한 "재규어" 다목적 발사기는 다재다능한 간접화력 지원 무기입니다. 이 버전은 연막탄을 발사해 아군에게 엄폐를 제공합니다.</GD_SKGrenadeLauncher.description>
+  <GD_SKGrenadeLauncher.tools.0.label>개머리판</GD_SKGrenadeLauncher.tools.0.label>
+  <GD_SKGrenadeLauncher.tools.1.label>총열</GD_SKGrenadeLauncher.tools.1.label>
+  <Bullet_BSLauncher.label>산탄</Bullet_BSLauncher.label>
+  <GD_BSLauncher.label>GD 산탄 발사기</GD_BSLauncher.label>
+  <GD_BSLauncher.description>그레이데일 디펜스가 설계한 "재규어" 다목적 발사기는 다재다능한 간접화력 지원 무기입니다. 사실 이건 간접화력 지원무기는 아니고, 근접전용 산탄 발사기입니다.</GD_BSLauncher.description>
+  <GD_BSLauncher.tools.0.label>개머리판</GD_BSLauncher.tools.0.label>
+  <GD_BSLauncher.tools.1.label>총열</GD_BSLauncher.tools.1.label>
+  <Bullet_Hrunting.label>용해탄</Bullet_Hrunting.label>
+  <JI_Hrunting.label>JI 용해소총</JI_Hrunting.label>
+  <JI_Hrunting.description>"흐룬팅" 용해 소총. 요툰 인터스텔라 제품입니다. 이 무기는 융용된 금속을 탄환 대신 사격합니다. 흐룬팅의 설계자는 자질구레한 것은 모두 무시하고 오로지 순수한 화력에만 집중했습니다.</JI_Hrunting.description>
+  <Bullet_Trollsverd.label>용해탄</Bullet_Trollsverd.label>
+  <JI_Trollsverd.label>JI 용해권총</JI_Trollsverd.label>
+  <JI_Trollsverd.description>"트롤스베르드"는 요툰 인터스텔라제 대형 권총입니다. 융용된 합금 덩어리를 발사하는 트롤스베르드는 단 한 방으로 개척지에서 벌어지는 대부분의 사건을 정리할 수 있습니다.</JI_Trollsverd.description>
+  <Bullet_Fafnir.label>용해탄</Bullet_Fafnir.label>
+  <JI_Fafnir.label>JI 공성산탄총</JI_Fafnir.label>
+  <JI_Fafnir.description>이 요툰 인터스텔라의 특대형 산탄총 "파프닐"은 대공포 포신을 잘라 만든 근접전투용 중화기입니다. 시가지에서 메카노이드와 싸우기 위해 만든 거대한 무기라 사람이 맞으면 시뻘건 곤죽으로 변하겠지요.</JI_Fafnir.description>
+  <Bullet_Gramr.label>용해탄</Bullet_Gramr.label>
+  <JI_Gramr.label>JI 대 메카노이드 소총</JI_Gramr.label>
+  <JI_Gramr.description>요툰 인터스텔라의 "그람" 대메카노이드 소총입니다. 엄청나게 무겁고 반동도 무지막지하지만, 그 화력은 모든 것을 정당화합니다.</JI_Gramr.description>
+  <Bullet_Grendel.label>공성포탄</Bullet_Grendel.label>
+  <JI_Grendel.label>JI 공성포</JI_Grendel.label>
+  <JI_Grendel.description>요툰 인터스텔라제 "그렌델". 끔찍했던 메카노이드 전쟁의 유산으로 인간이 휴대할 수 있는 가장 가공할 공성병기 중 하나입니다.</JI_Grendel.description>
+  <Bullet_Muspell.label>파편탄</Bullet_Muspell.label>
+  <JI_Muspell.label>JI 제압포</JI_Muspell.label>
+  <JI_Muspell.description>"무스펠" 제압포는 소형 메카노이드 무리에 대응하기 위한 요툰 인터스텔라의 답입니다. 초고열 금속 파편을 끝없이 쏟아냅니다.</JI_Muspell.description>
+  <Proj_BaegYa.label>극초단파 수류탄</Proj_BaegYa.label>
+  <YP_BaegYa.label>YP 극초단파 수류탄</YP_BaegYa.label>
+  <YP_BaegYa.description>연화 정밀사의 "백야" 극초단파 수류탄. 짧은 시간동안 고통스러운 극초단파를 방출합니다. 아주 효과적인 군중 통제 무기입니다.</YP_BaegYa.description>
+  <YP_BaegYa.verbs.0.label>극초단파 수류탄 투척</YP_BaegYa.verbs.0.label>
+  <Proj_Dunder.label>가방 폭탄</Proj_Dunder.label>
+  <JI_Dunder.label>JI 가방 폭탄</JI_Dunder.label>
+  <JI_Dunder.description>요툰 인터스텔라의 가방 폭탄 "둔데르". 전투 공병들의 최고의 친구입니다.</JI_Dunder.description>
+  <JI_Dunder.verbs.0.label>가방폭탄 투척</JI_Dunder.verbs.0.label>
+  <Proj_Bobcat.label>소형 수류탄</Proj_Bobcat.label>
+  <GD_Bobcat.label>GD 소형 수류탄</GD_Bobcat.label>
+  <GD_Bobcat.description>그레이데일 디펜스의 "밥캣" 수류탄은 크기가 작아 여러 발을 동시에 소지할 수 있습니다.</GD_Bobcat.description>
+  <GD_Bobcat.verbs.0.label>수류탄 투척</GD_Bobcat.verbs.0.label>
+  <Proj_Grief.label>충격 수류탄</Proj_Grief.label>
+  <TE_Grief.label>TE 충격 수류탄</TE_Grief.label>
+  <TE_Grief.description>폭발시 일종의 충격파를 방출하는 "그리프" 충격 수류탄. 비록 통상 수류탄보다 화력은 낮으나 피해 반경이 넓습니다.</TE_Grief.description>
+  <TE_Grief.verbs.0.label>충격 수류탄 투척</TE_Grief.verbs.0.label>
+  <GD_Sabertooth.label>GD 전투용 검</GD_Sabertooth.label>
+  <GD_Sabertooth.description>"세이버투스"는 그레이데일 디펜스가 제작한 전투용 검으로, 나무나 적의 사지를 잘라내는데 적절한 도구입니다.</GD_Sabertooth.description>
+  <GD_Sabertooth.tools.0.label>칼날</GD_Sabertooth.tools.0.label>
+  <GD_Sabertooth.tools.1.label>손잡이</GD_Sabertooth.tools.1.label>
+  <YP_BingJu.label>YP 극진동검</YP_BingJu.label>
+  <YP_BingJu.description>가벼우면서도 극도로 날카로운 "빙주"(얼음기둥)는 연화 정밀사 사병 부대의 백병전 무기입니다.</YP_BingJu.description>
+  <YP_BingJu.tools.0.label>손잡이</YP_BingJu.tools.0.label>
+  <YP_BingJu.tools.1.label>칼끝</YP_BingJu.tools.1.label>
+  <YP_BingJu.tools.2.label>칼날</YP_BingJu.tools.2.label>
+  <JI_Ormbane.label>JI 강습망치</JI_Ormbane.label>
+  <JI_Ormbane.description>"오름베인"은 요툰 인터스텔라가 제작한 육중한 전투망치 입니다. 보다시피 한 번 크게 휘두르면 벽을 통째로 허물 수 있을만큼 강합니다.</JI_Ormbane.description>
+  <JI_Ormbane.tools.0.label>손잡이</JI_Ormbane.tools.0.label>
+  <TE_Eris.label>TE 서바이벌 나이프</TE_Eris.label>
+  <TE_Eris.description>티시폰제 "에리스" 서바이벌 나이프. 다양한 용도로 사용할 수 있습니다.</TE_Eris.description>
+  <TE_Eris.tools.0.label>손잡이</TE_Eris.tools.0.label>
+  <TE_Eris.tools.1.label>칼날</TE_Eris.tools.1.label>
+  <TE_Eris.tools.2.label>칼끝</TE_Eris.tools.2.label>
+  <MeleeWeapon_TorchSword.label>토치검</MeleeWeapon_TorchSword.label>
+  <MeleeWeapon_TorchSword.description>"퓨리파이어" 토치검은 칼자루와 날이 달린 고출력 플라즈마 토치입니다.</MeleeWeapon_TorchSword.description>
+  <MeleeWeapon_TorchSword.tools.0.label>손잡이</MeleeWeapon_TorchSword.tools.0.label>
+  <MeleeWeapon_TorchSword.tools.1.label>칼끝</MeleeWeapon_TorchSword.tools.1.label>
+  <MeleeWeapon_TorchSword.tools.2.label>칼날</MeleeWeapon_TorchSword.tools.2.label>
+  <Bullet_Tyrant.label>충격탄</Bullet_Tyrant.label>
+  <TE_KineticRifle.label>TE 키네틱 소총</TE_KineticRifle.label>
+  <TE_KineticRifle.description>"타이런트"는 티시폰 사냥 파견대의 제식 소총입니다. 근접 사격전에 맞춰 설계됐고, 가장 큰 장점은 신속히 목표를 포착하고 추적할 수 있도록 제작된 첨단 조준 시스템입니다.</TE_KineticRifle.description>
+  <Bullet_Tormentor.label>충격탄</Bullet_Tormentor.label>
+  <TE_KineticPistol.label>TE 키네틱 권총</TE_KineticPistol.label>
+  <TE_KineticPistol.description>티시폰 사냥 파견대의 표준 부무장인 "토멘터"는 속사 기능이 있는 개인 방호 화기입니다. 사거리가 짧지만 발사속도가 빠릅니다.</TE_KineticPistol.description>
+  <TE_KineticPistol.verbs.Verb_Shoot.label>TE 키네틱 권총</TE_KineticPistol.verbs.Verb_Shoot.label>
+  <Bullet_Oppressor.label>충격통</Bullet_Oppressor.label>
+  <TE_ThuddGun.label>TE 충격총</TE_ThuddGun.label>
+  <TE_ThuddGun.description>다른 근접 사격 화기와는 다르게 "오프레서" 캐니스터 소총은 충격파를 방출하는 탄통을 발사합니다. 먼 거리에서도 위력이 감소하지 않는 위협적인 무기입니다.</TE_ThuddGun.description>
+  <TE_ThuddGun.verbs.Verb_Shoot.label>TE 충격총</TE_ThuddGun.verbs.Verb_Shoot.label>
+  <Bullet_Wailer.label>충격탄</Bullet_Wailer.label>
+  <TE_KineticLongRifle.label>TE 키네틱 장총</TE_KineticLongRifle.label>
+  <TE_KineticLongRifle.description>연방 저격수에 맞서 신속히 대저격을 수행하기 위해 제작된 "웨일러"입니다. 저격소총 치고 놀라우리만치 빠른 목표 획득 능력이 강점입니다.</TE_KineticLongRifle.description>
+  <Bullet_Atrocity.label>충격탄</Bullet_Atrocity.label>
+  <TE_StormCannon.label>TE 강습포</TE_StormCannon.label>
+  <TE_StormCannon.description>아트로시티" 광역 제압 체계는 다수의 목표물을 멀리서 제압하기 위해 제작됐습니다. 뛰어난 조작성으로 유명합니다.</TE_StormCannon.description>
+  <Bullet_Harrower.label>충격장</Bullet_Harrower.label>
+  <TE_KineticLance.label>TE 키네틱 랜스</TE_KineticLance.label>
+  <TE_KineticLance.description>연방의 메크슈트에 대항하기 위해 만들어진 "해로워" 키네틱 랜스는 운동 에너지 집속장을 지속사격합니다. 문자 그대로 적의 뼈와 살을 발라냅니다.</TE_KineticLance.description>
+  <Bullet_SeoLi.label>결정 파편</Bullet_SeoLi.label>
+  <YP_SeoLi.label>YP 파편 소총</YP_SeoLi.label>
+  <YP_SeoLi.description>연화 정밀의 "서리" 파편 소총은 재래식 돌격소총에 비해 장탄량이 많고 연사속도도 높습니다. 하지만 이를 위해 화력과 사거리, 장갑 관통 능력을 희생해야만 했습니다.</YP_SeoLi.description>
+  <YP_SeoLi.tools.0.label>개머리판</YP_SeoLi.tools.0.label>
+  <YP_SeoLi.tools.1.label>총열</YP_SeoLi.tools.1.label>
+  <Bullet_SagPung.label>나노군집</Bullet_SagPung.label>
+  <YP_SagPung.label>YP 군집총</YP_SagPung.label>
+  <YP_SagPung.description>연화 정밀 "삭풍" 군집총은 단거리 나노기술 병기입니다. 삭풍은 지성이 있는 나노머신 군집을 탄환 대신 발사합니다. 신속하고 놀라울 정도로 정확하기 때문에 근거리에서 경무장 상대를 처리할 때 이상적입니다.</YP_SagPung.description>
+  <YP_SagPung.tools.0.label>개머리판</YP_SagPung.tools.0.label>
+  <YP_SagPung.tools.1.label>총열</YP_SagPung.tools.1.label>
+  <Bullet_SangAe.label>결정 스파이크</Bullet_SangAe.label>
+  <YP_SangAe.label>YP 스파이크 소총</YP_SangAe.label>
+  <YP_SangAe.description>연화 정밀의 "상애(서리 아지랑이)"입니다. 대부분의 소총과 달리 상애는 탄소 결정체로 이루어진 장갑 관통 스파이크를 발사합니다.</YP_SangAe.description>
+  <YP_SangAe.tools.0.label>개머리판</YP_SangAe.tools.0.label>
+  <YP_SangAe.tools.1.label>총열</YP_SangAe.tools.1.label>
+  <Bullet_SeolHwa.label>결정 파편</Bullet_SeolHwa.label>
+  <YP_SeolHwa.label>YP 파편 쌍권총</YP_SeolHwa.label>
+  <YP_SeolHwa.description>연화 정밀제 "설화" 권총 한 쌍입니다. 설화는 사거리가 매우 짧지만 일단 사거리 내에 잡은 적은 그대로 찢어발길 수 있습니다.</YP_SeolHwa.description>
+  <YP_SeolHwa.tools.0.label>손잡이</YP_SeolHwa.tools.0.label>
+  <YP_SeolHwa.tools.1.label>칼날</YP_SeolHwa.tools.1.label>
+  <Bullet_GeugGwang.label>극초단파</Bullet_GeugGwang.label>
+  <YP_GeugGwang.label>YP 극초단파 방출기</YP_GeugGwang.label>
+  <YP_GeugGwang.description>연화 정밀의 "극광"은 목표의 피부 수분을 끓어오르게 만드는 극초단파를 방출합니다. 엄청난 고통을 일으키며, 군중 제어 무기로 완벽합니다.</YP_GeugGwang.description>
+  <YP_GeugGwang.tools.0.label>개머리판</YP_GeugGwang.tools.0.label>
+  <YP_GeugGwang.tools.1.label>총열</YP_GeugGwang.tools.1.label>
+  <Bullet_VectorShot.label>스마트 다트</Bullet_VectorShot.label>
+  <YP_VectorShot.label>YP 벡터샷</YP_VectorShot.label>
+  <YP_VectorShot.description>"누리(우박)" 벡터샷은 유도 시스템이 내장된 스마트 볼트를 쏘는 시가전 화기입니다. 다중파장 스캐너를 이용해 엄폐물 뒤에 숨은 적도 조준할 수 있습니다. 벽을 무시한다는 건 아주 쓸만한 강점입니다만, 사거리가 워낙 짧아 근거리 사격전을 위한 특수화기로 용도가 제한됩니다.</YP_VectorShot.description>
+  <YP_VectorShot.tools.0.label>개머리판</YP_VectorShot.tools.0.label>
+  <YP_VectorShot.tools.1.label>총열</YP_VectorShot.tools.1.label>
+
+</LanguageData>

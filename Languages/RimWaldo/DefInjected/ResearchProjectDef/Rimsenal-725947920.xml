@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ShardTech.label>RS: 파편 결정 정제</ShardTech.label>
+  <ShardTech.description>연화 정밀 장비를 생산할 수 있게 됩니다.</ShardTech.description>
+  <MicrowaveTech.label>RS: 극초단파 방출기</MicrowaveTech.label>
+  <MicrowaveTech.description>극초단파 방출기를 제작할 수 있습니다.</MicrowaveTech.description>
+  <MoltenTech.label>RS: 초소형 융해로</MoltenTech.label>
+  <MoltenTech.description>요튠 인터스텔라 장비를 생산할 수 있게 됩니다.</MoltenTech.description>
+  <SiegeTech.label>RS: 공성병기</SiegeTech.label>
+  <SiegeTech.description>휴대용 공성포를 제작할 수 있습니다.</SiegeTech.description>
+  <KineticTech.label>RS: 운동 에너지 보존 젤</KineticTech.label>
+  <KineticTech.description>티시폰 엔터프라이즈 장비가 제작 가능합니다.</KineticTech.description>
+  <FocusTech.label>RS: 운동 에너지 집속장</FocusTech.label>
+  <FocusTech.description>휴대용 반응로와 키네틱 랜스를 제작 가능합니다.</FocusTech.description>
+  <DefenceTech.label>RS: 모듈화 장비 제작</DefenceTech.label>
+  <DefenceTech.description>그레이데일 디펜스 장비가 제작가능합니다.</DefenceTech.description>
+
+</LanguageData>

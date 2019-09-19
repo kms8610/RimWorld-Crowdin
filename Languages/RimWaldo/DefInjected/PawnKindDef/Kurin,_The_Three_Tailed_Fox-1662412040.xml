@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DRNTF_Colonist.label>쿠린 정착민</DRNTF_Colonist.label>
+  <DRNTF_Colonist.labelPlural>쿠린 정착민들</DRNTF_Colonist.labelPlural>
+  <DRNTF_Colonist.labelMale>남성 쿠린 정착민</DRNTF_Colonist.labelMale>
+  <DRNTF_Colonist.labelMalePlural>남성 쿠린 정착민들</DRNTF_Colonist.labelMalePlural>
+  <DRNTF_Colonist.labelFemale>여성 쿠린 정착민</DRNTF_Colonist.labelFemale>
+  <DRNTF_Colonist.labelFemalePlural>여성 쿠린 정착민들</DRNTF_Colonist.labelFemalePlural>
+  <DRNTF_Citizen.label>쿠린 시민</DRNTF_Citizen.label>
+  <DRNTF_Citizen.labelPlural>쿠린 시민들</DRNTF_Citizen.labelPlural>
+  <DRNTF_Citizen.labelMale>남성 쿠린 시민</DRNTF_Citizen.labelMale>
+  <DRNTF_Citizen.labelMalePlural>남성 쿠린 시민들</DRNTF_Citizen.labelMalePlural>
+  <DRNTF_Citizen.labelFemale>여성 쿠린 시민</DRNTF_Citizen.labelFemale>
+  <DRNTF_Citizen.labelFemalePlural>여성 쿠린 시민들</DRNTF_Citizen.labelFemalePlural>
+  <DRNTF_Vigilante.label>쿠린 자경단</DRNTF_Vigilante.label>
+  <DRNTF_Vigilante.labelPlural>쿠린 자경단들</DRNTF_Vigilante.labelPlural>
+  <DRNTF_Vigilante.labelMale>남성 쿠린 자경단</DRNTF_Vigilante.labelMale>
+  <DRNTF_Vigilante.labelMalePlural>남성 쿠린 자경단들</DRNTF_Vigilante.labelMalePlural>
+  <DRNTF_Vigilante.labelFemale>여성 쿠린 자경단</DRNTF_Vigilante.labelFemale>
+  <DRNTF_Vigilante.labelFemalePlural>여성 쿠린 자경단들</DRNTF_Vigilante.labelFemalePlural>
+  <DRNTF_Trader.label>쿠린 상인</DRNTF_Trader.label>
+  <DRNTF_Trader.labelPlural>쿠린 상인들</DRNTF_Trader.labelPlural>
+  <DRNTF_Trader.labelMale>남성 쿠린 상인</DRNTF_Trader.labelMale>
+  <DRNTF_Trader.labelMalePlural>남성 쿠린 상인들</DRNTF_Trader.labelMalePlural>
+  <DRNTF_Trader.labelFemale>여성 쿠린 상인</DRNTF_Trader.labelFemale>
+  <DRNTF_Trader.labelFemalePlural>여성 쿠린 상인들</DRNTF_Trader.labelFemalePlural>
+  <DRNTF_Elite.label>쿠린 엘리트</DRNTF_Elite.label>
+  <DRNTF_Elite.labelPlural>쿠린 엘리트들</DRNTF_Elite.labelPlural>
+  <DRNTF_Elite.labelMale>남성 쿠린 엘리트</DRNTF_Elite.labelMale>
+  <DRNTF_Elite.labelMalePlural>남성 쿠린 엘리트들</DRNTF_Elite.labelMalePlural>
+  <DRNTF_Elite.labelFemale>여성 쿠린 엘리트</DRNTF_Elite.labelFemale>
+  <DRNTF_Elite.labelFemalePlural>여성 쿠린 엘리트들</DRNTF_Elite.labelFemalePlural>
+  <DRNTF_Soldier.label>쿠린 군대 분대원</DRNTF_Soldier.label>
+  <DRNTF_Soldier.labelPlural>쿠린 군대 분대원들</DRNTF_Soldier.labelPlural>
+  <DRNTF_Soldier.labelMale>남성 쿠린 군대 분대원</DRNTF_Soldier.labelMale>
+  <DRNTF_Soldier.labelMalePlural>남성 쿠린 군대 분대원들</DRNTF_Soldier.labelMalePlural>
+  <DRNTF_Soldier.labelFemale>여성 쿠린 군대 분대원</DRNTF_Soldier.labelFemale>
+  <DRNTF_Soldier.labelFemalePlural>여성 쿠린 군대 분대원들</DRNTF_Soldier.labelFemalePlural>
+  <DRNTF_EliteSoldier.label>쿠린 군대 분대장</DRNTF_EliteSoldier.label>
+  <DRNTF_EliteSoldier.labelPlural>쿠린 군대 분대장들</DRNTF_EliteSoldier.labelPlural>
+  <DRNTF_EliteSoldier.labelMale>남성 쿠린 군대 분대장</DRNTF_EliteSoldier.labelMale>
+  <DRNTF_EliteSoldier.labelMalePlural>남성 쿠린 군대 분대장들</DRNTF_EliteSoldier.labelMalePlural>
+  <DRNTF_EliteSoldier.labelFemale>여성 쿠린 군대 분대장</DRNTF_EliteSoldier.labelFemale>
+  <DRNTF_EliteSoldier.labelFemalePlural>여성 쿠린 군대 분대장들</DRNTF_EliteSoldier.labelFemalePlural>
+  <DRNTF_Sniper.label>쿠린 군대 저격수</DRNTF_Sniper.label>
+  <DRNTF_Sniper.labelPlural>쿠린 군대 저격수들</DRNTF_Sniper.labelPlural>
+  <DRNTF_Sniper.labelMale>남성 쿠린 군대 저격수</DRNTF_Sniper.labelMale>
+  <DRNTF_Sniper.labelMalePlural>남성 쿠린 군대 저격수들</DRNTF_Sniper.labelMalePlural>
+  <DRNTF_Sniper.labelFemale>여성 쿠린 군대 저격수</DRNTF_Sniper.labelFemale>
+  <DRNTF_Sniper.labelFemalePlural>여성 쿠린 군대 저격수들</DRNTF_Sniper.labelFemalePlural>
+
+</LanguageData>

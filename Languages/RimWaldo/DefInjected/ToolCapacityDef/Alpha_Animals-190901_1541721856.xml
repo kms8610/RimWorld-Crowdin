@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AA_ParalysingBite.label>마비 물기</AA_ParalysingBite.label>
+  <AA_Electric.label>전기 충격</AA_Electric.label>
+  <AA_LockJawDamage.label>자물쇠턱 물기</AA_LockJawDamage.label>
+  <AA_ToxicSting.label>독성 가시</AA_ToxicSting.label>
+  <AA_Acid.label>독성 분비물</AA_Acid.label>
+  <AA_VeryToxicSting.label>맹독성 가시</AA_VeryToxicSting.label>
+  <AA_SiegeBlunt.label>붙잡아 으깨기</AA_SiegeBlunt.label>
+  <AA_Pierce.label>꿰뚫기</AA_Pierce.label>
+  <BodyCrush.label>으깨기</BodyCrush.label>
+
+</LanguageData>

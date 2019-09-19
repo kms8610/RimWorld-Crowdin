@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ChargedBolt.label>폭발</ChargedBolt.label>
+  <ChargedBolt.deathMessage>{0}(은)는 폭사했습니다.</ChargedBolt.deathMessage>
+  <Dart.label>화살</Dart.label>
+  <Dart.deathMessage>{0}(은)는 베어 죽었습니다.</Dart.deathMessage>
+
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <YPWeapons.label>연화 무기</YPWeapons.label>
+  <JIWeapons.label>요튠 무기</JIWeapons.label>
+  <TEWeapons.label>티시폰 무기</TEWeapons.label>
+  <GDWeapons.label>그레이데일 무기</GDWeapons.label>
+  <GDMulti.label>GD 다목적 발사기</GDMulti.label>
+  <GDMSS.label>GD 모듈형 부무장 체계</GDMSS.label>
+  <MRSKit.label>모듈형 소총 체계</MRSKit.label>
+
+</LanguageData>

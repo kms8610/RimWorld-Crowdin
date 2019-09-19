@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Optic.label>에너지</Optic.label>
+  <Optic.deathMessage>{0}(이)가 총에 맞아 사망했습니다.</Optic.deathMessage>
+  <Plasma.label>플라즈마</Plasma.label>
+  <Plasma.deathMessage>{0}(이)가 산 채로 용해되었습니다. 거참 끔찍한 최후네요.</Plasma.deathMessage>
+
+</LanguageData>

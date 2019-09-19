@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AA_InvisibleArcticLion.label>사냥중</AA_InvisibleArcticLion.label>
+  <AA_CrushingEverything.label>경로의 모든것을 부숩니다.</AA_CrushingEverything.label>
+  <AA_Nocturnal.label>야행성 동물</AA_Nocturnal.label>
+  <AA_LockJawDisease.label>숨겨진 턱</AA_LockJawDisease.label>
+  <AA_Paralysis.label>마비</AA_Paralysis.label>
+  <AA_Paralysis.stages.0.label>초기</AA_Paralysis.stages.0.label>
+  <AA_Paralysis.stages.1.label>기절</AA_Paralysis.stages.1.label>
+  <AA_Paralysis.stages.2.label>강한 기절</AA_Paralysis.stages.2.label>
+  <AA_Paralysis.stages.3.label>마비됨</AA_Paralysis.stages.3.label>
+  <AA_Electric.label>전기충격</AA_Electric.label>
+  <AA_Electric.stages.0.label>초기</AA_Electric.stages.0.label>
+  <AA_Electric.stages.1.label>충격받음</AA_Electric.stages.1.label>
+  <AA_Electric.stages.2.label>강한 충격받음</AA_Electric.stages.2.label>
+  <AA_Electric.stages.3.label>마비됨</AA_Electric.stages.3.label>
+  <AA_ToxicBuildup.label>독성 증식</AA_ToxicBuildup.label>
+  <AA_ToxicBuildup.stages.0.label>초기</AA_ToxicBuildup.stages.0.label>
+  <AA_ToxicBuildup.stages.1.label>초기</AA_ToxicBuildup.stages.1.label>
+  <AA_ToxicBuildup.stages.2.label>경미함</AA_ToxicBuildup.stages.2.label>
+  <AA_ToxicBuildup.stages.3.label>보통</AA_ToxicBuildup.stages.3.label>
+  <AA_ToxicBuildup.stages.4.label>심각함</AA_ToxicBuildup.stages.4.label>
+  <AA_ToxicBuildup.stages.5.label>극심함</AA_ToxicBuildup.stages.5.label>
+  <AA_AcidBuildup.label>산성 화상</AA_AcidBuildup.label>
+  <AA_AcidBuildup.stages.0.label>경미한 화상</AA_AcidBuildup.stages.0.label>
+  <AA_AcidBuildup.stages.1.label>일반적 화상</AA_AcidBuildup.stages.1.label>
+  <AA_AcidBuildup.stages.2.label>심각한 화상</AA_AcidBuildup.stages.2.label>
+  <AA_CarryWeight1.label>여분의 무게 (끔찍함)</AA_CarryWeight1.label>
+  <AA_CarryWeight2.label>여분의 무게 (적음)</AA_CarryWeight2.label>
+  <AA_CarryWeight3.label>여분의 무게 (보통)</AA_CarryWeight3.label>
+  <AA_CarryWeight4.label>여분의 무게 (좋음)</AA_CarryWeight4.label>
+  <AA_CarryWeight5.label>여분의 무게 (매우 좋음)</AA_CarryWeight5.label>
+  <AA_CarryWeight6.label>여분의 무게 (달인)</AA_CarryWeight6.label>
+  <AA_CarryWeight7.label>여분의 무게 (전설)</AA_CarryWeight7.label>
+  <AA_PermanentBurn.label>영구 화상</AA_PermanentBurn.label>
+  <AA_PermanentBurn.injuryProps.destroyedLabel>타버림</AA_PermanentBurn.injuryProps.destroyedLabel>
+  <AA_PermanentBurn.injuryProps.destroyedOutLabel>데인 흉터</AA_PermanentBurn.injuryProps.destroyedOutLabel>
+  <AA_PermanentBurn.labelNoun>영구적 화상</AA_PermanentBurn.labelNoun>
+  <AA_LightSustenance.label>일조량 등급</AA_LightSustenance.label>
+  <AA_LightSustenance.stages.0.label>적절한 빛</AA_LightSustenance.stages.0.label>
+  <AA_LightSustenance.stages.1.label>낮은 일조량</AA_LightSustenance.stages.1.label>
+  <AA_LightSustenance.stages.2.label>매우 낮은 일조량</AA_LightSustenance.stages.2.label>
+  <AA_LightSustenance.stages.3.label>햇빛 부족</AA_LightSustenance.stages.3.label>
+  <AA_LightSustenance.stages.4.label>극심한 영양부족</AA_LightSustenance.stages.4.label>
+
+</LanguageData>

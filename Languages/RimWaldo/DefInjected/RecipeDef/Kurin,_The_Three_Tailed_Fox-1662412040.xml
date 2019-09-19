@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Make_DRNTF_Underwear.label>쿠린 속옷</Make_DRNTF_Underwear.label>
+  <Make_DRNTF_Tshirt.label>쿠린 티셔츠</Make_DRNTF_Tshirt.label>
+  <Make_DRNTF_Shirt.label>쿠린 셔츠</Make_DRNTF_Shirt.label>
+  <Make_DRNTF_OffShoulderA.label>쿠린 오프숄더 A</Make_DRNTF_OffShoulderA.label>
+  <Make_DRNTF_OffShoulderB.label>쿠린 오프숄더 B</Make_DRNTF_OffShoulderB.label>
+  <Make_DRNTF_Hoodie.label>쿠린 후드</Make_DRNTF_Hoodie.label>
+  <Make_DRNTF_Dress.label>쿠린 드레스</Make_DRNTF_Dress.label>
+  <Make_DRNTF_Jumpsuit.label>쿠린 점프수트</Make_DRNTF_Jumpsuit.label>
+  <Make_DRNTF_Cardigan.label>쿠린 카디건</Make_DRNTF_Cardigan.label>
+  <Make_DRNTF_Duster.label>쿠린 바람막이</Make_DRNTF_Duster.label>
+  <Make_DRNTF_Parka.label>쿠린 패딩</Make_DRNTF_Parka.label>
+  <Make_DRNTF_Scarf.label>쿠린 목도리</Make_DRNTF_Scarf.label>
+  <Make_DRNTF_SummerHat.label>쿠린 여름모자</Make_DRNTF_SummerHat.label>
+  <Make_DRNTF_BeanieHat.label>쿠린 털모자</Make_DRNTF_BeanieHat.label>
+  <Make_DRNTF_Glasses.label>쿠린 안경</Make_DRNTF_Glasses.label>
+  <Make_DRNTF_GentleDress.label>쿠린 한복 A</Make_DRNTF_GentleDress.label>
+  <Make_DRNTF_StylishDress.label>쿠린 한복 B</Make_DRNTF_StylishDress.label>
+  <Make_DRNTF_MildCoat.label>쿠린 두루마기</Make_DRNTF_MildCoat.label>
+  <Make_DRNTF_MilitaryHelmetA.label>쿠린 전투모 ☆</Make_DRNTF_MilitaryHelmetA.label>
+  <Make_DRNTF_MilitaryHelmetB.label>쿠린 전투모 ★</Make_DRNTF_MilitaryHelmetB.label>
+  <Make_DRNTF_MilitaryUniform.label>쿠린 전투복</Make_DRNTF_MilitaryUniform.label>
+  <Make_DRNTF_FakeTail.label>가짜 쿠린 꼬리</Make_DRNTF_FakeTail.label>
+  <Make_DRNTF_BionicEar.label>생체공학 쿠린 귀</Make_DRNTF_BionicEar.label>
+  <Make_DRNTF_BionicTail.label>생체공학 쿠린 꼬리</Make_DRNTF_BionicTail.label>
+  <DRNTF_InstallFakeTail.label>가짜 쿠린 꼬리 이식</DRNTF_InstallFakeTail.label>
+  <DRNTF_InstallFakeTail.description>가짜 쿠린 꼬리를 이식합니다.</DRNTF_InstallFakeTail.description>
+  <DRNTF_InstallFakeTail.jobString>가짜 쿠린 꼬리 이식 중.</DRNTF_InstallFakeTail.jobString>
+  <DRNTF_InstallBionicEar.label>생체공학 쿠린 귀 이식</DRNTF_InstallBionicEar.label>
+  <DRNTF_InstallBionicEar.description>생체공학 쿠린 귀를 이식합니다.</DRNTF_InstallBionicEar.description>
+  <DRNTF_InstallBionicEar.jobString>생체공학 쿠린 귀 이식 중.</DRNTF_InstallBionicEar.jobString>
+  <DRNTF_InstallBionicTail.label>생체공학 쿠린 꼬리 이식</DRNTF_InstallBionicTail.label>
+  <DRNTF_InstallBionicTail.description>생체공학 쿠린 꼬리를 이식합니다.</DRNTF_InstallBionicTail.description>
+  <DRNTF_InstallBionicTail.jobString>생체공학 쿠린 꼬리 이식 중.</DRNTF_InstallBionicTail.jobString>
+
+</LanguageData>

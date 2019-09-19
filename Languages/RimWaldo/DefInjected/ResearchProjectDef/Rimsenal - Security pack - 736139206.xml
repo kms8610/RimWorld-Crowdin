@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ShardSentryTech.label>파편 포탑</ShardSentryTech.label>
+  <ShardSentryTech.description>연화 정밀제 파편 포탑을 제작할 수 있습니다.</ShardSentryTech.description>
+  <MicrowaveTurretTech.label>극초단파 방출 포탑</MicrowaveTurretTech.label>
+  <MicrowaveTurretTech.description>연화 정밀제 극초단파 포탑을 제작할 수 있습니다.</MicrowaveTurretTech.description>
+  <SiegeEmplacementTech.label>로켓 포탑</SiegeEmplacementTech.label>
+  <SiegeEmplacementTech.description>대장갑 로켓 포탑을 제작할 수 있습니다.</SiegeEmplacementTech.description>
+  <DefenceEmplacementTech.label>방어 시설</DefenceEmplacementTech.label>
+  <DefenceEmplacementTech.description>각종 그레이데일 제 방어시설을 생산할 수 있습니다.</DefenceEmplacementTech.description>
+
+</LanguageData>

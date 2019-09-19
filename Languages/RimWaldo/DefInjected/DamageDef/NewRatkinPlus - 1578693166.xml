@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ShockWaveLight.label>충격파</ShockWaveLight.label>
+  <ShockWaveLight.deathMessage>{0}(은)는 충격파로 박살나버렸습니다.</ShockWaveLight.deathMessage>
+  <ShockWaveHeavy.label>충격파</ShockWaveHeavy.label>
+  <ShockWaveHeavy.deathMessage>{0}(은)는 충격파로 박살나버렸습니다.</ShockWaveHeavy.deathMessage>
+  <RK_EMP.label>전자기 화상</RK_EMP.label>
+  <RK_EMP.deathMessage>{0}(은)는 전기적 화상으로 인해 사망했습니다.</RK_EMP.deathMessage>
+  <DemoBomb.label>폭발</DemoBomb.label>
+  <DemoBomb.deathMessage>{0}(은)는 폭발로 인해 사망했습니다.</DemoBomb.deathMessage>
+
+</LanguageData>
