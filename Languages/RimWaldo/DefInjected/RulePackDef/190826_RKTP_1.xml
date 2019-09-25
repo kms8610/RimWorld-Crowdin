@@ -4,61 +4,6 @@
   <!--1115882219_190816_Rim of Madness - Werewolves-->
   <ROM_NamerFactionWerewolf.rulePack.rulesStrings.0>name->[adj] [noun]</ROM_NamerFactionWerewolf.rulePack.rulesStrings.0>
 
-  <!--1123043922_181115_Sparkling Worlds - Full Mod-->
-  <Maneuver_ShockSW.rulePack.rulesStrings.1>damaged_inf->electrocute</Maneuver_ShockSW.rulePack.rulesStrings.1>
-  <Maneuver_BurnSW.rulePack.rulesStrings.1>damaged_inf->sear</Maneuver_BurnSW.rulePack.rulesStrings.1>
-  <Maneuver_BurnSW.rulePack.rulesStrings.0>damaged_inf(p=4)->burn</Maneuver_BurnSW.rulePack.rulesStrings.0>
-  <Maneuver_ShockSW.rulePack.rulesStrings.0>damaged_inf(p=4)->shock</Maneuver_ShockSW.rulePack.rulesStrings.0>
-  <Maneuver_BurnSW.rulePack.rulesStrings.8>damaged_past->damaged</Maneuver_BurnSW.rulePack.rulesStrings.8>
-  <Maneuver_BurnSW.rulePack.rulesStrings.10>damaged_past->hurt</Maneuver_BurnSW.rulePack.rulesStrings.10>
-  <Maneuver_BurnSW.rulePack.rulesStrings.7>damaged_past->injured</Maneuver_BurnSW.rulePack.rulesStrings.7>
-  <Maneuver_BurnSW.rulePack.rulesStrings.9>damaged_past->wounded</Maneuver_BurnSW.rulePack.rulesStrings.9>
-  <Maneuver_BurnSW.rulePack.rulesStrings.4>damaged_past(p=2)->blistered</Maneuver_BurnSW.rulePack.rulesStrings.4>
-  <Maneuver_BurnSW.rulePack.rulesStrings.3>damaged_past(p=2)->burned</Maneuver_BurnSW.rulePack.rulesStrings.3>
-  <Maneuver_ShockSW.rulePack.rulesStrings.3>damaged_past(p=2)->electrocuted</Maneuver_ShockSW.rulePack.rulesStrings.3>
-  <Maneuver_BurnSW.rulePack.rulesStrings.5>damaged_past(p=2)->ignited</Maneuver_BurnSW.rulePack.rulesStrings.5>
-  <Maneuver_BurnSW.rulePack.rulesStrings.2>damaged_past(p=2)->scorched</Maneuver_BurnSW.rulePack.rulesStrings.2>
-  <Maneuver_BurnSW.rulePack.rulesStrings.6>damaged_past(p=2)->seared</Maneuver_BurnSW.rulePack.rulesStrings.6>
-  <Maneuver_ShockSW.rulePack.rulesStrings.2>damaged_past(p=2)->shocked</Maneuver_ShockSW.rulePack.rulesStrings.2>
-  <Maneuver_BurnSW.rulePack.rulesStrings.17>damaged_present->damaging</Maneuver_BurnSW.rulePack.rulesStrings.17>
-  <Maneuver_BurnSW.rulePack.rulesStrings.19>damaged_present->hurting</Maneuver_BurnSW.rulePack.rulesStrings.19>
-  <Maneuver_BurnSW.rulePack.rulesStrings.16>damaged_present->injuring</Maneuver_BurnSW.rulePack.rulesStrings.16>
-  <Maneuver_BurnSW.rulePack.rulesStrings.18>damaged_present->wounding</Maneuver_BurnSW.rulePack.rulesStrings.18>
-  <Maneuver_BurnSW.rulePack.rulesStrings.13>damaged_present(p=2)->blistering</Maneuver_BurnSW.rulePack.rulesStrings.13>
-  <Maneuver_BurnSW.rulePack.rulesStrings.12>damaged_present(p=2)->burning</Maneuver_BurnSW.rulePack.rulesStrings.12>
-  <Maneuver_ShockSW.rulePack.rulesStrings.5>damaged_present(p=2)->electrocuting</Maneuver_ShockSW.rulePack.rulesStrings.5>
-  <Maneuver_BurnSW.rulePack.rulesStrings.14>damaged_present(p=2)->igniting</Maneuver_BurnSW.rulePack.rulesStrings.14>
-  <Maneuver_BurnSW.rulePack.rulesStrings.11>damaged_present(p=2)->scorching</Maneuver_BurnSW.rulePack.rulesStrings.11>
-  <Maneuver_BurnSW.rulePack.rulesStrings.15>damaged_present(p=2)->searing</Maneuver_BurnSW.rulePack.rulesStrings.15>
-  <Maneuver_ShockSW.rulePack.rulesStrings.4>damaged_present(p=2)->shocking</Maneuver_ShockSW.rulePack.rulesStrings.4>
-  <Maneuver_BurnSW.rulePack.rulesStrings.29>destroyed_past->annihilated</Maneuver_BurnSW.rulePack.rulesStrings.29>
-  <Maneuver_BurnSW.rulePack.rulesStrings.27>destroyed_past->charred</Maneuver_BurnSW.rulePack.rulesStrings.27>
-  <Maneuver_ShockSW.rulePack.rulesStrings.10>destroyed_past->electrocuted</Maneuver_ShockSW.rulePack.rulesStrings.10>
-  <Maneuver_BurnSW.rulePack.rulesStrings.26>destroyed_past->incinerated</Maneuver_BurnSW.rulePack.rulesStrings.26>
-  <Maneuver_BurnSW.rulePack.rulesStrings.28>destroyed_past->obliterated</Maneuver_BurnSW.rulePack.rulesStrings.28>
-  <Maneuver_ShockSW.rulePack.rulesStrings.9>destroyed_past->shocked</Maneuver_ShockSW.rulePack.rulesStrings.9>
-  <Maneuver_BurnSW.rulePack.rulesStrings.33>destroyed_present->annihilating</Maneuver_BurnSW.rulePack.rulesStrings.33>
-  <Maneuver_BurnSW.rulePack.rulesStrings.31>destroyed_present->charring</Maneuver_BurnSW.rulePack.rulesStrings.31>
-  <Maneuver_ShockSW.rulePack.rulesStrings.12>destroyed_present->charring</Maneuver_ShockSW.rulePack.rulesStrings.12>
-  <Maneuver_BurnSW.rulePack.rulesStrings.30>destroyed_present->incinerating</Maneuver_BurnSW.rulePack.rulesStrings.30>
-  <Maneuver_BurnSW.rulePack.rulesStrings.32>destroyed_present->obliterating</Maneuver_BurnSW.rulePack.rulesStrings.32>
-  <Maneuver_ShockSW.rulePack.rulesStrings.11>destroyed_present->shocking</Maneuver_ShockSW.rulePack.rulesStrings.11>
-  <Maneuver_ShockSW.rulePack.rulesStrings.13>destroyed_suffix->in sparks and smoke</Maneuver_ShockSW.rulePack.rulesStrings.13>
-  <Maneuver_BurnSW.rulePack.rulesStrings.34>destroyed_suffix->into smoke</Maneuver_BurnSW.rulePack.rulesStrings.34>
-  <Maneuver_BurnSW.rulePack.rulesStrings.35>destroyed_suffix->to ashes</Maneuver_BurnSW.rulePack.rulesStrings.35>
-  <Maneuver_ShockSW.rulePack.rulesStrings.14>destroyed_suffix->to ashes</Maneuver_ShockSW.rulePack.rulesStrings.14>
-  <Maneuver_BurnSW.rulePack.rulesStrings.37>destroyed_suffix(target_part_destroyed_count==1)->burning it away</Maneuver_BurnSW.rulePack.rulesStrings.37>
-  <Maneuver_BurnSW.rulePack.rulesStrings.36>destroyed_suffix(target_part_destroyed_count==1)->exposing its inner workings</Maneuver_BurnSW.rulePack.rulesStrings.36>
-  <Maneuver_BurnSW.rulePack.rulesStrings.23>flavortextconsequence(recipient_flesh!=Mechanoid)->exposing the bone underneath</Maneuver_BurnSW.rulePack.rulesStrings.23>
-  <Maneuver_BurnSW.rulePack.rulesStrings.25>flavortextconsequence(recipient_flesh!=Mechanoid)->leaving a gory [woundname]</Maneuver_BurnSW.rulePack.rulesStrings.25>
-  <Maneuver_BurnSW.rulePack.rulesStrings.24>flavortextconsequence(recipient_flesh==Mechanoid)->exposing the machinery underneath</Maneuver_BurnSW.rulePack.rulesStrings.24>
-  <Maneuver_ShockSW.rulePack.rulesStrings.8>flavortextconsequence(recipient_flesh==Mechanoid)->sparks flying over the metal</Maneuver_ShockSW.rulePack.rulesStrings.8>
-  <Maneuver_BurnSW.rulePack.rulesStrings.22>flavortextsituation->with fluids evaporating in the [woundname]</Maneuver_BurnSW.rulePack.rulesStrings.22>
-  <Maneuver_ShockSW.rulePack.rulesStrings.7>flavortextsituation->with lingering sparks</Maneuver_ShockSW.rulePack.rulesStrings.7>
-  <Maneuver_BurnSW.rulePack.rulesStrings.21>flavortextsituation(recipient_flesh!=Mechanoid)->with flesh turning black</Maneuver_BurnSW.rulePack.rulesStrings.21>
-  <Maneuver_ShockSW.rulePack.rulesStrings.6>flavortextsituation(recipient_flesh!=Mechanoid)->with twitching muscles</Maneuver_ShockSW.rulePack.rulesStrings.6>
-  <Maneuver_BurnSW.rulePack.rulesStrings.20>woundname->burn wound</Maneuver_BurnSW.rulePack.rulesStrings.20>
-
   <!--1187010034_181028_Rim of Madness - Vampires-->
   <ROMV_BiteCleaned.rulePack.rulesStrings.6>bitemark->물린 흔적</ROMV_BiteCleaned.rulePack.rulesStrings.6>
   <ROMV_BiteCleaned.rulePack.rulesStrings.5>bitemark->물린 자국</ROMV_BiteCleaned.rulePack.rulesStrings.5>
@@ -648,52 +593,6 @@
   <HookupSucceeded.rulePack.rulesStrings.0>sent-> [RECIPIENT_nameDef](은)는 유혹에 넘어갔습니다.</HookupSucceeded.rulePack.rulesStrings.0>
   <HookupFailed.rulePack.rulesStrings.0>sent-> [RECIPIENT_nameDef](은)는 유혹을 거절했습니다.</HookupFailed.rulePack.rulesStrings.0>
 
-  <!--1549446374_190519_Musical Instruments-->
-  <ArtDescription_MusicalInstrument.rulePack.rulesStrings.2>physical_description_root->An engraving on this instrument [depicts] [image]. [desc_sentence_group]</ArtDescription_MusicalInstrument.rulePack.rulesStrings.2>
-  <ArtDescription_MusicalInstrument.rulePack.rulesStrings.1>physical_description_root->This instrument bears a [depiction] of [image]. [desc_sentence_group]</ArtDescription_MusicalInstrument.rulePack.rulesStrings.1>
-  <ArtDescription_MusicalInstrument.rulePack.rulesStrings.0>physical_description_root->This instrument is engraved with a [depiction] of [image]. [desc_sentence_group]</ArtDescription_MusicalInstrument.rulePack.rulesStrings.0>
-  <NamerArtMusicalInstrument.rulePack.rulesStrings.2>r_art_name->[AdjectiveBadass] [AnimalBadass]</NamerArtMusicalInstrument.rulePack.rulesStrings.2>
-  <NamerArtMusicalInstrument.rulePack.rulesStrings.3>r_art_name->[ColorBadass] [AnimalBadass]</NamerArtMusicalInstrument.rulePack.rulesStrings.3>
-  <NamerArtMusicalInstrument.rulePack.rulesStrings.0>r_art_name->[ConceptBadass]</NamerArtMusicalInstrument.rulePack.rulesStrings.0>
-  <NamerArtMusicalInstrument.rulePack.rulesStrings.4>r_art_name->[ConceptBadass] [ColorBadass]</NamerArtMusicalInstrument.rulePack.rulesStrings.4>
-  <NamerArtMusicalInstrument.rulePack.rulesStrings.1>r_art_name->The [AnimalBadass]</NamerArtMusicalInstrument.rulePack.rulesStrings.1>
-  <NamerArtMusicalInstrument.rulePack.rulesStrings.6>r_art_name(p=3)->[ANYPAWN_nameIndef]'s [AnimalBadass]</NamerArtMusicalInstrument.rulePack.rulesStrings.6>
-  <NamerArtMusicalInstrument.rulePack.rulesStrings.5>r_art_name(p=3)->[ANYPAWN_nameIndef]'s [ConceptBadass]</NamerArtMusicalInstrument.rulePack.rulesStrings.5>
-  <NamerArtMusicalInstrument.rulePack.rulesStrings.8>r_art_name(p=3)->[ANYPAWN_nameIndef]'s [PersonAlly]</NamerArtMusicalInstrument.rulePack.rulesStrings.8>
-  <NamerArtMusicalInstrument.rulePack.rulesStrings.7>r_art_name(p=3)->[ANYPAWN_nameIndef]'s [PersonBadass]</NamerArtMusicalInstrument.rulePack.rulesStrings.7>
-  <NamerArtMusicalInstrument.rulePack.rulesStrings.9>r_art_name(p=3)->[ANYPAWN_nameIndef]'s [PersonFamily]</NamerArtMusicalInstrument.rulePack.rulesStrings.9>
-  <NamerArtMusicalInstrument.rulePack.rulesStrings.11>r_art_name(p=3)->[ColorBadass] [ANYPAWN_nameIndef]</NamerArtMusicalInstrument.rulePack.rulesStrings.11>
-  <NamerArtMusicalInstrument.rulePack.rulesStrings.10>r_art_name(p=3)->[ConceptBadass] of [ANYPAWN_nameIndef]</NamerArtMusicalInstrument.rulePack.rulesStrings.10>
-
-  <!--1554149030_190519_[RF] Rumor Has It....-->
-  <Sentence_ApologySucceeded.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef] accepted the apology.</Sentence_ApologySucceeded.rulePack.rulesStrings.0>
-  <Sentence_MakePeaceSucceeded.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef] agreed to let the slight go.</Sentence_MakePeaceSucceeded.rulePack.rulesStrings.0>
-  <Sentence_ApologyFailed.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef] did not accept the apology.</Sentence_ApologyFailed.rulePack.rulesStrings.0>
-  <Sentence_MakePeaceFailed.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef] did not agree to forgive.</Sentence_MakePeaceFailed.rulePack.rulesStrings.0>
-  <Sentence_CC_Colonist.rulePack.rulesStrings.0>sent->as [INITIATOR_nameDef] has a poor understanding of colonial cultures.</Sentence_CC_Colonist.rulePack.rulesStrings.0>
-  <Sentence_CC_Glitterworld.rulePack.rulesStrings.0>sent->as [INITIATOR_nameDef] has a poor understanding of glitterworld cultures.</Sentence_CC_Glitterworld.rulePack.rulesStrings.0>
-  <Sentence_CC_Imperial.rulePack.rulesStrings.0>sent->as [INITIATOR_nameDef] has a poor understanding of imperial cultures.</Sentence_CC_Imperial.rulePack.rulesStrings.0>
-  <Sentence_CC_Midworld.rulePack.rulesStrings.0>sent->as [INITIATOR_nameDef] has a poor understanding of midworld cultures.</Sentence_CC_Midworld.rulePack.rulesStrings.0>
-  <Sentence_CC_Tribal.rulePack.rulesStrings.0>sent->as [INITIATOR_nameDef] has a poor understanding of tribal cultures.</Sentence_CC_Tribal.rulePack.rulesStrings.0>
-  <Sentence_CC_Urbworld.rulePack.rulesStrings.0>sent->as [INITIATOR_nameDef] has a poor understanding of urbworld cultures.</Sentence_CC_Urbworld.rulePack.rulesStrings.0>
-  <Sentence_ApologySucceededBig.rulePack.rulesStrings.0>sent->The apology was heartfelt, and brought [RECIPIENT_nameDef] and [INITIATOR_nameDef] closer together.</Sentence_ApologySucceededBig.rulePack.rulesStrings.0>
-
-  <!--1567074403_181119_Faction: The Ghosts-->
-  <RH_NamerGhostsOutposts.rulePack.rulesStrings.1>name->[RH_GhostsBaseNames] [RH_GreekLetters]</RH_NamerGhostsOutposts.rulePack.rulesStrings.1>
-  <RH_NamerGhostsOutposts.rulePack.rulesStrings.3>name->[RH_GhostsBaseNames] [RH_GreekLetters]</RH_NamerGhostsOutposts.rulePack.rulesStrings.3>
-  <RH_NamerGhostsOutposts.rulePack.rulesStrings.2>name->[RH_GhostsBaseNames] [RH_MilitaryAlphabet]</RH_NamerGhostsOutposts.rulePack.rulesStrings.2>
-  <RH_NamerGhostsOutposts.rulePack.rulesStrings.0>name->[RH_GhostsBaseNames] [RH_MilitaryAlphabet] [RH_GhostsMapNames]</RH_NamerGhostsOutposts.rulePack.rulesStrings.0>
-  <RH_NamerGhostsOutposts.rulePack.rulesStrings.4>name->[RH_MilitaryAlphabet] [RH_GhostsMapNames] Barracks</RH_NamerGhostsOutposts.rulePack.rulesStrings.4>
-
-  <!--1645324706_190519_Religions of Rimworld-->
-  <ArtDescription_Relic.rulePack.rulesStrings.2>physical_description_root->On this [sculpture] is a [depiction] of [image]. [desc_sentence_group]</ArtDescription_Relic.rulePack.rulesStrings.2>
-  <ArtDescription_Relic.rulePack.rulesStrings.0>physical_description_root->This [sculpture] [depicts] [image]. [desc_sentence_group]</ArtDescription_Relic.rulePack.rulesStrings.0>
-  <ArtDescription_Relic.rulePack.rulesStrings.1>physical_description_root->This [sculpture] bears a [depiction] of [image]. [desc_sentence_group]</ArtDescription_Relic.rulePack.rulesStrings.1>
-  <ArtDescription_Relic.rulePack.rulesStrings.6>sculpture->carving</ArtDescription_Relic.rulePack.rulesStrings.6>
-  <ArtDescription_Relic.rulePack.rulesStrings.5>sculpture->piece</ArtDescription_Relic.rulePack.rulesStrings.5>
-  <ArtDescription_Relic.rulePack.rulesStrings.3>sculpture->sculpture</ArtDescription_Relic.rulePack.rulesStrings.3>
-  <ArtDescription_Relic.rulePack.rulesStrings.4>sculpture->work</ArtDescription_Relic.rulePack.rulesStrings.4>
-
   <!--1670420891_190519_[RH] Faction Umbra Company (1.0)-->
   <RH_NamerUCOutposts.rulePack.rulesStrings.3>이름 ->도살자 [RH_UCNumbers]</RH_NamerUCOutposts.rulePack.rulesStrings.3>
   <RH_NamerUCOutposts.rulePack.rulesStrings.2>이름 ->카니발 [RH_UCNumbers]</RH_NamerUCOutposts.rulePack.rulesStrings.2>
@@ -717,7 +616,7 @@
   <NamerFactionWalkblem.rulePack.rulesStrings.0>name->워크블렘 노예상인들 [businesstype]</NamerFactionWalkblem.rulePack.rulesStrings.0>
   <NamerFactionBaseWalkblem.rulePack.rulesStrings.0>name->[angsty](을)를 [politicalunion](을)를 노예 [communities]</NamerFactionBaseWalkblem.rulePack.rulesStrings.0>
   <NamerFactionBaseWalkblem.rulePack.rulesStrings.1>name->[angsty](을)를 [smallroman](을)를 노예 [communities]</NamerFactionBaseWalkblem.rulePack.rulesStrings.1>
-  <NamerFactionBaseWalkblem.rulePack.rulesStrings.2>name->[angsty](을)를 노예 [communities](을)를 of [positive]</NamerFactionBaseWalkblem.rulePack.rulesStrings.2>
+  <NamerFactionBaseWalkblem.rulePack.rulesStrings.2>name->[angsty](을)를 노예 [communities](을)를 [positive]</NamerFactionBaseWalkblem.rulePack.rulesStrings.2>
   <NamerFactionBaseWalkblem.rulePack.rulesStrings.3>name->[angsty](을)를 [groupnames](을)를 노예 허브</NamerFactionBaseWalkblem.rulePack.rulesStrings.3>
 
   <!--1778162471_190626_RazzleDazzle-->
@@ -1465,10 +1364,6 @@
   <MedTimes_Faction_Society_NameSet.rulePack.rulesStrings.1>name->[BadassAnimal] 국가</MedTimes_Faction_Society_NameSet.rulePack.rulesStrings.1>
   <MedTimes_Faction_Society_NameSet.rulePack.rulesStrings.0>name->[community] 국가</MedTimes_Faction_Society_NameSet.rulePack.rulesStrings.0>
 
-  <!--736207111_181022_Rimsenal Feral Faction-->
-  <NamerFeralBase.rulePack.rulesStrings.1>name->[FeralA]</NamerFeralBase.rulePack.rulesStrings.1>
-  <NamerFeralBase.rulePack.rulesStrings.0>name->[FeralB] [FeralA]</NamerFeralBase.rulePack.rulesStrings.0>
-
   <!--759866027_190818_USCM - Colonial Marines Corps Faction-->
   <NamerFactionUSCM.rulePack.rulesStrings.0>name->[USCM]</NamerFactionUSCM.rulePack.rulesStrings.0>
   <NamerFactionUSCM.rulePack.rulesStrings.1>name->[USCM]</NamerFactionUSCM.rulePack.rulesStrings.1>
@@ -1494,270 +1389,6 @@
   <ROM_NamerFactionCFV.rulePack.rulesStrings.1>name->[badasscolor] [geography]의 해변 마을</ROM_NamerFactionCFV.rulePack.rulesStrings.1>
   <ROM_NamerFactionTheAgency.rulePack.rulesStrings.0>name->비밀조직</ROM_NamerFactionTheAgency.rulePack.rulesStrings.0>
 
-  <!--765890823_181117_Call of Cthulhu - Cosmic Horrors-->
-  <ROM_Maneuver_BluntMonstrous_Damage.rulePack.rulesStrings.5>damaged_inf->collide</ROM_Maneuver_BluntMonstrous_Damage.rulePack.rulesStrings.5>
-  <ROM_Maneuver_BluntMonstrous_Damage.rulePack.rulesStrings.4>damaged_inf->impact</ROM_Maneuver_BluntMonstrous_Damage.rulePack.rulesStrings.4>
-  <ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.2>damaged_inf->mangle</ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.2>
-  <ROM_Maneuver_BluntMonstrous_Damage.rulePack.rulesStrings.2>damaged_inf->mash</ROM_Maneuver_BluntMonstrous_Damage.rulePack.rulesStrings.2>
-  <ROM_Maneuver_Psychic_Damage.rulePack.rulesStrings.1>damaged_inf->psiburst</ROM_Maneuver_Psychic_Damage.rulePack.rulesStrings.1>
-  <ROM_Maneuver_Psychic_Damage.rulePack.rulesStrings.2>damaged_inf->psipulse</ROM_Maneuver_Psychic_Damage.rulePack.rulesStrings.2>
-  <ROM_Maneuver_Psychic_Damage.rulePack.rulesStrings.3>damaged_inf->psishock</ROM_Maneuver_Psychic_Damage.rulePack.rulesStrings.3>
-  <ROM_Maneuver_BluntMonstrous_Damage.rulePack.rulesStrings.1>damaged_inf->pulverize</ROM_Maneuver_BluntMonstrous_Damage.rulePack.rulesStrings.1>
-  <ROM_Maneuver_Exsanguination_Damage.rulePack.rulesStrings.2>damaged_inf->siphon</ROM_Maneuver_Exsanguination_Damage.rulePack.rulesStrings.2>
-  <ROM_Maneuver_ConstrictMonstrous_Damage.rulePack.rulesStrings.1>damaged_inf->squeeze</ROM_Maneuver_ConstrictMonstrous_Damage.rulePack.rulesStrings.1>
-  <ROM_Maneuver_Exsanguination_Damage.rulePack.rulesStrings.1>damaged_inf->suck</ROM_Maneuver_Exsanguination_Damage.rulePack.rulesStrings.1>
-  <ROM_Maneuver_BluntMonstrous_Damage.rulePack.rulesStrings.3>damaged_inf->thump</ROM_Maneuver_BluntMonstrous_Damage.rulePack.rulesStrings.3>
-  <ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.6>damaged_inf(deflected!=True)->carve</ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.6>
-  <ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.4>damaged_inf(deflected!=True)->dismember</ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.4>
-  <ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.7>damaged_inf(deflected!=True)->hack</ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.7>
-  <ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.9>damaged_inf(deflected!=True)->incise</ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.9>
-  <ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.5>damaged_inf(deflected!=True)->lacerate</ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.5>
-  <ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.3>damaged_inf(deflected!=True)->mutilate</ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.3>
-  <ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.1>damaged_inf(deflected!=True)->rend</ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.1>
-  <ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.8>damaged_inf(deflected!=True)->thrash</ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.8>
-  <ROM_Maneuver_ConstrictMonstrous_Damage.rulePack.rulesStrings.0>damaged_inf(p=2)->constrict</ROM_Maneuver_ConstrictMonstrous_Damage.rulePack.rulesStrings.0>
-  <ROM_Maneuver_Exsanguination_Damage.rulePack.rulesStrings.0>damaged_inf(p=2)->drain</ROM_Maneuver_Exsanguination_Damage.rulePack.rulesStrings.0>
-  <ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.0>damaged_inf(p=2)->maul</ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.0>
-  <ROM_Maneuver_BluntMonstrous_Damage.rulePack.rulesStrings.0>damaged_inf(p=2)->pound</ROM_Maneuver_BluntMonstrous_Damage.rulePack.rulesStrings.0>
-  <ROM_Maneuver_Psychic_Damage.rulePack.rulesStrings.0>damaged_inf(p=2)->psiblast</ROM_Maneuver_Psychic_Damage.rulePack.rulesStrings.0>
-  <ROM_Maneuver_BluntMonstrous_Damage.rulePack.rulesStrings.11>damaged_past->collided</ROM_Maneuver_BluntMonstrous_Damage.rulePack.rulesStrings.11>
-  <ROM_Maneuver_BluntMonstrous_Damage.rulePack.rulesStrings.10>damaged_past->impacted</ROM_Maneuver_BluntMonstrous_Damage.rulePack.rulesStrings.10>
-  <ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.12>damaged_past->mangle</ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.12>
-  <ROM_Maneuver_BluntMonstrous_Damage.rulePack.rulesStrings.8>damaged_past->mashed</ROM_Maneuver_BluntMonstrous_Damage.rulePack.rulesStrings.8>
-  <ROM_Maneuver_Psychic_Damage.rulePack.rulesStrings.5>damaged_past->psiburst</ROM_Maneuver_Psychic_Damage.rulePack.rulesStrings.5>
-  <ROM_Maneuver_Psychic_Damage.rulePack.rulesStrings.6>damaged_past->psipulsed</ROM_Maneuver_Psychic_Damage.rulePack.rulesStrings.6>
-  <ROM_Maneuver_Psychic_Damage.rulePack.rulesStrings.7>damaged_past->psishocked</ROM_Maneuver_Psychic_Damage.rulePack.rulesStrings.7>
-  <ROM_Maneuver_BluntMonstrous_Damage.rulePack.rulesStrings.7>damaged_past->pulverized</ROM_Maneuver_BluntMonstrous_Damage.rulePack.rulesStrings.7>
-  <ROM_Maneuver_Exsanguination_Damage.rulePack.rulesStrings.5>damaged_past->siphoned</ROM_Maneuver_Exsanguination_Damage.rulePack.rulesStrings.5>
-  <ROM_Maneuver_ConstrictMonstrous_Damage.rulePack.rulesStrings.3>damaged_past->squeezed</ROM_Maneuver_ConstrictMonstrous_Damage.rulePack.rulesStrings.3>
-  <ROM_Maneuver_Exsanguination_Damage.rulePack.rulesStrings.4>damaged_past->sucked</ROM_Maneuver_Exsanguination_Damage.rulePack.rulesStrings.4>
-  <ROM_Maneuver_BluntMonstrous_Damage.rulePack.rulesStrings.9>damaged_past->thumped</ROM_Maneuver_BluntMonstrous_Damage.rulePack.rulesStrings.9>
-  <ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.15>damaged_past(deflected!=True)->carved</ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.15>
-  <ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.16>damaged_past(deflected!=True)->hacked</ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.16>
-  <ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.18>damaged_past(deflected!=True)->incised</ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.18>
-  <ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.14>damaged_past(deflected!=True)->lacerated</ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.14>
-  <ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.13>damaged_past(deflected!=True)->mutilate</ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.13>
-  <ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.11>damaged_past(deflected!=True)->rended</ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.11>
-  <ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.17>damaged_past(deflected!=True)->thrashed</ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.17>
-  <ROM_Maneuver_ConstrictMonstrous_Damage.rulePack.rulesStrings.2>damaged_past(p=2)->constricted</ROM_Maneuver_ConstrictMonstrous_Damage.rulePack.rulesStrings.2>
-  <ROM_Maneuver_Exsanguination_Damage.rulePack.rulesStrings.3>damaged_past(p=2)->drained</ROM_Maneuver_Exsanguination_Damage.rulePack.rulesStrings.3>
-  <ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.10>damaged_past(p=2)->mauled</ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.10>
-  <ROM_Maneuver_BluntMonstrous_Damage.rulePack.rulesStrings.6>damaged_past(p=2)->pounded</ROM_Maneuver_BluntMonstrous_Damage.rulePack.rulesStrings.6>
-  <ROM_Maneuver_Psychic_Damage.rulePack.rulesStrings.4>damaged_past(p=2)->psiblasted</ROM_Maneuver_Psychic_Damage.rulePack.rulesStrings.4>
-  <ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.24>damaged_present->carving</ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.24>
-  <ROM_Maneuver_BluntMonstrous_Damage.rulePack.rulesStrings.17>damaged_present->colliding</ROM_Maneuver_BluntMonstrous_Damage.rulePack.rulesStrings.17>
-  <ROM_Maneuver_ConstrictMonstrous_Damage.rulePack.rulesStrings.4>damaged_present->constricting</ROM_Maneuver_ConstrictMonstrous_Damage.rulePack.rulesStrings.4>
-  <ROM_Maneuver_Exsanguination_Damage.rulePack.rulesStrings.6>damaged_present->draining</ROM_Maneuver_Exsanguination_Damage.rulePack.rulesStrings.6>
-  <ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.25>damaged_present->hacking</ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.25>
-  <ROM_Maneuver_BluntMonstrous_Damage.rulePack.rulesStrings.16>damaged_present->impacting</ROM_Maneuver_BluntMonstrous_Damage.rulePack.rulesStrings.16>
-  <ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.27>damaged_present->incising</ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.27>
-  <ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.23>damaged_present->lacerating</ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.23>
-  <ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.22>damaged_present->mangling</ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.22>
-  <ROM_Maneuver_BluntMonstrous_Damage.rulePack.rulesStrings.14>damaged_present->mashing</ROM_Maneuver_BluntMonstrous_Damage.rulePack.rulesStrings.14>
-  <ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.19>damaged_present->mauling</ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.19>
-  <ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.21>damaged_present->mutilating</ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.21>
-  <ROM_Maneuver_BluntMonstrous_Damage.rulePack.rulesStrings.12>damaged_present->pounding</ROM_Maneuver_BluntMonstrous_Damage.rulePack.rulesStrings.12>
-  <ROM_Maneuver_Psychic_Damage.rulePack.rulesStrings.8>damaged_present->psiblasting</ROM_Maneuver_Psychic_Damage.rulePack.rulesStrings.8>
-  <ROM_Maneuver_Psychic_Damage.rulePack.rulesStrings.9>damaged_present->psibursting</ROM_Maneuver_Psychic_Damage.rulePack.rulesStrings.9>
-  <ROM_Maneuver_Psychic_Damage.rulePack.rulesStrings.10>damaged_present->psipulsing</ROM_Maneuver_Psychic_Damage.rulePack.rulesStrings.10>
-  <ROM_Maneuver_Psychic_Damage.rulePack.rulesStrings.11>damaged_present->psishocking</ROM_Maneuver_Psychic_Damage.rulePack.rulesStrings.11>
-  <ROM_Maneuver_BluntMonstrous_Damage.rulePack.rulesStrings.13>damaged_present->pulverizing</ROM_Maneuver_BluntMonstrous_Damage.rulePack.rulesStrings.13>
-  <ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.20>damaged_present->rending</ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.20>
-  <ROM_Maneuver_Exsanguination_Damage.rulePack.rulesStrings.8>damaged_present->siphoning</ROM_Maneuver_Exsanguination_Damage.rulePack.rulesStrings.8>
-  <ROM_Maneuver_ConstrictMonstrous_Damage.rulePack.rulesStrings.5>damaged_present->squeezing</ROM_Maneuver_ConstrictMonstrous_Damage.rulePack.rulesStrings.5>
-  <ROM_Maneuver_Exsanguination_Damage.rulePack.rulesStrings.7>damaged_present->sucking</ROM_Maneuver_Exsanguination_Damage.rulePack.rulesStrings.7>
-  <ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.26>damaged_present->thrashing</ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.26>
-  <ROM_Maneuver_BluntMonstrous_Damage.rulePack.rulesStrings.15>damaged_present->thumping</ROM_Maneuver_BluntMonstrous_Damage.rulePack.rulesStrings.15>
-  <ROM_Maneuver_BluntMonstrous_Damage.rulePack.rulesStrings.19>destroyed_past->atomized</ROM_Maneuver_BluntMonstrous_Damage.rulePack.rulesStrings.19>
-  <ROM_Maneuver_ConstrictMonstrous_Damage.rulePack.rulesStrings.7>destroyed_past->atomized</ROM_Maneuver_ConstrictMonstrous_Damage.rulePack.rulesStrings.7>
-  <ROM_Maneuver_ConstrictMonstrous_Damage.rulePack.rulesStrings.6>destroyed_past->crushed</ROM_Maneuver_ConstrictMonstrous_Damage.rulePack.rulesStrings.6>
-  <ROM_Maneuver_Exsanguination_Damage.rulePack.rulesStrings.9>destroyed_past->drained dry</ROM_Maneuver_Exsanguination_Damage.rulePack.rulesStrings.9>
-  <ROM_Maneuver_BluntMonstrous_Damage.rulePack.rulesStrings.18>destroyed_past->flattened</ROM_Maneuver_BluntMonstrous_Damage.rulePack.rulesStrings.18>
-  <ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.28>destroyed_past->hacked</ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.28>
-  <ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.31>destroyed_past->mangled</ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.31>
-  <ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.29>destroyed_past->mutilated</ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.29>
-  <ROM_Maneuver_BluntMonstrous_Damage.rulePack.rulesStrings.20>destroyed_past->powderized</ROM_Maneuver_BluntMonstrous_Damage.rulePack.rulesStrings.20>
-  <ROM_Maneuver_ConstrictMonstrous_Damage.rulePack.rulesStrings.8>destroyed_past->powderized</ROM_Maneuver_ConstrictMonstrous_Damage.rulePack.rulesStrings.8>
-  <ROM_Maneuver_Psychic_Damage.rulePack.rulesStrings.12>destroyed_past->psiblasted apart</ROM_Maneuver_Psychic_Damage.rulePack.rulesStrings.12>
-  <ROM_Maneuver_Psychic_Damage.rulePack.rulesStrings.13>destroyed_past->psiburst apart</ROM_Maneuver_Psychic_Damage.rulePack.rulesStrings.13>
-  <ROM_Maneuver_Psychic_Damage.rulePack.rulesStrings.15>destroyed_past->psipulsed</ROM_Maneuver_Psychic_Damage.rulePack.rulesStrings.15>
-  <ROM_Maneuver_Psychic_Damage.rulePack.rulesStrings.14>destroyed_past->psishocked</ROM_Maneuver_Psychic_Damage.rulePack.rulesStrings.14>
-  <ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.33>destroyed_past->ripped</ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.33>
-  <ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.32>destroyed_past->shredded</ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.32>
-  <ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.30>destroyed_past->thrashed</ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.30>
-  <ROM_Maneuver_BluntMonstrous_Damage.rulePack.rulesStrings.22>destroyed_present->atomizing</ROM_Maneuver_BluntMonstrous_Damage.rulePack.rulesStrings.22>
-  <ROM_Maneuver_ConstrictMonstrous_Damage.rulePack.rulesStrings.10>destroyed_present->atomizing</ROM_Maneuver_ConstrictMonstrous_Damage.rulePack.rulesStrings.10>
-  <ROM_Maneuver_ConstrictMonstrous_Damage.rulePack.rulesStrings.9>destroyed_present->crushed</ROM_Maneuver_ConstrictMonstrous_Damage.rulePack.rulesStrings.9>
-  <ROM_Maneuver_Exsanguination_Damage.rulePack.rulesStrings.10>destroyed_present->draining dry</ROM_Maneuver_Exsanguination_Damage.rulePack.rulesStrings.10>
-  <ROM_Maneuver_BluntMonstrous_Damage.rulePack.rulesStrings.21>destroyed_present->flattening</ROM_Maneuver_BluntMonstrous_Damage.rulePack.rulesStrings.21>
-  <ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.35>destroyed_present->lacerating</ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.35>
-  <ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.34>destroyed_present->mutilating</ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.34>
-  <ROM_Maneuver_BluntMonstrous_Damage.rulePack.rulesStrings.23>destroyed_present->powderizing</ROM_Maneuver_BluntMonstrous_Damage.rulePack.rulesStrings.23>
-  <ROM_Maneuver_ConstrictMonstrous_Damage.rulePack.rulesStrings.11>destroyed_present->powderizing</ROM_Maneuver_ConstrictMonstrous_Damage.rulePack.rulesStrings.11>
-  <ROM_Maneuver_Psychic_Damage.rulePack.rulesStrings.16>destroyed_present->psiblasting</ROM_Maneuver_Psychic_Damage.rulePack.rulesStrings.16>
-  <ROM_Maneuver_Psychic_Damage.rulePack.rulesStrings.17>destroyed_present->psibursting</ROM_Maneuver_Psychic_Damage.rulePack.rulesStrings.17>
-  <ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.38>destroyed_present->ripping</ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.38>
-  <ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.37>destroyed_present->shredding</ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.37>
-  <ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.36>destroyed_present->tearing off</ROM_Maneuver_ScratchMonstrous_Damage.rulePack.rulesStrings.36>
-  <ROM_Maneuver_BluntMonstrous.rulePack.rulesStrings.12>destroyed_suffix->[to] fragments</ROM_Maneuver_BluntMonstrous.rulePack.rulesStrings.12>
-  <ROM_Maneuver_ConstrictMonstrous.rulePack.rulesStrings.12>destroyed_suffix->[to] fragments</ROM_Maneuver_ConstrictMonstrous.rulePack.rulesStrings.12>
-  <ROM_Maneuver_Exsanguination.rulePack.rulesStrings.11>destroyed_suffix->[to] fragments</ROM_Maneuver_Exsanguination.rulePack.rulesStrings.11>
-  <ROM_Maneuver_Psychic.rulePack.rulesStrings.11>destroyed_suffix->[to] fragments</ROM_Maneuver_Psychic.rulePack.rulesStrings.11>
-  <ROM_Maneuver_ScratchMonstrous.rulePack.rulesStrings.13>destroyed_suffix->[to] fragments</ROM_Maneuver_ScratchMonstrous.rulePack.rulesStrings.13>
-  <ROM_Maneuver_BluntMonstrous.rulePack.rulesStrings.11>destroyed_suffix->[to] pieces</ROM_Maneuver_BluntMonstrous.rulePack.rulesStrings.11>
-  <ROM_Maneuver_ConstrictMonstrous.rulePack.rulesStrings.11>destroyed_suffix->[to] pieces</ROM_Maneuver_ConstrictMonstrous.rulePack.rulesStrings.11>
-  <ROM_Maneuver_Exsanguination.rulePack.rulesStrings.10>destroyed_suffix->[to] pieces</ROM_Maneuver_Exsanguination.rulePack.rulesStrings.10>
-  <ROM_Maneuver_Psychic.rulePack.rulesStrings.10>destroyed_suffix->[to] pieces</ROM_Maneuver_Psychic.rulePack.rulesStrings.10>
-  <ROM_Maneuver_ScratchMonstrous.rulePack.rulesStrings.12>destroyed_suffix->[to] pieces</ROM_Maneuver_ScratchMonstrous.rulePack.rulesStrings.12>
-  <ROM_Maneuver_BluntMonstrous.rulePack.rulesStrings.9>destroyed_suffix(p=2,recipient_flesh!=Mechanoid)->[to] messy [ROMstrips]</ROM_Maneuver_BluntMonstrous.rulePack.rulesStrings.9>
-  <ROM_Maneuver_ConstrictMonstrous.rulePack.rulesStrings.9>destroyed_suffix(p=2,recipient_flesh!=Mechanoid)->[to] messy [ROMstrips]</ROM_Maneuver_ConstrictMonstrous.rulePack.rulesStrings.9>
-  <ROM_Maneuver_Exsanguination.rulePack.rulesStrings.8>destroyed_suffix(p=2,recipient_flesh!=Mechanoid)->[to] messy [ROMstrips]</ROM_Maneuver_Exsanguination.rulePack.rulesStrings.8>
-  <ROM_Maneuver_Psychic.rulePack.rulesStrings.8>destroyed_suffix(p=2,recipient_flesh!=Mechanoid)->[to] messy [ROMstrips]</ROM_Maneuver_Psychic.rulePack.rulesStrings.8>
-  <ROM_Maneuver_ScratchMonstrous.rulePack.rulesStrings.10>destroyed_suffix(p=2,recipient_flesh!=Mechanoid)->[to] messy [ROMstrips]</ROM_Maneuver_ScratchMonstrous.rulePack.rulesStrings.10>
-  <ROM_Maneuver_BluntMonstrous.rulePack.rulesStrings.10>destroyed_suffix(p=4)->[to] [ROMstrips]</ROM_Maneuver_BluntMonstrous.rulePack.rulesStrings.10>
-  <ROM_Maneuver_ConstrictMonstrous.rulePack.rulesStrings.10>destroyed_suffix(p=4)->[to] [ROMstrips]</ROM_Maneuver_ConstrictMonstrous.rulePack.rulesStrings.10>
-  <ROM_Maneuver_Exsanguination.rulePack.rulesStrings.9>destroyed_suffix(p=4)->[to] [ROMstrips]</ROM_Maneuver_Exsanguination.rulePack.rulesStrings.9>
-  <ROM_Maneuver_Psychic.rulePack.rulesStrings.9>destroyed_suffix(p=4)->[to] [ROMstrips]</ROM_Maneuver_Psychic.rulePack.rulesStrings.9>
-  <ROM_Maneuver_ScratchMonstrous.rulePack.rulesStrings.11>destroyed_suffix(p=4)->[to] [ROMstrips]</ROM_Maneuver_ScratchMonstrous.rulePack.rulesStrings.11>
-  <ROM_Maneuver_BluntMonstrous.rulePack.rulesStrings.13>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] a pile of gore</ROM_Maneuver_BluntMonstrous.rulePack.rulesStrings.13>
-  <ROM_Maneuver_ConstrictMonstrous.rulePack.rulesStrings.13>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] a pile of gore</ROM_Maneuver_ConstrictMonstrous.rulePack.rulesStrings.13>
-  <ROM_Maneuver_Exsanguination.rulePack.rulesStrings.12>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] a pile of gore</ROM_Maneuver_Exsanguination.rulePack.rulesStrings.12>
-  <ROM_Maneuver_Psychic.rulePack.rulesStrings.12>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] a pile of gore</ROM_Maneuver_Psychic.rulePack.rulesStrings.12>
-  <ROM_Maneuver_ScratchMonstrous.rulePack.rulesStrings.14>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] a pile of gore</ROM_Maneuver_ScratchMonstrous.rulePack.rulesStrings.14>
-  <ROM_Maneuver_BluntMonstrous.rulePack.rulesStrings.6>flavortext_consequence(p=2,recipient_flesh!=Mechanoid)->and [ROMexposing] [ROMtheflesh] [ROMunderneath]</ROM_Maneuver_BluntMonstrous.rulePack.rulesStrings.6>
-  <ROM_Maneuver_ConstrictMonstrous.rulePack.rulesStrings.6>flavortext_consequence(p=2,recipient_flesh!=Mechanoid)->and [ROMexposing] [ROMtheflesh] [ROMunderneath]</ROM_Maneuver_ConstrictMonstrous.rulePack.rulesStrings.6>
-  <ROM_Maneuver_Exsanguination.rulePack.rulesStrings.5>flavortext_consequence(p=2,recipient_flesh!=Mechanoid)->and [ROMexposing] [ROMtheflesh] [ROMunderneath]</ROM_Maneuver_Exsanguination.rulePack.rulesStrings.5>
-  <ROM_Maneuver_Psychic.rulePack.rulesStrings.5>flavortext_consequence(p=2,recipient_flesh!=Mechanoid)->and [ROMexposing] [ROMtheflesh] [ROMunderneath]</ROM_Maneuver_Psychic.rulePack.rulesStrings.5>
-  <ROM_Maneuver_ScratchMonstrous.rulePack.rulesStrings.7>flavortext_consequence(p=2,recipient_flesh!=Mechanoid)->and [ROMexposing] [ROMtheflesh] [ROMunderneath]</ROM_Maneuver_ScratchMonstrous.rulePack.rulesStrings.7>
-  <ROM_Maneuver_BluntMonstrous.rulePack.rulesStrings.7>flavortext_consequence(p=2,recipient_flesh!=Mechanoid)->and [ROMexposing] a [ROMhorrible] [woundname]</ROM_Maneuver_BluntMonstrous.rulePack.rulesStrings.7>
-  <ROM_Maneuver_ConstrictMonstrous.rulePack.rulesStrings.7>flavortext_consequence(p=2,recipient_flesh!=Mechanoid)->and [ROMexposing] a [ROMhorrible] [woundname]</ROM_Maneuver_ConstrictMonstrous.rulePack.rulesStrings.7>
-  <ROM_Maneuver_Exsanguination.rulePack.rulesStrings.6>flavortext_consequence(p=2,recipient_flesh!=Mechanoid)->and [ROMexposing] a [ROMhorrible] [woundname]</ROM_Maneuver_Exsanguination.rulePack.rulesStrings.6>
-  <ROM_Maneuver_Psychic.rulePack.rulesStrings.6>flavortext_consequence(p=2,recipient_flesh!=Mechanoid)->and [ROMexposing] a [ROMhorrible] [woundname]</ROM_Maneuver_Psychic.rulePack.rulesStrings.6>
-  <ROM_Maneuver_ScratchMonstrous.rulePack.rulesStrings.8>flavortext_consequence(p=2,recipient_flesh!=Mechanoid)->and [ROMexposing] a [ROMhorrible] [woundname]</ROM_Maneuver_ScratchMonstrous.rulePack.rulesStrings.8>
-  <ROM_Maneuver_BluntMonstrous.rulePack.rulesStrings.8>flavortext_consequence(p=2,recipient_flesh==Mechanoid)->and exposing the machinery underneath</ROM_Maneuver_BluntMonstrous.rulePack.rulesStrings.8>
-  <ROM_Maneuver_ConstrictMonstrous.rulePack.rulesStrings.8>flavortext_consequence(p=2,recipient_flesh==Mechanoid)->and exposing the machinery underneath</ROM_Maneuver_ConstrictMonstrous.rulePack.rulesStrings.8>
-  <ROM_Maneuver_Exsanguination.rulePack.rulesStrings.7>flavortext_consequence(p=2,recipient_flesh==Mechanoid)->and exposing the machinery underneath</ROM_Maneuver_Exsanguination.rulePack.rulesStrings.7>
-  <ROM_Maneuver_Psychic.rulePack.rulesStrings.7>flavortext_consequence(p=2,recipient_flesh==Mechanoid)->and exposing the machinery underneath</ROM_Maneuver_Psychic.rulePack.rulesStrings.7>
-  <ROM_Maneuver_ScratchMonstrous.rulePack.rulesStrings.9>flavortext_consequence(p=2,recipient_flesh==Mechanoid)->and exposing the machinery underneath</ROM_Maneuver_ScratchMonstrous.rulePack.rulesStrings.9>
-  <ROM_Maneuver_BluntMonstrous.rulePack.rulesStrings.4>flavortext_situation(p=2,recipient_flesh!=Mechanoid)->with [ROMbloodoozing] from the [woundname]</ROM_Maneuver_BluntMonstrous.rulePack.rulesStrings.4>
-  <ROM_Maneuver_ConstrictMonstrous.rulePack.rulesStrings.4>flavortext_situation(p=2,recipient_flesh!=Mechanoid)->with [ROMbloodoozing] from the [woundname]</ROM_Maneuver_ConstrictMonstrous.rulePack.rulesStrings.4>
-  <ROM_Maneuver_Exsanguination.rulePack.rulesStrings.3>flavortext_situation(p=2,recipient_flesh!=Mechanoid)->with [ROMbloodoozing] from the [woundname]</ROM_Maneuver_Exsanguination.rulePack.rulesStrings.3>
-  <ROM_Maneuver_Psychic.rulePack.rulesStrings.3>flavortext_situation(p=2,recipient_flesh!=Mechanoid)->with [ROMbloodoozing] from the [woundname]</ROM_Maneuver_Psychic.rulePack.rulesStrings.3>
-  <ROM_Maneuver_ScratchMonstrous.rulePack.rulesStrings.5>flavortext_situation(p=2,recipient_flesh!=Mechanoid)->with [ROMbloodoozing] from the [woundname]</ROM_Maneuver_ScratchMonstrous.rulePack.rulesStrings.5>
-  <ROM_Maneuver_BluntMonstrous.rulePack.rulesStrings.5>flavortext_situation(p=2,recipient_flesh!=Mechanoid)->with [ROMgore] [ROMexposed] from the [woundname]</ROM_Maneuver_BluntMonstrous.rulePack.rulesStrings.5>
-  <ROM_Maneuver_ConstrictMonstrous.rulePack.rulesStrings.5>flavortext_situation(p=2,recipient_flesh!=Mechanoid)->with [ROMgore] [ROMexposed] from the [woundname]</ROM_Maneuver_ConstrictMonstrous.rulePack.rulesStrings.5>
-  <ROM_Maneuver_Exsanguination.rulePack.rulesStrings.4>flavortext_situation(p=2,recipient_flesh!=Mechanoid)->with [ROMgore] [ROMexposed] from the [woundname]</ROM_Maneuver_Exsanguination.rulePack.rulesStrings.4>
-  <ROM_Maneuver_Psychic.rulePack.rulesStrings.4>flavortext_situation(p=2,recipient_flesh!=Mechanoid)->with [ROMgore] [ROMexposed] from the [woundname]</ROM_Maneuver_Psychic.rulePack.rulesStrings.4>
-  <ROM_Maneuver_ScratchMonstrous.rulePack.rulesStrings.6>flavortext_situation(p=2,recipient_flesh!=Mechanoid)->with [ROMgore] [ROMexposed] from the [woundname]</ROM_Maneuver_ScratchMonstrous.rulePack.rulesStrings.6>
-  <ROM_Maneuver_BluntMonstrous.rulePack.rulesStrings.3>flavortext_situation(p=3)->while [ROMcarryinganexpressionofmadness]</ROM_Maneuver_BluntMonstrous.rulePack.rulesStrings.3>
-  <ROM_Maneuver_ConstrictMonstrous.rulePack.rulesStrings.3>flavortext_situation(p=3)->while [ROMcarryinganexpressionofmadness]</ROM_Maneuver_ConstrictMonstrous.rulePack.rulesStrings.3>
-  <ROM_Maneuver_Exsanguination.rulePack.rulesStrings.2>flavortext_situation(p=3)->while [ROMcarryinganexpressionofmadness]</ROM_Maneuver_Exsanguination.rulePack.rulesStrings.2>
-  <ROM_Maneuver_Psychic.rulePack.rulesStrings.2>flavortext_situation(p=3)->while [ROMcarryinganexpressionofmadness]</ROM_Maneuver_Psychic.rulePack.rulesStrings.2>
-  <ROM_Maneuver_ScratchMonstrous.rulePack.rulesStrings.4>flavortext_situation(p=3)->while [ROMcarryinganexpressionofmadness]</ROM_Maneuver_ScratchMonstrous.rulePack.rulesStrings.4>
-  <ROM_Maneuver_BluntMonstrous.rulePack.rulesStrings.2>flavortext_situation(p=3)->while [ROMgazingwithinhumaneyes]</ROM_Maneuver_BluntMonstrous.rulePack.rulesStrings.2>
-  <ROM_Maneuver_ConstrictMonstrous.rulePack.rulesStrings.2>flavortext_situation(p=3)->while [ROMgazingwithinhumaneyes]</ROM_Maneuver_ConstrictMonstrous.rulePack.rulesStrings.2>
-  <ROM_Maneuver_Exsanguination.rulePack.rulesStrings.1>flavortext_situation(p=3)->while [ROMgazingwithinhumaneyes]</ROM_Maneuver_Exsanguination.rulePack.rulesStrings.1>
-  <ROM_Maneuver_Psychic.rulePack.rulesStrings.1>flavortext_situation(p=3)->while [ROMgazingwithinhumaneyes]</ROM_Maneuver_Psychic.rulePack.rulesStrings.1>
-  <ROM_Maneuver_ScratchMonstrous.rulePack.rulesStrings.3>flavortext_situation(p=3)->while [ROMgazingwithinhumaneyes]</ROM_Maneuver_ScratchMonstrous.rulePack.rulesStrings.3>
-  <HPLovecraft_NamerAuthorFemale.rulePack.rulesStrings.0>name->[authorfemale]</HPLovecraft_NamerAuthorFemale.rulePack.rulesStrings.0>
-  <HPLovecraft_NamerAuthorMale.rulePack.rulesStrings.0>name->[authormale]</HPLovecraft_NamerAuthorMale.rulePack.rulesStrings.0>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.66>ROManexpression->a gaze</ROM_ColorfulVocabulary.rulePack.rulesStrings.66>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.67>ROManexpression->a look</ROM_ColorfulVocabulary.rulePack.rulesStrings.67>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.65>ROManexpression->a stare</ROM_ColorfulVocabulary.rulePack.rulesStrings.65>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.64>ROManexpression->a visage</ROM_ColorfulVocabulary.rulePack.rulesStrings.64>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.63>ROManexpression->an expression</ROM_ColorfulVocabulary.rulePack.rulesStrings.63>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.28>ROMbloodoozing->blood drooling</ROM_ColorfulVocabulary.rulePack.rulesStrings.28>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.25>ROMbloodoozing->blood gushing</ROM_ColorfulVocabulary.rulePack.rulesStrings.25>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.24>ROMbloodoozing->blood oozing</ROM_ColorfulVocabulary.rulePack.rulesStrings.24>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.27>ROMbloodoozing->blood pooling</ROM_ColorfulVocabulary.rulePack.rulesStrings.27>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.26>ROMbloodoozing->blood spewing</ROM_ColorfulVocabulary.rulePack.rulesStrings.26>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.58>ROMcarrying->carrying</ROM_ColorfulVocabulary.rulePack.rulesStrings.58>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.59>ROMcarrying->freighted with</ROM_ColorfulVocabulary.rulePack.rulesStrings.59>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.61>ROMcarrying->imbued with</ROM_ColorfulVocabulary.rulePack.rulesStrings.61>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.60>ROMcarrying->laden with</ROM_ColorfulVocabulary.rulePack.rulesStrings.60>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.62>ROMcarrying->wielding</ROM_ColorfulVocabulary.rulePack.rulesStrings.62>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.57>ROMcarryinganexpressionofmadness->[ROMcarrying] [ROManexpression] [ROMofmadness]</ROM_ColorfulVocabulary.rulePack.rulesStrings.57>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.11>ROMexposed->brought to light</ROM_ColorfulVocabulary.rulePack.rulesStrings.11>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.9>ROMexposed->divulged</ROM_ColorfulVocabulary.rulePack.rulesStrings.9>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.7>ROMexposed->exposed</ROM_ColorfulVocabulary.rulePack.rulesStrings.7>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.10>ROMexposed->laid bare</ROM_ColorfulVocabulary.rulePack.rulesStrings.10>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.8>ROMexposed->revealed</ROM_ColorfulVocabulary.rulePack.rulesStrings.8>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.17>ROMexposing->bringing to light</ROM_ColorfulVocabulary.rulePack.rulesStrings.17>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.15>ROMexposing->divulging</ROM_ColorfulVocabulary.rulePack.rulesStrings.15>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.12>ROMexposing->exposing</ROM_ColorfulVocabulary.rulePack.rulesStrings.12>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.16>ROMexposing->laying bare</ROM_ColorfulVocabulary.rulePack.rulesStrings.16>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.14>ROMexposing->leaving</ROM_ColorfulVocabulary.rulePack.rulesStrings.14>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.13>ROMexposing->revealing</ROM_ColorfulVocabulary.rulePack.rulesStrings.13>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.45>ROMfury->desire</ROM_ColorfulVocabulary.rulePack.rulesStrings.45>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.43>ROMfury->fury</ROM_ColorfulVocabulary.rulePack.rulesStrings.43>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.44>ROMfury->hunger</ROM_ColorfulVocabulary.rulePack.rulesStrings.44>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.47>ROMfury->rage</ROM_ColorfulVocabulary.rulePack.rulesStrings.47>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.46>ROMfury->wrath</ROM_ColorfulVocabulary.rulePack.rulesStrings.46>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.40>ROMgazing->gazing</ROM_ColorfulVocabulary.rulePack.rulesStrings.40>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.42>ROMgazing->looming</ROM_ColorfulVocabulary.rulePack.rulesStrings.42>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.41>ROMgazing->peering</ROM_ColorfulVocabulary.rulePack.rulesStrings.41>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.77>ROMgazingwithinhumaneyes->[ROMgazing] with [ROMtimeless] eyes like [ROMlanterns] from [ROMthedeepabyss]</ROM_ColorfulVocabulary.rulePack.rulesStrings.77>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.78>ROMgazingwithinhumaneyes->[ROMgazing] with [ROMunspeakable] hideousness</ROM_ColorfulVocabulary.rulePack.rulesStrings.78>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.81>ROMgazingwithinhumaneyes->[ROMgazing] with a [ROMunspeakable], [ROMtimeless] [ROMfury]</ROM_ColorfulVocabulary.rulePack.rulesStrings.81>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.80>ROMgazingwithinhumaneyes->[ROMgazing] with luminous, expanded eyes</ROM_ColorfulVocabulary.rulePack.rulesStrings.80>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.79>ROMgazingwithinhumaneyes->[ROMgazing] with maniacal force and [ROMfury]</ROM_ColorfulVocabulary.rulePack.rulesStrings.79>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.30>ROMgore->entrails</ROM_ColorfulVocabulary.rulePack.rulesStrings.30>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.35>ROMgore->flesh</ROM_ColorfulVocabulary.rulePack.rulesStrings.35>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.32>ROMgore->gore</ROM_ColorfulVocabulary.rulePack.rulesStrings.32>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.29>ROMgore->guts</ROM_ColorfulVocabulary.rulePack.rulesStrings.29>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.33>ROMgore->innards</ROM_ColorfulVocabulary.rulePack.rulesStrings.33>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.34>ROMgore->internals</ROM_ColorfulVocabulary.rulePack.rulesStrings.34>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.31>ROMgore->viscera</ROM_ColorfulVocabulary.rulePack.rulesStrings.31>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.2>ROMhorrible->heinous</ROM_ColorfulVocabulary.rulePack.rulesStrings.2>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.1>ROMhorrible->hideous</ROM_ColorfulVocabulary.rulePack.rulesStrings.1>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.3>ROMhorrible->horrendous</ROM_ColorfulVocabulary.rulePack.rulesStrings.3>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.0>ROMhorrible->horrible</ROM_ColorfulVocabulary.rulePack.rulesStrings.0>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.4>ROMhorrible->horrifying</ROM_ColorfulVocabulary.rulePack.rulesStrings.4>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.5>ROMhorrible->repulsive</ROM_ColorfulVocabulary.rulePack.rulesStrings.5>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.6>ROMhorrible->vile</ROM_ColorfulVocabulary.rulePack.rulesStrings.6>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.82>ROMlanterns->hellish phosphorescence</ROM_ColorfulVocabulary.rulePack.rulesStrings.82>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.83>ROMlanterns->lanterns</ROM_ColorfulVocabulary.rulePack.rulesStrings.83>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.73>ROMmadness->derangement</ROM_ColorfulVocabulary.rulePack.rulesStrings.73>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.72>ROMmadness->insanity</ROM_ColorfulVocabulary.rulePack.rulesStrings.72>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.71>ROMmadness->madness</ROM_ColorfulVocabulary.rulePack.rulesStrings.71>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.68>ROMofmadness->of [ROMmadness]</ROM_ColorfulVocabulary.rulePack.rulesStrings.68>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.69>ROMofmadness->that is betwixt the real and unreal</ROM_ColorfulVocabulary.rulePack.rulesStrings.69>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.70>ROMofmadness->that reminds [recipient_objective] of [ROMthesmallnessoftheirexistence]</ROM_ColorfulVocabulary.rulePack.rulesStrings.70>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.37>ROMstrips->pieces</ROM_ColorfulVocabulary.rulePack.rulesStrings.37>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.38>ROMstrips->ribbons</ROM_ColorfulVocabulary.rulePack.rulesStrings.38>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.39>ROMstrips->shreds</ROM_ColorfulVocabulary.rulePack.rulesStrings.39>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.36>ROMstrips->strips</ROM_ColorfulVocabulary.rulePack.rulesStrings.36>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.85>ROMthedeepabyss->beyond understanding</ROM_ColorfulVocabulary.rulePack.rulesStrings.85>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.86>ROMthedeepabyss->outside known reality</ROM_ColorfulVocabulary.rulePack.rulesStrings.86>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.84>ROMthedeepabyss->the deep abyss</ROM_ColorfulVocabulary.rulePack.rulesStrings.84>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.18>ROMtheflesh->the flesh</ROM_ColorfulVocabulary.rulePack.rulesStrings.18>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.19>ROMtheflesh->the gore</ROM_ColorfulVocabulary.rulePack.rulesStrings.19>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.20>ROMtheflesh->the innards</ROM_ColorfulVocabulary.rulePack.rulesStrings.20>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.76>ROMthesmallnessoftheirexistence->[recipient_possessive] candle before oblivion</ROM_ColorfulVocabulary.rulePack.rulesStrings.76>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.75>ROMthesmallnessoftheirexistence->[recipient_possessive] feeble mortality</ROM_ColorfulVocabulary.rulePack.rulesStrings.75>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.74>ROMthesmallnessoftheirexistence->the smallness of [recipient_possessive] existence</ROM_ColorfulVocabulary.rulePack.rulesStrings.74>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.49>ROMtimeless->ancient</ROM_ColorfulVocabulary.rulePack.rulesStrings.49>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.50>ROMtimeless->eldritch</ROM_ColorfulVocabulary.rulePack.rulesStrings.50>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.51>ROMtimeless->eldritch</ROM_ColorfulVocabulary.rulePack.rulesStrings.51>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.48>ROMtimeless->timeless</ROM_ColorfulVocabulary.rulePack.rulesStrings.48>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.22>ROMunderneath->below</ROM_ColorfulVocabulary.rulePack.rulesStrings.22>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.21>ROMunderneath->underneath</ROM_ColorfulVocabulary.rulePack.rulesStrings.21>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.23>ROMunderneath->within</ROM_ColorfulVocabulary.rulePack.rulesStrings.23>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.55>ROMunspeakable->hellish</ROM_ColorfulVocabulary.rulePack.rulesStrings.55>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.56>ROMunspeakable->inhuman</ROM_ColorfulVocabulary.rulePack.rulesStrings.56>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.54>ROMunspeakable->nameless</ROM_ColorfulVocabulary.rulePack.rulesStrings.54>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.52>ROMunspeakable->unspeakable</ROM_ColorfulVocabulary.rulePack.rulesStrings.52>
-  <ROM_ColorfulVocabulary.rulePack.rulesStrings.53>ROMunspeakable->unutterable</ROM_ColorfulVocabulary.rulePack.rulesStrings.53>
-  <ROM_Maneuver_BluntMonstrous.rulePack.rulesStrings.0>woundname->wound</ROM_Maneuver_BluntMonstrous.rulePack.rulesStrings.0>
-  <ROM_Maneuver_ConstrictMonstrous.rulePack.rulesStrings.0>woundname->wound</ROM_Maneuver_ConstrictMonstrous.rulePack.rulesStrings.0>
-  <ROM_Maneuver_Exsanguination.rulePack.rulesStrings.0>woundname->wound</ROM_Maneuver_Exsanguination.rulePack.rulesStrings.0>
-  <ROM_Maneuver_Psychic.rulePack.rulesStrings.0>woundname->wound</ROM_Maneuver_Psychic.rulePack.rulesStrings.0>
-  <ROM_Maneuver_ScratchMonstrous.rulePack.rulesStrings.0>woundname->wound</ROM_Maneuver_ScratchMonstrous.rulePack.rulesStrings.0>
-  <ROM_Maneuver_BluntMonstrous.rulePack.rulesStrings.1>woundname(p=0.3)->contusion</ROM_Maneuver_BluntMonstrous.rulePack.rulesStrings.1>
-  <ROM_Maneuver_ConstrictMonstrous.rulePack.rulesStrings.1>woundname(p=0.3)->contusion</ROM_Maneuver_ConstrictMonstrous.rulePack.rulesStrings.1>
-  <ROM_Maneuver_ScratchMonstrous.rulePack.rulesStrings.1>woundname(p=0.3)->gash</ROM_Maneuver_ScratchMonstrous.rulePack.rulesStrings.1>
-  <ROM_Maneuver_ScratchMonstrous.rulePack.rulesStrings.2>woundname(p=0.3)->hole</ROM_Maneuver_ScratchMonstrous.rulePack.rulesStrings.2>
-
   <!--815039373_181117_Call of Cthulhu - Cults-->
   <NamerCults.rulePack.rulesStrings.5>name->[ideal] 아이들</NamerCults.rulePack.rulesStrings.5>
   <NamerCults.rulePack.rulesStrings.1>name->[ideal] 교회</NamerCults.rulePack.rulesStrings.1>
@@ -1772,8 +1403,8 @@
   <SWFactions_NamerFactionRebels.rulePack.rulesStrings.0>name->[worldname] Rebels</SWFactions_NamerFactionRebels.rulePack.rulesStrings.0>
 
   <!--1552507180_190814_Psychology-->
-  <Sentence_SocialFightConvoInitiatorStarted.rulePack.rulesStrings.0>sent->의견 차이로 인해 [INITIATOR_nameDef](이)가 싸움을 시작합니다!</Sentence_SocialFightConvoInitiatorStarted.rulePack.rulesStrings.0>
-  <Sentence_SocialFightConvoRecipientStarted.rulePack.rulesStrings.0>sent->의견 차이로 인해 [RECIPIENT_nameDef](이)가 싸움을 시작합니다!</Sentence_SocialFightConvoRecipientStarted.rulePack.rulesStrings.0>
+  <Sentence_SocialFightConvoInitiatorStarted.rulePack.rulesStrings.0>sent->의견 차이로 인해 [INITIATOR_nameDef](이)가 싸움을 시작함!</Sentence_SocialFightConvoInitiatorStarted.rulePack.rulesStrings.0>
+  <Sentence_SocialFightConvoRecipientStarted.rulePack.rulesStrings.0>sent->의견 차이로 인해 [RECIPIENT_nameDef](이)가 싸움을 시작함!</Sentence_SocialFightConvoRecipientStarted.rulePack.rulesStrings.0>
 
   <!--753498552_190826_Hospitality-->
   <Sentence_CharmAttemptAccepted.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef](은)는 기쁘게 박수를 보냈습니다.</Sentence_CharmAttemptAccepted.rulePack.rulesStrings.0>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <KIJIN_InstallThrumboHorn.label>트럼보 뿔 이식</KIJIN_InstallThrumboHorn.label>
+  <KIJIN_InstallThrumboHorn.description>트럼보 뿔을 이식합니다.</KIJIN_InstallThrumboHorn.description>
+  <KIJIN_InstallThrumboHorn.jobString>트럼보 뿔 이식 중.</KIJIN_InstallThrumboHorn.jobString>
+  <KIJIN_InstallBionicHorn.label>생체공학 키진 뿔 이식</KIJIN_InstallBionicHorn.label>
+  <KIJIN_InstallBionicHorn.description>생체공학 키진 뿔 이식합니다.</KIJIN_InstallBionicHorn.description>
+  <KIJIN_InstallBionicHorn.jobString>생체공학 쿠키진 뿔 이식 중.</KIJIN_InstallBionicHorn.jobString>
+  <CookKijinDarkMatter.label>야매 요리 만들기</CookKijinDarkMatter.label>
+  <CookKijinDarkMatter.description>먹으면 맛없어 기절할지도 모르는 요리</CookKijinDarkMatter.description>
+
+</LanguageData>

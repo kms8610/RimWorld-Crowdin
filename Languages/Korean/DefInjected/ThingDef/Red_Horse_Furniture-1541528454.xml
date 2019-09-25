@@ -296,8 +296,8 @@
   <RNMedicine_MedicBag.description>구급대원을 위한 의료용 가방. 산업 시대의 의료 장비 한 세트. 입니다. 기본 약품, 봉합 및 뼈 설정 도구, 진단 장치, 다양한 패드, 다양한 용액 및 다양한 질병을 다루는 기타 전문 장비가 포함되어 있습니다.</RNMedicine_MedicBag.description>
   <CP_MaxiCola.label>맥시 콜라</CP_MaxiCola.label>
   <CP_MaxiCola.description>용병들 사이에서 인기 있는 청량음료로, 카즈히라 밀러가 만들었습니다. 이 음료에는 전투에 매우 효과적인 나노기계가 포함되어 있지만, 이 음료수는 중독성이 매우 강할 수 있습니다. 나노머신들은 과다 복용을 해도 건강에 아무런 위험이 없지만, 일단 배출이 시작되면 그 이득을 잊지 못합니다.</CP_MaxiCola.description>
-  <CP_MaxiCola.ingestible.ingestCommandString>{0}가 마십니다.</CP_MaxiCola.ingestible.ingestCommandString>
-  <CP_MaxiCola.ingestible.ingestReportString>{0}가 마시는 중.</CP_MaxiCola.ingestible.ingestReportString>
+  <CP_MaxiCola.ingestible.ingestCommandString>{0} 마시기</CP_MaxiCola.ingestible.ingestCommandString>
+  <CP_MaxiCola.ingestible.ingestReportString>{0} 마시는 중.</CP_MaxiCola.ingestible.ingestReportString>
   <Maxi_Burger.label>맥시 버거</Maxi_Burger.label>
   <Maxi_Burger.description>고도로 훈련되고 전문화된 다이아몬드 도그 연구 개발팀과 함께 수년을 보낸 민간 군사기업 개척자 베네딕트 카주히라 밀러가 개발한 맥시 번즈 프랜차이즈 햄버거입니다..</Maxi_Burger.description>
   <Maxi_Fries.label>맥시 프라이</Maxi_Fries.label>
@@ -322,12 +322,12 @@
   <RN_MRE_USMC.description>준비된 식량. 고급 패키지.. 대체 뭐야? 이럴 순 없어, 이건 음식 같지 않아.</RN_MRE_USMC.description>
   <CP_NukaCola.label>누카 콜라</CP_NukaCola.label>
   <CP_NukaCola.description>누카콜라사에서 생산한 누카콜라는 대전 전 세계에서 가장 인기 있는 청량음료였습니다. 전쟁이 끝난 후에도 이 전쟁 전에 가장 좋아했던 많은 병들이 여전히 살아남았고, 누카콜라는 종말론 이후의 세계에서 가장 인기 있는 청량 음료 중 하나로 남아 있습니다.</CP_NukaCola.description>
-  <CP_NukaCola.ingestible.ingestCommandString>{0}가 마십니다.</CP_NukaCola.ingestible.ingestCommandString>
-  <CP_NukaCola.ingestible.ingestReportString>{0}가 마시는 중.</CP_NukaCola.ingestible.ingestReportString>
+  <CP_NukaCola.ingestible.ingestCommandString>{0} 마시기</CP_NukaCola.ingestible.ingestCommandString>
+  <CP_NukaCola.ingestible.ingestReportString>{0} 마시는 중.</CP_NukaCola.ingestible.ingestReportString>
   <CP_NukaColaQuantum.label>누카 콜라 퀀텀</CP_NukaColaQuantum.label>
   <CP_NukaColaQuantum.description>누카콜라사에서 생산한 누카콜라는 대전 전 세계에서 가장 인기 있는 청량음료였습니다. 전쟁이 끝난 후에도 이 전쟁 전에 가장 좋아했던 많은 병들이 여전히 살아남았고, 누카콜라는 종말론 이후의 세계에서 가장 인기 있는 청량 음료 중 하나로 남아 있습니다. 2077년, 누카콜라 퀀텀이라는 새로운 버전이 소개되었습니다. 광고에 따르면, 칼로리 두 배, 탄수화물 두 배, 카페인 두 배, 그리고 맛도 두 배였습니다.</CP_NukaColaQuantum.description>
-  <CP_NukaColaQuantum.ingestible.ingestCommandString>{0}가 마십니다.</CP_NukaColaQuantum.ingestible.ingestCommandString>
-  <CP_NukaColaQuantum.ingestible.ingestReportString>{0}가 마시는 중.</CP_NukaColaQuantum.ingestible.ingestReportString>
+  <CP_NukaColaQuantum.ingestible.ingestCommandString>{0} 마시기</CP_NukaColaQuantum.ingestible.ingestCommandString>
+  <CP_NukaColaQuantum.ingestible.ingestReportString>{0} 마시는 중.</CP_NukaColaQuantum.ingestible.ingestReportString>
   <RedHorse_TacticoolRefrigerator.label>전술용 냉장고</RedHorse_TacticoolRefrigerator.label>
   <RedHorse_TacticoolRefrigerator.description>여기에 저장된 식량은 외부에서도 변질되지 않습니다.</RedHorse_TacticoolRefrigerator.description>
   <RedHorse_TacticoolRefrigerator_Blueprint.label>전술용 냉장고 (청사진)</RedHorse_TacticoolRefrigerator_Blueprint.label>

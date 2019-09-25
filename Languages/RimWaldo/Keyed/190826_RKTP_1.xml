@@ -4294,11 +4294,11 @@
   <LetterLabelInterceptedMessageLGE>차단된 메시지</LetterLabelInterceptedMessageLGE>
   <LetterInterceptedMessageLGE>우리의 통신장치가 누군가 보낸 암호화되지 않은 메시지를 가로챘습니다. 그 메시지에는 약간 떨어진 장소에 약탈한 물건들이 저장되어있다는 내용이 들어있었습니다.\n하지만 정확히 어떤 물건들이 저장되어있는지는 명시되어있지 않았습니다.\n누군가 캐러밴들을 유인하기 위한 함정일 수도 있다고 의심합니다.</LetterInterceptedMessageLGE>
   <LetterLabelIMAmbushLGE>함정이다!</LetterLabelIMAmbushLGE>
-  <LetterIMAmbushLGE>도청된 메시지는 함정이었습니다! 보물따윈 없으며, 캐러밴은 매복을 당했습니다.</LetterIMAmbushLGE>
+  <LetterIMAmbushLGE>도청된 메시지는 함정이었습니다! 보물따윈 없으며, 상단은 매복을 당했습니다.</LetterIMAmbushLGE>
   <LetterLabelFoundTreasureLGE>보물 발견</LetterLabelFoundTreasureLGE>
-  <LetterFoundTreasureLGE>캐러밴이 도청된 메시지에 표시된 위치에 도착해 {0}의 가치있는 숨겨진 물건들을 발견했습니다.:\n\n{1}</LetterFoundTreasureLGE>
+  <LetterFoundTreasureLGE>상단이 도청된 메시지에 표시된 위치에 도착해 {0}의 가치있는 숨겨진 물건들을 발견했습니다.:\n\n{1}</LetterFoundTreasureLGE>
   <LetterLabelTreasureAmbushLGE>보물 매복</LetterLabelTreasureAmbushLGE>
-  <LetterTreasureAmbushLGE>캐러밴이 도청된 메시지에 표시된 위치에 도착해 {0}의 가치가 있는 숨겨진 물건들을 발견했습니다.:\n\n{1}\n\n하지만 캐러밴이 자리를 뜨려하자, 갑자기 매복을 당했습니다!</LetterTreasureAmbushLGE>
+  <LetterTreasureAmbushLGE>상단이 도청된 메시지에 표시된 위치에 도착해 {0}의 가치가 있는 숨겨진 물건들을 발견했습니다.:\n\n{1}\n\n하지만 상단이 자리를 뜨려하자, 갑자기 매복을 당했습니다!</LetterTreasureAmbushLGE>
   <LetterLabelToxicLostCityLGE>독성 도시 기회</LetterLabelToxicLostCityLGE>
   <LetterToxicLostCityLGE>유독성 낙진이 고여있는 곳 아래에 잠든, 오래전 잃어버린 도시에 대한 소문을 들었습니다.\n어쩌면 그 폐허 안에 무언가 남아있을지도 모를 일입니다. 또한 그 안에는 위험도 도사리고 있을 것입니다.</LetterToxicLostCityLGE>
   <LetterLabelInfestedLostCityLGE>감염된 도시 기회</LetterLabelInfestedLostCityLGE>
@@ -4320,11 +4320,11 @@
   <LetterResearchRequest_NeutralLGE>우리 연구원의 최선에 노력에도 불구하고 연구는 전혀 진행되지 않았습니다..\n\n{0}와의 관계:{1}</LetterResearchRequest_NeutralLGE>
   <LetterLabelResearchRequest_SuccessLGE>연구 요청 성공</LetterLabelResearchRequest_SuccessLGE>
   <LetterResearchRequest_SuccessLGE>연구는 성공적이었습니다. 많은 진전이 이루어졌습니다.\n\{0}와의 관계가 {1}만큼 향상되었습니다.\n\n우리 또한 총 {2}에 대한 통찰력을 얻을 수 있었습니다..</LetterResearchRequest_SuccessLGE>
-  <LetterLabelResearchRequest_TriumphLGE>문화 요청 대성공</LetterLabelResearchRequest_TriumphLGE>
-  <LetterResearchRequest_TriumphLGE>이번 연구는 완벽했습니다! 파견된 우리 연구원이 더 못 할 때 까지 많은 진전이 있었습니다..\n\n{1}.\n\n{2}에 대한 통찰력을 얻었습니다..</LetterResearchRequest_TriumphLGE>
+  <LetterLabelResearchRequest_TriumphLGE>연구 요청 대성공</LetterLabelResearchRequest_TriumphLGE>
+  <LetterResearchRequest_TriumphLGE>이번 연구는 완벽했습니다! 파견된 우리 연구원이 더 못 할 때 까지 많은 진전이 있었습니다.\n\n{1}.\n\n{2}에 대한 통찰력을 얻었습니다.</LetterResearchRequest_TriumphLGE>
   <ResearchRequestXPGainLGE>연구원이 {0}(이)가 {1}만큼의 통찰력을 얻었습니다.</ResearchRequestXPGainLGE>
   <LetterLabelShipCoreStartupLGE>선박 원자로 가동</LetterLabelShipCoreStartupLGE>
-  <LetterShipCoreStartupLGE>대규모 에너지 반응이 감지되었습니다. 근처 어디에서 누군가 선박의 원자로를 가동한 듯 합니다. 이들은 아마도 잘 방어가 되어있을 것이며, 원자로 가동 소식은 또 다른 불챙객들도 나타날 것입니다..\n\n이 함선은 최소 30명 이상의 방어벙력과 6문의 박격포, 그리고 약간의 터렛으로 방어되고 있습니다.</LetterShipCoreStartupLGE>
+  <LetterShipCoreStartupLGE>대규모 에너지 반응이 감지되었습니다. 근처 어디에서 누군가 선박의 원자로를 가동한 듯 합니다. 이들은 아마도 잘 방어가 되어있을 것이며, 원자로 가동 소식은 또 다른 불챙객들도 나타날 것입니다.\n\n이 함선은 최소 30명 이상의 방어벙력과 6문의 박격포, 그리고 약간의 터렛으로 방어되고 있습니다.</LetterShipCoreStartupLGE>
 
   <!--708455313_181029_BluePrint-->
   <Fluffy.Blueprints.NameAlreadyTaken>"{0}" 같은 이름의 청사진이 존재합니다. 다른 이름으로 저장하세요.</Fluffy.Blueprints.NameAlreadyTaken>
@@ -6701,16 +6701,16 @@
   <Individuality>같은 복장</Individuality>
   <IndividualityDesc>정착민들이 같은 복장을 입고 있어 기분이 좋지 않습니다:\n\n{0}\n적어도 한가지 이상의 다른 종류, 다른 재질, 다른 색상의 의류를 장비시키거나, 의류를 탈의 시키십시오.</IndividualityDesc>
   <NumberOfShortTalks>10</NumberOfShortTalks>
-  <ShortTalk1>{INITIATOR_labelShort}(이)가 {RECIPIENT_labelShort}(와)과 {0}에 대해 간결한 잡담을 나누었습니다.</ShortTalk1>
-  <ShortTalk2>{INITIATOR_labelShort}(이)가 {RECIPIENT_labelShort}(와)과 {0}에 대해 짧은 잡담를 나누었습니다.</ShortTalk2>
-  <ShortTalk3>{INITIATOR_labelShort}(이)가 {RECIPIENT_labelShort}(와)과 {0}에 대해 짧은 논의를 나누었습니다.</ShortTalk3>
-  <ShortTalk4>{INITIATOR_labelShort}(은)는 {RECIPIENT_labelShort}와(와) {0}에 대해 빠르게 논의했습니다.</ShortTalk4>
-  <ShortTalk5>{INITIATOR_labelShort}(은)는 {RECIPIENT_labelShort}(와)과 일시적으로 {0}에 대해 대화했습니다.</ShortTalk5>
-  <ShortTalk6>{INITIATOR_labelShort}(은)는 지나가는 말로 {RECIPIENT_labelShort}에게 {0}에 대해 설명했습니다.</ShortTalk6>
-  <ShortTalk7>{INITIATOR_labelShort}(은)는 {RECIPIENT_labelShort}(와)과 함께 {0}에 대해 간결히 논평했습니다.</ShortTalk7>
-  <ShortTalk8>{INITIATOR_labelShort}(은)는 {RECIPIENT_labelShort}(와)과 함께 {0}에 주목했습니다.</ShortTalk8>
-  <ShortTalk9>{INITIATOR_labelShort}(은)는 잠시동안 {RECIPIENT_labelShort}(와)과 {0}에 대한 단어를 주고받았습니다.</ShortTalk9>
-  <ShortTalk10>{INITIATOR_labelShort}(은)는 {RECIPIENT_labelShort}(와)과 {0}에 대해 짧은 대화를 나누었습니다.</ShortTalk10>
+  <ShortTalk1>{INITIATOR_labelShort}(이)가 {RECIPIENT_labelShort}(와)과 {0}에 대해 간결한 잡담을 나눔.</ShortTalk1>
+  <ShortTalk2>{INITIATOR_labelShort}(이)가 {RECIPIENT_labelShort}(와)과 {0}에 대해 짧은 잡담를 나눔.</ShortTalk2>
+  <ShortTalk3>{INITIATOR_labelShort}(이)가 {RECIPIENT_labelShort}(와)과 {0}에 대해 짧은 논의를 나눔.</ShortTalk3>
+  <ShortTalk4>{INITIATOR_labelShort}(은)는 {RECIPIENT_labelShort}와(와) {0}에 대해 빠르게 논의함.</ShortTalk4>
+  <ShortTalk5>{INITIATOR_labelShort}(은)는 {RECIPIENT_labelShort}(와)과 일시적으로 {0}에 대해 대화함.</ShortTalk5>
+  <ShortTalk6>{INITIATOR_labelShort}(은)는 지나가는 말로 {RECIPIENT_labelShort}에게 {0}에 대해 설명함.</ShortTalk6>
+  <ShortTalk7>{INITIATOR_labelShort}(은)는 {RECIPIENT_labelShort}(와)과 함께 {0}에 대해 간결히 논평함.</ShortTalk7>
+  <ShortTalk8>{INITIATOR_labelShort}(은)는 {RECIPIENT_labelShort}(와)과 함께 {0}에 주목함.</ShortTalk8>
+  <ShortTalk9>{INITIATOR_labelShort}(은)는 잠시동안 {RECIPIENT_labelShort}(와)과 {0}에 대한 단어를 주고받음.</ShortTalk9>
+  <ShortTalk10>{INITIATOR_labelShort}(은)는 {RECIPIENT_labelShort}(와)과 {0}에 대해 짧은 대화를 나눔.</ShortTalk10>
   <NumberOfNormalTalks>12</NumberOfNormalTalks>
   <NormalTalk1>{INITIATOR_labelShort}(은)는 {RECIPIENT_labelShort}(와)과 {0}에 대해 이야기함.</NormalTalk1>
   <NormalTalk2>{INITIATOR_labelShort}(은)는 {RECIPIENT_labelShort}(와)과 {0}에 대해 대화를 나눔.</NormalTalk2>

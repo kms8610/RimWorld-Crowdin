@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <KIJIN_Player.label>키진 정착지</KIJIN_Player.label>
+  <KIJIN_Player.description>키진의 정착지입니다.</KIJIN_Player.description>
+  <KIJIN_Player.pawnsPlural>키진들</KIJIN_Player.pawnsPlural>
+  <KIJIN_NPCFaction.label>키진 난민</KIJIN_NPCFaction.label>
+  <KIJIN_NPCFaction.description>키진의 정착지입니다.</KIJIN_NPCFaction.description>
+  <KIJIN_NPCFaction.pawnsPlural>키진들</KIJIN_NPCFaction.pawnsPlural>
+  <KIJIN_NPCFaction.leaderTitle>지도자</KIJIN_NPCFaction.leaderTitle>
+
+</LanguageData>

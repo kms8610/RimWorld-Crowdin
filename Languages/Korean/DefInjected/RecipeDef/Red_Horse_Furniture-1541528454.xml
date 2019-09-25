@@ -145,7 +145,7 @@
   <CPTraining_Artistic.label>가상현실 예술 훈련</CPTraining_Artistic.label>
   <CPTraining_Artistic.description>가상현실에서 예술을 훈련합니다.</CPTraining_Artistic.description>
   <CPTraining_Artistic.jobString>가상현실에서 예술 훈련 중.</CPTraining_Artistic.jobString>
-  <CPTraining_Construction.label>가상현실 건설 훈련.</CPTraining_Construction.label>
+  <CPTraining_Construction.label>가상현실 건설 훈련</CPTraining_Construction.label>
   <CPTraining_Construction.description>가상현실에서 건설을 훈련합니다.</CPTraining_Construction.description>
   <CPTraining_Construction.jobString>가상현실에서 건설을 훈련 중.</CPTraining_Construction.jobString>
   <CPTraining_Cooking.label>가상현실 조리 훈련</CPTraining_Cooking.label>
@@ -181,7 +181,7 @@
   <CPTraining_Artistic_Adv.label>가상현실 예술 훈련</CPTraining_Artistic_Adv.label>
   <CPTraining_Artistic_Adv.description>가상현실에서 예술을 훈련합니다.</CPTraining_Artistic_Adv.description>
   <CPTraining_Artistic_Adv.jobString>가상현실에서 예술 훈련 중.</CPTraining_Artistic_Adv.jobString>
-  <CPTraining_Construction_Adv.label>가상현실 건설 훈련.</CPTraining_Construction_Adv.label>
+  <CPTraining_Construction_Adv.label>가상현실 건설 훈련</CPTraining_Construction_Adv.label>
   <CPTraining_Construction_Adv.description>가상현실에서 건설을 훈련 중.</CPTraining_Construction_Adv.description>
   <CPTraining_Construction_Adv.jobString>가상현실에서 건설을 훈련 중.</CPTraining_Construction_Adv.jobString>
   <CPTraining_Cooking_Adv.label>가상현실 조리 훈련</CPTraining_Cooking_Adv.label>

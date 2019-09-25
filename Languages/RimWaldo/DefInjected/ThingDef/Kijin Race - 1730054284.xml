@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Apparel_BrewMasterBelt.label>취권 밸트</Apparel_BrewMasterBelt.label>
+  <Apparel_BrewMasterBelt.description>술이 달려있는 허리띠 입니다.</Apparel_BrewMasterBelt.description>
+  <Apparel_PowerArmorDK.label>검은 해병대 갑옷</Apparel_PowerArmorDK.label>
+  <Apparel_PowerArmorDK.description>검은 색 버전의 강화 갑옷입니다.</Apparel_PowerArmorDK.description>
+  <Apparel_PowerArmorHelmetDK.label>검은 해병대 투구</Apparel_PowerArmorHelmetDK.label>
+  <Apparel_PowerArmorHelmetDK.description>검은 색 버전의 강화 투구 입니다.</Apparel_PowerArmorHelmetDK.description>
+  <National_Statue.label>국가 동상</National_Statue.label>
+  <National_Statue.description>정착지의 부, 문화, 힘과 기술의 상징입니다.</National_Statue.description>
+  <KijinDarkMatter.label>야매 요리</KijinDarkMatter.label>
+  <KijinDarkMatter.description>차마 말할 수 없을 정도로 맛없는 요리</KijinDarkMatter.description>
+  <Kijin_100tHammer.label>100톤 망치</Kijin_100tHammer.label>
+  <Kijin_100tHammer.description>정말로 100톤이나 나가진 않지만 그렇다고 쳐 줍시다.</Kijin_100tHammer.description>
+  <Kijin_FlameBow.label>키진 화궁</Kijin_FlameBow.label>
+  <Kijin_FlameBow.description>고전적인 불붙인 화살을 날리는 활입니다.</Kijin_FlameBow.description>
+  <Kijin_Mace.label>키진 방망이</Kijin_Mace.label>
+  <Kijin_Mace.description>둔기면서 찰과상도 입힐 수 있습니다.</Kijin_Mace.description>
+  <Kijin_PosionBow.label>키진 독궁</Kijin_PosionBow.label>
+  <Kijin_PosionBow.description>사거리는 짧고 연사력은 빠릅니다. 적을 마비시켜 제압할 수 있습니다.</Kijin_PosionBow.description>
+  <KIJIN_BionicHorn.label>생체공학 키진 뿔</KIJIN_BionicHorn.label>
+  <KIJIN_BionicHorn.description>진짜 키진의 뿔하고 구별할 수 없을 만큼 정교한 인공 뿔입니다.</KIJIN_BionicHorn.description>
+
+</LanguageData>

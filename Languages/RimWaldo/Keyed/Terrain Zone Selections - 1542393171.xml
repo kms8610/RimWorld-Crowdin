@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--TERRAIN ZONE SELECTIONS - 1542393171-->
+  <TerrainZoneSelect.TerrainStockpileZoneExpandResource>지형 별 비축 지역</TerrainZoneSelect.TerrainStockpileZoneExpandResource>
+  <TerrainZoneSelect.TerrainStockpileZoneExpandResourceDesc>선택한 지형을 사용하여 식민지 주민이 자원을 저장할 비축 물을 만듭니다.\n이 도구는 또한 기존 비축 물을 확장 할 수 있습니다.</TerrainZoneSelect.TerrainStockpileZoneExpandResourceDesc>
+  <TerrainZoneSelect.TerrainStockpileZoneExpandDumping>지형을 기준으로 비축 지대 덤핑</TerrainZoneSelect.TerrainStockpileZoneExpandDumping>
+  <TerrainZoneSelect.TerrainStockpileZoneExpandDumpingDesc>선택한 지형을 사용하여 식민지 주민이 정크를 보관할 비축 물을 만듭니다.\n이 도구는 또한 기존 비축 물을 확장 할 수 있습니다.</TerrainZoneSelect.TerrainStockpileZoneExpandDumpingDesc>
+  <TerrainZoneSelect.TerrainGrowZone>지형에 의한 자라나는 지역</TerrainZoneSelect.TerrainGrowZone>
+  <TerrainZoneSelect.TerrainGrowZoneDesc>선택한 지형을 사용하여 식민지 주민이 특정 종류의 식물을 자라게 할 영역을 만듭니다.</TerrainZoneSelect.TerrainGrowZoneDesc>
+  <TerrainZoneSelect.TerrainShrinkZone>지형별로 영역 축소</TerrainZoneSelect.TerrainShrinkZone>
+  <TerrainZoneSelect.TerrainShrinkZoneDesc>비축 지대 또는 자라는 지대와 같이 선택된 지형을 사용하여 지대를 제거하십시오.</TerrainZoneSelect.TerrainShrinkZoneDesc>
+
+</LanguageData>

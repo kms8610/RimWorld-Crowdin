@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CommandFoundNation>건국</CommandFoundNation>
+  <CommandFoundNationDesc>건국하여 게임에서 승리합니다.\n\n기지가치 200000 이상 필요</CommandFoundNationDesc>
+  <WealthNotReady>기지가치가 부족합니다</WealthNotReady>
+  <CommandOurColony>공표하기</CommandOurColony>
+  <FoundingNationWarningStandalone>공표준비가 완료되었습니다.\n\n모든 키진들이 이 거주지에 대해 알 수 있도록 공표할 것입니다. 소문을 들은 키진들은 새로운 약속의 땅으로 모여들 것입니다. 그곳이 안전하다는 것이 확인되면 말이죠!\n\n이 행위는 해적들이나 메카노이드 무리를 끌어들일 것 입니다.\n\n한번도 본적 없는 양의 적들이 당신의 기지를 공격할 것입니다. 방어 준비가 되어있는지 점검하세요.\n\n더 나은 경험을 위해 키진 스토리 텔러를 사용하는 것을 권장합니다.</FoundingNationWarningStandalone>
+  <FoundingNationWarningPacifist>공표준비가 완료되었습니다.\n\n모든 키진들이 이 거주지에 대해 알 수 있도록 공표할 것입니다. 소문을 들은 키진들은 새로운 약속의 땅으로 모여들 것입니다. 그곳이 안전하다는 것이 확인되면 말이죠!\n\n이 행위는 해적들이나 메카노이드 무리를 끌어들일 것 입니다.\n\n한번도 본적 없는 양의 적들이 당신의 기지를 공격할 것입니다. 방어 준비가 되어있는지 점검하세요.\n\n더 나은 경험을 위해 키진 스토리 텔러를 사용하는 것을 권장합니다.</FoundingNationWarningPacifist>
+  <CommandOurColonyDesc>모든 키진들이 이 거주지에 대해 알 수 있도록 공표할 것입니다.\n\n기지 가치가 200000 이상이여야 합니다.</CommandOurColonyDesc>
+  <FoundableHibernating>공표되지 않음</FoundableHibernating>
+  <FoundableStartingUp>공표 중.</FoundableStartingUp>
+  <LetterPublishingCompleteStandalone>공표를 완료하였습니다. 건국 준비가 완료되었습니다.</LetterPublishingCompleteStandalone>
+  <LetterPublishingComplete>공표를 완료하였습니다. 건국 준비가 완료되었습니다.</LetterPublishingComplete>
+  <LetterLabelPublishingComplete>공표 완료</LetterLabelPublishingComplete>
+  <GameOverFoundNation>건국 하였습니다!:\n\n{0}\n개국공신:\n\n{1}\n이곳이 당신의 기지이며, 안식처이자 궁전입니다. 그리고 이제 이곳은 당신의 새로운 집이 되었습니다.\n\n이 거주지는 험난한 땅에서 살아가기 위해 충분한 부, 문화, 힘과 기술을 습득한 것으로 보이며, 이 땅에서 계속 살아갈 것입니다. \n\n소문을 들은 키진들은 곧 각지에서 모여들어 이곳에서 새로운 국가를 형성할것입니다.</GameOverFoundNation>
+  <NationalStatueRequirementsDesc>거주지의 부, 문화, 힘과 기술을 증명하십시오.</NationalStatueRequirementsDesc>
+  <NationalStatueWealthNotReady>기지가치가 200000이상 필요합니다.</NationalStatueWealthNotReady>
+  <NationalStatueWealthReady>모든 키진들이 이 거주지에 대해 알 수 있도록 공표합니다.</NationalStatueWealthReady>
+
+</LanguageData>

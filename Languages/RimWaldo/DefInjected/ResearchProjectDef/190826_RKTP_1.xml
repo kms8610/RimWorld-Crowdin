@@ -333,24 +333,6 @@
   <RimlaserLasers.label>광선</RimlaserLasers.label>
   <RimlaserLaserTurrets.label>광선 포탑</RimlaserLaserTurrets.label>
 
-  <!--1478936958_190627_More Vanilla Turrets-->
-  <ShredderTurret.description>근접 거리에 치명적인 파쇄 포탑을 제작할 수 있습니다.</ShredderTurret.description>
-  <DevastatorMortar.description>데바스테이터 박격포를 제작할 수 있습니다.</DevastatorMortar.description>
-  <PrecisionTurret.description>장거리에 정확한 포탑을 제작할 수 있습니다.</PrecisionTurret.description>
-  <MilitaryTurret.description>고급 군용 선회 포탑을 제작할 수 있습니다.</MilitaryTurret.description>
-  <BlastTurret.description>위력적인 폭발 포탑을 제작할 수 있습니다.</BlastTurret.description>
-  <GunComplex.description>정착지 방어를 위한 수동 기관총 포대를 제작할 수 있습니다.</GunComplex.description>
-  <RocketComplex.description>정착지 방어를 위한 수동 로켓 포대를 제작할 수 있습니다.</RocketComplex.description>
-  <VulcanCannon.description>발칸 대포를 제작할 수 있습니다.</VulcanCannon.description>
-  <BlastTurret.label>폭발 포탑</BlastTurret.label>
-  <DevastatorMortar.label>데바스테이터 박격포</DevastatorMortar.label>
-  <GunComplex.label>기관총 포대</GunComplex.label>
-  <MilitaryTurret.label>군용 선회 포탑</MilitaryTurret.label>
-  <PrecisionTurret.label>정밀 포탑</PrecisionTurret.label>
-  <RocketComplex.label>로켓 포대</RocketComplex.label>
-  <ShredderTurret.label>파쇄 포탑</ShredderTurret.label>
-  <VulcanCannon.label>발칸 대포</VulcanCannon.label>
-
   <!--1496570408_181117_VGP Garden Canning-->
   <VG_CanningFactory.label>통조림 기계</VG_CanningFactory.label>
   <VG_CanningTable.label>통조림 작업대</VG_CanningTable.label>
