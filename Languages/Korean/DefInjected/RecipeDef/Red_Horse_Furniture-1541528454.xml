@@ -139,42 +139,6 @@
   <CPVend_MRE_USMC.label>미군 해병대 전투식량 구매</CPVend_MRE_USMC.label>
   <CPVend_MRE_USMC.description>은을 지불해서 미군 해병대 전투식량을 구매합니다.</CPVend_MRE_USMC.description>
   <CPVend_MRE_USMC.jobString>미군 해병대 전투식량 구매 중</CPVend_MRE_USMC.jobString>
-  <CPTraining_Animals.label>가상현실 조련 훈련</CPTraining_Animals.label>
-  <CPTraining_Animals.description>가상현실에서 조련을 훈련 합니다.</CPTraining_Animals.description>
-  <CPTraining_Animals.jobString>가상현실에서 조련 훈련 중.</CPTraining_Animals.jobString>
-  <CPTraining_Artistic.label>가상현실 예술 훈련</CPTraining_Artistic.label>
-  <CPTraining_Artistic.description>가상현실에서 예술을 훈련합니다.</CPTraining_Artistic.description>
-  <CPTraining_Artistic.jobString>가상현실에서 예술 훈련 중.</CPTraining_Artistic.jobString>
-  <CPTraining_Construction.label>가상현실 건설 훈련</CPTraining_Construction.label>
-  <CPTraining_Construction.description>가상현실에서 건설을 훈련합니다.</CPTraining_Construction.description>
-  <CPTraining_Construction.jobString>가상현실에서 건설을 훈련 중.</CPTraining_Construction.jobString>
-  <CPTraining_Cooking.label>가상현실 조리 훈련</CPTraining_Cooking.label>
-  <CPTraining_Cooking.description>가상현실에서 조리를 훈련합니다.</CPTraining_Cooking.description>
-  <CPTraining_Cooking.jobString>가상현실에서 조리 훈련 중</CPTraining_Cooking.jobString>
-  <CPTraining_Crafting.label>가상현실 제작 훈련</CPTraining_Crafting.label>
-  <CPTraining_Crafting.description>가상현실에서 제작을 훈련합니다.</CPTraining_Crafting.description>
-  <CPTraining_Crafting.jobString>가상현실에서 제작 훈련 중</CPTraining_Crafting.jobString>
-  <CPTraining_Plants.label>가상현실 재배 훈련</CPTraining_Plants.label>
-  <CPTraining_Plants.description>가상현실에서 재배를 훈련합니다.</CPTraining_Plants.description>
-  <CPTraining_Plants.jobString>가상현실에서 재배 훈련 중</CPTraining_Plants.jobString>
-  <CPTraining_Medicine.label>가상현실 의학 훈련</CPTraining_Medicine.label>
-  <CPTraining_Medicine.description>가상현실에서 의학을 훈련합니다.</CPTraining_Medicine.description>
-  <CPTraining_Medicine.jobString>가상현실에서 의학 훈련 중</CPTraining_Medicine.jobString>
-  <CPTraining_Melee.label>가상현실 격투 훈련</CPTraining_Melee.label>
-  <CPTraining_Melee.description>가상현실에서 격투를 훈련합니다.</CPTraining_Melee.description>
-  <CPTraining_Melee.jobString>가상현실에서 격투 훈련 중</CPTraining_Melee.jobString>
-  <CPTraining_Mining.label>가상현실 채광 훈련</CPTraining_Mining.label>
-  <CPTraining_Mining.description>가상현실에서 채광을 훈련합니다.</CPTraining_Mining.description>
-  <CPTraining_Mining.jobString>가상현실에서 채광 훈련 중</CPTraining_Mining.jobString>
-  <CPTraining_Intellectual.label>가상현실 연구 훈련</CPTraining_Intellectual.label>
-  <CPTraining_Intellectual.description>가상현실에서 연구를 훈련합니다.</CPTraining_Intellectual.description>
-  <CPTraining_Intellectual.jobString>가상현실에서 연구 훈련 중</CPTraining_Intellectual.jobString>
-  <CPTraining_Shooting.label>가상현실 사격 훈련</CPTraining_Shooting.label>
-  <CPTraining_Shooting.description>가상현실에서 사격을 훈련합니다.</CPTraining_Shooting.description>
-  <CPTraining_Shooting.jobString>가상현실에서 사격 훈련 중</CPTraining_Shooting.jobString>
-  <CPTraining_Social.label>가상현실 사교 훈련</CPTraining_Social.label>
-  <CPTraining_Social.description>가상현실에서 사교를 훈련합니다.</CPTraining_Social.description>
-  <CPTraining_Social.jobString>가상현실에서 사교 훈련 중</CPTraining_Social.jobString>
   <CPTraining_Animals_Adv.label>가상현실 조련 훈련</CPTraining_Animals_Adv.label>
   <CPTraining_Animals_Adv.description>가상현실에서 조련을 훈련합니다.</CPTraining_Animals_Adv.description>
   <CPTraining_Animals_Adv.jobString>가상현실에서 조련 훈련 중.</CPTraining_Animals_Adv.jobString>
@@ -182,34 +146,34 @@
   <CPTraining_Artistic_Adv.description>가상현실에서 예술을 훈련합니다.</CPTraining_Artistic_Adv.description>
   <CPTraining_Artistic_Adv.jobString>가상현실에서 예술 훈련 중.</CPTraining_Artistic_Adv.jobString>
   <CPTraining_Construction_Adv.label>가상현실 건설 훈련</CPTraining_Construction_Adv.label>
-  <CPTraining_Construction_Adv.description>가상현실에서 건설을 훈련 중.</CPTraining_Construction_Adv.description>
-  <CPTraining_Construction_Adv.jobString>가상현실에서 건설을 훈련 중.</CPTraining_Construction_Adv.jobString>
+  <CPTraining_Construction_Adv.description>가상현실에서 건설을 훈련합니다.</CPTraining_Construction_Adv.description>
+  <CPTraining_Construction_Adv.jobString>가상현실에서 건설 훈련 중.</CPTraining_Construction_Adv.jobString>
   <CPTraining_Cooking_Adv.label>가상현실 조리 훈련</CPTraining_Cooking_Adv.label>
-  <CPTraining_Cooking_Adv.description>가상현실에서 조리 훈련 중</CPTraining_Cooking_Adv.description>
-  <CPTraining_Cooking_Adv.jobString>가상현실에서 조리 훈련 중</CPTraining_Cooking_Adv.jobString>
+  <CPTraining_Cooking_Adv.description>가상현실에서 조리를 훈련합니다.</CPTraining_Cooking_Adv.description>
+  <CPTraining_Cooking_Adv.jobString>가상현실에서 조리 훈련 중.</CPTraining_Cooking_Adv.jobString>
   <CPTraining_Crafting_Adv.label>가상현실 제작 훈련</CPTraining_Crafting_Adv.label>
-  <CPTraining_Crafting_Adv.description>가상현실에서 제작 훈련 중</CPTraining_Crafting_Adv.description>
-  <CPTraining_Crafting_Adv.jobString>가상현실에서 제작 훈련 중</CPTraining_Crafting_Adv.jobString>
+  <CPTraining_Crafting_Adv.description>가상현실에서 제작을 훈련합니다.</CPTraining_Crafting_Adv.description>
+  <CPTraining_Crafting_Adv.jobString>가상현실에서 제작 훈련 중.</CPTraining_Crafting_Adv.jobString>
   <CPTraining_Plants_Adv.label>가상현실 재배 훈련</CPTraining_Plants_Adv.label>
-  <CPTraining_Plants_Adv.description>가상현실에서 재배 훈련 중</CPTraining_Plants_Adv.description>
+  <CPTraining_Plants_Adv.description>가상현실에서 재배를 훈련합니다.</CPTraining_Plants_Adv.description>
   <CPTraining_Plants_Adv.jobString>가상현실에서 재배 훈련 중</CPTraining_Plants_Adv.jobString>
   <CPTraining_Medicine_Adv.label>가상현실 의학 훈련</CPTraining_Medicine_Adv.label>
-  <CPTraining_Medicine_Adv.description>가상현실에서 의학 훈련 중</CPTraining_Medicine_Adv.description>
-  <CPTraining_Medicine_Adv.jobString>가상현실에서 의학 훈련 중</CPTraining_Medicine_Adv.jobString>
+  <CPTraining_Medicine_Adv.description>가상현실에서 의학을 훈련합니다.</CPTraining_Medicine_Adv.description>
+  <CPTraining_Medicine_Adv.jobString>가상현실에서 의학 훈련 중.</CPTraining_Medicine_Adv.jobString>
   <CPTraining_Melee_Adv.label>가상현실 격투 훈련</CPTraining_Melee_Adv.label>
-  <CPTraining_Melee_Adv.description>가상현실에서 격투 훈련 중</CPTraining_Melee_Adv.description>
-  <CPTraining_Melee_Adv.jobString>가상현실에서 격투 훈련 중</CPTraining_Melee_Adv.jobString>
-  <CPTraining_Mining_Adv.label>가상현실 채광 훈련</CPTraining_Mining_Adv.label>
-  <CPTraining_Mining_Adv.description>가상현실에서 채광 훈련 중</CPTraining_Mining_Adv.description>
-  <CPTraining_Mining_Adv.jobString>가상현실에서 채광 훈련 중</CPTraining_Mining_Adv.jobString>
+  <CPTraining_Melee_Adv.description>가상현실에서 격투를 훈련합니다.</CPTraining_Melee_Adv.description>
+  <CPTraining_Melee_Adv.jobString>가상현실에서 격투 훈련 중.</CPTraining_Melee_Adv.jobString>
+  <CPTraining_Mining_Adv.label>가상현실 채굴 훈련</CPTraining_Mining_Adv.label>
+  <CPTraining_Mining_Adv.description>가상현실에서 채굴을 훈련합니다.</CPTraining_Mining_Adv.description>
+  <CPTraining_Mining_Adv.jobString>가상현실에서 채굴 훈련 중.</CPTraining_Mining_Adv.jobString>
   <CPTraining_Intellectual_Adv.label>가상현실 연구 훈련</CPTraining_Intellectual_Adv.label>
-  <CPTraining_Intellectual_Adv.description>가상현실에서 연구 훈련 중</CPTraining_Intellectual_Adv.description>
-  <CPTraining_Intellectual_Adv.jobString>가상현실에서 연구 훈련 중</CPTraining_Intellectual_Adv.jobString>
+  <CPTraining_Intellectual_Adv.description>가상현실에서 연구를 훈련합니다.</CPTraining_Intellectual_Adv.description>
+  <CPTraining_Intellectual_Adv.jobString>가상현실에서 연구 훈련 중.</CPTraining_Intellectual_Adv.jobString>
   <CPTraining_Shooting_Adv.label>가상현실 사격 훈련</CPTraining_Shooting_Adv.label>
-  <CPTraining_Shooting_Adv.description>가상현실에서 사격 훈련 중</CPTraining_Shooting_Adv.description>
-  <CPTraining_Shooting_Adv.jobString>가상현실에서 사격 훈련 중</CPTraining_Shooting_Adv.jobString>
+  <CPTraining_Shooting_Adv.description>가상현실에서 사격을 훈련합니다.</CPTraining_Shooting_Adv.description>
+  <CPTraining_Shooting_Adv.jobString>가상현실에서 사격 훈련 중.</CPTraining_Shooting_Adv.jobString>
   <CPTraining_Social_Adv.label>가상현실 사교 훈련</CPTraining_Social_Adv.label>
   <CPTraining_Social_Adv.description>가상현실에서 사교를 훈련합니다.</CPTraining_Social_Adv.description>
-  <CPTraining_Social_Adv.jobString>가상현실에서 사교 훈련 중</CPTraining_Social_Adv.jobString>
+  <CPTraining_Social_Adv.jobString>가상현실에서 사교 훈련 중.</CPTraining_Social_Adv.jobString>
 
 </LanguageData>

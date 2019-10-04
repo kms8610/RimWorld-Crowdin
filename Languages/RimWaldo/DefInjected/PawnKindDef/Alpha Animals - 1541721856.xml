@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AA_Aerofleet.label>에어로 플렛</AA_Aerofleet.label>
+  <AA_ColossalAerofleet.label>대형 에어로플렛</AA_ColossalAerofleet.label>
+  <AA_Agaripod.label>아가리포드</AA_Agaripod.label>
+  <AA_BlackScarab.label>블랙 스캐랩</AA_BlackScarab.label>
+  <AA_BlackSpelopede.label>블랙 스펠로피드</AA_BlackSpelopede.label>
+  <AA_BlackSpider.label>블랙 스파이더</AA_BlackSpider.label>
+  <AA_AnimusVox.label>아니무스 복스</AA_AnimusVox.label>
+  <AA_ArcticLion.label>극지 사자</AA_ArcticLion.label>
+  <AA_Barbslinger.label>가시 전갈</AA_Barbslinger.label>
+  <AA_BedBug.label>해악충</AA_BedBug.label>
+  <AA_Blizzarisk.label>블리자리스크</AA_Blizzarisk.label>
+  <AA_BlizzariskClutchMother.label>블리자리스크 무리어미</AA_BlizzariskClutchMother.label>
+  <AA_BoulderMit.label>자갈게</AA_BoulderMit.label>
+  <AA_SummitCrab.label>바위게</AA_SummitCrab.label>
+  <AA_Bumbledrone.label>호박말벌</AA_Bumbledrone.label>
+  <AA_BumbledroneQueen.label>호박말벌 여왕</AA_BumbledroneQueen.label>
+  <AA_Cactipine.label>선인장뿔쥐</AA_Cactipine.label>
+  <AA_Cactipine.labelMale>수컷 선인장뿔쥐</AA_Cactipine.labelMale>
+  <AA_CrepuscularBeetle.label>반딧불</AA_CrepuscularBeetle.label>
+  <AA_DecayDrake.label>누룩 도마뱀</AA_DecayDrake.label>
+  <AA_DevilSheep.label>악마양</AA_DevilSheep.label>
+  <AA_Dunealisk.label>두니아리스크</AA_Dunealisk.label>
+  <AA_DunealiskClutchMother.label>두니아리스크 무리어미</AA_DunealiskClutchMother.label>
+  <AA_DuskRat.label>황혼 쥐</AA_DuskRat.label>
+  <AA_Feralisk.label>페라리스크</AA_Feralisk.label>
+  <AA_FeraliskClutchMother.label>페라리스크 무리어미</AA_FeraliskClutchMother.label>
+  <AA_FissionMouse.label>세포분열 쥐</AA_FissionMouse.label>
+  <AA_FissionMouseSecond.label>세포분열 쥐 (2세대)</AA_FissionMouseSecond.label>
+  <AA_FissionMouseThird.label>세포분열 쥐 (3세대)</AA_FissionMouseThird.label>
+  <AA_FrostboundBehemoth.label>서리 베히모스</AA_FrostboundBehemoth.label>
+  <AA_Frostling.label>프로스트링</AA_Frostling.label>
+  <AA_Frostmite.label>서리진드기</AA_Frostmite.label>
+  <AA_Gallatross.label>갈라트로스</AA_Gallatross.label>
+  <AA_Gigantelope.label>기간텔로프</AA_Gigantelope.label>
+  <AA_GreatDevourer.label>거대 포식충</AA_GreatDevourer.label>
+  <AA_GreenGoo.label>녹색 액체괴물</AA_GreenGoo.label>
+  <AA_Groundrunner.label>땅곰</AA_Groundrunner.label>
+  <AA_InfectedAerofleet.label>감염된 에어로 플렛</AA_InfectedAerofleet.label>
+  <AA_IronhuskBeetle.label>철갑 벌레</AA_IronhuskBeetle.label>
+  <AA_Junglelisk.label>정글리스크</AA_Junglelisk.label>
+  <AA_Lockjaw.label>자물쇠턱 하마</AA_Lockjaw.label>
+  <AA_MammothWorm.label>맘모스 벌레</AA_MammothWorm.label>
+  <AA_Mantrap.label>사람지옥 풀</AA_Mantrap.label>
+  <AA_MeadowAve.label>초원 공작</AA_MeadowAve.label>
+  <AA_MegaLouse.label>메갈루스</AA_MegaLouse.label>
+  <AA_MycoidColossus.label>곰팡이 거대늘보</AA_MycoidColossus.label>
+  <AA_Needlepost.label>바늘기둥 선인장</AA_Needlepost.label>
+  <AA_Needleroll.label>바늘공</AA_Needleroll.label>
+  <AA_NightMule.label>나이트 뮬</AA_NightMule.label>
+  <AA_Nightling.label>나이트링</AA_Nightling.label>
+  <AA_NightRam.label>나이트 램</AA_NightRam.label>
+  <AA_OcularJelly.label>눈알 해파리</AA_OcularJelly.label>
+  <AA_OvergrownColossus.label>나무 거대늘보</AA_OvergrownColossus.label>
+  <AA_PebbleMit.label>잔돌게</AA_PebbleMit.label>
+  <AA_Radyak.label>라디악</AA_Radyak.label>
+  <AA_RaptorShrimp.label>랩터 쉬림프</AA_RaptorShrimp.label>
+  <AA_RedGoo.label>붉은 액체괴물</AA_RedGoo.label>
+  <AA_RedSpore.label>붉은 촉수포자</AA_RedSpore.label>
+  <AA_SandLion.label>모래 사자</AA_SandLion.label>
+  <AA_SandSquid.label>모래징어</AA_SandSquid.label>
+  <AA_ShockGoat.label>충격 염소</AA_ShockGoat.label>
+  <AA_Skyeel.label>아크투란 하늘장어</AA_Skyeel.label>
+  <AA_Slurrypede.label>슬러리피드</AA_Slurrypede.label>
+  <AA_TetraSlug.label>테트라 슬러그</AA_TetraSlug.label>
+  <AA_Thermadon.label>테르마돈</AA_Thermadon.label>
+  <AA_Wildpawn.label>와일드폰</AA_Wildpawn.label>
+  <AA_Wildpod.label>와일드포드</AA_Wildpod.label>
+
+</LanguageData>
