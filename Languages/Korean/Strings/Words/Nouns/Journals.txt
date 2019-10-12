@@ -1,30 +1,30 @@
-﻿journal
+﻿학술지
 
-diary
-log
-logbook
-chronicle
-record
-memoir
+일기
+일지
+항공일지
+연대기
+기록
+회상록
 
-treatise
-manual
-guide
-notebook
+논문
+설명서
+안내서
+공책
 
-codex
-chronology
-annals
-omnibus
-compendium
-monograph
+사본
+연대기
+실록
+작품집
+개론
+단행본
 
-account
-statement
-observation
-review
+장부
+성명서
+관찰서
+논평
 
-encyclopedia
-lexicon
-dictionary
-thesaurus
+백과사전
+어휘록
+사전
+유의어 사전

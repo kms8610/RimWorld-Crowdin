@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AB_PsychotropicFungusHigh.stages.0.label>이상한 버섯을 먹었어</AB_PsychotropicFungusHigh.stages.0.label>
+  <AB_PsychotropicFungusHigh.stages.0.description>나는 이상한 버섯을 많이 먹었고, 지금은 연처럼 높이 날고 있어.</AB_PsychotropicFungusHigh.stages.0.description>
+  <AB_PsychotropicFungusWithdrawal.stages.1.label>향정신성 버섯 투여 중지</AB_PsychotropicFungusWithdrawal.stages.1.label>
+  <AB_PsychotropicFungusWithdrawal.stages.1.description>내 손이 떨리고 있어. 마치 세상이 모든 색을 잃은 것처럼 보여.</AB_PsychotropicFungusWithdrawal.stages.1.description>
+  <AB_ForsakenNight.stages.0.label>초자연적인 어둠</AB_ForsakenNight.stages.0.label>
+  <AB_ForsakenNight.stages.0.description>마치 태양 자체가 절망에 빠진 것처럼 보여. 난 이게 싫어.</AB_ForsakenNight.stages.0.description>
+  <AB_ForsakenThunderstorm.stages.0.label>초자연적인 폭풍</AB_ForsakenThunderstorm.stages.0.label>
+  <AB_ForsakenThunderstorm.stages.0.description>공허처럼 어두워졌고, 이제는 번개가 어느 곳에나 내려치고 있어. 우린 파멸할 거야.</AB_ForsakenThunderstorm.stages.0.description>
+  <AB_RedFogThought.stages.0.label>부자연스러운 날씨</AB_RedFogThought.stages.0.label>
+  <AB_RedFogThought.stages.0.description>이 안개는 이상해. 이상해 보여. 마치 이 세상의 것이 아닌 것처럼 생각하게 돼.</AB_RedFogThought.stages.0.description>
+
+</LanguageData>

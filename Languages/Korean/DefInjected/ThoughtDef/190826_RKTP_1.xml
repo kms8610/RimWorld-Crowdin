@@ -190,10 +190,6 @@
   <ObservedAurora.stages.0.description>이렇게 아름다운 광경을 보게 되다니 믿을 수가 없어.</ObservedAurora.stages.0.description>
   <ObservedAurora.stages.0.label>오로라를 목격함</ObservedAurora.stages.0.label>
 
-  <!--1442734859_181113_Archotech Expanded-->
-  <ArchotechBrainMelder.stages.0.label>치유회로</ArchotechBrainMelder.stages.0.label>
-  <ArchotechBrainMelder.stages.0.description>신이시여 맙소사.</ArchotechBrainMelder.stages.0.description>
-
   <!--1485312620_190617_SYR - Coffee and Tee-->
   <SyrCaffeineWithdrawal.stages.1.label>카페인 금단 현상</SyrCaffeineWithdrawal.stages.1.label>
   <SyrCaffeineWithdrawal.stages.1.description>피곤하고 집중이 잘 안되는데... 어디 커피 한 잔 없나?</SyrCaffeineWithdrawal.stages.1.description>
@@ -258,22 +254,6 @@
   <EnvironmentHotCL.stages.1.label>매우 더움</EnvironmentHotCL.stages.1.label>
   <EnvironmentHotHL.stages.1.label>매우 더움</EnvironmentHotHL.stages.1.label>
   <EnvironmentColdCL.stages.2.description>좋아, 인정하지. 춥네. 그치만 이정도로 징징거릴 만한 일인가?</EnvironmentColdCL.stages.2.description>
-
-  <!--1521844535_190816_RimWriter-->
-  <RimWriter_ReadingInImpressiveLibrary.stages.3.label>괜찮은 도서관</RimWriter_ReadingInImpressiveLibrary.stages.3.label>
-  <RimWriter_ReadingInImpressiveLibrary.stages.7.label>대단히 인상적인 도서관</RimWriter_ReadingInImpressiveLibrary.stages.7.label>
-  <RimWriter_ReadingInImpressiveLibrary.stages.6.description>매우 인상적인 도서관에서 즐거운 시간을 보냈어.</RimWriter_ReadingInImpressiveLibrary.stages.6.description>
-  <RimWriter_ReadingInImpressiveLibrary.stages.9.description>최고의 도서관에서 즐거운 시간을 보냈어. 영원히 머무를 수 있을 것 같아.</RimWriter_ReadingInImpressiveLibrary.stages.9.description>
-  <RimWriter_ReadingInImpressiveLibrary.stages.7.description>매우 인상적인 도서관에서 즐거운 시간을 보냈어. 영원히 머무를 수 있을 것 같아.</RimWriter_ReadingInImpressiveLibrary.stages.7.description>
-  <RimWriter_ReadingInImpressiveLibrary.stages.5.description>인상적인 도서관에서 즐거운 시간을 보냈어.</RimWriter_ReadingInImpressiveLibrary.stages.5.description>
-  <RimWriter_ReadingInImpressiveLibrary.stages.8.description>믿을 수 없을 정도로 인상적인 도서관에서 즐거운 시간을 보냈어. 영원히 머무를 수 있을 것 같아.</RimWriter_ReadingInImpressiveLibrary.stages.8.description>
-  <RimWriter_ReadingInImpressiveLibrary.stages.3.description>괜찮은 도서관에서 휴식을 취했어.</RimWriter_ReadingInImpressiveLibrary.stages.3.description>
-  <RimWriter_ReadingInImpressiveLibrary.stages.4.description>멋진 도서관에서 휴식을 취했어.</RimWriter_ReadingInImpressiveLibrary.stages.4.description>
-  <RimWriter_ReadingInImpressiveLibrary.stages.4.label>약간 인상적인 도서관</RimWriter_ReadingInImpressiveLibrary.stages.4.label>
-  <RimWriter_ReadingInImpressiveLibrary.stages.5.label>다소 인상적인 도서관</RimWriter_ReadingInImpressiveLibrary.stages.5.label>
-  <RimWriter_ReadingInImpressiveLibrary.stages.8.label>믿을 수 없을 정도로 인상적인 도서관</RimWriter_ReadingInImpressiveLibrary.stages.8.label>
-  <RimWriter_ReadingInImpressiveLibrary.stages.6.label>매우 인상적인 도서관</RimWriter_ReadingInImpressiveLibrary.stages.6.label>
-  <RimWriter_ReadingInImpressiveLibrary.stages.9.label>놀랍도록 인상적인 도서관</RimWriter_ReadingInImpressiveLibrary.stages.9.label>
 
   <!--1522917562_190628_Vanilla-like wheat-->
   <VLW_AteBlandMeal.stages.0.label>단조로운 식사</VLW_AteBlandMeal.stages.0.label>
@@ -603,40 +583,6 @@
   <KnowHistolysisHumanlikePsychopath.stages.0.label>사람이 녹았어</KnowHistolysisHumanlikePsychopath.stages.0.label>
   <KnowHistolysisHumanlikeCannibal.stages.0.description>사람이 녹는 모습은 밥맛 떨어져.</KnowHistolysisHumanlikeCannibal.stages.0.description>
   <KnowHistolysisHumanlike.stages.0.label>사람을 산채로 녹였어.</KnowHistolysisHumanlike.stages.0.label>
-
-  <!--1565942758_190818_Colony Leadership-->
-  <InspiratedL.stages.0.description>지도자가 나에게 영감을 불어넣어 주었어. 의욕이 생기는군.</InspiratedL.stages.0.description>
-  <AttendedElection.stages.0.label>선거 참여</AttendedElection.stages.0.label>
-  <LessonNegative.stages.0.label>안좋은 수업</LessonNegative.stages.0.label>
-  <ElectedLeader.stages.0.label>선출됨</ElectedLeader.stages.0.label>
-  <LeaderUnliked.stages.1.label>싫어함</LeaderUnliked.stages.1.label>
-  <LessonPositive.stages.0.description>오늘 좋은 교훈을 얻었어.</LessonPositive.stages.0.description>
-  <AttendedElection.stages.0.description>선거에 참석했다. 옳은 투표를 했다고 믿어.</AttendedElection.stages.0.description>
-  <LessonNegative.stages.0.description>오늘의 수업은 별루였어.</LessonNegative.stages.0.description>
-  <ElectedLeaderJealous.stages.0.description>내가 지도자가 되고 싶었어. 이건 공정하지 않아.</ElectedLeaderJealous.stages.0.description>
-  <LeaderEnd.stages.0.description>지도자였을 때를 잊지 못할거야.</LeaderEnd.stages.0.description>
-  <LeaderUnliked.stages.0.description>날 좋아해 주는 사람이 없네...</LeaderUnliked.stages.0.description>
-  <InspiratedLI.stages.0.label>{0}에게 영감을 줌</InspiratedLI.stages.0.label>
-  <InspiratedL.stages.0.label>지도자 {0}에게 영감받음</InspiratedL.stages.0.label>
-  <LeaderDiedRival.stages.0.description>없앨 때가 됐을뿐이야.</LeaderDiedRival.stages.0.description>
-  <InspiratedLI.stages.0.description>누군가에게 영감을 주는 것은 언제나 좋은 일이야.</InspiratedLI.stages.0.description>
-  <TaughtCL.stages.0.description>다른 사람들에게 무언가를 가르치는게 좋아.</TaughtCL.stages.0.description>
-  <ElectedLeaderJealous.stages.0.label>새로운 지도자에 대한 질투</ElectedLeaderJealous.stages.0.label>
-  <LeaderDied.stages.0.label>지도자 {0} 사망</LeaderDied.stages.0.label>
-  <LeaderDiedRival.stages.0.label>지도자 {0} 사망 (라이벌)</LeaderDiedRival.stages.0.label>
-  <LeaderArrestedColonist.stages.0.label>체포된 지도자</LeaderArrestedColonist.stages.0.label>
-  <LeaderEnd.stages.0.label>임기 종료</LeaderEnd.stages.0.label>
-  <LeaderArrested.stages.0.label>강제로 끝난 리더십</LeaderArrested.stages.0.label>
-  <LessonPositive.stages.0.label>새로운 것을 배움</LessonPositive.stages.0.label>
-  <RivalLeader.stages.0.description>내 라이벌은 이제 리더가 되었어. 뭐 좋아.</RivalLeader.stages.0.description>
-  <LeaderUnliked.stages.1.description>얘들은 날 싫어해!</LeaderUnliked.stages.1.description>
-  <RivalLeader.stages.0.label>라이벌이 선출됨</RivalLeader.stages.0.label>
-  <LeaderDied.stages.0.description>그런 훌륭한 지도자를 잃어버렸어.</LeaderDied.stages.0.description>
-  <TaughtCL.stages.0.label>다른 사람들을 가르침</TaughtCL.stages.0.label>
-  <LeaderArrestedColonist.stages.0.description>그 지도자는 모두가 싫어했어. 다행이야.</LeaderArrestedColonist.stages.0.description>
-  <ElectedLeader.stages.0.description>정착지의 지도자로 뽑혔어. 영광이야!</ElectedLeader.stages.0.description>
-  <LeaderUnliked.stages.0.label>좋아하지 않음</LeaderUnliked.stages.0.label>
-  <LeaderArrested.stages.0.description>그들은 누구를 생각하는가? 이건 잔인해!</LeaderArrested.stages.0.description>
 
   <!--1567074403_181119_Faction: The Ghosts-->
   <AteUSArmyMREMeal.stages.0.label>미군 전투식량</AteUSArmyMREMeal.stages.0.label>
@@ -1098,44 +1044,6 @@
   <!--724602224_190626_Misc. Robots-->
   <AIRobotBaseThought.stages.0.label>...</AIRobotBaseThought.stages.0.label>
   <AIRobotBaseThought.stages.0.description>나는 아무것도 느낄 수 없다…</AIRobotBaseThought.stages.0.description>
-
-  <!--725471844_190814_Project Fallout-->
-  <PFBuffoutHigh.stages.0.label>버프아웃에 의해 강화됨</PFBuffoutHigh.stages.0.label>
-  <PFBuffoutHigh.stages.0.description>내가 강해진걸 느껴, 물건들을 더 들어 올려야겠어...</PFBuffoutHigh.stages.0.description>
-  <PFBuffoutWithdrawal.stages.1.label>버프아웃 금단현상</PFBuffoutWithdrawal.stages.1.label>
-  <PFBuffoutWithdrawal.stages.1.description>혼자 무거운 짐도 못들어, 내 근육들이 아프고 약해져서 걸을 힘도 없어.</PFBuffoutWithdrawal.stages.1.description>
-  <PFJetHigh.stages.0.label>제트에 취함</PFJetHigh.stages.0.label>
-  <PFJetHigh.stages.0.description>모든게 천천히 움직이네...기분 죽이는 걸!</PFJetHigh.stages.0.description>
-  <PFJetWithdrawal.stages.1.label>제트 금단현상</PFJetWithdrawal.stages.1.label>
-  <PFJetWithdrawal.stages.1.description>모든게 너무 빨라졌어...너무 초조하고 집중이 안돼.</PFJetWithdrawal.stages.1.description>
-  <PFMedXHigh.stages.0.label>메드-X에 의해 감각 무뎌짐</PFMedXHigh.stages.0.label>
-  <PFMedXHigh.stages.0.description>고통을 느낄 수가 없어, 다치치 않게 조심 해야겠는걸.</PFMedXHigh.stages.0.description>
-  <PFMedXWithdrawal.stages.1.label>메드-X 금단현상</PFMedXWithdrawal.stages.1.label>
-  <PFMedXWithdrawal.stages.1.description>너무 민감해졌어, 살짝 긁히기만 해도 너무 아파!</PFMedXWithdrawal.stages.1.description>
-  <PFMentatsHigh.stages.0.label>멘태츠에 의해 보조됨</PFMentatsHigh.stages.0.label>
-  <PFMentatsHigh.stages.0.description>사리분별이 확실히 느껴져, 어서 일하러 가자.</PFMentatsHigh.stages.0.description>
-  <PFMentatsWithdrawal.stages.1.label>멘태츠 금단현상</PFMentatsWithdrawal.stages.1.label>
-  <PFMentatsWithdrawal.stages.1.description>아이구 머리야...왜 이렇게 아픈거야.</PFMentatsWithdrawal.stages.1.description>
-  <PFPsychoHigh.stages.0.label>사이코에 의해 광분함</PFPsychoHigh.stages.0.label>
-  <PFPsychoHigh.stages.0.description>그와와와와, 모든걸 다 때려부술거야!!!</PFPsychoHigh.stages.0.description>
-  <PFPsychoWithdrawal.stages.1.label>사이코 금단현상</PFPsychoWithdrawal.stages.1.label>
-  <PFPsychoWithdrawal.stages.1.description>너무 화가나서...모두를 다치게 했어.</PFPsychoWithdrawal.stages.1.description>
-  <PFSteadyHigh.stages.0.label>스테디에 의해 침착해짐</PFSteadyHigh.stages.0.label>
-  <PFSteadyHigh.stages.0.description>로빈훗이라고 들어봤니? 내가 바로 로빈훗이다.</PFSteadyHigh.stages.0.description>
-  <PFSteadyWithdrawal.stages.1.label>스테디 금단현상</PFSteadyWithdrawal.stages.1.label>
-  <PFSteadyWithdrawal.stages.1.description>내 눈이 너무 떨리는건가.. 모든게 부들부들 떨리는것 같애.</PFSteadyWithdrawal.stages.1.description>
-  <PFStimpakHigh.stages.0.label>스팀팩으로 치유 중</PFStimpakHigh.stages.0.label>
-  <PFStimpakHigh.stages.0.description>모든 상처가 회복되고 있어, 금방 기력을 회복할거야!</PFStimpakHigh.stages.0.description>
-  <PFStimpakWithdrawal.stages.1.label>이걸 보면 안돼</PFStimpakWithdrawal.stages.1.label>
-  <PFStimpakWithdrawal.stages.1.description>스팀팩을 쓰고도 철수할 순 없어</PFStimpakWithdrawal.stages.1.description>
-  <PFSuperStimpakHigh.stages.0.label>슈퍼 스팀팩으로 치유 중</PFSuperStimpakHigh.stages.0.label>
-  <PFSuperStimpakHigh.stages.0.description>모든 상처가 회복되고 있어, 금방 기력을 회복할거야!</PFSuperStimpakHigh.stages.0.description>
-  <PFSuperStimpakWithdrawal.stages.1.label>이걸 보면 안돼</PFSuperStimpakWithdrawal.stages.1.label>
-  <PFSuperStimpakWithdrawal.stages.1.description>스팀팩을 쓰고도 철수할 순 없어</PFSuperStimpakWithdrawal.stages.1.description>
-  <PFUltraStimpakHigh.stages.0.label>울트라 스팀팩으로 치유 중</PFUltraStimpakHigh.stages.0.label>
-  <PFUltraStimpakHigh.stages.0.description>모든 상처가 회복되고 있어, 금방 기력을 회복할거야!</PFUltraStimpakHigh.stages.0.description>
-  <PFUltraStimpakWithdrawal.stages.1.label>이걸 보면 안돼</PFUltraStimpakWithdrawal.stages.1.label>
-  <PFUltraStimpakWithdrawal.stages.1.description>스팀팩을 쓰고도 철수할 순 없어</PFUltraStimpakWithdrawal.stages.1.description>
 
   <!--732569232_190814_Medieval Times-->
   <MedTimes_AteCheese.stages.0.label>치즈를 먹음</MedTimes_AteCheese.stages.0.label>

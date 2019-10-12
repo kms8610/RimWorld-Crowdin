@@ -469,7 +469,7 @@
   <OilWellCapacity>원유 추출량: {0}L/하루</OilWellCapacity>
   <TotalOilStorage>원유 저장량: {0}L</TotalOilStorage>
   <PipedOilPumpCapacity>원유 송유량: {0}L/하루</PipedOilPumpCapacity>
-  <DrillingProgress>시추 진행중 {0}%</DrillingProgress>
+  <DrillingProgress>시추 진행도: {0}</DrillingProgress>
   <CleanOilSpill>원유 유출 제거</CleanOilSpill>
   <CleanOilSpillDesc>유출된 원유를 제거합니다.</CleanOilSpillDesc>
   <DesignatorRemovePipeline>송유관 제거</DesignatorRemovePipeline>

@@ -81,13 +81,6 @@
   <!--1513614894_190519_Slightly More Realistic Wool Production-->
   <fleeceCategory.label>털뭉치</fleeceCategory.label>
 
-  <!--1521844535_190816_RimWriter-->
-  <RimWriter_Books.label>책</RimWriter_Books.label>
-  <RimWriter_BookMaterials.label>책 재료</RimWriter_BookMaterials.label>
-  <RimWriter_Scrolls.label>두루마리</RimWriter_Scrolls.label>
-  <RimWriter_Tablets.label>석판</RimWriter_Tablets.label>
-  <RimWriter_Writings.label>글</RimWriter_Writings.label>
-
   <!--1522917562_190628_Vanilla-like wheat-->
   <VLW_CategoryProcessed.label>가공된 곡물</VLW_CategoryProcessed.label>
 
@@ -307,9 +300,6 @@
 
   <!--724602224_190626_Misc. Robots-->
   <Robots.label>로봇</Robots.label>
-
-  <!--725471844_190814_Project Fallout-->
-  <PFCraftingResources.label>폴아웃 제작 재료</PFCraftingResources.label>
 
   <!--726855894_190818_USCM - Core-->
   <USCMApparels.label>USCM 의상</USCMApparels.label>

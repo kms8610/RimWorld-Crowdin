@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ManaDrain.label>마력 유출</ManaDrain.label>
+  <ManaDrain.description>행성 천체의 배열이 마력을 쇠퇴하게 만들고 있습니다. 마법의 힘을 가진 모든 생명체는 서서히 힘을 잃어버릴 것입니다.</ManaDrain.description>
+  <ManaDrain.endMessage>마력이 원래대로 돌아오고 있습니다.</ManaDrain.endMessage>
+  <ManaSurge.label>마력의 물결</ManaSurge.label>
+  <ManaSurge.description>행성 천체의 배열이 마력의 급증을 일으키고 있습니다. 마법의 힘을 가진 생명체는 모두 마력을 더 많이 얻게 됩니다.</ManaSurge.description>
+  <ManaSurge.endMessage>마력이 원래대로 돌아오고 있습니다.</ManaSurge.endMessage>
+  <ElementalAssault.label>정령 급습</ElementalAssault.label>
+  <ElementalAssault.description>적대적인 정령들이 균열을 통해 당신의 세계를 급습할 병력들을 보내려 하고 있습니다!\n \n 균열을 통해 대기권으로 에너지가 유출되어 대혼란을 야기합니다. 각 균열 속성 마다 다음과 같은 효과가 발생합니다.\n \n 불 균열: 유성우 및 열기 분출\n 대지 균열: 톡성 가스와 동물 광란\n 얼음 균열: 우박 폭풍과 급격한 온도 감소\n 공기 균열: 번개폭풍</ElementalAssault.description>
+  <ElementalAssault.endMessage>균열이 닫혔습니다.</ElementalAssault.endMessage>
+
+</LanguageData>

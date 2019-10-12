@@ -1963,44 +1963,6 @@
   <RC2_Make_KumisMust.label>마유주 발효시키기</RC2_Make_KumisMust.label>
   <RC2_Make_KumisMust.description>마유주를 만들기 위해 우유를 발효시킵니다.</RC2_Make_KumisMust.description>
   <RC2_Make_KumisMust.jobString>발효시키는 중.</RC2_Make_KumisMust.jobString>
-  <Administer_RC2_Ale.label>에일 관리하기</Administer_RC2_Ale.label>
-  <Administer_RC2_Ale.jobString>에일 관리하는 중.</Administer_RC2_Ale.jobString>
-  <Administer_RC2_AmbrosiaNectar.label>암브로시아 꿀 관리하기</Administer_RC2_AmbrosiaNectar.label>
-  <Administer_RC2_AmbrosiaNectar.jobString>암브로시아 꿀 관리하는 중.</Administer_RC2_AmbrosiaNectar.jobString>
-  <Administer_RC2_Arrack.label>아락 관리하기</Administer_RC2_Arrack.label>
-  <Administer_RC2_Arrack.jobString>아락 관리하는 중.</Administer_RC2_Arrack.jobString>
-  <Administer_RC2_Brandy.label>브랜디 관리하기</Administer_RC2_Brandy.label>
-  <Administer_RC2_Brandy.jobString>브랜디 관리하는 중.</Administer_RC2_Brandy.jobString>
-  <Administer_RC2_Cider.label>사이다 관리하기</Administer_RC2_Cider.label>
-  <Administer_RC2_Cider.jobString>사이다 관리하는 중</Administer_RC2_Cider.jobString>
-  <Administer_RC2_Everclear.label>정제된 주정 관리하기</Administer_RC2_Everclear.label>
-  <Administer_RC2_Everclear.jobString>정제된 주정 관리하는 중.</Administer_RC2_Everclear.jobString>
-  <Administer_RC2_FruitWine.label>과일주 관리하기</Administer_RC2_FruitWine.label>
-  <Administer_RC2_FruitWine.jobString>과일주 관리하는 중.</Administer_RC2_FruitWine.jobString>
-  <Administer_RC2_Gin.label>진 관리하기</Administer_RC2_Gin.label>
-  <Administer_RC2_Gin.jobString>진 관리하는 중.</Administer_RC2_Gin.jobString>
-  <Administer_RC2_Grog.label>화주 관리하기</Administer_RC2_Grog.label>
-  <Administer_RC2_Grog.jobString>화주 관리하는 중.</Administer_RC2_Grog.jobString>
-  <Administer_RC2_Kumis.label>마유주 관리하기</Administer_RC2_Kumis.label>
-  <Administer_RC2_Kumis.jobString>마유주 관리하는 중.</Administer_RC2_Kumis.jobString>
-  <Administer_RC2_Mead.label>벌꿀술 관리하기</Administer_RC2_Mead.label>
-  <Administer_RC2_Mead.jobString>벌꿀술 관리하는 중.</Administer_RC2_Mead.jobString>
-  <Administer_RC2_Moonshine.label>밀주 관리하기</Administer_RC2_Moonshine.label>
-  <Administer_RC2_Moonshine.jobString>밀주 관리하는 중.</Administer_RC2_Moonshine.jobString>
-  <Administer_RC2_Rum.label>럼주 관리하기</Administer_RC2_Rum.label>
-  <Administer_RC2_Rum.jobString>럼주 관리하는 중.</Administer_RC2_Rum.jobString>
-  <Administer_RC2_Sake.label>사케 관리하기</Administer_RC2_Sake.label>
-  <Administer_RC2_Sake.jobString>사케 관리하는 중.</Administer_RC2_Sake.jobString>
-  <Administer_RC2_Stout.label>흑맥주 관리하기</Administer_RC2_Stout.label>
-  <Administer_RC2_Stout.jobString>흑맥주 관리하는 중.</Administer_RC2_Stout.jobString>
-  <Administer_RC2_Tequila.label>테킬라 관리하기</Administer_RC2_Tequila.label>
-  <Administer_RC2_Tequila.jobString>테킬라 관리하는 중.</Administer_RC2_Tequila.jobString>
-  <Administer_RC2_Vodka.label>보드카 관리하기</Administer_RC2_Vodka.label>
-  <Administer_RC2_Vodka.jobString>보드카 관리하는 중.</Administer_RC2_Vodka.jobString>
-  <Administer_RC2_Whiskey.label>위스키 관리하기</Administer_RC2_Whiskey.label>
-  <Administer_RC2_Whiskey.jobString>위스키 관리하는 중.</Administer_RC2_Whiskey.jobString>
-  <Administer_RC2_Wine.label>와인 관리하기</Administer_RC2_Wine.label>
-  <Administer_RC2_Wine.jobString>와인 관리하는 중.</Administer_RC2_Wine.jobString>
 
   <!--1833592940_190816_RimCuisine 2 Meals and Munchies Expansion-->
   <RC2_MakeFruitPreservesBulk.label>과일 보존식량 대량 만들기</RC2_MakeFruitPreservesBulk.label>

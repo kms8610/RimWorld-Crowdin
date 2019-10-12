@@ -12,7 +12,7 @@
   <Rabbie_Dishwasher.baseDescription>[PAWN_nameDef](은)는 식당에서 접시를 닦고 청소를 하며, 어깨 너머로 선배들의 요리를 배웠습니다. [PAWN_pronoun]가 만든 채소 요리는 좋은 평가를 받진 못했지만 동료들은 맛있게 먹어주었습니다.</Rabbie_Dishwasher.baseDescription>
   <Rabbie_Childsoldier.title>래비 소년병</Rabbie_Childsoldier.title>
   <Rabbie_Childsoldier.titleShort>소년병</Rabbie_Childsoldier.titleShort>
-  <Rabbie_Childsoldier.baseDescription>[PAWN_nameDef](은)는 전투가 벌어지는 달에서 태어났습니다. 부서진 대피소에까지 적들이 들이닥쳤을 때, [PAWN_pronoun]는 버려진 총을 집어들고 싸우는 길을 택했습니다.</Rabbie_Childsoldier.baseDescription>
+  <Rabbie_Childsoldier.baseDescription>[PAWN_nameDef](은)는 전투가 벌어지는 달에서 태어났습니다. 부서진 대피소까지 적들이 들이닥쳤을 때, [PAWN_pronoun]는 버려진 총을 집어들고 싸우는 길을 택했습니다.</Rabbie_Childsoldier.baseDescription>
   <Rabbie_Pickpocket.title>래비 도시 소매치기</Rabbie_Pickpocket.title>
   <Rabbie_Pickpocket.titleShort>소매치기</Rabbie_Pickpocket.titleShort>
   <Rabbie_Pickpocket.baseDescription>아직 개발중인 달에서 태어난 [PAWN_nameDef](은)는 해진 옷을 입고 맨발로 돌아다니며, 래비들이 많이 모이는 시내와 지하철 역에서 특유의 손재주로 짐 속에 손을 집어넣어 물건을 훔치며 생계를 이었습니다.\n\n어느 날, 성격 나쁜 범죄자 래비에게 소매치기를 들킨 [PAWN_pronoun]는 흠씬 두들겨 맞고 다시는 그런 일을 하지 않았습니다.</Rabbie_Pickpocket.baseDescription>
@@ -33,7 +33,7 @@
   <Rabbie_Academystudent.baseDescription>[PAWN_nameDef](은)는 대대로 군직에 종사한 집안에서 태어난 아이입니다.\n\n본인의 의사는 둘째였고, 가족들의 기대로 인해 정규 교육 대신 래비 사관학교에 들어가 군인 혹은 장교로 입대하기 위해 공부와 훈련에만 힘썼습니다.</Rabbie_Academystudent.baseDescription>
   <Rabbie_Daylaborer.title>래비 날품팔이</Rabbie_Daylaborer.title>
   <Rabbie_Daylaborer.titleShort>날품팔이</Rabbie_Daylaborer.titleShort>
-  <Rabbie_Daylaborer.baseDescription>누구도 [PAWN_nameDef](이)가 어디에서 왔는지 어디로 가는지 모릅니다. [PAWN_pronoun] 같은 아이는 어디에나 있고 어디에도 없는 그런 고아였고, 그날 그날 품팔이로 생계를 이었습니다.</Rabbie_Daylaborer.baseDescription>
+  <Rabbie_Daylaborer.baseDescription>누구도 [PAWN_nameDef](이)가 어디에서 왔는지 어디로 가는지 모릅니다. [PAWN_pronoun]와 같은 아이는 어디에나 있고 어디에도 없는 그런 고아였고, 그날 그날 품팔이로 생계를 이어 나갔습니다.</Rabbie_Daylaborer.baseDescription>
   <Rabbie_Feeder.title>래비 사육당번</Rabbie_Feeder.title>
   <Rabbie_Feeder.titleShort>사육당번</Rabbie_Feeder.titleShort>
   <Rabbie_Feeder.baseDescription>[PAWN_nameDef](은)는 학교에서 기르는 털 쥐와 족제비를 보살피고 사육하는 당번이었습니다. 양동이에 물을 받아 거북이의 등을 닦아 주는것도 잊지 않았습니다.</Rabbie_Feeder.baseDescription>

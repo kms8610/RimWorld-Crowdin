@@ -312,9 +312,6 @@
   <sd_adv_powergen_research_adv_solar.description>고급 태양광 발전기를 지을 수 있게 됩니다.</sd_adv_powergen_research_adv_solar.description>
   <sd_adv_powergen_research_adv_wind_turbine.description>고급 풍력 발전기를 지을 수 있게 됩니다.</sd_adv_powergen_research_adv_wind_turbine.description>
 
-  <!--1442734859_181113_Archotech Expanded-->
-  <ArchotechMimicry.label>초월공학 의태</ArchotechMimicry.label>
-
   <!--1447372624_190816_Nano Repair Tech-->
   <Ogre_NanoTech.description>나노기술 수리 가구 건설을 할 수 있습니다. (침대 및 선반) 침대는 정착민들이 잠자는 동안 장비된 의류를 수리하고, 선반은 보관된 의류를 수리합니다. 모든 가구는 전력 및 연료 공급이 필요한 나노기술 나노나이트를 갖추고 있습니다. 나노기술 연료는 바이오 연료 정제기와 추가 연구 진행 시 가공 작업대에서 만들 수 있습니다.</Ogre_NanoTech.description>
   <Ogre_NanoTech_Weapons.description>나노기술 가구에서 사용되는 확장 팔 통합하기 위해 나노나이트를 교체합니다. 이 수정으로, 전력 요구량이 증가하면서 의류 외에도 무기류를 수리할 수 있게 되었습니다.</Ogre_NanoTech_Weapons.description>
@@ -484,18 +481,6 @@
   <!--1518932357_181022_Giddy-up! Mechanoids-->
   <GU_Mech_GiddyUpModule.label>기승 모듈</GU_Mech_GiddyUpModule.label>
   <GU_Mech_GiddyUpModule.description>이 모듈은 탑재하면 메카노이드용의 안장과 조종용 인터페이스의 양쪽 모두로서 기능합니다. 메카노이드에 터렛이 탑재되어 있지 않은 경우에 탑승자가 전투시에 탈 수 있습니다.이것은 "Giddy-up!Battle Mechs"의 모드 설정으로 기승 가능한 메카노이드에만 탑재할 수 있습니다.</GU_Mech_GiddyUpModule.description>
-
-  <!--1521844535_190816_RimWriter-->
-  <RimWriter_TechTypewriting.description>기계식 타자기로 글쓰기 테이블을 만들어 정착지 주민들에게 즐거운 창의력 배출구를 제공합니다.</RimWriter_TechTypewriting.description>
-  <RimWriter_TechPrimitiveWriting.description>석판을 깎아 정착지에서 일어난 이야기를 간직하는데 사용할 수 있도록 연구합니다. 제작 장소에서 석판을 만들 수 있습니다. 홍해를 갈라놓는 것까지는 포함하지 않습니다.</RimWriter_TechPrimitiveWriting.description>
-  <RimWriter_TechBookshelves.description>정착지에서 두루마리, 학술지 및 책을 보관하기 위한 선반을 만들 수 있게 됩니다.</RimWriter_TechBookshelves.description>
-  <RimWriter_TechHandWriting.description>정착지에서 손으로 쓴 페이지와 간단한 책을 작가의 테이블이나 제작 장소에서 작성할 수 있게 됩니다.</RimWriter_TechHandWriting.description>
-  <RimWriter_TechSimpleWriting.description>가죽 두루마리에 낙서를 해서 정착지의 이야기를 간직하는 데 사용할 수 있도록 연구합니다.</RimWriter_TechSimpleWriting.description>
-  <RimWriter_TechBookshelves.label>서가</RimWriter_TechBookshelves.label>
-  <RimWriter_TechPrimitiveWriting.label>태고의 글쓰기</RimWriter_TechPrimitiveWriting.label>
-  <RimWriter_TechSimpleWriting.label>가죽 기록</RimWriter_TechSimpleWriting.label>
-  <RimWriter_TechHandWriting.label>페이지와 책 제본</RimWriter_TechHandWriting.label>
-  <RimWriter_TechTypewriting.label>타자기 사용</RimWriter_TechTypewriting.label>
 
   <!--1522429439_190628_Slave Outfits-->
   <NeolithicUniform.description>이 행성의 모든 사람들은 누더기를 이 옷으로 만드는 법을 알고 있습니다.</NeolithicUniform.description>
@@ -827,20 +812,6 @@
   <AIPawnAdvResearchCrafting.label>AI: 제작</AIPawnAdvResearchCrafting.label>
   <AIPawnAdvResearchCrafting.description>인공 지능이 공학적으로 제작을 할 수 있도록 연구합니다.</AIPawnAdvResearchCrafting.description>
 
-  <!--725471844_190814_Project Fallout-->
-  <PFAdvancedPowerArmor.label>고급 강화 갑옷</PFAdvancedPowerArmor.label>
-  <PFAdvancedPowerArmor.description>강화 갑옷 기술의 발전으로 인해 고도의 기술력을 요구하는 중장갑 방어구의 제작을 가능하게 해 줍니다. X-01 강화 갑옷 제작이 가능합니다.</PFAdvancedPowerArmor.description>
-  <PFEnergyWeapons.label>에너지 무기</PFEnergyWeapons.label>
-  <PFEnergyWeapons.description>렌즈에 초점을 맞춘 순수한 고전력 광선과 초전도를 수직으로 통과시킨 과열된 플라즈마 무기가 효과적임을 입증할 수 있었습니다. 기본 에너지 무기 제작이 가능합니다.</PFEnergyWeapons.description>
-  <PFSpecialEnergyWeapons.label>전문화된 에너지 무기</PFSpecialEnergyWeapons.label>
-  <PFSpecialEnergyWeapons.description>전문적이고 다양한 역할의 강력한 자석 에너지 무기를 보다 정확한 초점을 사용하여 훨씬 많은 에너지를 출력시킬 수 있습니다. 전문화된 에너지 무기 제작이 가능합니다.</PFSpecialEnergyWeapons.description>
-  <PFabricAug.label>직물 증강</PFabricAug.label>
-  <PFabricAug.description>재봉기술의 발전으로 볼트-테크의 의류 안전 기준에 도달할 수 있었습니다. 볼트 점프슈트 제작이 가능합니다.</PFabricAug.description>
-  <PFChemProduction.label>화학물질</PFChemProduction.label>
-  <PFChemProduction.description>엄격한 테스트를 거친 후 다양한 화학 약품에 대한 몇 가지 화학 공식이 개발되었습니다. 기본적인 화학물질 제작이 가능합니다.</PFChemProduction.description>
-  <PFBasicTurrets.label>기본 포탑</PFBasicTurrets.label>
-  <PFBasicTurrets.description>기본적인 프로그래밍을 사용하면 많은 복잡함에도 불구하고 더 좋은 포탑이 설계가 되어 상당한 발전을 이루게 됩니다. 기관총 포탑과 중기관총 포탑 제작이 가능합니다.</PFBasicTurrets.description>
-
   <!--725576127_190626_Glitter Tech-->
   <MetalFab.label>금속 조립</MetalFab.label>
   <MetalFab.description>티타늄과 같은 새로운 금속들로 벽을 만들 수 있습니다.</MetalFab.description>
@@ -1022,18 +993,6 @@
   <Estate_TechArcLamps.description>간단한 전압 발화장치를 사용해 전력을 사용하는 등을 만들 수 있습니다.</Estate_TechArcLamps.description>
   <Estate_TechCandleLights.label>밀랍 연료 조명</Estate_TechCandleLights.label>
   <Estate_TechWoodStoveFurnace.label>장작 난로</Estate_TechWoodStoveFurnace.label>
-
-  <!--812653710_181101_Power Logic-->
-  <PowerLogicRemotesAdvanced.description>중계기, 송신기와 같은 고급 전력 논리 원격 장치를 건설할 수 있게 합니다.</PowerLogicRemotesAdvanced.description>
-  <PowerLogicSensors.description>전력 논리 압력 플레이트와 근접 센서를 건설할 수 있게 합니다.</PowerLogicSensors.description>
-  <PowerLogicSwitches.description>전력 논리 스위치를 건설할 수 있게 합니다.</PowerLogicSwitches.description>
-  <PowerLogicRemotes.description>원격 근접 센서, 중계기와 원격 스위치를 건설할 수 있게 합니다.</PowerLogicRemotes.description>
-  <PowerLogicRemotesAdvanced.label>전력 논리 원격 고급 논리</PowerLogicRemotesAdvanced.label>
-  <PowerLogicRemotesMultiChannel.label>전력 논리 원격 다중채널 논리</PowerLogicRemotesMultiChannel.label>
-  <PowerLogicRemotes.label>전력 논리 원격 센서</PowerLogicRemotes.label>
-  <PowerLogicSensors.label>전력 논리 센서</PowerLogicSensors.label>
-  <PowerLogicSwitches.label>전력 논리 스위치</PowerLogicSwitches.label>
-  <PowerLogicRemotesMultiChannel.description>기존 전력 논리 원격 장치를 개선하여 두 채널을 활용할 수 있게 합니다.</PowerLogicRemotesMultiChannel.description>
 
   <!--815039373_181117_Call of Cthulhu - Cults-->
   <Forbidden_Reports.description>가장 최근의 의식 결과를 자세히 보여주는 창을 제단에 추가합니다.</Forbidden_Reports.description>

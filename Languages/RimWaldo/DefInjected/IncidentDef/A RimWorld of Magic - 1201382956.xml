@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ManaDrain.label>마력 유출</ManaDrain.label>
+  <ManaDrain.letterText>행성 천체의 배열이 마력을 쇠퇴하게 만들고 있습니다.\n \n 마법의 힘을 지닌 모든 생명체는 서서히 힘을 잃어버릴 것입니다.\n \n 마력이 남아 있지 않으면 생명체가 물리적인 병에 걸릴 수 있습니다.</ManaDrain.letterText>
+  <ManaDrain.letterLabel>마력 유출</ManaDrain.letterLabel>
+  <ManaSurge.label>마력의 물결</ManaSurge.label>
+  <ManaSurge.letterText>행성 천체의 배열이 마력의 급증을 일으키고 있습니다. 마법의 힘을 가진 생명체는 모두 마력을 더 많이 얻게 됩니다.</ManaSurge.letterText>
+  <ManaSurge.letterLabel>마력의 물결</ManaSurge.letterLabel>
+  <Disease_ManaSickness.label>마력 질병</Disease_ManaSickness.label>
+  <Disease_ManaSickness.letterText>{0}(이)가 {1}(으)로 인해 문제가 발생했습니다.\n \n 의료용 침대와 의사를 반드시 배치하세요. {2}(이)가 적절한 치료를 받고 있고, 가능한 한 많은 시간을 침대에서 보내고 있는지 확인하십시오. 이 기간 동안 {0}(은)는 마력을 얻을 수 없습니다.</Disease_ManaSickness.letterText>
+  <Disease_ManaSickness.letterLabel>마력 질병</Disease_ManaSickness.letterLabel>
+  <ElementalAssault.label>정령 급습</ElementalAssault.label>
+  <ElementalAssault.letterText>적대적인 정령들이 균열을 통해 당신의 세계를 급습할 병력들을 보내려 하고 있습니다!\n \n 균열은 균열을 통해 대기권으로 에너지가 유출되어 대혼란을 야기합니다. 각 균열 속성 마다 다음과 같은 효과가 발생합니다.\n \n 불 균열: 유성우 및 열기 분출\n 대지 균열: 톡성 가스와 동물 광란\n 얼음 균열: 우박 폭풍과 급격한 온도 감소\n 공기 균열: 번개폭풍\n \n 이 악몽을 끝내기 위해 균열을 파괴하십시오!</ElementalAssault.letterText>
+  <ElementalAssault.letterLabel>정령 급습</ElementalAssault.letterLabel>
+  <ArcaneEnemyRaid.label>아케인 도적단 기습</ArcaneEnemyRaid.label>
+  <QuestArcaneCamp.label>아케인 도적단 캠프 기회</QuestArcaneCamp.label>
+  <QuestArcaneCamp.letterText>{0}, {1} 중 {2}, 우리에게 메시지를 보냈습니다.\n \n 근처 캠프에 있는 도적놈들이 우리의 상단을 습격하고 있습니다. 또한 우리의 마법 유물을 넘기지 않으면 마을을 침략하겠다고 으름장을 놓고 있습니다. 따라서 {1}님께서 도적단과 그 진영을 파괴해 달라고 겸허하게 요청하는 바입니다. 이는 모든 적과 방어물들을 제거하라는 뜻입니다.\n \n 만약 성공한다면 우리는 당신에게 빚을 지는 셈입니다. 우리는 당신에게 가보를 드릴 의향이 있습니다... 그것은 그만한 가치가 있는 어려운 일입니다.:\n \n {3}</QuestArcaneCamp.letterText>
+  <QuestArcaneCamp.letterLabel>아케인 도적단</QuestArcaneCamp.letterLabel>
+  <MagicCaravanRequest.label>상단 요청 (아케인)</MagicCaravanRequest.label>
+
+</LanguageData>

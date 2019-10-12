@@ -1,0 +1,454 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MegalithMeteorite.label>운석 (incoming)</MegalithMeteorite.label>
+  <VOSB_Roadroller.label>로드롤러</VOSB_Roadroller.label>
+  <VOSB_Glassfilth.label>와장창 파편조각</VOSB_Glassfilth.label>
+  <VOSB_Freezingcloud.label>구름 동결</VOSB_Freezingcloud.label>
+  <VOSB_RocketShell_HighExplosive.label>고폭 로켓</VOSB_RocketShell_HighExplosive.label>
+  <VOSB_RocketShell_HighExplosive.description>고폭탄으로 채운 로켓입니다. 다연장로켓 포드에서 발사할 수 있습니다. 피해를 입으면 폭발합니다.</VOSB_RocketShell_HighExplosive.description>
+  <VOSB_Bullet_RocketShell_HighExplosive.label>고폭 로켓</VOSB_Bullet_RocketShell_HighExplosive.label>
+  <VOSB_RetaliatorNukeWarhead.label>핵 미사일</VOSB_RetaliatorNukeWarhead.label>
+  <VOSB_RetaliatorNukeWarhead.description>리텔리에이터에서 발사되는 전술 핵 미사일. 미지의 고차원 기술로 만들어져서 방사능 누출이 없습니다.</VOSB_RetaliatorNukeWarhead.description>
+  <VOSB_RetaliatorNukeWarheadProje.label>핵 미사일</VOSB_RetaliatorNukeWarheadProje.label>
+  <Bullet_FFD.label>전장 강제 배치</Bullet_FFD.label>
+  <VOSBProcurebench.label>조달 작업대</VOSBProcurebench.label>
+  <VOSBProcurebench.description>지극히 평범한 1회용 무기나 잡다한 물품을 조달 혹은 제조하기 위한 작업대.</VOSBProcurebench.description>
+
+  <FACAssemblingMachine.label>조립 기계</FACAssemblingMachine.label>
+  <FACAssemblingMachine.description>대량의 부품을 신속하게 생산할 수 있는 제작 기계.</FACAssemblingMachine.description>
+
+  <VOSB_Trapcard.label>함정카드</VOSB_Trapcard.label>
+  <VOSB_Trapcard.description>발동시 주위에 혼란을 유발합니다.</VOSB_Trapcard.description>
+
+  <VOSB_CamoTurretBase.label>위장 포탑</VOSB_CamoTurretBase.label>
+  <VOSB_CamoTurretBase.description>사전 정찰에 대응하기 위해 최첨단 위장 기술이 적용된 포탑. 이 포탑은 바닐라 림월드의 똑똑한 or 공병 습격자들의 포탑 사거리 회피 대상에서 제외됩니다. 심각한 손상을 받으면 폭발할 수 있습니다.</VOSB_CamoTurretBase.description>
+
+  <VOSB_CamoTurretBullet.label>위장 포탑 기관포탄</VOSB_CamoTurretBullet.label>
+  <VOSB_CamoTurretGun.label>위장 기관포</VOSB_CamoTurretGun.label>
+  <VOSB_CamoTurretGun.description>포탑에 장착하기 위해 만든 간단한 자동화기 입니다.</VOSB_CamoTurretGun.description>
+  <VOSB_HardenedTurretBase.label>장갑화 소형 포탑</VOSB_HardenedTurretBase.label>
+  <VOSB_HardenedTurretBase.description>내구력이 증가한 소형 포탑. 또한 탄약고에 증설된 장갑판 덕분에 유폭 위험도 현저하게 감소하였지만 증가한 무게가 제어장치의 속도를 떨어뜨려서 발사속도가 조금 느려졌습니다.</VOSB_HardenedTurretBase.description>
+
+  <VOSB_WaterBlastTurret.label>워터 캐논</VOSB_WaterBlastTurret.label>
+  <VOSB_WaterBlastTurret.description>물 위에 건설 가능한 포탑. 고압축된 물 덩어리를 발사합니다. 자체적으로 조력 발전기가 내장되어 있기 때문에 별도의 외부 전력원이 필요없습니다.</VOSB_WaterBlastTurret.description>
+
+  <VOSB_WaterBlastTurretBullet.label>워터 캐논 펌프</VOSB_WaterBlastTurretBullet.label>
+  <VOSB_WaterBlastTurretGun.label>워터 캐논</VOSB_WaterBlastTurretGun.label>
+  <VOSB_WaterBlastTurretGun.description>포탑에 장착하기 위해 만든 간단한 자동화기 입니다.</VOSB_WaterBlastTurretGun.description>
+  <VOSB_FlyingTurret.label>부양형 포탑</VOSB_FlyingTurret.label>
+  <VOSB_FlyingTurret.description>다른 포탑이나 벽 위에 설치가능한 포탑. 경량화와 탄약 유폭피해 최소화를 위해 저구경 화기를 장착하였습니다.</VOSB_FlyingTurret.description>
+
+  <VOSB_FlyingTurretBullet.label>부양형 포탑 기관포탄</VOSB_FlyingTurretBullet.label>
+  <VOSB_FlyingTurretGun.label>부양형 소형 기관포</VOSB_FlyingTurretGun.label>
+  <VOSB_FlyingTurretGun.description>포탑에 장착하기 위해 만든 간단한 자동화기 입니다.</VOSB_FlyingTurretGun.description>
+  <VOSB_PortableTurretBase.label>휴대형 포탑</VOSB_PortableTurretBase.label>
+  <VOSB_PortableTurretBase.description>원정시에도 휴대가 편한 경량형 포탑. 내장된 축전지로 작동합니다.</VOSB_PortableTurretBase.description>
+
+  <VOSB_PortableTurretBullet.label>휴대형 포탑 탄환</VOSB_PortableTurretBullet.label>
+  <VOSB_PortableTurretGun.label>휴대형 소형 DMR</VOSB_PortableTurretGun.label>
+  <VOSB_PortableTurretGun.description>포탑에 장착하기 위해 만든 간단한 자동화기 입니다.</VOSB_PortableTurretGun.description>
+  <VOSB_GlassCannon.label>유리대포</VOSB_GlassCannon.label>
+  <VOSB_GlassCannon.description>취급 주의.</VOSB_GlassCannon.description>
+
+  <VOSB_GlassCannonBullet.label>유리대포 포탄</VOSB_GlassCannonBullet.label>
+  <VOSB_GlassCannonGun.label>유리대포 포신</VOSB_GlassCannonGun.label>
+  <VOSB_GlassCannonGun.description>포탑에 부착하도록 설계된 자동 장전식 대구경 포입니다.</VOSB_GlassCannonGun.description>
+  <Fireworkstube.label>폭죽 발사대</Fireworkstube.label>
+  <Fireworkstube.description>폭죽다발을 발사하는 거의 유희용에 가까운 무기지만 전투 특성 결격자도 조작이 가능합니다.</Fireworkstube.description>
+
+  <Gun_Fireworkstube.label>폭죽 발사관</Gun_Fireworkstube.label>
+  <Gun_Fireworkstube.description>포탑에 부착하도록 설계된 자동 장전식 대구경 포입니다.</Gun_Fireworkstube.description>
+  <LightMRL.label>다연장로켓 포드</LightMRL.label>
+  <LightMRL.description>로켓들을 연발하여 광역피해 공격을 가합니다. 개별 로켓의 명중률과 위력은 박격포보다는 낮습니다.</LightMRL.description>
+
+  <Gun_LightMRL.label>로켓발사 레일</Gun_LightMRL.label>
+  <Gun_LightMRL.description>포탑에 부착하도록 설계된 자동 장전식 대구경 포입니다.</Gun_LightMRL.description>
+  <VOSB_MineLayerBase.label>지뢰 살포기</VOSB_MineLayerBase.label>
+  <VOSB_MineLayerBase.description>원거리에서 지뢰를 살포하기 위해 개조된 박격포.</VOSB_MineLayerBase.description>
+
+  <VOSB_MineLayerTurret.label>지뢰발사 레일</VOSB_MineLayerTurret.label>
+  <VOSB_MineLayerTurret.description>포탑에 부착하도록 설계된 자동 장전식 대구경 포입니다.</VOSB_MineLayerTurret.description>
+  <VOSB_Shell_Mine.label>지뢰살포탄</VOSB_Shell_Mine.label>
+  <VOSB_Shell_Mine.description>착탄지점에 매설되는 지뢰가 들어있는 포탄입니다. 지뢰 살포기에서 발사할 수 있습니다. 피해를 입으면 폭발합니다.</VOSB_Shell_Mine.description>
+  <VOSB_MineSpawner.label>mine creator</VOSB_MineSpawner.label>
+  <VOSB_MiniMine.label>소형 지뢰</VOSB_MiniMine.label>
+  <VOSB_MiniMine.description>발사된 지뢰살포탄에서 매설된 지뢰. 동물들은 평화시 이것을 감지할 수 있습니다.</VOSB_MiniMine.description>
+
+  <VOSB_Bazelbombardier.label>바젤 봄바디어</VOSB_Bazelbombardier.label>
+  <VOSB_Bazelbombardier.description>"폭린룡"으로 알려진 어떤 대형 몬스터로부터 유래한 유인 폭격 포탑. 지연 폭발을 일으키는 비늘을 뿌려댑니다.</VOSB_Bazelbombardier.description>
+
+  <VOSB_Bazelbombardier_Proje.label>폭발성 비늘</VOSB_Bazelbombardier_Proje.label>
+  <VOSB_BazelbombardierGun.label>바젤 봄바디어 포신</VOSB_BazelbombardierGun.label>
+  <VOSB_BazelbombardierGun.description>포탑에 장착하기 위해 만든 간단한 자동화기 입니다.</VOSB_BazelbombardierGun.description>
+  <VOSB_Phasedetonator.label>페이즈 데토네이터</VOSB_Phasedetonator.label>
+  <VOSB_Phasedetonator.description>목표한 좌표에 즉발형 위상 폭발을 일으키는 에너지 병기. 가동에 많은 전력이 필요합니다.</VOSB_Phasedetonator.description>
+
+  <VOSB_PhasedetonatorBullet.label>위상 폭발</VOSB_PhasedetonatorBullet.label>
+  <VOSB_PhasedetonatorGun.label>위상 제어 코어</VOSB_PhasedetonatorGun.label>
+  <VOSB_PhasedetonatorGun.description>포탑에 부착하도록 설계된 자동 장전식 대구경 포입니다.</VOSB_PhasedetonatorGun.description>
+  <VOSB_KneeCapper.label>무릎 파괴자</VOSB_KneeCapper.label>
+  <VOSB_KneeCapper.description>적들을 감속시키고 잠재적인 도시 경비병 후보생으로 만드는 화살을 발사하는 포탑.</VOSB_KneeCapper.description>
+
+  <VOSB_TurretKneecapperBullet.label>화살</VOSB_TurretKneecapperBullet.label>
+  <VOSB_TurretKneecapperGun.label>데이드릭 활</VOSB_TurretKneecapperGun.label>
+  <VOSB_TurretKneecapperGun.description>포탑에 부착하도록 설계된 자동 장전식 대구경 포입니다.</VOSB_TurretKneecapperGun.description>
+  <VOSB_BloodShooter.label>블러드 슈터</VOSB_BloodShooter.label>
+  <VOSB_BloodShooter.description>맞은 대상에 저주를 거는 혈탄을 발사하는 미스터리한 보우건을 장착한 포탑. 저주에 걸리면 근력이 약화되어 유효한 근접공격을 하기가 어려워집니다.</VOSB_BloodShooter.description>
+
+  <VOSB_TurretBloodshooterBullet.label>혈탄</VOSB_TurretBloodshooterBullet.label>
+  <VOSB_TurretBloodShooterGun.label>블러드 슈터 포탑</VOSB_TurretBloodShooterGun.label>
+  <VOSB_TurretBloodShooterGun.description>포탑에 부착하도록 설계된 자동 장전식 대구경 포입니다.</VOSB_TurretBloodShooterGun.description>
+  <VOSB_MegaBloodShooter.label>메가 블러드 슈터</VOSB_MegaBloodShooter.label>
+  <VOSB_MegaBloodShooter.description>맞은 대상에 저주를 거는 혈탄을 발사하는 미스터리한 보우건을 장착한 포탑. 저주에 걸리면 근력이 약화되어 유효한 근접공격을 하기가 어려워집니다.</VOSB_MegaBloodShooter.description>
+
+  <VOSB_TurretMegaBloodShooterBullet.label>혈탄</VOSB_TurretMegaBloodShooterBullet.label>
+  <VOSB_TurretMegaBloodShooterGun.label>메가 블러드 슈터 포탑</VOSB_TurretMegaBloodShooterGun.label>
+  <VOSB_TurretMegaBloodShooterGun.description>포탑에 부착하도록 설계된 자동 장전식 대구경 포입니다.</VOSB_TurretMegaBloodShooterGun.description>
+  <Turret_LehudibTurret.label>레후딥의 수정창</Turret_LehudibTurret.label>
+  <Turret_LehudibTurret.description>치명적으로 날카로운 수정 가시를 발사하는 대지마법 포탑.</Turret_LehudibTurret.description>
+
+  <Bullet_LehudibTurret.label>정말로 아픈 수정 가시</Bullet_LehudibTurret.label>
+  <Gun_LehudibTurret.label>레후딥의 수정창 포탑</Gun_LehudibTurret.label>
+  <Gun_LehudibTurret.description>포탑에 장착하기 위해 만든 간단한 자동화기 입니다.</Gun_LehudibTurret.description>
+  <VOSB_WarriorstatueBase.label>전사 동상</VOSB_WarriorstatueBase.label>
+  <VOSB_WarriorstatueBase.description>미관을 제공함과 동시에 방어기능이 있는 움직이는 동상. 실내 방어에 적합합니다.</VOSB_WarriorstatueBase.description>
+
+  <VOSB_WarriorstatueBullet.label>무기 강타</VOSB_WarriorstatueBullet.label>
+  <VOSB_WarriorstatueGun.label>동상에 부착된 무기</VOSB_WarriorstatueGun.label>
+  <VOSB_WarriorstatueGun.description>포탑에 장착하기 위해 만든 간단한 자동화기 입니다.</VOSB_WarriorstatueGun.description>
+  <VOSB_ArcherstatueBase.label>궁수 동상</VOSB_ArcherstatueBase.label>
+  <VOSB_ArcherstatueBase.description>미관을 제공함과 동시에 방어기능이 있는 움직이는 동상. 실내 방어에 적합합니다.</VOSB_ArcherstatueBase.description>
+
+  <VOSB_ArcherstatueBullet.label>화살</VOSB_ArcherstatueBullet.label>
+  <VOSB_ArcherstatueGun.label>동상에 부착된 무기</VOSB_ArcherstatueGun.label>
+  <VOSB_ArcherstatueGun.description>포탑에 장착하기 위해 만든 간단한 자동화기 입니다.</VOSB_ArcherstatueGun.description>
+  <VOSB_WizardstatueBase.label>마법사 동상</VOSB_WizardstatueBase.label>
+  <VOSB_WizardstatueBase.description>미관을 제공함과 동시에 방어기능이 있는 움직이는 동상. 실내 방어에 적합합니다.</VOSB_WizardstatueBase.description>
+
+  <VOSB_WizardstatueBullet.label>고드름 발사</VOSB_WizardstatueBullet.label>
+  <VOSB_WizardstatueGun.label>동상에 부착된 지팡이</VOSB_WizardstatueGun.label>
+  <VOSB_WizardstatueGun.description>포탑에 장착하기 위해 만든 간단한 자동화기 입니다.</VOSB_WizardstatueGun.description>
+  <VOSB_ConjurerstatueBase.label>파괴술사 동상</VOSB_ConjurerstatueBase.label>
+  <VOSB_ConjurerstatueBase.description>미관을 제공함과 동시에 방어기능이 있는 움직이는 동상. 실내 방어에 적합합니다.</VOSB_ConjurerstatueBase.description>
+
+  <VOSB_ConjurerstatueBullet.label>파괴의 구</VOSB_ConjurerstatueBullet.label>
+  <VOSB_ConjurerstatueGun.label>동상에 부착된 지팡이</VOSB_ConjurerstatueGun.label>
+  <VOSB_ConjurerstatueGun.description>포탑에 장착하기 위해 만든 간단한 자동화기 입니다.</VOSB_ConjurerstatueGun.description>
+  <VOSB_FirespitterstatueBase.label>화염 발사 동상</VOSB_FirespitterstatueBase.label>
+  <VOSB_FirespitterstatueBase.description>미관을 제공함과 동시에 방어기능이 있는 움직이는 동상. 실내 방어에 적합......합니다.?!</VOSB_FirespitterstatueBase.description>
+
+  <VOSB_FirespitterstatueBullet.label>불꽃 투척</VOSB_FirespitterstatueBullet.label>
+  <VOSB_FirespitterstatueGun.label>화염 발사 동상의 브레스</VOSB_FirespitterstatueGun.label>
+  <VOSB_FirespitterstatueGun.description>포탑에 장착하기 위해 만든 간단한 자동화기 입니다.</VOSB_FirespitterstatueGun.description>
+  <VOSB_XobehaltarBase.label>카드의 트릭스터 신의 제단</VOSB_XobehaltarBase.label>
+  <VOSB_XobehaltarBase.description>"카드 안에 모든 것이 있나니!". 아무래도 이 신은 랜디라는 이름의 사나이가 마음에 든 모양입니다.</VOSB_XobehaltarBase.description>
+
+  <VOSB_XobehaltarBullet.label>폭풍 카드</VOSB_XobehaltarBullet.label>
+  <VOSB_XobehaltarGun.label>파괴의 카드덱</VOSB_XobehaltarGun.label>
+  <VOSB_XobehaltarGun.description>포탑에 장착하기 위해 만든 간단한 자동화기 입니다.</VOSB_XobehaltarGun.description>
+  <VOSB_SpiningBlade.label>회전 칼날</VOSB_SpiningBlade.label>
+  <VOSB_SpiningBlade.description>영구히 회전하는 칼날. 불가사의한 영구기관으로 작동합니다.</VOSB_SpiningBlade.description>
+  <VOSB_SpiningBladeBullet.label>회전 칼날 참격</VOSB_SpiningBladeBullet.label>
+  <VOSB_SpiningBladeGun.label>부착된 칼날</VOSB_SpiningBladeGun.label>
+  <VOSB_SpiningBladeGun.description>포탑에 장착하기 위해 만든 간단한 자동화기 입니다.</VOSB_SpiningBladeGun.description>
+  <VOSB_Photonray.label>포톤 레이</VOSB_Photonray.label>
+  <VOSB_Photonray.description>나쁜 문명을 분쇄한다!</VOSB_Photonray.description>
+  <VOSB_PhotonrayBullet.label>포톤 레이 돌진</VOSB_PhotonrayBullet.label>
+  <VOSB_PhotonrayGun.label>대군보구</VOSB_PhotonrayGun.label>
+  <VOSB_PhotonrayGun.description>포탑에 장착하기 위해 만든 간단한 자동화기 입니다.</VOSB_PhotonrayGun.description>
+  <VOSB_Chainsaw.label>훌륭한 대화수단</VOSB_Chainsaw.label>
+  <VOSB_Chainsaw.description>부족민들과의 협상에서 매우 효과적인 선택지입니다.</VOSB_Chainsaw.description>
+  <VOSB_ChainsawBullet.label>찢고 죽인다!</VOSB_ChainsawBullet.label>
+  <VOSB_ChainsawGun.label>전기톱</VOSB_ChainsawGun.label>
+  <VOSB_ChainsawGun.description>포탑에 장착하기 위해 만든 간단한 자동화기 입니다.</VOSB_ChainsawGun.description>
+  <VOSB_IronIsoBase.label>아이언 이소</VOSB_IronIsoBase.label>
+  <VOSB_IronIsoBase.description>중장갑 정밀타격 포격차량. 궤도따위는 장식입니다.</VOSB_IronIsoBase.description>
+  <VOSB_IronIsoBullet.label>75mm 포탄</VOSB_IronIsoBullet.label>
+  <VOSB_IronIsoTurret.label>75mm 전차포</VOSB_IronIsoTurret.label>
+  <VOSB_IronIsoTurret.description>포탑에 부착하도록 설계된 자동 장전식 대구경 포입니다.</VOSB_IronIsoTurret.description>
+  <VOSB_IronIsoUPBase.label>아이언 이소 MK II</VOSB_IronIsoUPBase.label>
+  <VOSB_IronIsoUPBase.description>장갑이 더 딴딴해졌고 3연발 사격을 합니다.</VOSB_IronIsoUPBase.description>
+  <VOSB_IronIsoTurretUP.label>75mm 전차포</VOSB_IronIsoTurretUP.label>
+  <VOSB_IronIsoTurretUP.description>포탑에 부착하도록 설계된 자동 장전식 대구경 포입니다.</VOSB_IronIsoTurretUP.description>
+  <VOSB_Quadcannon.label>쿼드 캐논</VOSB_Quadcannon.label>
+  <VOSB_Quadcannon.description>초음속 폭격기마저도 격추할 수 있는 글라놀러지로 만들어진 4연장 대공기관포.</VOSB_Quadcannon.description>
+  <VOSB_QuadcannonBullet.label>중기관총 탄환</VOSB_QuadcannonBullet.label>
+  <VOSB_Quadcannongun.label>재활용된 ZSU-23-4</VOSB_Quadcannongun.label>
+  <VOSB_Quadcannongun.description>포탑에 부착하도록 설계된 자동 장전식 대구경 포입니다.</VOSB_Quadcannongun.description>
+  <VOSB_IncendiaryAutocannon.label>스핏파이어 포탑</VOSB_IncendiaryAutocannon.label>
+  <VOSB_IncendiaryAutocannon.description>기관포탑의 파생형으로써 맞은 대상에 불을 붙이는 소이 볼트를 갈깁니다.</VOSB_IncendiaryAutocannon.description>
+  <VOSB_IncendiaryBullet.label>소이 볼트</VOSB_IncendiaryBullet.label>
+  <VOSB_Incendiarygun.label>소이 기관포</VOSB_Incendiarygun.label>
+  <VOSB_Incendiarygun.description>포탑에 부착하도록 설계된 자동 장전식 대구경 포입니다.</VOSB_Incendiarygun.description>
+  <VOSB_Discord.label>디스코드</VOSB_Discord.label>
+  <VOSB_Discord.description>원래는 통신장비였던걸 개조한 음파병기 입니다.</VOSB_Discord.description>
+  <VOSB_DiscordBullet.label>퀘이버</VOSB_DiscordBullet.label>
+  <VOSB_Discordgun.label>디스코드 스피커</VOSB_Discordgun.label>
+  <VOSB_Discordgun.description>포탑에 부착하도록 설계된 자동 장전식 대구경 포입니다.</VOSB_Discordgun.description>
+  <VOSB_Jammer.label>재머</VOSB_Jammer.label>
+  <VOSB_Jammer.description>다른 유형의 음파병기로써 전투력을 저하시키는 효과가 있는 재밍 음표를 발사합니다.</VOSB_Jammer.description>
+  <VOSB_JammerBullet.label>묶인 크로쳇</VOSB_JammerBullet.label>
+  <VOSB_Jammergun.label>재머 키보드</VOSB_Jammergun.label>
+  <VOSB_Jammergun.description>포탑에 부착하도록 설계된 자동 장전식 대구경 포입니다.</VOSB_Jammergun.description>
+  <Turret_Paladincannon.label>팔라딘 포탑</Turret_Paladincannon.label>
+  <Turret_Paladincannon.description>탱커타입 포탑으로써 높은 내구력과 극한의 엄폐율을 가지고 있습니다. 거주민의 체력을 책임진다!</Turret_Paladincannon.description>
+  <Bullet_PaladincannonTurret.label>신성탄</Bullet_PaladincannonTurret.label>
+  <Gun_PaladincannonTurret.label>팔라딘 포탑 포신</Gun_PaladincannonTurret.label>
+  <Gun_PaladincannonTurret.description>포탑에 부착하도록 설계된 자동 장전식 대구경 포입니다.</Gun_PaladincannonTurret.description>
+  <Turret_SolarStatueTurret.label>태양의 전사의 동상</Turret_SolarStatueTurret.label>
+  <Turret_SolarStatueTurret.description>태양 만세!</Turret_SolarStatueTurret.description>
+  <Bullet_SolarStatueTurret.label>뇌창</Bullet_SolarStatueTurret.label>
+  <Gun_SolarStatueTurret.label>태양의 전사의 기적</Gun_SolarStatueTurret.label>
+  <Gun_SolarStatueTurret.description>포탑에 장착하기 위해 만든 간단한 자동화기 입니다.</Gun_SolarStatueTurret.description>
+  <VOSB_VanometricLance.label>베노메트릭 랜스</VOSB_VanometricLance.label>
+  <VOSB_VanometricLance.description>베노메트릭 발전기를 무한동력을 이용한 강력한 빔을 발사하는 무기로 개조한 포탑.</VOSB_VanometricLance.description>
+  <VOSB_VanometricLanceBullet.label>고출력 에너지 빔</VOSB_VanometricLanceBullet.label>
+  <VOSB_VanometricLanceGun.label>베노메트릭 빔 발사기</VOSB_VanometricLanceGun.label>
+  <VOSB_VanometricLanceGun.description>포탑에 장착하기 위해 만든 간단한 자동화기 입니다.</VOSB_VanometricLanceGun.description>
+  <VOSB_AMP.label>AMP 파동 방출기</VOSB_AMP.label>
+  <VOSB_AMP.description>전투약물의 해로운 성분을 걸러내고 주위에 버프 파동을 방출하도록 개조된 고대 유물.</VOSB_AMP.description>
+  <VOSB_Lunacyrecord.label>미치광이 레코드</VOSB_Lunacyrecord.label>
+  <VOSB_Lunacyrecord.description>듣는이들을 미치게 만드는 음악을 재생합니다. 잘도 이런 미치광이 레코드를!</VOSB_Lunacyrecord.description>
+  <VOSB_PortalBullet.label>동행큐브</VOSB_PortalBullet.label>
+  <VOSB_PortalGunBase.label>포탈</VOSB_PortalGunBase.label>
+  <VOSB_PortalGunBase.description>포탑에 부착하도록 설계된 자동 장전식 대구경 포입니다.</VOSB_PortalGunBase.description>
+  <VOSB_BluePortalBase.label>파란색 포탈</VOSB_BluePortalBase.label>
+  <VOSB_BluePortalBase.description>건너편의 공간에서 무언가가 날라오는 포탈.</VOSB_BluePortalBase.description>
+  <VOSB_OrangePortalBase.label>오렌지색 포탈</VOSB_OrangePortalBase.label>
+  <VOSB_OrangePortalBase.description>건너편의 공간에서 무언가가 날라오는 포탈.</VOSB_OrangePortalBase.description>
+  <VOSB_CyanPortalBase.label>청록색 포탈</VOSB_CyanPortalBase.label>
+  <VOSB_CyanPortalBase.description>건너편의 공간에서 무언가가 날라오는 포탈.</VOSB_CyanPortalBase.description>
+  <VOSB_VioletPortalBase.label>보라색 포탈</VOSB_VioletPortalBase.label>
+  <VOSB_VioletPortalBase.description>건너편의 공간에서 무언가가 날라오는 포탈.</VOSB_VioletPortalBase.description>
+  <VOSB_YellowPortalBase.label>노랑색 포탈</VOSB_YellowPortalBase.label>
+  <VOSB_YellowPortalBase.description>건너편의 공간에서 무언가가 날라오는 포탈.</VOSB_YellowPortalBase.description>
+  <VOSB_RedPortalBase.label>빨강색 포탈</VOSB_RedPortalBase.label>
+  <VOSB_RedPortalBase.description>건너편의 공간에서 무언가가 날라오는 포탈.</VOSB_RedPortalBase.description>
+  <VOSB_Neutronblasterbase.label>뉴트론 블래스터</VOSB_Neutronblasterbase.label>
+  <VOSB_Neutronblasterbase.description>유기 생명체와 메카노이드의 회로에 치명적인 중성자 폭발을 일으키는 포탑. 중성자 폭발은 구조물에 피해를 입히지 않습니다.</VOSB_Neutronblasterbase.description>
+  <VOSB_NeutronblasterBullet.label>중성자 포탄</VOSB_NeutronblasterBullet.label>
+  <VOSB_NeutronblasterGun.label>중성자 포</VOSB_NeutronblasterGun.label>
+  <VOSB_NeutronblasterGun.description>포탑에 장착하기 위해 만든 간단한 자동화기 입니다.</VOSB_NeutronblasterGun.description>
+  <VOSB_Wardenbase.label>워든 군중제어 포드</VOSB_Wardenbase.label>
+  <VOSB_Wardenbase.description>감옥의 폭동 진압용으로 개발된 보안장치. 극심한 탈진과 고통을 유발하는 마비다트를 갈깁니다.</VOSB_Wardenbase.description>
+  <VOSB_WardenBullet.label>마비다트</VOSB_WardenBullet.label>
+  <VOSB_WardenGun.label>마비다트 포드</VOSB_WardenGun.label>
+  <VOSB_WardenGun.description>포탑에 장착하기 위해 만든 간단한 자동화기 입니다.</VOSB_WardenGun.description>
+  <VOSB_Deployable_Force_Field.label>역장</VOSB_Deployable_Force_Field.label>
+  <VOSB_Deployable_Force_Field.description>일시적으로 이동을 차단하는 에너지장.</VOSB_Deployable_Force_Field.description>
+  <VOSB_FFSpawner.label>장막 생성기</VOSB_FFSpawner.label>
+  <VOSB_FFDBase.label>역장 발생기</VOSB_FFDBase.label>
+  <VOSB_FFDBase.description>외계기술에 기반한 이동을 일시적으로 차단하는 역장을 생성하는 장치. 역장은 비어있는 단단한 지면이어야 생성할 수 있습니다.</VOSB_FFDBase.description>
+  <VOSB_FFDTurret.label>역장 발생장치</VOSB_FFDTurret.label>
+  <VOSB_FFDTurret.description>포탑에 장착하기 위해 만든 간단한 자동화기 입니다.</VOSB_FFDTurret.description>
+  <VOSB_Deployable_Holodecoy.label>홀로 디코이</VOSB_Deployable_Holodecoy.label>
+  <VOSB_Deployable_Holodecoy.description>적들의 주의를 끌거나 도발할 수 있을지도 모르는 홀로그램.</VOSB_Deployable_Holodecoy.description>
+  <VOSB_HDFakeBullet.label>흡인력</VOSB_HDFakeBullet.label>
+  <VOSB_HDFake.label>홀로 디코이 위장 화기</VOSB_HDFake.label>
+  <VOSB_HDFake.description>포탑에 장착하기 위해 만든 간단한 자동화기 입니다.</VOSB_HDFake.description>
+  <VOSB_HDspawner.label>홀로 디코이 생성기</VOSB_HDspawner.label>
+  <VOSB_HDPBase.label>홀로 디코이 프로젝터</VOSB_HDPBase.label>
+  <VOSB_HDPBase.description>적들을 교란하는 홀로그램 기만체를 생성하는 장치.</VOSB_HDPBase.description>
+  <VOSB_HDPTurret.label>홀로 디코이 프로젝터 장치</VOSB_HDPTurret.label>
+  <VOSB_HDPTurret.description>포탑에 장착하기 위해 만든 간단한 자동화기 입니다.</VOSB_HDPTurret.description>
+  <VOSB_Deployable_AT_Field.label>AT 필드</VOSB_Deployable_AT_Field.label>
+  <VOSB_Deployable_AT_Field.description>일시적으로 이동을 차단하는 에너지장.</VOSB_Deployable_AT_Field.description>
+  <VOSB_ATFSpawner.label>AT 필드 발생기</VOSB_ATFSpawner.label>
+  <VOSB_ATFDTurretzero.label>AT 필드 발생장치</VOSB_ATFDTurretzero.label>
+  <VOSB_ATFDTurretzero.description>포탑에 장착하기 위해 만든 간단한 자동화기 입니다.</VOSB_ATFDTurretzero.description>
+  <VOSB_ATFDBasezero.label>AT 필드 발생기</VOSB_ATFDBasezero.label>
+  <VOSB_ATFDBasezero.description>이동을 일시적으로 차단하는 AT 필드를 생성하는 장치. AT 필드의 지속시간은 일반적인 역장보다 더 오래 유지됩니다.</VOSB_ATFDBasezero.description>
+  <VOSB_ATFDBaseone.label>AT 필드 발생기</VOSB_ATFDBaseone.label>
+  <VOSB_ATFDBaseone.description>이동을 일시적으로 차단하는 AT 필드를 생성하는 장치. AT 필드의 지속시간은 일반적인 역장보다 더 오래 유지됩니다.</VOSB_ATFDBaseone.description>
+  <VOSB_ATFDBasetwo.label>AT 필드 발생기</VOSB_ATFDBasetwo.label>
+  <VOSB_ATFDBasetwo.description>이동을 일시적으로 차단하는 AT 필드를 생성하는 장치. AT 필드의 지속시간은 일반적인 역장보다 더 오래 유지됩니다.</VOSB_ATFDBasetwo.description>
+  <VOSB_Deployable_Shock_Field.label>쇼크 필드</VOSB_Deployable_Shock_Field.label>
+  <VOSB_Deployable_Shock_Field.description>넘어가려는 이들을 감전시키는 전자기장.</VOSB_Deployable_Shock_Field.description>
+  <VOSB_SFSpawner.label>AT 필드 발생기</VOSB_SFSpawner.label>
+  <VOSB_SFDBase.label>쇼크 필드 발생기</VOSB_SFDBase.label>
+  <VOSB_SFDBase.description>통과하려고 시도하는 이들을 기절시키는 쇼크 필드를 생성하는 장치.</VOSB_SFDBase.description>
+  <VOSB_SFDTurret.label>쇼크 필드 발생장치</VOSB_SFDTurret.label>
+  <VOSB_SFDTurret.description>포탑에 장착하기 위해 만든 간단한 자동화기 입니다.</VOSB_SFDTurret.description>
+  <VOSB_Nanowelder.label>나노 용접기</VOSB_Nanowelder.label>
+  <VOSB_Nanowelder.description>나노 장갑 코팅을 수행하는 보조 장비. 구조물의 손상을 수리할 뿐만 아니라 최대 내구도를 넘어서 추가적인 내구 포인트를 증강해줄 수도 있습니다. 또한 보호막의 급속 재충전도 가능합니다. 나노입자의 촉매제로써 비취 결정이 사용됩니다.</VOSB_Nanowelder.description>
+  <VOSB_NanowelderBullet.label>나노입자</VOSB_NanowelderBullet.label>
+  <VOSB_NanowelderGun.label>나노 용접기 도구장비</VOSB_NanowelderGun.label>
+  <VOSB_NanowelderGun.description>포탑에 장착하기 위해 만든 간단한 자동화기 입니다.</VOSB_NanowelderGun.description>
+  <VOSB_FACGunTurretBase.label>공장제 기관 포탑</VOSB_FACGunTurretBase.label>
+  <VOSB_FACGunTurretBase.description>이 공장 방어용 포탑은 충분한 탄약만 있다면 외부 전력원 없이도 제 기능을 할 수 있습니다. 거주지에 들여온 것은 우라늄 탄창을 사용하도록 조정되어 있습니다.</VOSB_FACGunTurretBase.description>
+  <VOSB_FACGunTurretBullet.label>우라늄 탄환</VOSB_FACGunTurretBullet.label>
+  <VOSB_FACGunTurret.label>기관 포탑</VOSB_FACGunTurret.label>
+  <VOSB_FACGunTurret.description>포탑에 부착하도록 설계된 자동 장전식 대구경 포입니다.</VOSB_FACGunTurret.description>
+  <VOSB_FACLaserTurretBase.label>공장제 레이저 포탑</VOSB_FACLaserTurretBase.label>
+  <VOSB_FACLaserTurretBase.description>공장 방어용 레이저 포탑의 구형 모델입니다. 기관 포탑보다 사거리가 길고 탄약이 불필요하지만 많은 전력을 소비합니다.</VOSB_FACLaserTurretBase.description>
+  <VOSB_FACLaserTurretBullet.label>레이저</VOSB_FACLaserTurretBullet.label>
+  <VOSB_FACLaserTurret.label>레이저 포탑</VOSB_FACLaserTurret.label>
+  <VOSB_FACLaserTurret.description>포탑에 부착하도록 설계된 자동 장전식 대구경 포입니다.</VOSB_FACLaserTurret.description>
+  <Turret_HandCannonTurret.label>핸드 캐논 포탑</Turret_HandCannonTurret.label>
+  <Turret_HandCannonTurret.description>"진짜 우주. 진짜 공포. 진짜 스티로폼."</Turret_HandCannonTurret.description>
+  <Bullet_HandCannonTurret.label>펑!</Bullet_HandCannonTurret.label>
+  <Gun_HandCannonTurret.label>핸드 캐논</Gun_HandCannonTurret.label>
+  <Gun_HandCannonTurret.description>포탑에 장착하기 위해 만든 간단한 자동화기 입니다.</Gun_HandCannonTurret.description>
+  <VOSB_MechwarriorBase.label>메크 워리어</VOSB_MechwarriorBase.label>
+  <VOSB_MechwarriorBase.description>거주지의 방어를 위해 헤비 메크를 지릅니다.</VOSB_MechwarriorBase.description>
+  <Bullet_ERPPC.label>ER PPC 발사체</Bullet_ERPPC.label>
+  <VOSB_MechwarriorGun.label>클랜 ER PPC</VOSB_MechwarriorGun.label>
+  <VOSB_MechwarriorGun.description>포탑에 장착하기 위해 만든 간단한 자동화기 입니다.</VOSB_MechwarriorGun.description>
+  <Turret_NyanCatTurret.label>냥 우주 필드</Turret_NyanCatTurret.label>
+  <Turret_NyanCatTurret.description>냥→냥→냐냥-냥↘냐냐냥↘냥→냥↗냥-냐냐냐냐냐냥↗냐냐냐냐냐냐냐냥→</Turret_NyanCatTurret.description>
+  <Bullet_NyanCatTurret.label>무지개빛 총공격</Bullet_NyanCatTurret.label>
+  <Gun_NyanCatTurret.label>냥캣</Gun_NyanCatTurret.label>
+  <Gun_NyanCatTurret.description>포탑에 장착하기 위해 만든 간단한 자동화기 입니다.</Gun_NyanCatTurret.description>
+  <Turret_NyanCatTurretBGMmute.label>냥 우주 필드(BGM 없음)</Turret_NyanCatTurretBGMmute.label>
+  <Turret_NyanCatTurretBGMmute.description>냥→냥→냐냥-냥↘냐냐냥↘냥→냥↗냥-냐냐냐냐냐냥↗냐냐냐냐냐냐냐냥→</Turret_NyanCatTurretBGMmute.description>
+  <Turret_UBWTurret.label>무한의 검제</Turret_UBWTurret.label>
+  <Turret_UBWTurret.description>몸은 검으로 되어있다.\n피는 철이며 마음은 유리.\n수많은 전장을 넘어서도 불패.\n단 한 번도 패배하지 않고.\n단 한 번도 이해받지 못한다.\n그 자는 항상 홀로 검의 언덕에서 승리에 취하며.\n따라서, 그 생에에 의미는 없으니.\n그 몸은, 틀림없이 검으로 되어 있었다.</Turret_UBWTurret.description>
+  <Bullet_UBWTurret.label>투영검</Bullet_UBWTurret.label>
+  <Gun_UBWTurret.label>고유결계</Gun_UBWTurret.label>
+  <Gun_UBWTurret.description>포탑에 장착하기 위해 만든 간단한 자동화기 입니다.</Gun_UBWTurret.description>
+  <Turret_UBWTurretBGMmute.label>무한의 검제(BGM 없음)</Turret_UBWTurretBGMmute.label>
+  <Turret_UBWTurretBGMmute.description>몸은 검으로 되어있다.\n피는 철이며 마음은 유리.\n수많은 전장을 넘어서도 불패.\n단 한 번도 패배하지 않고.\n단 한 번도 이해받지 못한다.\n그 자는 항상 홀로 검의 언덕에서 승리에 취하며.\n따라서, 그 생에에 의미는 없으니.\n그 몸은, 틀림없이 검으로 되어 있었다.</Turret_UBWTurretBGMmute.description>
+  <VOSB_NexusBase.label>시공의 소용돌이</VOSB_NexusBase.label>
+  <VOSB_NexusBase.description>Q: 여기가...어디요?\nA: 어서 오게, 영웅이여. 자넨 시공의 폭풍의 선택을 받았네. -시공의 납치자 우서</VOSB_NexusBase.description>
+  <VOSB_NexusBaseBullet.label>차원 균열</VOSB_NexusBaseBullet.label>
+  <VOSB_NexusBaseGun.label>납치자의 조수 프로비우스</VOSB_NexusBaseGun.label>
+  <VOSB_NexusBaseGun.description>포탑에 장착하기 위해 만든 간단한 자동화기 입니다.</VOSB_NexusBaseGun.description>
+  <VOSB_NexusBaseBGMmute.label>시공의 소용돌이(BGM 없음)</VOSB_NexusBaseBGMmute.label>
+  <VOSB_NexusBaseBGMmute.description>Q: 여기가...어디요?\nA: 어서 오게, 영웅이여. 자넨 시공의 폭풍의 선택을 받았네. -시공의 납치자 우서</VOSB_NexusBaseBGMmute.description>
+  <VOSB_TASentinelBase.label>센티넬</VOSB_TASentinelBase.label>
+  <VOSB_TASentinelBase.description>고위력 레이저 타워.</VOSB_TASentinelBase.description>
+  <VOSB_TASentinelBullet.label>고출력 레이저</VOSB_TASentinelBullet.label>
+  <VOSB_TASentinelGun.label>센티넬 포탑</VOSB_TASentinelGun.label>
+  <VOSB_TASentinelGun.description>포탑에 장착하기 위해 만든 간단한 자동화기 입니다.</VOSB_TASentinelGun.description>
+  <VOSB_TAAnnihilatorBase.label>어나힐레이션</VOSB_TAAnnihilatorBase.label>
+  <VOSB_TAAnnihilatorBase.description>에너지 병기.</VOSB_TAAnnihilatorBase.description>
+  <VOSB_TAAnnihilatorBullet.label>어나힐레이션 레이저 포탑</VOSB_TAAnnihilatorBullet.label>
+  <VOSB_TAAnnihilatorGun.label>어나힐레이션 웨폰</VOSB_TAAnnihilatorGun.label>
+  <VOSB_TAAnnihilatorGun.description>포탑에 장착하기 위해 만든 간단한 자동화기 입니다.</VOSB_TAAnnihilatorGun.description>
+  <Turret_TABB.label>빅 베레타</Turret_TABB.label>
+  <Turret_TABB.description>장거리 플라즈마 포.</Turret_TABB.description>
+  <Bullet_TABB.label>플라즈마 포탄</Bullet_TABB.label>
+  <Artillery_TABB.label>빅 베레타 포신</Artillery_TABB.label>
+  <Artillery_TABB.description>D.</Artillery_TABB.description>
+  <VOSB_TARetaliator_Base.label>리텔리에이터</VOSB_TARetaliator_Base.label>
+  <VOSB_TARetaliator_Base.description>핵 미사일 발사대.</VOSB_TARetaliator_Base.description>
+  <VOSB_TARetaliator_Gun.label>핵 미사일 발사관</VOSB_TARetaliator_Gun.label>
+  <VOSB_TARetaliator_Gun.description>포탑에 부착하도록 설계된 자동 장전식 대구경 포입니다.</VOSB_TARetaliator_Gun.description>
+  <VOSB_TurretCirnoBase.label>얼음 기둥</VOSB_TurretCirnoBase.label>
+  <VOSB_TurretCirnoBase.description>자칭 최강 요정의 얼음 기둥입니다. 실내에 설치시 냉방기능이 있습니다.</VOSB_TurretCirnoBase.description>
+  <VOSB_TurretCirnoBullet.label>얼음탄</VOSB_TurretCirnoBullet.label>
+  <VOSB_TurretCirnoGun.label>아이시클 머신건</VOSB_TurretCirnoGun.label>
+  <VOSB_TurretCirnoGun.description>포탑에 장착하기 위해 만든 간단한 자동화기 입니다.</VOSB_TurretCirnoGun.description>
+  <VOSB_TurretMarisa.label>스타더스트 필드</VOSB_TurretMarisa.label>
+  <VOSB_TurretMarisa.description>지극히 평범한 마법사의 탄막 필드.</VOSB_TurretMarisa.description>
+  <VOSB_MarisaTurretBullet.label>별탄</VOSB_MarisaTurretBullet.label>
+  <VOSB_MarisaTurretGun.label>스타더스트 레버리</VOSB_MarisaTurretGun.label>
+  <VOSB_MarisaTurretGun.description>포탑에 장착하기 위해 만든 간단한 자동화기 입니다.</VOSB_MarisaTurretGun.description>
+  <VOSB_TurretMarisaBGMmute.label>스타더스트 필드(BGM 없음)</VOSB_TurretMarisaBGMmute.label>
+  <VOSB_TurretMarisaBGMmute.description>지극히 평범한 마법사의 탄막 필드.</VOSB_TurretMarisaBGMmute.description>
+  <VOSB_TurretSakuyaTW.label>사쿠야의 세계</VOSB_TurretSakuyaTW.label>
+  <VOSB_TurretSakuyaTW.description>그녀는 열심히 나이프를 놓는중입니다.</VOSB_TurretSakuyaTW.description>
+  <VOSB_TurretSakuyaTWBullet.label>나이프탄</VOSB_TurretSakuyaTWBullet.label>
+  <VOSB_TurretSakuyaTWGun.label>살인 인형</VOSB_TurretSakuyaTWGun.label>
+  <VOSB_TurretSakuyaTWGun.description>포탑에 장착하기 위해 만든 간단한 자동화기 입니다.</VOSB_TurretSakuyaTWGun.description>
+  <VOSB_TurretSakuya.label>타임스토퍼의 필드</VOSB_TurretSakuya.label>
+  <VOSB_TurretSakuya.description>홍마관 메이드장의 탄막 필드.</VOSB_TurretSakuya.description>
+  <VOSB_SakuyaTurretBullet.label>스펠카드 공격</VOSB_SakuyaTurretBullet.label>
+  <VOSB_SakuyaTurretGun.label>살인 인형</VOSB_SakuyaTurretGun.label>
+  <VOSB_SakuyaTurretGun.description>포탑에 장착하기 위해 만든 간단한 자동화기 입니다.</VOSB_SakuyaTurretGun.description>
+  <VOSB_TurretSakuyaBGMmute.label>타임스토퍼의 필드(BGM 없음)</VOSB_TurretSakuyaBGMmute.label>
+  <VOSB_TurretSakuyaBGMmute.description>홍마관 메이드장의 탄막 필드.</VOSB_TurretSakuyaBGMmute.description>
+  <VOSB_TurretYukari.label>탄막결계 필드</VOSB_TurretYukari.label>
+  <VOSB_TurretYukari.description>스키마 요괴의 탄막 필드.</VOSB_TurretYukari.description>
+  <VOSB_YukariTurretBullet.label>비늘탄</VOSB_YukariTurretBullet.label>
+  <VOSB_YukariTurretGun.label>탄막결계</VOSB_YukariTurretGun.label>
+  <VOSB_YukariTurretGun.description>포탑에 장착하기 위해 만든 간단한 자동화기 입니다.</VOSB_YukariTurretGun.description>
+  <VOSB_TurretYukariBGMmute.label>탄막결계 필드(BGM 없음)</VOSB_TurretYukariBGMmute.label>
+  <VOSB_TurretYukariBGMmute.description>스키마 요괴의 탄막 필드.</VOSB_TurretYukariBGMmute.description>
+  <VOSB_TurretKagerouBase.label>루가루의 그림자</VOSB_TurretKagerouBase.label>
+  <VOSB_TurretKagerouBase.description>죽림의 웨어울프의 그림자입니다. 그녀의 포효는 적들이 쫄아서 ㅌㅌ하게 만듭니다.</VOSB_TurretKagerouBase.description>
+  <VOSB_TurretKagerouBullet.label>몸통박치기</VOSB_TurretKagerouBullet.label>
+  <VOSB_TurretKagerouGun.label>피에 굶주린 울프 팽</VOSB_TurretKagerouGun.label>
+  <VOSB_TurretKagerouGun.description>포탑에 장착하기 위해 만든 간단한 자동화기 입니다.</VOSB_TurretKagerouGun.description>
+  <VOSB_TurretOrinBase.label>사토리의 애완 카샤</VOSB_TurretOrinBase.label>
+  <VOSB_TurretOrinBase.description>시체와 지극히 기묘한 댄스를 좋아하는 지저에 사는 고양이입니다.</VOSB_TurretOrinBase.description>
+  <VOSB_TurretOrinBullet.label>원시의 바늘</VOSB_TurretOrinBullet.label>
+  <VOSB_TurretOrinGun.label>옛 지옥의 바늘산</VOSB_TurretOrinGun.label>
+  <VOSB_TurretOrinGun.description>포탑에 장착하기 위해 만든 간단한 자동화기 입니다.</VOSB_TurretOrinGun.description>
+  <Turret_Megalith.label>레플리카 메갈리스</Turret_Megalith.label>
+  <Turret_Megalith.description>축소모형화된 결전병기 시설입니다. 내장된 해킹 장비로 작동시킨 군용 위성들을 가지고 궤도상의 소행성들을 건드려 지표면으로 낙하시킵니다.</Turret_Megalith.description>
+  <Bullet_Megalith.label>운석폭격 신호</Bullet_Megalith.label>
+  <Gun_Megalith.label>메갈리스 레이저 표적 지시기</Gun_Megalith.label>
+  <Gun_Megalith.description>포탑에 장착하기 위해 만든 간단한 자동화기 입니다.</Gun_Megalith.description>
+  <Turret_MegalithBGMmute.label>레플리카 메갈리스(BGM 없음)</Turret_MegalithBGMmute.label>
+  <Turret_MegalithBGMmute.description>축소모형화된 결전병기 시설입니다. 내장된 해킹 장비로 작동시킨 군용 위성들을 가지고 궤도상의 소행성들을 건드려 지표면으로 낙하시킵니다.</Turret_MegalithBGMmute.description>
+  <VOSB_Shell_Flare.label>조명탄</VOSB_Shell_Flare.label>
+  <VOSB_Shell_Flare.description>조명탄으로 채운 포탄입니다. 박격포로 발사할 수 있습니다.</VOSB_Shell_Flare.description>
+  <VOSB_FlareSpawner.label>조명탄 발생기</VOSB_FlareSpawner.label>
+  <VOSB_Deployable_Flare.label>조명탄 발광체</VOSB_Deployable_Flare.label>
+  <VOSB_Deployable_Flare.description>일시적으로 광원을 제공하는 투하된 조명탄입니다.</VOSB_Deployable_Flare.description>
+  <Weapon_RVFireworks.label>폭죽다발</Weapon_RVFireworks.label>
+  <Weapon_RVFireworks.description>폭죽 발사대에 장전하는거지만 손으로 직접 발사할 수도 있습니다.</Weapon_RVFireworks.description>
+  <Weapon_RVFireworks.verbs.0.label>폭죽 발사</Weapon_RVFireworks.verbs.0.label>
+  <Proj_RVFireworks.label>폭죽</Proj_RVFireworks.label>
+  <VOSB_Roadrollercall.label>단발형 궤도 타격 질량체 조준기</VOSB_Roadrollercall.label>
+  <VOSB_Roadrollercall.description>목표지점에 초중량 질량체 투하를 요청합니다.</VOSB_Roadrollercall.description>
+  <VOSB_Bird.label>새</VOSB_Bird.label>
+  <VOSB_Bird.description>빡쳐보임.</VOSB_Bird.description>
+  <VOSB_BirdBullet.label>새</VOSB_BirdBullet.label>
+  <VOSB_Noteseven.label>노트 7</VOSB_Noteseven.label>
+  <VOSB_Noteseven.description>매우 가볍고 휴대하기 편한 폭발물.</VOSB_Noteseven.description>
+  <VOSB_Noteseven.verbs.0.label>폭발물 투척</VOSB_Noteseven.verbs.0.label>
+  <VOSB_NotesevenProje.label>노트 7</VOSB_NotesevenProje.label>
+  <VOSB_Overheatedbattery.label>과열된 소형 축전지</VOSB_Overheatedbattery.label>
+  <VOSB_Overheatedbattery.description>파지직..</VOSB_Overheatedbattery.description>
+  <VOSB_Overheatedbattery.verbs.0.label>축전지 투척</VOSB_Overheatedbattery.verbs.0.label>
+  <VOSB_OverheatedbatteryProje.label>과열된 축전지</VOSB_OverheatedbatteryProje.label>
+  <VOSB_MedivalSiegeWeapon.label>지극히 평범한 중세 공성병기</VOSB_MedivalSiegeWeapon.label>
+  <VOSB_MedivalSiegeWeapon.description>중세시대에 성채를 파괴하거나 양때들을 학살하는데 쓰였다는 크루즈 미사일입니다.</VOSB_MedivalSiegeWeapon.description>
+  <VOSB_MedivalSiegeWeaponproje.label>탄두</VOSB_MedivalSiegeWeaponproje.label>
+  <VOSB_LauncherRocket.label>발사기 로켓</VOSB_LauncherRocket.label>
+  <VOSB_LauncherRocket.description>단발의 대형 폭발성 로켓을 발사하는 일회용 무장. 소수의 중무장한 적에게 효과적입니다.\n\n이 무기는 다루기 힘들고, 일회용이며, 엄청난 파괴력을 지녔습니다.</VOSB_LauncherRocket.description>
+  <VOSB_LauncherRocket.tools.0.label>총열</VOSB_LauncherRocket.tools.0.label>
+  <VOSB_LauncherRocketBullet.label>발사기 로켓</VOSB_LauncherRocketBullet.label>
+  <VOSB_Pikachu.label>피카츄</VOSB_Pikachu.label>
+  <VOSB_Pikachu.description>피카! 피카!</VOSB_Pikachu.description>
+  <VOSB_PikachuBullet.label>10만볼트</VOSB_PikachuBullet.label>
+  <VOSB_PikachuGun.label>전기 주머니</VOSB_PikachuGun.label>
+  <VOSB_PikachuGun.description>포탑에 부착하도록 설계된 자동 장전식 대구경 포입니다.</VOSB_PikachuGun.description>
+  <VOSB_Pocketball.label>몬스터볼</VOSB_Pocketball.label>
+  <VOSB_Pocketball.description>한시적으로 전투를 지원해주는 피카츄를 소환합니다.</VOSB_Pocketball.description>
+  <VOSB_Pocketballproje.label>몬스터볼</VOSB_Pocketballproje.label>
+  <VOSB_Orbcard.label>구체 카드</VOSB_Orbcard.label>
+  <VOSB_Orbcard.description>순수한 파괴 마법의 구체를 생성합니다. 다른 투사체들과 비교해서 이 구체는 느리게 날아갑니다. 구체는 목표 지점에 정확하게 날아가지만 느린 속도와 높은 관성때문에 민첩한 적은 피할 수도 있습니다.</VOSB_Orbcard.description>
+  <VOSB_Crowbar.label>떠다니는 무기</VOSB_Crowbar.label>
+  <VOSB_Crowbar.description>어떤 전설적인 무기의 형상체</VOSB_Crowbar.description>
+  <VOSB_CrowbarBullet.label>무기 강타</VOSB_CrowbarBullet.label>
+  <VOSB_CrowbarGun.label>소환된 무기</VOSB_CrowbarGun.label>
+  <VOSB_CrowbarGun.description>포탑에 부착하도록 설계된 자동 장전식 대구경 포입니다.</VOSB_CrowbarGun.description>
+  <VOSB_SummonScroll.label>떠다니는 무기 소환 두루마리</VOSB_SummonScroll.label>
+  <VOSB_SummonScroll.description>한시적으로 전투를 지원해주는 떠다니는 근접 무기를 소환합니다.</VOSB_SummonScroll.description>
+  <VOSB_SummonScrollproje.label>두루마리 스펠 시전</VOSB_SummonScrollproje.label>
+  <VOSB_Fulminantprism.label>폭발성 프리즘</VOSB_Fulminantprism.label>
+  <VOSB_Fulminantprism.description>파괴 에너지로 가득찬 얇은 프리즘. 이것의 깨지기 쉬운 표면을 강타하면 난폭한 폭발을 일으킵니다.</VOSB_Fulminantprism.description>
+  <VOSB_Fulminantprismthrow.label>폭발성 프리즘</VOSB_Fulminantprismthrow.label>
+  <VOSB_Fulminantprismthrow.description>파괴될시 폭발을 일으키는 프리즘을 투척합니다.</VOSB_Fulminantprismthrow.description>
+  <VOSB_Fulminantprismthrowproje.label>프리즘 투척</VOSB_Fulminantprismthrowproje.label>
+  <VOSB_VolgaLauncher.label>박사 발사기</VOSB_VolgaLauncher.label>
+  <VOSB_VolgaLauncher.description>박사님, 용서해주십시오!</VOSB_VolgaLauncher.description>
+  <VOSB_VolgaLauncher.tools.0.label>총열</VOSB_VolgaLauncher.tools.0.label>
+  <VOSB_VolgaLauncherproje.label>박사</VOSB_VolgaLauncherproje.label>
+  <VOSB_KagerouSummongem.label>웨어울프 소환석 만들기</VOSB_KagerouSummongem.label>
+  <VOSB_KagerouSummongem.description>한시적으로 전투를 지원해주는 웨어울프를 소환합니다.</VOSB_KagerouSummongem.description>
+  <VOSB_KagerouSummonGemproje.label>웨어울프 소환중</VOSB_KagerouSummonGemproje.label>
+  <VOSB_OrinGiftReceipt.label>선물 내역서</VOSB_OrinGiftReceipt.label>
+  <VOSB_OrinGiftReceipt.description>시체 선물 ㄳ!</VOSB_OrinGiftReceipt.description>
+  <VOSB_OrinSummonScroll.label>지옥고양이 호출기</VOSB_OrinSummonScroll.label>
+  <VOSB_OrinSummonScroll.description>한시적으로 전투를 지원해주는 지옥고양이를 소환합니다.</VOSB_OrinSummonScroll.description>
+  <VOSB_OrinSummonScrollproje.label>지옥고양이 소환중</VOSB_OrinSummonScrollproje.label>
+  <VOSB_Flarestick.label>막대형 조명탄</VOSB_Flarestick.label>
+  <VOSB_Flarestick.description>투척지점에 일시적인 광원을 생성합니다.</VOSB_Flarestick.description>
+  <VOSB_flarecreatorhand.label>조명탄 발생기</VOSB_flarecreatorhand.label>
+
+</LanguageData>

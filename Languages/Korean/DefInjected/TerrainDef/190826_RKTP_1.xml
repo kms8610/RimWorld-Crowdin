@@ -464,10 +464,6 @@
   <CorpseBuriedSoil.label>피 토양</CorpseBuriedSoil.label>
   <CorpseBuriedSoil.description>피에 젖은 땅. 작물은 175%의 성장속도를 얻게 됩니다</CorpseBuriedSoil.description>
 
-  <!--725471844_190814_Project Fallout-->
-  <PFVaultFloor.label>볼트 바닥 타일</PFVaultFloor.label>
-  <PFVaultFloor.description>눈을 즐겁게 해주는 동시에 청결도 쉽게 유지할 수 있으며, 방사선을 차단하기 위해 만들어진 두꺼운 금속 바닥입니다.</PFVaultFloor.description>
-
   <!--725576127_190626_Glitter Tech-->
   <TitaniumTile.label>티타늄 타일</TitaniumTile.label>
   <TitaniumTile.description>번화계에서 사용하는 티타늄으로 만든 타일입니다.</TitaniumTile.description>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <FireAround.reportString>불을 지피다</FireAround.reportString>
+  <UseGeoscape.reportString>원자로를 운반한다</UseGeoscape.reportString>
+  <DeEnergizeDoomsdayBomb.reportString>무기의 에너지장을 비활성화</DeEnergizeDoomsdayBomb.reportString>
+  <DisableSecuritySystems.reportString>보안 시스템을 비활성화</DisableSecuritySystems.reportString>
+  <SpeakWithQuester.reportString>퀘스트에 대해 토론.</SpeakWithQuester.reportString>
+  <SpeakWithPawn.reportString>통신</SpeakWithPawn.reportString>
+  <DestroyTribalCrack.reportString>going to blow up the tunnel</DestroyTribalCrack.reportString>
+  <CarryItemToCokeFurnace.reportString>carryies item to coke furnace</CarryItemToCokeFurnace.reportString>
+  <SwitchCokeFurnace.reportString>switches coke furnace</SwitchCokeFurnace.reportString>
+  <TakeResultFromCokeFurnace.reportString>takes thing from a coke furnace</TakeResultFromCokeFurnace.reportString>
+  <FillUpHole.reportString>fills the hole with earth</FillUpHole.reportString>
+  <DisableClimateBomb.reportString>지뢰 제거 폭탄</DisableClimateBomb.reportString>
+
+</LanguageData>

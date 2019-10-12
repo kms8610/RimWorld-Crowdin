@@ -2307,7 +2307,7 @@
   <RimHUD.Dialog_Config.Tab.Colors.Alpha>알파 값</RimHUD.Dialog_Config.Tab.Colors.Alpha>
   <RimHUD.Theme.HudAnchor>고정</RimHUD.Theme.HudAnchor>
   <RimHUD.Model.Age.Days>년 {0}일</RimHUD.Model.Age.Days>
-  <RimHUD.Model.Age.Day>그리고</RimHUD.Model.Age.Day>
+  <RimHUD.Model.Age.Day>년</RimHUD.Model.Age.Day>
   <RimHUD.Model.Component.SkillAnimals>조련 기술</RimHUD.Model.Component.SkillAnimals>
   <RimHUD.Alert.SetToDefault>설정을 기본값으로 되돌리시겠습니까?</RimHUD.Alert.SetToDefault>
   <RimHUD.Model.Component.Area>구역 선택기</RimHUD.Model.Component.Area>
@@ -2608,25 +2608,6 @@
   <GU_BME_Mechselection_Title>기승 가능한 메카노이드 선택</GU_BME_Mechselection_Title>
   <GU_BME_MountChance_Description>Mod 설정에서 변경할 수있는 각각의 메카노이도가 적에 의해 기승되는 확률입니다.</GU_BME_MountChance_Description>
   <GU_BME_Mechselection_Description>위의 신체사이즈로 분류를 사용하여 신체 사이즈로 필터링하고 타일을 클릭하여 예외를 설정합니다.</GU_BME_Mechselection_Description>
-
-  <!--1521844535_190816_RimWriter-->
-  <RimWriter_BookTitle>{1}의 {0}</RimWriter_BookTitle>
-  <RimWriter_GuideTitle>{0} 기술서</RimWriter_GuideTitle>
-  <RimWriter_GuideTitleWithAuthor>{0}의 {1} 기술서</RimWriter_GuideTitleWithAuthor>
-  <RimWriter_ApplySettings>설정 적용</RimWriter_ApplySettings>
-  <RimWriter_XSlotsForBooks>총 {0}권의 책을 보관할 수 있습니다.</RimWriter_XSlotsForBooks>
-  <RimWriter_CannotRead>{0}(을)를 읽을 수 없음.</RimWriter_CannotRead>
-  <RimWriter_ContainsXBooks>{0}권의 책이 들어있음</RimWriter_ContainsXBooks>
-  <RimWriter_ComplexRecipes>간단한 제작법 사용</RimWriter_ComplexRecipes>
-  <RimWriter_ComplexRecipesTip>간단한 제작법을 사용하면, 더 짧은 게임시간을 위해 책을 만드는 단계가 축소됩니다.</RimWriter_ComplexRecipesTip>
-  <RimWriter_RetrieveBookDesc>책장에서 특별한 책을 찾아서 꺼냅니다.</RimWriter_RetrieveBookDesc>
-  <RimWriter_Inventory>물품 목록</RimWriter_Inventory>
-  <RimWriter_DestroyDesc>{0}(을)를 전혀 존재하지 않았던 것처럼 신속하게 폐기합니다... 아마도 작은 쓰레기가 남을 것입니다.</RimWriter_DestroyDesc>
-  <RimWriter_Read>{0} 읽기</RimWriter_Read>
-  <RimWriter_RetrieveBook>책 찾기</RimWriter_RetrieveBook>
-  <RimWriter_NoInternalStorage>저장공간을 사용할 수 없음.</RimWriter_NoInternalStorage>
-  <RimWriter_GuideSkillDesc>이 특별한 기술서는 {0} 기술을 {1}의 효율로 설명합니다.</RimWriter_GuideSkillDesc>
-  <RimWriter_Destroy>폐기하기</RimWriter_Destroy>
 
   <!--1522429439_190628_Slave Outfits-->
   <SlaveOutfits.IndustrialEnabledTip>산업 시대에는 옷에 영향을 미치지 않고 연구만 합니다.</SlaveOutfits.IndustrialEnabledTip>
@@ -3320,88 +3301,6 @@
 
   <!--1565126717_181119_Shields-->
   <BLOCKED>막음</BLOCKED>
-
-  <!--1565942758_190818_Colony Leadership-->
-  <OnlyTeachIfSkill>"교사는 기술 등급이 {0}이상인 경우에만 가르칠 수 있습니다. 해당 교사와 관련된 기술:</OnlyTeachIfSkill>
-  <LeaderDied>{0} {1}(이)가 사망했습니다.</LeaderDied>
-  <LessonGathering>{0}의 수업이 준비중입니다. {1}가 교사 입니다. 관련 기술:</LessonGathering>
-  <RebellionLetterDesc>{0}(은)는 정착민들이 싫어하고 있으며, 대부분 지도자에서 물러나길 바랍니다.</RebellionLetterDesc>
-  <LeaderEndLetterDescArrested>{0}(은)는 더 이상 지도자가 아니며, 정착민들의 반역으로 체포되었습니다.</LeaderEndLetterDescArrested>
-  <LeaderEndLetterDesc>{0}(은)는 더 이상 대표가 아닙니다.</LeaderEndLetterDesc>
-  <RebelLetterDesc>{0}(은)는 원하지 않는 지도자를 체포하기 위해 선택된 사람입니다. HECAP은 기회가 된다면 대표림을 체포할 것입니다.</RebelLetterDesc>
-  <LeaderChosen>{0}(은)는 {1}으로 선택되었습니다.</LeaderChosen>
-  <LeaderElected>{0}(은)는 {1}으로 선출되었습니다.</LeaderElected>
-  <UnpopularM>지도자인 {0}의 평판이 낮아지고 있습니다. 그가 다른 정착민들에게 계속 경멸 당한다면, 그들은 반란을 시작하여 [PAWN_pronoun]의 힘으로써 끌어내릴 것입니다."</UnpopularM>
-  <ResignLetterText>정착지 정착민이 지도자에게 접근하여 사임을 요구합니다. 만약 [PAWN_pronoun]가 받아들인다면, HE 그는 곧 지도자에서 물러날 것이며, 한동안 선출 될 수 없습니다.</ResignLetterText>
-  <ScheduleText>아래 버튼을 눌러 지도자에게 교사를 임명합니다.\n수업 일정을 잡기위해 날짜를 클릭하세요.\n노란색은 임의의 지도자에게 할당됩니다.</ScheduleText>
-  <AttendingElectionDesc>선거 참여</AttendingElectionDesc>
-  <AverageOpinionAbout>이 지도자에 대한 평균 의견:</AverageOpinionAbout>
-  <AverageOpinion>나에 대한 평균적인 의견:</AverageOpinion>
-  <BlueTeacher>[파랑] 교사:</BlueTeacher>
-  <BuildBallotBox>투표함을 만들어 정착민을 지도자로 선출할 수 있습니다.</BuildBallotBox>
-  <UnlikedLeader>주의: 이 지도자는 정착민들이 별로 좋아하지 않습니다.</UnlikedLeader>
-  <IgnoreLectures>수업에 참석하지 않을 정착민을 고릅니다:</IgnoreLectures>
-  <ChooseLeader>다음 목록에서 지도자로 원하는 정착민을 선택하세요:</ChooseLeader>
-  <ChooseGov>정착지가 가질 정치유형을 선택하세요:</ChooseGov>
-  <DemocracyDesc>유권자들은 지도자들에게 투표를 합니다. 각 지도부에 대한 권한은 1년입니다.</DemocracyDesc>
-  <SkillSet3>건설, 제작 또는 예술.</SkillSet3>
-  <ElectionFail_ColonistsNotFound>선거를 시작할 정착민을 찾을 수 없었습니다. 다음과 같은 원인이 될 수 있습니다: 정착민 수면 중, 배고픔, 또는 건강상의 문제들에 의해 발생할 수 있습니다.</ElectionFail_ColonistsNotFound>
-  <SeasonDays>계절별 일정:</SeasonDays>
-  <Democracy>민주주의</Democracy>
-  <Dictator>독재자 -</Dictator>
-  <Dictatorship>독재정치</Dictatorship>
-  <DontResign>시작하지 않는다</DontResign>
-  <Election>선거</Election>
-  <BallotDescription>\n선거가 일어나는 날: 1일, 7일, 15일.\n필요한 경우에만 발생합니다.\n마지막 선거:</BallotDescription>
-  <ElectionFail_NoDemocracy>이 정착지는 민주주의가 아니기 때문에 선거는 일어나지 않을 것입니다.</ElectionFail_NoDemocracy>
-  <BallotDescriptionDisabled>\n선거가 일어나지 않을 것입니다.\n\n마지막 선거:</BallotDescriptionDisabled>
-  <EnableElections>선거 활성화</EnableElections>
-  <FinishLessonDesc>끝마치는 중.</FinishLessonDesc>
-  <SkillSet1>재배, 의학 또는 교련.</SkillSet1>
-  <EnableElectionsDesc>비활성화 된 경우, 선거는 일어나지 않습니다.</EnableElectionsDesc>
-  <IgnoreList>수업 무시</IgnoreList>
-  <Leader>지도자 -</Leader>
-  <LeaderEndLetterArrested>지도자 체포됨</LeaderEndLetterArrested>
-  <ElectionFail_Disaster>지도자 선거가 취소 되었습니다! 무언가 안좋은 일이 일어났습니다.</ElectionFail_Disaster>
-  <LeaderLevel>지도자 등급:</LeaderLevel>
-  <LeadershipTab>리더십</LeadershipTab>
-  <LeaderEndLetter>임기 종료</LeaderEndLetter>
-  <LessonSchedule>수업 일정표</LessonSchedule>
-  <LessonStart>수업 시간:</LessonStart>
-  <NewLeaderLetterTitle>새로운 {0}</NewLeaderLetterTitle>
-  <NoColonistAbleLeader>이 정착민은 리더가 될 수 없습니다.</NoColonistAbleLeader>
-  <ChooseLeader_NoAbleColonists>사교관련 작업을 할 수 없는 정착민이라 지도자가 될 수 없습니다.</ChooseLeader_NoAbleColonists>
-  <NoTeacherSelected>선택된 교사가 없습니다. 다시 확인해주세요.</NoTeacherSelected>
-  <ElectionNoAttendees>아무도 선거에 참석하지 않았습니다.</ElectionNoAttendees>
-  <NoneL>없음</NoneL>
-  <OnlyOnePerColony>{0}(은)는 정착지당 한개만 설치 가능합니다</OnlyOnePerColony>
-  <RebelLetter>반역자!</RebelLetter>
-  <Rebellion>반란</Rebellion>
-  <RebellionLetter>반란!</RebellionLetter>
-  <RedTeacher>[빨강] 교사:</RedTeacher>
-  <SkillSet4>과학.</SkillSet4>
-  <Resign>시작</Resign>
-  <ResignationProposal>사임 제안</ResignationProposal>
-  <Schedule>일정표</Schedule>
-  <SetDictator>독재자 설정</SetDictator>
-  <SkillSet2>사격 또는 격투.</SkillSet2>
-  <TeacherDownedDead>교사가 기절했거나 죽었습니다.</TeacherDownedDead>
-  <TeacherDrafted>교사가 소집 중입니다. 다시 시도해주세요.</TeacherDrafted>
-  <TeacherUnavailable>교사는 사용할 수 없습니다.</TeacherUnavailable>
-  <TeachingDesc>가르치는 중.</TeachingDesc>
-  <ElectionGathering>정착민들이 새로운 지도자를 투표하기 위해 모였습니다.</ElectionGathering>
-  <MustWaitForLesson>새로운 수업을 진행하기 위해 하루를 기다려야 합니다.</MustWaitForLesson>
-  <DictatorshipDesc>정착민 한명을 선택하여 정착지를 통치하게 합니다. 독재자가 사망할 때 지도력도 끝나게 됩니다.</DictatorshipDesc>
-  <ElectionFinished>선거가 끝났습니다.</ElectionFinished>
-  <LessonFinished>수업이 끝났습니다.</LessonFinished>
-  <MustHaveSkill>선택된 교사는 최소한 다음 기술 중 하나에서 등급 {0}을 가져야 합니다.:</MustHaveSkill>
-  <TeacherUnavailableNamed>교사는 {0}(을)를 사용할 수 없습니다.</TeacherUnavailableNamed>
-  <TeacherTableReserved>이 교육 테이블은 이미 다른 수업이 예약되어 있습니다. 다시 시도해주세요.</TeacherTableReserved>
-  <OnlyOnce>이 기능은 단 한번만 제공됩니다. 신중하게 선택하세요.</OnlyOnce>
-  <TimeLeftL>남은 기간:</TimeLeftL>
-  <ElectionFail_NoAbleLeader>선거를 시작하려고 했지만 어떠한 정착민도 지도자가 될 수 없었습니다. 충분한 스킬 레벨이 필요하다는걸 기억하세요.</ElectionFail_NoAbleLeader>
-  <WaitingDesc>수업시작 기다리는 중.</WaitingDesc>
-  <UnpopularLeader>경고: 이 지도자는 매우 평판이 나쁩니다. 정착민들이 반란을 일으키고 지도자를 체포할지도 모릅니다!</UnpopularLeader>
 
   <!--1566269698_181119_Survival Tools-->
   <ColonistNeedsSurvivalTool>식민지 주민들은 도구가 없다.</ColonistNeedsSurvivalTool>
@@ -5140,97 +5039,6 @@
   <StarVampireIncidentMessage2>킥킥, 조롱섞인 웃음소리가 다시한번 들립니다. 빨리 준비하세요.</StarVampireIncidentMessage2>
   <cosmicHorrorEventsDelayObjectDesc>이 설정은 우주의 참상 이벤트를 X일 동안 지속시킵니다.</cosmicHorrorEventsDelayObjectDesc>
   <CommandPitSacrificeDesc>희망에 따라 괴물을 만족시키기 위해 죄수를 구덩이에 던지세요.</CommandPitSacrificeDesc>
-
-  <!--812653710_181101_Power Logic-->
-  <PowerLogic.CurrentNegLabel>음의 전력량에 활성화</PowerLogic.CurrentNegLabel>
-  <PowerLogic.CurrentPosLabel>양의 전력량에 활성화</PowerLogic.CurrentPosLabel>
-  <PowerLogic.InductorAdaptiveDraw>가변 전력 인출</PowerLogic.InductorAdaptiveDraw>
-  <PowerLogic.DoorProfileAddTo>프로파일 추가</PowerLogic.DoorProfileAddTo>
-  <PowerLogic.DoorProfileAddTo1>주 채널 프로파일 추가</PowerLogic.DoorProfileAddTo1>
-  <PowerLogic.DoorProfileAddTo2>보조 채널 프로파일 추가</PowerLogic.DoorProfileAddTo2>
-  <PowerLogic.DoorUnforbid>문 허가</PowerLogic.DoorUnforbid>
-  <PowerLogic.InductorForcedOverDraw>초과 인출 항상 허용</PowerLogic.InductorForcedOverDraw>
-  <PowerLogic.AndGateDesc>AND 게이트는 두 전력원이 인접한 입력 소켓에 연결되면 전력을 통과시킵니다. 연결 스위치와 비슷하지만, 이 스위치는 전력원을 구분한다는 점이 다릅니다.</PowerLogic.AndGateDesc>
-  <PowerLogic.XorGateDesc>배타적 논리합(XOR) 게이트는 둘 중 하나의 전력원이 연결되면 전력을 통과시키고, 두 입력값이 동일한 경우(둘 다 켜짐 또는 둘 다 꺼짐) 전력을 통과시키지 않습니다.</PowerLogic.XorGateDesc>
-  <PowerLogic.OrGateDesc>OR 게이트는 입력 소켓에 최소 하나의 전력원이 연결되면 전력을 통과시킵니다.</PowerLogic.OrGateDesc>
-  <PowerLogic.AndGate>AND 게이트</PowerLogic.AndGate>
-  <PowerLogic.CutoffRange>축전지 차단/쿨다운 범위 {0}</PowerLogic.CutoffRange>
-  <PowerLogic.DoorChannelSwitch>채널 변경</PowerLogic.DoorChannelSwitch>
-  <PowerLogic.DoorChannelSwitch1>주 채널 변경</PowerLogic.DoorChannelSwitch1>
-  <PowerLogic.DoorChannelSwitch2>보조 채널 변경</PowerLogic.DoorChannelSwitch2>
-  <PowerLogic.RadioChannelDown>채널 내리기</PowerLogic.RadioChannelDown>
-  <PowerLogic.RadioChannelUp>채널 올리기</PowerLogic.RadioChannelUp>
-  <PowerLogic.DoorAddCloseAction>문 닫기</PowerLogic.DoorAddCloseAction>
-  <PowerLogic.DoorWaitMode1>수신중 지속</PowerLogic.DoorWaitMode1>
-  <PowerLogic.RadioCurrentChannel>현재 채널: {0}</PowerLogic.RadioCurrentChannel>
-  <PowerLogic.CurrnetLight>현재 밝기: {0}</PowerLogic.CurrnetLight>
-  <PowerLogic.HeatCurrentTemp>현재 온도 {0}</PowerLogic.HeatCurrentTemp>
-  <PowerLogic.SensorRangeDown>센서 범위 감소</PowerLogic.SensorRangeDown>
-  <PowerLogic.DoorDelay>지연시간: {0} 초</PowerLogic.DoorDelay>
-  <PowerLogic.InductorDesiredDraw>희망 전력 인출: {0} W</PowerLogic.InductorDesiredDraw>
-  <PowerLogic.ReceiverDetectSignal>감지됨 - {0}</PowerLogic.ReceiverDetectSignal>
-  <PowerLogic.IFFFriendlyOff>아군에 켜지지 않음</PowerLogic.IFFFriendlyOff>
-  <PowerLogic.IFFFoeOff>적군에 켜지지 않음</PowerLogic.IFFFoeOff>
-  <PowerLogic.InductorDrawCompensator>인출 변경 보상: {0}</PowerLogic.InductorDrawCompensator>
-  <PowerLogic.Entanglement>얽힘</PowerLogic.Entanglement>
-  <PowerLogic.EntanglementState>{0}(와)과 얽힘</PowerLogic.EntanglementState>
-  <PowerLogic.DoorForbid>문 금지</PowerLogic.DoorForbid>
-  <PowerLogic.HighBatCutOff>높은 축전지 차단, 낮은 축전지 활성화</PowerLogic.HighBatCutOff>
-  <PowerLogic.SensorRangeUp>센서 범위 증가</PowerLogic.SensorRangeUp>
-  <PowerLogic.InductorTab>유도자</PowerLogic.InductorTab>
-  <PowerLogic.DayNightCutoffLabel>밝기 기준 방향</PowerLogic.DayNightCutoffLabel>
-  <PowerLogic.TargetLight>밝기 기준: {0}</PowerLogic.TargetLight>
-  <PowerLogic.ReceiverListening>신호 감지 중:</PowerLogic.ReceiverListening>
-  <PowerLogic.LowBatCutOff>낮은 축전지 차단, 높은 축전기 활성화</PowerLogic.LowBatCutOff>
-  <PowerLogic.LightDownLabel>밝기 기준 감소</PowerLogic.LightDownLabel>
-  <PowerLogic.DoorMacro>매크로</PowerLogic.DoorMacro>
-  <PowerLogic.ReceiverInactive>신호 수신하고 있지 않음/비활성화됨</PowerLogic.ReceiverInactive>
-  <PowerLogic.OnAboveTarget>이상을 목표로</PowerLogic.OnAboveTarget>
-  <PowerLogic.OnBelowTarget>이하를 목표로</PowerLogic.OnBelowTarget>
-  <PowerLogic.DoorAddOpenAction>문 열기</PowerLogic.DoorAddOpenAction>
-  <PowerLogic.OrGate>OR 게이트</PowerLogic.OrGate>
-  <PowerLogic.InductorOverDraw>초과 인출: {0}</PowerLogic.InductorOverDraw>
-  <PowerLogic.InductorPositiveOnly>초과 인출 금지</PowerLogic.InductorPositiveOnly>
-  <PowerLogic.InductorLimiter>전력 인출 한도</PowerLogic.InductorLimiter>
-  <PowerLogic.DoorFlickOff>전원 끄기</PowerLogic.DoorFlickOff>
-  <PowerLogic.LightUpLabel>밝기 기준 증가</PowerLogic.LightUpLabel>
-  <PowerLogic.BeamerReconnectLabel>유도자 재연결</PowerLogic.BeamerReconnectLabel>
-  <PowerLogic.BeamerReconnectDesc>이 유도 발신기를 다른 유도 수신기 코일에 재연결합니다.</PowerLogic.BeamerReconnectDesc>
-  <PowerLogic.InductorReconnectDesc>이 유도 수신기를 다른 유도 발신기 코일에 재연결합니다.</PowerLogic.InductorReconnectDesc>
-  <PowerLogic.DoorProfileSubFrom>프로파일 제거</PowerLogic.DoorProfileSubFrom>
-  <PowerLogic.DoorProfileSubFrom1>주 채널 프로파일 제거</PowerLogic.DoorProfileSubFrom1>
-  <PowerLogic.DoorProfileSubFrom2>보조 채널 프로파일 제거</PowerLogic.DoorProfileSubFrom2>
-  <PowerLogic.DoorSetPriority>프로파일 우선도 설정</PowerLogic.DoorSetPriority>
-  <PowerLogic.CutoffSettings>설정</PowerLogic.CutoffSettings>
-  <PowerLogic.BatShortRange>범위 감소</PowerLogic.BatShortRange>
-  <PowerLogic.InductorStaticDraw>고정 전력 인출</PowerLogic.InductorStaticDraw>
-  <PowerLogic.InductorLimiterDesc>유도 수신기가 유도 송신기로부터 이 만큼의 전력량을 얻으려 할 것입니다.</PowerLogic.InductorLimiterDesc>
-  <PowerLogic.InductorStaticDrawDesc>유도 수신기가 정해진 양의 전력을 발신기 코일에서 끌어올 수 있도록 허용합니다. 유도자가 항상 전력을 제공하지 않는 논리 회로에 유용합니다.</PowerLogic.InductorStaticDrawDesc>
-  <PowerLogic.InductorAdaptiveDrawDesc>유도자가 현재 연결된 전력 네트워크의 전력 필요량에 맞게 희망 전력량을 변경하도록 허용합니다. 전력 필요량이 변동하는 전략 네트워크에 유용합니다. 전력망 내의 모든 유도 수신기에 희망 전력량을 분배하는 점을 참고하십시오.</PowerLogic.InductorAdaptiveDrawDesc>
-  <PowerLogic.RadioChannelUpDesc>장치가 송수신하는 무선 전파 대역을 더 높은 채널 주파수로 변경합니다. 유효 채널은 {0} 에서 {1} 사이입니다.</PowerLogic.RadioChannelUpDesc>
-  <PowerLogic.RadioChannelDownDesc>장치가 송수신하는 무선 전파 대역을 더 낮은 채널 주파수로 변경합니다. 유효 채널은 {0} 에서 {1} 사이입니다.</PowerLogic.RadioChannelDownDesc>
-  <PowerLogic.SensorRangeDownDesc>근접 센서의 감지 범위를 감소시킵니다. 전력이 절약됩니다.</PowerLogic.SensorRangeDownDesc>
-  <PowerLogic.InductorOverDrawDesc>희망 전력량을 증가시킵니다. 수신 전력망의 축전지를 충전하거나 전력 보상이 작동하기 전에 전력량이 요동치는 것을 예방할 때 유용합니다. 참고로 축전지들이 효율적으로 충전되면 초과 인출은 희망 전력량에 적용되지 않습니다. 둘 이상의 유도자가 같은 네트워크에 있을 경우, 최대 초과 인출량은 유도자의 초과 인출량을 상한으로 분배될 것입니다.</PowerLogic.InductorOverDrawDesc>
-  <PowerLogic.InductorDrawCompensatorDesc>예를 들어 태양광 발전기가 빛을 잃었을 때와 같이 짧은 시간동안 전력 네트워크의 전력 요구량이 추가로 필요할 때 장치들이 꺼지는 것을 방지하기 위해 추가로 공급될 전력량을 증가시킵니다.</PowerLogic.InductorDrawCompensatorDesc>
-  <PowerLogic.SensorRangeUpDesc>근접 센서의 감지 범위를 증가시키지만, 더 많은 전력을 필요로 합니다</PowerLogic.SensorRangeUpDesc>
-  <PowerLogic.LightDownDesc>스위치가 켜지는 밝기 기준을 감소시킵니다</PowerLogic.LightDownDesc>
-  <PowerLogic.LightUpDesc>스위치가 켜지는 밝기 기준을 증가시킵니다</PowerLogic.LightUpDesc>
-  <PowerLogic.DayNightCutoffDesc>밝기 기준보다 높을 때 또는 낮을 때 스위치가 켜질지를 설정합니다.</PowerLogic.DayNightCutoffDesc>
-  <PowerLogic.InductorForcedOverDrawDesc>전력이 필요한 장치가 연결되어 있지 않아도 초과 인출을 강제로 항상 활성화합니다.</PowerLogic.InductorForcedOverDrawDesc>
-  <PowerLogic.EntangleConfirm>이 스위치를 {0}(와)과 영구히 연결합니다. 진행하시겠습니까?</PowerLogic.EntangleConfirm>
-  <PowerLogic.DoorWaitMode>대기 모드 설정</PowerLogic.DoorWaitMode>
-  <PowerLogic.TrasmitterSending>송신중</PowerLogic.TrasmitterSending>
-  <PowerLogic.IFFFriendlyOn>아군에 켜짐</PowerLogic.IFFFriendlyOn>
-  <PowerLogic.IFFFoeOn>적군에 켜짐</PowerLogic.IFFFoeOn>
-  <PowerLogic.HeatTriggerAbove>{0} 보다 높으면 켜짐</PowerLogic.HeatTriggerAbove>
-  <PowerLogic.HeatTriggerBelow>{0} 보다 낮으면 켜짐</PowerLogic.HeatTriggerBelow>
-  <PowerLogic.TrasmitterInactive>전원 없음: 비활성화됨</PowerLogic.TrasmitterInactive>
-  <PowerLogic.ReceiverDetectBounce>{0}(을)를 경유</PowerLogic.ReceiverDetectBounce>
-  <PowerLogic.DoorWaitMode2>수신중 대기</PowerLogic.DoorWaitMode2>
-  <PowerLogic.NoBeamer>경고, 효과 없음, 수신기가 송신기에 연결되어 있지 않음.</PowerLogic.NoBeamer>
-  <PowerLogic.InductorPositiveOnlyDesc>체크되면, 송신기는 축전지에서 전력을 끌어내지 않고, 현재 전력량 안에서 평형을 형성하려고 할 것입니다. 참고로 둘 이상의 유도자가 같은 망에 연결되어 있을 경우, 망 내의 송신기가 있는 모든 유도자에 적용될 것입니다.</PowerLogic.InductorPositiveOnlyDesc>
-  <PowerLogic.SignalStatus>무선 상태</PowerLogic.SignalStatus>
-  <PowerLogic.XorGate>XOR 게이트</PowerLogic.XorGate>
 
   <!--815039373_181117_Call of Cthulhu - Cults-->
   <SacrificeFailMessage40>40</SacrificeFailMessage40>

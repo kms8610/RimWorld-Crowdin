@@ -1,7 +1,7 @@
-﻿scroll
+﻿두루마리
 
-scripture
-parchment
-document
-manuscript
-roll
+경전
+양피지
+문서
+원고
+명부

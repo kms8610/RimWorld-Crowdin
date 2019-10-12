@@ -150,11 +150,6 @@
   <ASDoBillsShoppingLists.verb>인쇄합니다.</ASDoBillsShoppingLists.verb>
   <ASDoBillsShoppingLists.gerund>인쇄하는 중.</ASDoBillsShoppingLists.gerund>
 
-  <!--1442734859_181113_Archotech Expanded-->
-  <DoBillsBasicArchotechWorkbench.label>초월공학 물건 제작</DoBillsBasicArchotechWorkbench.label>
-  <DoBillsBasicArchotechWorkbench.gerund>초월공학 물건 제작중:</DoBillsBasicArchotechWorkbench.gerund>
-  <DoBillsBasicArchotechWorkbench.verb>초월공학 물건 제작하기</DoBillsBasicArchotechWorkbench.verb>
-
   <!--1496570408_181117_VGP Garden Canning-->
   <DoBillsCanningMachine.label>음식 통조림</DoBillsCanningMachine.label>
   <DoBillsCanningMachine.verb>밀봉</DoBillsCanningMachine.verb>
@@ -203,17 +198,6 @@
   <PerformRoofMaintenance.label>지붕 보수 작업</PerformRoofMaintenance.label>
   <PerformRoofMaintenance.verb>지붕 보수 작업</PerformRoofMaintenance.verb>
   <PerformRoofMaintenance.gerund>지붕 보수 작업</PerformRoofMaintenance.gerund>
-
-  <!--1521844535_190816_RimWriter-->
-  <DoBillsPapermaking.label>만들기</DoBillsPapermaking.label>
-  <DoBillsPapermaking.verb>만들기</DoBillsPapermaking.verb>
-  <DoBillsPapermaking.gerund>만드는 중</DoBillsPapermaking.gerund>
-  <RimWriter_ReturnBooks.verb>책 반납</RimWriter_ReturnBooks.verb>
-  <RimWriter_ReturnBooks.label>책 반납</RimWriter_ReturnBooks.label>
-  <RimWriter_ReturnBooks.gerund>책 반납하는 중</RimWriter_ReturnBooks.gerund>
-  <DoBillsWrite.label>글쓰기</DoBillsWrite.label>
-  <DoBillsWrite.verb>글쓰기</DoBillsWrite.verb>
-  <DoBillsWrite.gerund>글쓰는 중</DoBillsWrite.gerund>
 
   <!--1522429439_190628_Slave Outfits-->
   <MakeSlaveOutfits.verb>제작</MakeSlaveOutfits.verb>
@@ -594,11 +578,6 @@
   <DoBillsCookWoodStoveFurnace.verb>조리</DoBillsCookWoodStoveFurnace.verb>
   <DoBillsCookWoodStoveFurnace.label>장작 난로에서 조리</DoBillsCookWoodStoveFurnace.label>
   <DoBillsCookWoodStoveFurnace.gerund>조리 중</DoBillsCookWoodStoveFurnace.gerund>
-
-  <!--812653710_181101_Power Logic-->
-  <PowerLogicFlickChannel.label>채널 돌리기</PowerLogicFlickChannel.label>
-  <PowerLogicFlickChannel.verb>채널 돌리기</PowerLogicFlickChannel.verb>
-  <PowerLogicFlickChannel.gerund>채널 돌리는 중</PowerLogicFlickChannel.gerund>
 
   <!--815039373_181117_Call of Cthulhu - Cults-->
   <ROM_InvestigateMysteriousObject.label>조사</ROM_InvestigateMysteriousObject.label>

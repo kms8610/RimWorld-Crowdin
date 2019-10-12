@@ -1,160 +1,26 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+
   <RatkinColonist.label>랫킨 정착민</RatkinColonist.label>
-  <RatkinColonist.labelPlural>랫킨 정착민</RatkinColonist.labelPlural>
-  <RatkinColonist.labelMale>남자 랫킨 정착민</RatkinColonist.labelMale>
-  <RatkinColonist.labelMalePlural>남자 랫킨 정착민</RatkinColonist.labelMalePlural>
-  <RatkinColonist.labelFemale>여자 랫킨 정착민</RatkinColonist.labelFemale>
-  <RatkinColonist.labelFemalePlural>여자 랫킨 정착민</RatkinColonist.labelFemalePlural>
   <RatkinNoble.label>랫킨 귀족</RatkinNoble.label>
-  <RatkinNoble.labelPlural>랫킨 귀족들</RatkinNoble.labelPlural>
-  <RatkinNoble.labelMale>남자 랫킨 귀족</RatkinNoble.labelMale>
-  <RatkinNoble.labelMalePlural>남자 랫킨 귀족들</RatkinNoble.labelMalePlural>
-  <RatkinNoble.labelFemale>여자 랫킨 귀족</RatkinNoble.labelFemale>
-  <RatkinNoble.labelFemalePlural>여자 랫킨 귀족들</RatkinNoble.labelFemalePlural>
   <RatkinServant.label>랫킨 하인</RatkinServant.label>
-  <RatkinServant.labelPlural>랫킨 하인들</RatkinServant.labelPlural>
-  <RatkinServant.labelMale>남자 랫킨 하인</RatkinServant.labelMale>
-  <RatkinServant.labelMalePlural>남자 랫킨 하인들</RatkinServant.labelMalePlural>
-  <RatkinServant.labelFemale>여자 랫킨 하인</RatkinServant.labelFemale>
-  <RatkinServant.labelFemalePlural>여자 랫킨 하인들</RatkinServant.labelFemalePlural>
   <RatkinCombatant.label>랫킨 전투원</RatkinCombatant.label>
-  <RatkinCombatant.labelPlural>랫킨 전투원들</RatkinCombatant.labelPlural>
-  <RatkinCombatant.labelMale>남자 랫킨 전투원</RatkinCombatant.labelMale>
-  <RatkinCombatant.labelMalePlural>남자 랫킨 전투원들</RatkinCombatant.labelMalePlural>
-  <RatkinCombatant.labelFemale>여자 랫킨 전투원</RatkinCombatant.labelFemale>
-  <RatkinCombatant.labelFemalePlural>여자 랫킨 전투원들</RatkinCombatant.labelFemalePlural>
   <RatkinSoldier.label>랫킨 군인</RatkinSoldier.label>
-  <RatkinSoldier.labelPlural>랫킨 군인들</RatkinSoldier.labelPlural>
-  <RatkinSoldier.labelMale>남자 랫킨 군인</RatkinSoldier.labelMale>
-  <RatkinSoldier.labelMalePlural>남자 랫킨 군인들</RatkinSoldier.labelMalePlural>
-  <RatkinSoldier.labelFemale>여자 랫킨 군인</RatkinSoldier.labelFemale>
-  <RatkinSoldier.labelFemalePlural>여자 랫킨 군인들</RatkinSoldier.labelFemalePlural>
   <RatkinSubject.label>랫킨 실험체</RatkinSubject.label>
-  <RatkinSubject.labelPlural>랫킨 실험체들</RatkinSubject.labelPlural>
-  <RatkinSubject.labelMale>남자 랫킨 실험체</RatkinSubject.labelMale>
-  <RatkinSubject.labelMalePlural>남자 랫킨 실험체들</RatkinSubject.labelMalePlural>
-  <RatkinSubject.labelFemale>여자 랫킨 실험체</RatkinSubject.labelFemale>
-  <RatkinSubject.labelFemalePlural>여자 랫킨 실험체들</RatkinSubject.labelFemalePlural>
   <RatkinMercenary.label>랫킨 용병</RatkinMercenary.label>
-  <RatkinMercenary.labelPlural>랫킨 용병들</RatkinMercenary.labelPlural>
-  <RatkinMercenary.labelMale>남자 랫킨 용병</RatkinMercenary.labelMale>
-  <RatkinMercenary.labelMalePlural>남자 랫킨 용병들</RatkinMercenary.labelMalePlural>
-  <RatkinMercenary.labelFemale>여자 랫킨 용병</RatkinMercenary.labelFemale>
-  <RatkinMercenary.labelFemalePlural>여자 랫킨 용병들</RatkinMercenary.labelFemalePlural>
   <RatkinEliteGuardener.label>랫킨 정예정원사</RatkinEliteGuardener.label>
-  <RatkinEliteGuardener.labelPlural>랫킨 정예정원사들</RatkinEliteGuardener.labelPlural>
-  <RatkinEliteGuardener.labelMale>남자 랫킨 정예정원사</RatkinEliteGuardener.labelMale>
-  <RatkinEliteGuardener.labelMalePlural>남자 랫킨 정예정원사들</RatkinEliteGuardener.labelMalePlural>
-  <RatkinEliteGuardener.labelFemale>여자 랫킨 정예정원사</RatkinEliteGuardener.labelFemale>
-  <RatkinEliteGuardener.labelFemalePlural>여자 랫킨 정예정원사들</RatkinEliteGuardener.labelFemalePlural>
   <RatkinKnight.label>랫킨 기사</RatkinKnight.label>
-  <RatkinKnight.labelPlural>랫킨 기사들</RatkinKnight.labelPlural>
-  <RatkinKnight.labelMale>남자 랫킨 기사</RatkinKnight.labelMale>
-  <RatkinKnight.labelMalePlural>남자 랫킨 기사들</RatkinKnight.labelMalePlural>
-  <RatkinKnight.labelFemale>여자 랫킨 기사</RatkinKnight.labelFemale>
-  <RatkinKnight.labelFemalePlural>여자 랫킨 기사들</RatkinKnight.labelFemalePlural>
   <RatkinKnightCommander.label>랫킨 기사단장</RatkinKnightCommander.label>
-  <RatkinKnightCommander.labelPlural>랫킨 기사단장</RatkinKnightCommander.labelPlural>
-  <RatkinKnightCommander.labelMale>남자 랫킨 기사단장</RatkinKnightCommander.labelMale>
-  <RatkinKnightCommander.labelMalePlural>남자 랫킨 기사단장</RatkinKnightCommander.labelMalePlural>
-  <RatkinKnightCommander.labelFemale>여자 랫킨 기사단장</RatkinKnightCommander.labelFemale>
-  <RatkinKnightCommander.labelFemalePlural>여자 랫킨 기사단장</RatkinKnightCommander.labelFemalePlural>
   <RatkinPriest.label>랫킨 사제</RatkinPriest.label>
-  <RatkinPriest.labelPlural>랫킨 사제들</RatkinPriest.labelPlural>
-  <RatkinPriest.labelMale>남자 랫킨 사제</RatkinPriest.labelMale>
-  <RatkinPriest.labelMalePlural>남자 랫킨 사제들</RatkinPriest.labelMalePlural>
-  <RatkinPriest.labelFemale>여자 랫킨 사제</RatkinPriest.labelFemale>
-  <RatkinPriest.labelFemalePlural>여자 랫킨 사제들</RatkinPriest.labelFemalePlural>
   <RatkinMerchant.label>랫킨 상인</RatkinMerchant.label>
-  <RatkinMerchant.labelPlural>랫킨 상인들</RatkinMerchant.labelPlural>
-  <RatkinMerchant.labelMale>남자 랫킨 상인</RatkinMerchant.labelMale>
-  <RatkinMerchant.labelMalePlural>남자 랫킨 상인들</RatkinMerchant.labelMalePlural>
-  <RatkinMerchant.labelFemale>여자 랫킨 상인</RatkinMerchant.labelFemale>
-  <RatkinMerchant.labelFemalePlural>여자 랫킨 상인들</RatkinMerchant.labelFemalePlural>
   <RatkinMurderer.label>랫킨 살인마</RatkinMurderer.label>
-  <RatkinMurderer.labelPlural>랫킨 살인마들</RatkinMurderer.labelPlural>
-  <RatkinMurderer.labelMale>남자 랫킨 살인마</RatkinMurderer.labelMale>
-  <RatkinMurderer.labelMalePlural>남자 랫킨 살인마들</RatkinMurderer.labelMalePlural>
-  <RatkinMurderer.labelFemale>여자 랫킨 살인마</RatkinMurderer.labelFemale>
-  <RatkinMurderer.labelFemalePlural>여자 랫킨 살인마들</RatkinMurderer.labelFemalePlural>
   <RatkinVagabond.label>랫킨 방랑자</RatkinVagabond.label>
-  <RatkinVagabond.labelPlural>남자 랫킨 방랑자들</RatkinVagabond.labelPlural>
-  <RatkinVagabond.labelMale>남자 랫킨 방랑자</RatkinVagabond.labelMale>
-  <RatkinVagabond.labelMalePlural>남자 랫킨 방랑자들</RatkinVagabond.labelMalePlural>
-  <RatkinVagabond.labelFemale>여자 랫킨 방랑자</RatkinVagabond.labelFemale>
-  <RatkinVagabond.labelFemalePlural>여자 랫킨 방랑자들</RatkinVagabond.labelFemalePlural>
   <RatkinMercenaryLight.label>랫킨 용병</RatkinMercenaryLight.label>
-  <RatkinMercenaryLight.labelPlural>랫킨 용병들</RatkinMercenaryLight.labelPlural>
-  <RatkinMercenaryLight.labelMale>남자 랫킨 용병</RatkinMercenaryLight.labelMale>
-  <RatkinMercenaryLight.labelMalePlural>남자 랫킨 용병들</RatkinMercenaryLight.labelMalePlural>
-  <RatkinMercenaryLight.labelFemale>여자 랫킨 용병</RatkinMercenaryLight.labelFemale>
-  <RatkinMercenaryLight.labelFemalePlural>여자 랫킨 용병들</RatkinMercenaryLight.labelFemalePlural>
   <RatkinEliteSoldier.label>랫킨 특수 부대원</RatkinEliteSoldier.label>
-  <RatkinEliteSoldier.labelPlural>랫킨 특수 부대원들</RatkinEliteSoldier.labelPlural>
-  <RatkinEliteSoldier.labelMale>남자 랫킨 특수 부대원</RatkinEliteSoldier.labelMale>
-  <RatkinEliteSoldier.labelMalePlural>남자 랫킨 특수 부대원들</RatkinEliteSoldier.labelMalePlural>
-  <RatkinEliteSoldier.labelFemale>여자 랫킨 특수 부대원</RatkinEliteSoldier.labelFemale>
-  <RatkinEliteSoldier.labelFemalePlural>여자 랫킨 특수 부대원들</RatkinEliteSoldier.labelFemalePlural>
   <RatkinDemonMan.label>랫킨 폭탄마</RatkinDemonMan.label>
-  <RatkinDemonMan.labelPlural>랫킨 폭탄마들</RatkinDemonMan.labelPlural>
-  <RatkinDemonMan.labelMale>남자 랫킨 폭탄마</RatkinDemonMan.labelMale>
-  <RatkinDemonMan.labelMalePlural>남자 랫킨 폭탄마들</RatkinDemonMan.labelMalePlural>
-  <RatkinDemonMan.labelFemale>여자 랫킨 폭탄마</RatkinDemonMan.labelFemale>
-  <RatkinDemonMan.labelFemalePlural>여자 랫킨 폭탄마들</RatkinDemonMan.labelFemalePlural>
   <RatkinPettyThief.label>랫킨 좀도둑</RatkinPettyThief.label>
-  <RatkinPettyThief.labelPlural>랫킨 좀도둑들</RatkinPettyThief.labelPlural>
-  <RatkinPettyThief.labelMale>남자 랫킨 좀도둑</RatkinPettyThief.labelMale>
-  <RatkinPettyThief.labelMalePlural>남자 랫킨 좀도둑들</RatkinPettyThief.labelMalePlural>
-  <RatkinPettyThief.labelFemale>여자 랫킨 좀도둑</RatkinPettyThief.labelFemale>
-  <RatkinPettyThief.labelFemalePlural>여자 랫킨 좀도둑들</RatkinPettyThief.labelFemalePlural>
+
   <Ratkin_KingHamster.label>대왕 햄스터</Ratkin_KingHamster.label>
-  <Ratkin_KingHamster.labelPlural>대왕 햄스터들</Ratkin_KingHamster.labelPlural>
-  <Ratkin_KingHamster.lifeStages.0.label>새끼 대왕 햄스터</Ratkin_KingHamster.lifeStages.0.label>
-  <Ratkin_KingHamster.lifeStages.0.labelPlural>새끼 대왕 햄스터들</Ratkin_KingHamster.lifeStages.0.labelPlural>
-  <Ratkin_KingHamster.lifeStages.0.labelMale>수컷 새끼 대왕 햄스터</Ratkin_KingHamster.lifeStages.0.labelMale>
-  <Ratkin_KingHamster.lifeStages.0.labelMalePlural>수컷 새끼 대왕 햄스터들</Ratkin_KingHamster.lifeStages.0.labelMalePlural>
-  <Ratkin_KingHamster.lifeStages.0.labelFemale>암컷 새끼 대왕 햄스터</Ratkin_KingHamster.lifeStages.0.labelFemale>
-  <Ratkin_KingHamster.lifeStages.0.labelFemalePlural>암컷 새끼 대왕 햄스터들</Ratkin_KingHamster.lifeStages.0.labelFemalePlural>
-  <Ratkin_KingHamster.lifeStages.1.label>대왕 햄스터</Ratkin_KingHamster.lifeStages.1.label>
-  <Ratkin_KingHamster.lifeStages.1.labelPlural>대왕 햄스터</Ratkin_KingHamster.lifeStages.1.labelPlural>
-  <Ratkin_KingHamster.lifeStages.1.labelMale>수컷 대왕 햄스터</Ratkin_KingHamster.lifeStages.1.labelMale>
-  <Ratkin_KingHamster.lifeStages.1.labelMalePlural>수컷 대왕 햄스터들</Ratkin_KingHamster.lifeStages.1.labelMalePlural>
-  <Ratkin_KingHamster.lifeStages.1.labelFemale>암컷 대왕 햄스터</Ratkin_KingHamster.lifeStages.1.labelFemale>
-  <Ratkin_KingHamster.lifeStages.1.labelFemalePlural>암컷 대왕 햄스터들</Ratkin_KingHamster.lifeStages.1.labelFemalePlural>
-  <Ratkin_KingHamster.lifeStages.2.label>대왕 햄스터</Ratkin_KingHamster.lifeStages.2.label>
-  <Ratkin_KingHamster.lifeStages.2.labelPlural>대왕 햄스터</Ratkin_KingHamster.lifeStages.2.labelPlural>
-  <Ratkin_KingHamster.lifeStages.2.labelMale>수컷 대왕 햄스터</Ratkin_KingHamster.lifeStages.2.labelMale>
-  <Ratkin_KingHamster.lifeStages.2.labelMalePlural>수컷 대왕 햄스터들</Ratkin_KingHamster.lifeStages.2.labelMalePlural>
-  <Ratkin_KingHamster.lifeStages.2.labelFemale>암컷 대왕 햄스터</Ratkin_KingHamster.lifeStages.2.labelFemale>
-  <Ratkin_KingHamster.lifeStages.2.labelFemalePlural>암컷 대왕 햄스터들</Ratkin_KingHamster.lifeStages.2.labelFemalePlural>
-  <Ratkin_KingHamster.labelMale>수컷 대왕 햄스터</Ratkin_KingHamster.labelMale>
-  <Ratkin_KingHamster.labelMalePlural>수컷 대왕 햄스터들</Ratkin_KingHamster.labelMalePlural>
-  <Ratkin_KingHamster.labelFemale>암컷 대왕 햄스터</Ratkin_KingHamster.labelFemale>
-  <Ratkin_KingHamster.labelFemalePlural>암컷 대왕 햄스터들</Ratkin_KingHamster.labelFemalePlural>
   <Rottie.label>로티</Rottie.label>
-  <Rottie.labelPlural>로티</Rottie.labelPlural>
-  <Rottie.lifeStages.0.label>로티</Rottie.lifeStages.0.label>
-  <Rottie.lifeStages.0.labelPlural>로티</Rottie.lifeStages.0.labelPlural>
-  <Rottie.lifeStages.0.labelMale>수컷 로티</Rottie.lifeStages.0.labelMale>
-  <Rottie.lifeStages.0.labelMalePlural>수컷 로티</Rottie.lifeStages.0.labelMalePlural>
-  <Rottie.lifeStages.0.labelFemale>암컷 로티</Rottie.lifeStages.0.labelFemale>
-  <Rottie.lifeStages.0.labelFemalePlural>암컷 로티</Rottie.lifeStages.0.labelFemalePlural>
-  <Rottie.lifeStages.1.label>로티</Rottie.lifeStages.1.label>
-  <Rottie.lifeStages.1.labelPlural>로티</Rottie.lifeStages.1.labelPlural>
-  <Rottie.lifeStages.1.labelMale>수컷 로티</Rottie.lifeStages.1.labelMale>
-  <Rottie.lifeStages.1.labelMalePlural>수컷 로티</Rottie.lifeStages.1.labelMalePlural>
-  <Rottie.lifeStages.1.labelFemale>암컷 로티</Rottie.lifeStages.1.labelFemale>
-  <Rottie.lifeStages.1.labelFemalePlural>암컷 로티</Rottie.lifeStages.1.labelFemalePlural>
-  <Rottie.lifeStages.2.label>로티</Rottie.lifeStages.2.label>
-  <Rottie.lifeStages.2.labelPlural>로티</Rottie.lifeStages.2.labelPlural>
-  <Rottie.lifeStages.2.labelMale>수컷 로티</Rottie.lifeStages.2.labelMale>
-  <Rottie.lifeStages.2.labelMalePlural>수컷 로티</Rottie.lifeStages.2.labelMalePlural>
-  <Rottie.lifeStages.2.labelFemale>암컷 로티</Rottie.lifeStages.2.labelFemale>
-  <Rottie.lifeStages.2.labelFemalePlural>암컷 로티</Rottie.lifeStages.2.labelFemalePlural>
-  <Rottie.labelMale>수컷 로티</Rottie.labelMale>
-  <Rottie.labelMalePlural>수컷 로티</Rottie.labelMalePlural>
-  <Rottie.labelFemale>암컷 로티</Rottie.labelFemale>
-  <Rottie.labelFemalePlural>암컷 로티</Rottie.labelFemalePlural>
 
 </LanguageData>

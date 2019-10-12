@@ -133,20 +133,6 @@
   <DynamiteStick.label>TNT 폭발</DynamiteStick.label>
   <ToxicGasCloud.label>독성 기체</ToxicGasCloud.label>
 
-  <!--725471844_190814_Project Fallout-->
-  <AntiMateriel.label>저격</AntiMateriel.label>
-  <AntiMateriel.deathMessage>{0}(이)가 총에 맞아 죽었습니다.</AntiMateriel.deathMessage>
-  <PFLaser.label>레이저</PFLaser.label>
-  <PFLaser.deathMessage>{0}(이)가 레이저에 맞아 죽었습니다.</PFLaser.deathMessage>
-  <PFPlasma.label>플라즈마</PFPlasma.label>
-  <PFPlasma.deathMessage>{0}(이)가 플라즈마에 맞아 죽었습니다.</PFPlasma.deathMessage>
-  <PFShishDamage.label>시시케밥</PFShishDamage.label>
-  <PFShishDamage.deathMessage>{0}(이)가 화염 칼날에 죽었습니다.</PFShishDamage.deathMessage>
-  <PFPlasmaBoom.label>플라즈마 폭탄</PFPlasmaBoom.label>
-  <PFPlasmaBoom.deathMessage>{0}(이)가 플라즈마의 폭발로 인해 사망했습니다.</PFPlasmaBoom.deathMessage>
-  <PFScorpPoison.label>방사능 전갈 독침</PFScorpPoison.label>
-  <PFScorpPoison.deathMessage>{0}(이)가 독침에 맞아 죽었습니다.</PFScorpPoison.deathMessage>
-
   <!--725576127_190626_Glitter Tech-->
   <PacifierStab.label>찌르기</PacifierStab.label>
   <PacifierStab.deathMessage>{0}(은)는 찔려 죽었습니다.</PacifierStab.deathMessage>

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CaveSpelopede.label>동굴 스펠로피드</CaveSpelopede.label>
+  <CaveSpelopede.labelPlural>동굴 스펠로피드들</CaveSpelopede.labelPlural>
+  <CaveSpelopede.lifeStages.0.label>동굴 스펠로피드</CaveSpelopede.lifeStages.0.label>
+  <CaveSpelopede.lifeStages.0.labelPlural>동굴 스펠로피드</CaveSpelopede.lifeStages.0.labelPlural>
+  <CaveSpelopede.lifeStages.0.labelMale>수컷 동굴 스펠로피드</CaveSpelopede.lifeStages.0.labelMale>
+  <CaveSpelopede.lifeStages.0.labelMalePlural>수컷 동굴 스펠로피드들</CaveSpelopede.lifeStages.0.labelMalePlural>
+  <CaveSpelopede.lifeStages.0.labelFemale>암컷 동굴 스펠로피드</CaveSpelopede.lifeStages.0.labelFemale>
+  <CaveSpelopede.lifeStages.0.labelFemalePlural>암컷 동굴 스펠로피드들</CaveSpelopede.lifeStages.0.labelFemalePlural>
+  <CaveSpelopede.lifeStages.1.label>동굴 스펠로피드</CaveSpelopede.lifeStages.1.label>
+  <CaveSpelopede.lifeStages.1.labelPlural>동굴 스펠로피드</CaveSpelopede.lifeStages.1.labelPlural>
+  <CaveSpelopede.lifeStages.1.labelMale>수컷 동굴 스펠로피드</CaveSpelopede.lifeStages.1.labelMale>
+  <CaveSpelopede.lifeStages.1.labelMalePlural>수컷 동굴 스펠로피드들</CaveSpelopede.lifeStages.1.labelMalePlural>
+  <CaveSpelopede.lifeStages.1.labelFemale>암컷 동굴 스펠로피드</CaveSpelopede.lifeStages.1.labelFemale>
+  <CaveSpelopede.lifeStages.1.labelFemalePlural>암컷 동굴 스펠로피드들</CaveSpelopede.lifeStages.1.labelFemalePlural>
+  <CaveSpelopede.lifeStages.2.label>동굴 스펠로피드</CaveSpelopede.lifeStages.2.label>
+  <CaveSpelopede.lifeStages.2.labelPlural>동굴 스펠로피드</CaveSpelopede.lifeStages.2.labelPlural>
+  <CaveSpelopede.lifeStages.2.labelMale>수컷 동굴 스펠로피드</CaveSpelopede.lifeStages.2.labelMale>
+  <CaveSpelopede.lifeStages.2.labelMalePlural>수컷 동굴 스펠로피드들</CaveSpelopede.lifeStages.2.labelMalePlural>
+  <CaveSpelopede.lifeStages.2.labelFemale>암컷 동굴 스펠로피드</CaveSpelopede.lifeStages.2.labelFemale>
+  <CaveSpelopede.lifeStages.2.labelFemalePlural>암컷 동굴 스펠로피드들</CaveSpelopede.lifeStages.2.labelFemalePlural>
+  <CaveSpelopede.labelMale>수컷 동굴 스펠로피드</CaveSpelopede.labelMale>
+  <CaveSpelopede.labelMalePlural>수컷 동굴 스펠로피드들</CaveSpelopede.labelMalePlural>
+  <CaveSpelopede.labelFemale>암컷 동굴 스펠로피드</CaveSpelopede.labelFemale>
+  <CaveSpelopede.labelFemalePlural>암컷 동굴 스펠로피드들</CaveSpelopede.labelFemalePlural>
+  <CaveBeetleKing.label>동굴 메가스파이더</CaveBeetleKing.label>
+  <CaveBeetleKing.labelPlural>동굴 메가스파이더들</CaveBeetleKing.labelPlural>
+  <CaveBeetleKing.lifeStages.0.label>동굴 메가스파이더</CaveBeetleKing.lifeStages.0.label>
+  <CaveBeetleKing.lifeStages.0.labelPlural>동굴 메가스파이더</CaveBeetleKing.lifeStages.0.labelPlural>
+  <CaveBeetleKing.lifeStages.0.labelMale>수컷 동굴 메가스파이더</CaveBeetleKing.lifeStages.0.labelMale>
+  <CaveBeetleKing.lifeStages.0.labelMalePlural>수컷 동굴 메가스파이더들</CaveBeetleKing.lifeStages.0.labelMalePlural>
+  <CaveBeetleKing.lifeStages.0.labelFemale>암컷 동굴 메가스파이더</CaveBeetleKing.lifeStages.0.labelFemale>
+  <CaveBeetleKing.lifeStages.0.labelFemalePlural>암컷 동굴 메가스파이더들</CaveBeetleKing.lifeStages.0.labelFemalePlural>
+  <CaveBeetleKing.lifeStages.1.label>동굴 메가스파이더</CaveBeetleKing.lifeStages.1.label>
+  <CaveBeetleKing.lifeStages.1.labelPlural>동굴 메가스파이더</CaveBeetleKing.lifeStages.1.labelPlural>
+  <CaveBeetleKing.lifeStages.1.labelMale>수컷 동굴 메가스파이더</CaveBeetleKing.lifeStages.1.labelMale>
+  <CaveBeetleKing.lifeStages.1.labelMalePlural>수컷 동굴 메가스파이더들</CaveBeetleKing.lifeStages.1.labelMalePlural>
+  <CaveBeetleKing.lifeStages.1.labelFemale>암컷 동굴 메가스파이더</CaveBeetleKing.lifeStages.1.labelFemale>
+  <CaveBeetleKing.lifeStages.1.labelFemalePlural>암컷 동굴 메가스파이더들</CaveBeetleKing.lifeStages.1.labelFemalePlural>
+  <CaveBeetleKing.lifeStages.2.label>동굴 메가스파이더</CaveBeetleKing.lifeStages.2.label>
+  <CaveBeetleKing.lifeStages.2.labelPlural>동굴 메가스파이더</CaveBeetleKing.lifeStages.2.labelPlural>
+  <CaveBeetleKing.lifeStages.2.labelMale>수컷 동굴 메가스파이더</CaveBeetleKing.lifeStages.2.labelMale>
+  <CaveBeetleKing.lifeStages.2.labelMalePlural>수컷 동굴 메가스파이더들</CaveBeetleKing.lifeStages.2.labelMalePlural>
+  <CaveBeetleKing.lifeStages.2.labelFemale>암컷 동굴 메가스파이더</CaveBeetleKing.lifeStages.2.labelFemale>
+  <CaveBeetleKing.lifeStages.2.labelFemalePlural>암컷 동굴 메가스파이더들</CaveBeetleKing.lifeStages.2.labelFemalePlural>
+  <CaveBeetleKing.labelMale>수컷 동굴 메가스파이더</CaveBeetleKing.labelMale>
+  <CaveBeetleKing.labelMalePlural>수컷 동굴 메가스파이더들</CaveBeetleKing.labelMalePlural>
+  <CaveBeetleKing.labelFemale>암컷 동굴 메가스파이더</CaveBeetleKing.labelFemale>
+  <CaveBeetleKing.labelFemalePlural>암컷 동굴 메가스파이더들</CaveBeetleKing.labelFemalePlural>
+  <Mech_BigAvtomaton.label>대형 자동장치</Mech_BigAvtomaton.label>
+  <Mech_BigAvtomaton.labelPlural>대형 자동장치들</Mech_BigAvtomaton.labelPlural>
+  <Mech_SmallAvtomaton.label>소형 자동장치</Mech_SmallAvtomaton.label>
+  <Mech_SmallAvtomaton.labelPlural>소형 자동장치들</Mech_SmallAvtomaton.labelPlural>
+
+</LanguageData>

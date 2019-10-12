@@ -70,12 +70,6 @@
   <AIRobot_MaterialAnalyzer.label>재료 분석기</AIRobot_MaterialAnalyzer.label>
   <AIRobot_Spine.label>척추</AIRobot_Spine.label>
 
-  <!--725471844_190814_Project Fallout-->
-  <PFScorpTail.label>꼬리</PFScorpTail.label>
-  <PFStinger.label>침</PFStinger.label>
-  <PFScorpPincerLeft.label>왼쪽 집게</PFScorpPincerLeft.label>
-  <PFScorpPincerRight.label>오른쪽 집게</PFScorpPincerRight.label>
-
   <!--725576127_190626_Glitter Tech-->
   <TChassis.label>탱크 섀시</TChassis.label>
   <THull.label>탱크 외벽</THull.label>

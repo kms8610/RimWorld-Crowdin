@@ -90,7 +90,7 @@
   <AndroidPrintedLetterLabel>안드로이드 {0} 출력 완료</AndroidPrintedLetterLabel>
   <AndroidPrintedLetterDescription>생일 축하합니다 {0}!\n\n세상에 새로이 태어남으로써 삶의 아름다움에 매료된 이들은 오랜 시간동안 좋은 기분을 유지할 것입니다.</AndroidPrintedLetterDescription>
   <AndroidDroidManufactoryLetterLabel>드로이드 {0} 조립 완료</AndroidDroidManufactoryLetterLabel>
-  <AndroidDroidManufactoryLetterDescription>정착지는 {0}(을)를 환영합니다 .\n\n새로운 기계로서 즉시 작업에 투입합시다. {0}(이)가 충전할 배터리를 잊지 마세요.</AndroidDroidManufactoryLetterDescription>
+  <AndroidDroidManufactoryLetterDescription>정착지는 {0}(을)를 환영합니다.\n\n새로운 기계로서 즉시 작업에 투입합시다. {0}(이)가 충전할 배터리를 잊지 마세요.</AndroidDroidManufactoryLetterDescription>
   <AndroidSpawnedPawnMessageText>{0}(이)가 출력됨.</AndroidSpawnedPawnMessageText>
   <AndroidSpawnedDroidMessageText>{1}(이)가 드로이드 키트로 {0}(을)를 조립했습니다.</AndroidSpawnedDroidMessageText>
   <AndroidGizmoTogglePrintingStartLabel>제작 시작</AndroidGizmoTogglePrintingStartLabel>

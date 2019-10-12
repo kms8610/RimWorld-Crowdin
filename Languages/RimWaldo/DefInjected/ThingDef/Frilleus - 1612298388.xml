@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Apparel_FrilleusArmor.label>프릴리우스용 방어구</Apparel_FrilleusArmor.label>
+  <Apparel_FrilleusArmor.description>프릴리우스가 착용할 수 있는 방어구입니다. 이것을 착용하면 이동속도는 조금 느려지지만 방어력이 향상되며 전투에 보너스를 줍니다.</Apparel_FrilleusArmor.description>
+  <SimpleProstheticWing.label>날개 보철물</SimpleProstheticWing.label>
+  <SimpleProstheticWing.description>날개 보철물입니다..</SimpleProstheticWing.description>
+  <BionicWing.label>생체공학 날개</BionicWing.label>
+  <BionicWing.description>생체공학 날개입니다.</BionicWing.description>
+  <FrilleusTail.label>프릴리우스 꼬리</FrilleusTail.label>
+  <FrilleusTail.description>프릴리우스의 꼬리입니다. 이것은 비싼값에 팔 수 있습니다</FrilleusTail.description>
+  <FrilleusTail.tools.0.label>타격</FrilleusTail.tools.0.label>
+  <FrilleusWool.label>프릴리우스의 털</FrilleusWool.label>
+  <FrilleusWool.description>프릴리우스의 털입니다.</FrilleusWool.description>
+  <Leather_Frilleus.label>프릴리우스 가죽</Leather_Frilleus.label>
+  <Leather_Frilleus.description>프릴리우스의 가죽입니다.</Leather_Frilleus.description>
+  <Projectile_FrilleusBreath.label>크리스탈 스피어</Projectile_FrilleusBreath.label>
+  <Projectile_FrilleusBreathCE.label>크리스탈 스피어</Projectile_FrilleusBreathCE.label>
+  <Projectile_FrilleusBreathSK.label>크리스탈 스피어</Projectile_FrilleusBreathSK.label>
+  <Frilleus.label>프릴리우스</Frilleus.label>
+  <Frilleus.description>추운 곳에서 서식하는 용족, 온순한 성격이기에 먼저 공격해오지는 않습니다. 이들의 털은 상당한 값어치가 있습니다.</Frilleus.description>
+  <Frilleus.tools.0.label>왼쪽 날개 손톱</Frilleus.tools.0.label>
+  <Frilleus.tools.1.label>오른쪽 날개 손톱</Frilleus.tools.1.label>
+  <Frilleus.tools.3.label>꼬리</Frilleus.tools.3.label>
+  <Frilleus_Leather.label>프릴리우스 가죽</Frilleus_Leather.label>
+  <Frilleus_Leather.description>프릴리우스 가죽</Frilleus_Leather.description>
+
+</LanguageData>

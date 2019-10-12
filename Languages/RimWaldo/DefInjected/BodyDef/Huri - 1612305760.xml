@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Huri.label>휴리</Huri.label>
+  <Huri.corePart.parts.4.customLabel>왼쪽 폐</Huri.corePart.parts.4.customLabel>
+  <Huri.corePart.parts.5.customLabel>오른쪽 폐</Huri.corePart.parts.5.customLabel>
+  <Huri.corePart.parts.6.customLabel>왼쪽 신장</Huri.corePart.parts.6.customLabel>
+  <Huri.corePart.parts.7.customLabel>오른쪽 신장</Huri.corePart.parts.7.customLabel>
+  <Huri.corePart.parts.8.customLabel>왼쪽 날개</Huri.corePart.parts.8.customLabel>
+  <Huri.corePart.parts.9.customLabel>오른쪽 날개</Huri.corePart.parts.9.customLabel>
+  <Huri.corePart.parts.11.parts.0.parts.1.customLabel>왼쪽 눈</Huri.corePart.parts.11.parts.0.parts.1.customLabel>
+  <Huri.corePart.parts.11.parts.0.parts.2.customLabel>오른쪽 눈</Huri.corePart.parts.11.parts.0.parts.2.customLabel>
+  <Huri.corePart.parts.11.parts.0.parts.3.customLabel>왼쪽 귀</Huri.corePart.parts.11.parts.0.parts.3.customLabel>
+  <Huri.corePart.parts.11.parts.0.parts.4.customLabel>오른쪽 귀</Huri.corePart.parts.11.parts.0.parts.4.customLabel>
+  <Huri.corePart.parts.12.customLabel>왼쪽 앞다리</Huri.corePart.parts.12.customLabel>
+  <Huri.corePart.parts.12.parts.0.customLabel>왼쪽 앞발</Huri.corePart.parts.12.parts.0.customLabel>
+  <Huri.corePart.parts.13.customLabel>오른쪽 앞다리</Huri.corePart.parts.13.customLabel>
+  <Huri.corePart.parts.13.parts.0.customLabel>오른쪽 앞발</Huri.corePart.parts.13.parts.0.customLabel>
+  <Huri.corePart.parts.14.customLabel>왼쪽 뒷다리</Huri.corePart.parts.14.customLabel>
+  <Huri.corePart.parts.14.parts.0.customLabel>왼쪽 뒷발</Huri.corePart.parts.14.parts.0.customLabel>
+  <Huri.corePart.parts.15.customLabel>오른쪽 뒷다리</Huri.corePart.parts.15.customLabel>
+  <Huri.corePart.parts.15.parts.0.customLabel>오른쪽 뒷발</Huri.corePart.parts.15.parts.0.customLabel>
+
+</LanguageData>

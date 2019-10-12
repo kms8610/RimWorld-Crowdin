@@ -1,34 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+
   <RK_HamsterWheelGenerator.label>쳇바퀴 발전기</RK_HamsterWheelGenerator.label>
   <RK_HamsterWheelGenerator.description>쳇바퀴를 돌려 회전 에너지로부터 전기를 생산할 수 있습니다. 생산되는 전력량은 달리기 속도에 비례합니다.</RK_HamsterWheelGenerator.description>
-  <RK_HamsterWheelGenerator_Blueprint.label>쳇바퀴 발전기 (청사진)</RK_HamsterWheelGenerator_Blueprint.label>
-  <RK_HamsterWheelGenerator_Frame.label>쳇바퀴 발전기 (건설 중)</RK_HamsterWheelGenerator_Frame.label>
-  <RK_HamsterWheelGenerator_Frame.description>쳇바퀴를 돌려 회전 에너지로부터 전기를 생산할 수 있습니다. 생산되는 전력량은 달리기 속도에 비례합니다.</RK_HamsterWheelGenerator_Frame.description>
   <RK_HandTailoringBench.label>랫킨용 수동 재봉틀</RK_HandTailoringBench.label>
   <RK_HandTailoringBench.description>랫킨용 의류 생산을 위한 작업대입니다. 전기 작업대의 65% 속도로 작동합니다.</RK_HandTailoringBench.description>
-  <RK_HandTailoringBench_Blueprint.label>랫킨용 수동 재봉틀 (청사진)</RK_HandTailoringBench_Blueprint.label>
-  <RK_HandTailoringBench_Blueprint_Install.label>랫킨용 수동 재봉틀 (청사진)</RK_HandTailoringBench_Blueprint_Install.label>
-  <RK_HandTailoringBench_Frame.label>랫킨용 수동 재봉틀 (건설중)</RK_HandTailoringBench_Frame.label>
-  <RK_HandTailoringBench_Frame.description>랫킨용 의류 생산을 위한 작업대입니다. 전기 작업대의 65% 속도로 작동합니다.</RK_HandTailoringBench_Frame.description>
   <RK_ElectricTailoringBench.label>랫킨용 전기 재봉틀</RK_ElectricTailoringBench.label>
   <RK_ElectricTailoringBench.description>랫킨용 빠른 의류 생산을 위한 작업대입니다. 전기 없이도 65% 속도로 작동합니다.</RK_ElectricTailoringBench.description>
-  <RK_ElectricTailoringBench_Blueprint.label>랫킨용 전기 재봉틀 (청사진)</RK_ElectricTailoringBench_Blueprint.label>
-  <RK_ElectricTailoringBench_Blueprint_Install.label>전기 재봉틀 (청사진)</RK_ElectricTailoringBench_Blueprint_Install.label>
-  <RK_ElectricTailoringBench_Frame.label>랫킨용 전기 재봉틀 (건설중)</RK_ElectricTailoringBench_Frame.label>
-  <RK_ElectricTailoringBench_Frame.description>랫킨용 빠른 의류 생산을 위한 작업대입니다. 전기 없이도 65% 속도로 작동합니다.</RK_ElectricTailoringBench_Frame.description>
   <RK_FueledSmithy.label>랫킨용 단조대</RK_FueledSmithy.label>
   <RK_FueledSmithy.description>랫킨용 무기와 도구를 생산하기 위한 작업대입니다. 나무를 태워 작동합니다.</RK_FueledSmithy.description>
-  <RK_FueledSmithy_Blueprint.label>랫킨용 연료식 단조대 (청사진)</RK_FueledSmithy_Blueprint.label>
-  <RK_FueledSmithy_Blueprint_Install.label>랫킨용 연료식 단조대 (청사진)</RK_FueledSmithy_Blueprint_Install.label>
-  <RK_FueledSmithy_Frame.label>랫킨용 연료식 단조대 (건설중)</RK_FueledSmithy_Frame.label>
-  <RK_FueledSmithy_Frame.description>랫킨용 무기와 도구를 생산하기 위한 작업대입니다. 나무를 태워 작동합니다.</RK_FueledSmithy_Frame.description>
   <RK_ElectricSmithy.label>랫킨용 전기식 단조대</RK_ElectricSmithy.label>
   <RK_ElectricSmithy.description>기계가 사용되지 않는 랫킨용 금속 무기와 도구를 생산하기 위한 작업대입니다. 전기로 작동합니다.</RK_ElectricSmithy.description>
-  <RK_ElectricSmithy_Blueprint.label>랫킨용 전기식 단조대 (청사진)</RK_ElectricSmithy_Blueprint.label>
-  <RK_ElectricSmithy_Blueprint_Install.label>랫킨용 전기식 단조대 (청사진)</RK_ElectricSmithy_Blueprint_Install.label>
-  <RK_ElectricSmithy_Frame.label>랫킨용 전기식 단조대 (건설중)</RK_ElectricSmithy_Frame.label>
-  <RK_ElectricSmithy_Frame.description>기계가 사용되지 않는 랫킨용 금속 무기와 도구를 생산하기 위한 작업대입니다. 전기로 작동합니다.</RK_ElectricSmithy_Frame.description>
   <RK_ThiefTunnel.label>쥐구멍</RK_ThiefTunnel.label>
   <RK_ThiefTunnel.description>쥐구멍입니다. 아무래도 체구가 작은 누군가가 드나들기 위해 벽에 구멍을 낸것같습니다.</RK_ThiefTunnel.description>
   <RK_GuerrillaTunnel.label>드릴 포드</RK_GuerrillaTunnel.label>
@@ -37,14 +19,9 @@
   <RK_ThiefTunnelSpawner.label>쥐구멍 위치</RK_ThiefTunnelSpawner.label>
   <RK_EmpBomb.label>EMP 폭탄</RK_EmpBomb.label>
   <RK_EmpBomb.description>EMP폭탄입니다. 복잡하게 만들어서 폭발을 막는 방법은 직접 파괴하거나 해체를 하는 방법뿐입니다.</RK_EmpBomb.description>
-  <RK_EmpBomb_Blueprint_Install.label>EMP 폭탄 (청사진)</RK_EmpBomb_Blueprint_Install.label>
   <MinifiedEMP.label>minified thing</MinifiedEMP.label>
   <RK_Ballista_Strait_Body.label>발리스타</RK_Ballista_Strait_Body.label>
   <RK_Ballista_Strait_Body.description>대형 화살을 발사하는 장치입니다. 랫킨이 쉽게 조작 가능하도록 설계가 되어있습니다.</RK_Ballista_Strait_Body.description>
-  <RK_Ballista_Strait_Body_Blueprint.label>발리스타 (청사진)</RK_Ballista_Strait_Body_Blueprint.label>
-  <RK_Ballista_Strait_Body_Blueprint_Install.label>발리스타 (청사진)</RK_Ballista_Strait_Body_Blueprint_Install.label>
-  <RK_Ballista_Strait_Body_Frame.label>발리스타 (건설중)</RK_Ballista_Strait_Body_Frame.label>
-  <RK_Ballista_Strait_Body_Frame.description>대형 화살을 발사하는 장치입니다. 랫킨이 쉽게 조작 가능하도록 설계가 되어있습니다.</RK_Ballista_Strait_Body_Frame.description>
   <RK_Turret_Ballista_Strait.label>직사 노포</RK_Turret_Ballista_Strait.label>
   <RK_Turret_Ballista_Strait.description>발리스타 볼트를 발사하는 발사대입니다. 정교하고 긴 사거리를 갖고 있습니다.</RK_Turret_Ballista_Strait.description>
   <BallistaBolt_Normal.label>발리스타 볼트 (일반)</BallistaBolt_Normal.label>
@@ -69,17 +46,10 @@
   <RK_KingHamster.tools.2.label>오른 손</RK_KingHamster.tools.2.label>
   <RK_KingHamster_Leather.label>대왕 햄스터 가죽</RK_KingHamster_Leather.label>
   <RK_KingHamster_Leather.description>대왕 햄스터 가죽</RK_KingHamster_Leather.description>
-  <RK_KingHamster_Leather.stuffProps.stuffAdjective>대왕 햄스터 가죽</RK_KingHamster_Leather.stuffProps.stuffAdjective>
-  <RK_KingHamster_Meat.label>대왕 햄스터 고기</RK_KingHamster_Meat.label>
-  <RK_KingHamster_Meat.description>대왕 햄스터 고기</RK_KingHamster_Meat.description>
-  <RK_KingHamster_Corpse.label>대왕 햄스터 시체</RK_KingHamster_Corpse.label>
-  <RK_KingHamster_Corpse.description>대왕 햄스터 시체</RK_KingHamster_Corpse.description>
   <RK_Leather_KingHamster.label>대왕 햄스터 가죽</RK_Leather_KingHamster.label>
   <RK_Leather_KingHamster.description>털이 풍만한 대왕 햄스터입니다. 햄스터 특유의 귀여움은 덩치가 커져도 알아볼 수 있습니다. 더운 환경에서 적응하기 좋습니다.</RK_Leather_KingHamster.description>
-  <RK_Leather_KingHamster.stuffProps.stuffAdjective>대왕 햄스터 가죽</RK_Leather_KingHamster.stuffProps.stuffAdjective>
   <RK_Wool_KingHamster.label>대왕 햄스터 털</RK_Wool_KingHamster.label>
   <RK_Wool_KingHamster.description>부드럽고 가벼운 좋은 단열재입니다. 대왕 햄스터 털옷은 통풍성과 보온성이 뛰어나 극지방이나 사막에서 활동하기 좋습니다.</RK_Wool_KingHamster.description>
-  <RK_Wool_KingHamster.stuffProps.stuffAdjective>대왕 햄스터 털</RK_Wool_KingHamster.stuffProps.stuffAdjective>
   <RK_ApronSkirt.label>랫킨 에이프런 스커트</RK_ApronSkirt.label>
   <RK_ApronSkirt.description>앞치마가 달린 간단한 의류입니다.</RK_ApronSkirt.description>
   <RK_SummerDress.label>랫킨 여름 드레스</RK_SummerDress.label>
@@ -266,12 +236,5 @@
   <Rotti.tools.3.label>머리</Rotti.tools.3.label>
   <Rotti_Leather.label>로티 가죽</Rotti_Leather.label>
   <Rotti_Leather.description>로티 가죽</Rotti_Leather.description>
-  <Rotti_Leather.stuffProps.stuffAdjective>로티 가죽</Rotti_Leather.stuffProps.stuffAdjective>
-  <Rotti_Meat.label>로티 고기</Rotti_Meat.label>
-  <Rotti_Meat.description>로티 고기</Rotti_Meat.description>
-  <Rotti_Corpse.label>로티 시체</Rotti_Corpse.label>
-  <Rotti_Corpse.description>로티 시체</Rotti_Corpse.description>
-  <Mote_CountDown.label>Mote</Mote_CountDown.label>
-  <Mote_ShockWave.label>Mote</Mote_ShockWave.label>
 
 </LanguageData>

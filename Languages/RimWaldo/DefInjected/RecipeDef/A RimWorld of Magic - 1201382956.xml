@@ -1,0 +1,356 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Administer_ManaPotion.label>마나포션 복용</Administer_ManaPotion.label>
+  <Administer_ManaPotion.jobString>마나포션 복용 중.</Administer_ManaPotion.jobString>
+  <Administer_TM_Syrrium.label>사이리움 복용</Administer_TM_Syrrium.label>
+  <Administer_TM_Syrrium.jobString>사이리움 복용 중.</Administer_TM_Syrrium.jobString>
+  <Make_SpellOf_Rain.label>마법 두루마리: 비 만들기</Make_SpellOf_Rain.label>
+  <Make_SpellOf_Rain.description>마법 두루마리: 비를 만듭니다.</Make_SpellOf_Rain.description>
+  <Make_SpellOf_Rain.jobString>마법 두루마리: 비를 만드는 중.</Make_SpellOf_Rain.jobString>
+  <Make_SpellOf_Blink.label>마법 두루마리: 순간이동 만들기</Make_SpellOf_Blink.label>
+  <Make_SpellOf_Blink.description>마법 두루마리: 순간이동을 만듭니다.</Make_SpellOf_Blink.description>
+  <Make_SpellOf_Blink.jobString>마법 두루마리: 순간이동을 만드는 중.</Make_SpellOf_Blink.jobString>
+  <Make_SpellOf_Teleport.label>마법 두루마리: 공간이동 만들기</Make_SpellOf_Teleport.label>
+  <Make_SpellOf_Teleport.description>마법 두루마리: 공간이동을 만듭니다.</Make_SpellOf_Teleport.description>
+  <Make_SpellOf_Teleport.jobString>마법 두루마리: 공간이동을 만드는 중.</Make_SpellOf_Teleport.jobString>
+  <Make_SpellOf_Heal.label>마법 두루마리: 치유 만들기</Make_SpellOf_Heal.label>
+  <Make_SpellOf_Heal.description>마법 두루마리: 치유A.</Make_SpellOf_Heal.description>
+  <Make_SpellOf_Heal.jobString>마법 두루마리: 치유를 만드는 중.</Make_SpellOf_Heal.jobString>
+  <Make_SpellOf_Heater.label>마법 두루마리: 마법 열풍구 만들기</Make_SpellOf_Heater.label>
+  <Make_SpellOf_Heater.description>마법 두루마리: 마법 열풍구를 만듭니다.</Make_SpellOf_Heater.description>
+  <Make_SpellOf_Heater.jobString>마법 두루마리: 마법 열풍구를 만드는 중.</Make_SpellOf_Heater.jobString>
+  <Make_SpellOf_PowerNode.label>마법 두루마리: 동력망 만들기</Make_SpellOf_PowerNode.label>
+  <Make_SpellOf_PowerNode.description>마법 두루마리: 동력망을 만듭니다.</Make_SpellOf_PowerNode.description>
+  <Make_SpellOf_PowerNode.jobString>마법 두루마리: 동력망를 만드는 중.</Make_SpellOf_PowerNode.jobString>
+  <Make_SpellOf_Cooler.label>마법 두루마리: 냉각 만들기</Make_SpellOf_Cooler.label>
+  <Make_SpellOf_Cooler.description>마법 두루마리: 냉각을 만듭니다.</Make_SpellOf_Cooler.description>
+  <Make_SpellOf_Cooler.jobString>마법 두루마리: 냉각을 만드는 중.</Make_SpellOf_Cooler.jobString>
+  <Make_SpellOf_Sunlight.label>마법 두루마리: 태양구 만들기</Make_SpellOf_Sunlight.label>
+  <Make_SpellOf_Sunlight.description>마법 두루마리: 태양구를 만듭니다.</Make_SpellOf_Sunlight.description>
+  <Make_SpellOf_Sunlight.jobString>마법 두루마리: 태양구를 만드는 중.</Make_SpellOf_Sunlight.jobString>
+  <Make_SpellOf_DryGround.label>화염마법 두루마리: 마른 대지 만들기</Make_SpellOf_DryGround.label>
+  <Make_SpellOf_DryGround.description>화염마법 두루마리: 마른 대지를 만듭니다.</Make_SpellOf_DryGround.description>
+  <Make_SpellOf_DryGround.jobString>화염마법 두루마리: 마른 대지를 만드는 중.</Make_SpellOf_DryGround.jobString>
+  <Make_SpellOf_WetGround.label>얼음마법 두루마리: 촉촉한 대지 만들기</Make_SpellOf_WetGround.label>
+  <Make_SpellOf_WetGround.description>얼음마법 두루마리: 촉촉한 대지를 만듭니다.</Make_SpellOf_WetGround.description>
+  <Make_SpellOf_WetGround.jobString>얼음마법 두루마리: 촉촉한 대지를 만드는 중.</Make_SpellOf_WetGround.jobString>
+  <Make_SpellOf_ChargeBattery.label>전격 마법 두루마리: 전지 충전 만들기</Make_SpellOf_ChargeBattery.label>
+  <Make_SpellOf_ChargeBattery.description>전격 마법 두루마리: 전지 충전을 만듭니다.</Make_SpellOf_ChargeBattery.description>
+  <Make_SpellOf_ChargeBattery.jobString>전격 마법 두루마리: 전지 충전을 만드는 중.</Make_SpellOf_ChargeBattery.jobString>
+  <Make_SpellOf_SmokeCloud.label>마법 두루마리: 연막구름 만들기</Make_SpellOf_SmokeCloud.label>
+  <Make_SpellOf_SmokeCloud.description>마법 두루마리: 연막구름을 만듭니다.</Make_SpellOf_SmokeCloud.description>
+  <Make_SpellOf_SmokeCloud.jobString>마법 두루마리: 연막구름을 만드는 중.</Make_SpellOf_SmokeCloud.jobString>
+  <Make_SpellOf_Extinguish.label>마법 두루마리: 소방 만들기</Make_SpellOf_Extinguish.label>
+  <Make_SpellOf_Extinguish.description>마법 두루마리: 소방을 만듭니다.</Make_SpellOf_Extinguish.description>
+  <Make_SpellOf_Extinguish.jobString>마법 두루마리: 소방을 만드는 중.</Make_SpellOf_Extinguish.jobString>
+  <Make_SpellOf_CauterizeWound.label>화염 제작: 상처 소각 만들기</Make_SpellOf_CauterizeWound.label>
+  <Make_SpellOf_CauterizeWound.description>화염 제작: 상처 소각을 만듭니다.</Make_SpellOf_CauterizeWound.description>
+  <Make_SpellOf_CauterizeWound.jobString>화염 제작: 상처 소각을 만드는 중.</Make_SpellOf_CauterizeWound.jobString>
+  <Make_SpellOf_EMP.label>마법 두루마리: EMP 만들기</Make_SpellOf_EMP.label>
+  <Make_SpellOf_EMP.description>마법 두루마리: EMP를 만듭니다.</Make_SpellOf_EMP.description>
+  <Make_SpellOf_EMP.jobString>마법 두루마리: EMP를 만드는 중.</Make_SpellOf_EMP.jobString>
+  <Make_SpellOf_Firestorm.label>화염마법 두루마리: 화염폭풍 만들기</Make_SpellOf_Firestorm.label>
+  <Make_SpellOf_Firestorm.description>화염마법 두루마리: 화염폭풍을 만듭니다.</Make_SpellOf_Firestorm.description>
+  <Make_SpellOf_Firestorm.jobString>화염마법 두루마리: 화염폭풍을 만드는 중.</Make_SpellOf_Firestorm.jobString>
+  <Make_SpellOf_Blizzard.label>얼음마법 두루마리: 서리폭풍 만들기</Make_SpellOf_Blizzard.label>
+  <Make_SpellOf_Blizzard.description>얼음마법 두루마리: 서리폭풍을 만듭니다.</Make_SpellOf_Blizzard.description>
+  <Make_SpellOf_Blizzard.jobString>얼음마법 두루마리: 서리폭풍을 만드는 중.</Make_SpellOf_Blizzard.jobString>
+  <Make_SpellOf_EyeOfTheStorm.label>전격 마법 두루마리: 폭풍의 눈 만들기</Make_SpellOf_EyeOfTheStorm.label>
+  <Make_SpellOf_EyeOfTheStorm.description>전격 마법 두루마리: 폭풍의 눈을 만듭니다.</Make_SpellOf_EyeOfTheStorm.description>
+  <Make_SpellOf_EyeOfTheStorm.jobString>전격 마법 두루마리: 폭풍의 눈을 만드는 중.</Make_SpellOf_EyeOfTheStorm.jobString>
+  <Make_SpellOf_SummonMinion.label>마법 두루마리: 종복 소환 만들기</Make_SpellOf_SummonMinion.label>
+  <Make_SpellOf_SummonMinion.description>마법 두루마리: 종복 소환을 만듭니다.</Make_SpellOf_SummonMinion.description>
+  <Make_SpellOf_SummonMinion.jobString>마법 두루마리: 종복 소환을 만드는 중.</Make_SpellOf_SummonMinion.jobString>
+  <Make_SpellOf_FertileLands.label>드루이드 마법 두루마리: 비옥한 땅 만들기</Make_SpellOf_FertileLands.label>
+  <Make_SpellOf_FertileLands.description>드루이드 마법 두루마리: 비옥한 땅을 만듭니다.</Make_SpellOf_FertileLands.description>
+  <Make_SpellOf_FertileLands.jobString>드루이드 마법 두루마리: 비옥한 땅을 만드는 중.</Make_SpellOf_FertileLands.jobString>
+  <Make_SpellOf_SpellMending.label>마법 두루마리: 수리마법 만들기</Make_SpellOf_SpellMending.label>
+  <Make_SpellOf_SpellMending.description>마법 두루마리: 수리마법을 만듭니다.</Make_SpellOf_SpellMending.description>
+  <Make_SpellOf_SpellMending.jobString>마법 두루마리: 수리마법을 만드는 중.</Make_SpellOf_SpellMending.jobString>
+  <Make_SpellOf_TransferMana.label>마법 두루마리: 마력 전달 만들기</Make_SpellOf_TransferMana.label>
+  <Make_SpellOf_TransferMana.description>마법 두루마리: 마력 전달을 만듭니다.</Make_SpellOf_TransferMana.description>
+  <Make_SpellOf_TransferMana.jobString>마법 두루마리: 마력 전달을 만드는 중.</Make_SpellOf_TransferMana.jobString>
+  <Make_SpellOf_SiphonMana.label>마법 두루마리: 마력 흡수 만들기</Make_SpellOf_SiphonMana.label>
+  <Make_SpellOf_SiphonMana.description>마법 두루마리: 마력 흡수를 만듭니다.</Make_SpellOf_SiphonMana.description>
+  <Make_SpellOf_SiphonMana.jobString>마법 두루마리: 마력 흡수를 만드는 중.</Make_SpellOf_SiphonMana.jobString>
+  <Make_SpellOf_RegrowLimb.label>드루이드 마법 두루마리: 사지 재생 만들기</Make_SpellOf_RegrowLimb.label>
+  <Make_SpellOf_RegrowLimb.description>드루이드 마법 두루마리: 사지 재생을 만듭니다.</Make_SpellOf_RegrowLimb.description>
+  <Make_SpellOf_RegrowLimb.jobString>드루이드 마법 두루마리: 사지 재생을 만드는 중.</Make_SpellOf_RegrowLimb.jobString>
+  <Make_SpellOf_ManaShield.label>마법 두루마리: 마나 방패 만들기</Make_SpellOf_ManaShield.label>
+  <Make_SpellOf_ManaShield.description>마법 두루마리: 마나 방패를 만듭니다.</Make_SpellOf_ManaShield.description>
+  <Make_SpellOf_ManaShield.jobString>마법 두루마리: 마나 방패를 만드는 중.</Make_SpellOf_ManaShield.jobString>
+  <Make_SpellOf_FoldReality.label>아케인 마법 두루마리: 차원 관문 만들기</Make_SpellOf_FoldReality.label>
+  <Make_SpellOf_FoldReality.description>아케인 마법 두루마리: 차원 관문을 만듭니다.</Make_SpellOf_FoldReality.description>
+  <Make_SpellOf_FoldReality.jobString>아케인 마법 두루마리: 차원 관문을 만드는 중.</Make_SpellOf_FoldReality.jobString>
+  <Make_SpellOf_Resurrection.label>신성 마법 두루마리: 부활 만들기</Make_SpellOf_Resurrection.label>
+  <Make_SpellOf_Resurrection.description>신성 마법 두루마리: 부활을 만듭니다.</Make_SpellOf_Resurrection.description>
+  <Make_SpellOf_Resurrection.jobString>신성 마법 두루마리: 부활을 만드는 중.</Make_SpellOf_Resurrection.jobString>
+  <Make_SpellOf_HolyWrath.label>성기사 마법 두루마리: 성령 만들기</Make_SpellOf_HolyWrath.label>
+  <Make_SpellOf_HolyWrath.description>성기사 마법 두루마리: 성령을 만듭니다.</Make_SpellOf_HolyWrath.description>
+  <Make_SpellOf_HolyWrath.jobString>성기사 마법 두루마리: 성령을 만드는 중.</Make_SpellOf_HolyWrath.jobString>
+  <Make_SpellOf_LichForm.label>사령술사 마법 두루마리: 강림 - 죽음지기 만들기</Make_SpellOf_LichForm.label>
+  <Make_SpellOf_LichForm.description>사령술사 마법 두루마리: 강림 - 죽음지기을 만듭니다.</Make_SpellOf_LichForm.description>
+  <Make_SpellOf_LichForm.jobString>사령술사 마법 두루마리: 강림 - 죽음지기을 만드는 중.</Make_SpellOf_LichForm.jobString>
+  <Make_SpellOf_SummonPoppi.label>소환 마법 두루마리: 포피 소환 만들기</Make_SpellOf_SummonPoppi.label>
+  <Make_SpellOf_SummonPoppi.description>소환 마법 두루마리: 포피 소환을 만듭니다.</Make_SpellOf_SummonPoppi.description>
+  <Make_SpellOf_SummonPoppi.jobString>소환 마법 두루마리: 포피 소환을 만드는 중.</Make_SpellOf_SummonPoppi.jobString>
+  <Make_SpellOf_BattleHymn.label>음유시인 마법 두루마리: 전투 성가 만들기</Make_SpellOf_BattleHymn.label>
+  <Make_SpellOf_BattleHymn.description>음유시인 마법 두루마리: 전투 성가를 만듭니다.</Make_SpellOf_BattleHymn.description>
+  <Make_SpellOf_BattleHymn.jobString>음유시인 마법 두루마리: 전투 성가를 만드는 중.</Make_SpellOf_BattleHymn.jobString>
+  <Make_SpellOf_PsychicShock.label>흑마법 두루마리: 심령 충격 만들기</Make_SpellOf_PsychicShock.label>
+  <Make_SpellOf_PsychicShock.description>흑마법 두루마리: 심령 충격을 만듭니다.</Make_SpellOf_PsychicShock.description>
+  <Make_SpellOf_PsychicShock.jobString>흑마법 두루마리: 심령 충격을 만드는 중.</Make_SpellOf_PsychicShock.jobString>
+  <Make_SpellOf_Scorn.label>서큐버스 마법 두루마리: 경멸 만들기</Make_SpellOf_Scorn.label>
+  <Make_SpellOf_Scorn.description>서큐버스 마법 두루마리: 경멸을 만듭니다.</Make_SpellOf_Scorn.description>
+  <Make_SpellOf_Scorn.jobString>서큐버스 마법 두루마리: 경멸을 만드는 중.</Make_SpellOf_Scorn.jobString>
+  <Make_SpellOf_Meteor.label>지오맨서 마법 두루마리: 유성 만들기</Make_SpellOf_Meteor.label>
+  <Make_SpellOf_Meteor.description>지오맨서 마법 두루마리: 유성를 만듭니다.</Make_SpellOf_Meteor.description>
+  <Make_SpellOf_Meteor.jobString>지오맨서 마법 두루마리: 유성를 만드는 중.</Make_SpellOf_Meteor.jobString>
+  <Make_SpellOf_Sabotage.label>테크노맨서 마법 두루마리: 사보타주 만들기</Make_SpellOf_Sabotage.label>
+  <Make_SpellOf_Sabotage.description>테크노맨서 마법 두루마리: 사보타주를 만듭니다.</Make_SpellOf_Sabotage.description>
+  <Make_SpellOf_Sabotage.jobString>테크노맨서 마법 두루마리: 사보타주를 만드는 중.</Make_SpellOf_Sabotage.jobString>
+  <Make_SpellOf_TechnoShield.label>테크노맨서 마법 두루마리: 물리 보호막 만들기</Make_SpellOf_TechnoShield.label>
+  <Make_SpellOf_TechnoShield.description>테크노맨서 마법 두루마리: 물리 보호막을 만듭니다.</Make_SpellOf_TechnoShield.description>
+  <Make_SpellOf_TechnoShield.jobString>테크노맨서 마법 두루마리: 물리 보호막을 만드는 중.</Make_SpellOf_TechnoShield.jobString>
+  <Make_SpellOf_Overdrive.label>테크노맨서 마법 두루마리: 오버드라이브 만들기</Make_SpellOf_Overdrive.label>
+  <Make_SpellOf_Overdrive.description>테크노맨서 마법 두루마리: 오버드라이브를 만듭니다.</Make_SpellOf_Overdrive.description>
+  <Make_SpellOf_Overdrive.jobString>테크노맨서 마법 두루마리: 오버드라이브를 만드는 중.</Make_SpellOf_Overdrive.jobString>
+  <Make_SpellOf_OrbitalStrike.label>테크노맨서 마법 두루마리: 궤도 스트라이크 만들기</Make_SpellOf_OrbitalStrike.label>
+  <Make_SpellOf_OrbitalStrike.description>테크노맨서 마법 두루마리: 궤도 스트라이크를 만듭니다.</Make_SpellOf_OrbitalStrike.description>
+  <Make_SpellOf_OrbitalStrike.jobString>테크노맨서 마법 두루마리: 궤도 스트라이크를 만드는 중.</Make_SpellOf_OrbitalStrike.jobString>
+  <Make_SpellOf_BloodMoon.label>혈마법사 마법 두루마리: 핏빛 달 만들기</Make_SpellOf_BloodMoon.label>
+  <Make_SpellOf_BloodMoon.description>혈마법사 마법 두루마리: 핏빛 달을 만듭니다.</Make_SpellOf_BloodMoon.description>
+  <Make_SpellOf_BloodMoon.jobString>혈마법사 마법 두루마리: 핏빛 달을 만드는 중.</Make_SpellOf_BloodMoon.jobString>
+  <Make_SpellOf_Shapeshift.label>마법부여가 마법 두루마리: 형상변환 만들기</Make_SpellOf_Shapeshift.label>
+  <Make_SpellOf_Shapeshift.description>마법부여가 마법 두루마리: 형상변환을 만듭니다.</Make_SpellOf_Shapeshift.description>
+  <Make_SpellOf_Shapeshift.jobString>마법부여가 마법 두루마리: 형상변환을 만드는 중.</Make_SpellOf_Shapeshift.jobString>
+  <Make_SpellOf_Blur.label>마법 두루마리: 흐려짐 만들기</Make_SpellOf_Blur.label>
+  <Make_SpellOf_Blur.description>마법 두루마리: 흐려짐을 만듭니다.</Make_SpellOf_Blur.description>
+  <Make_SpellOf_Blur.jobString>마법 두루마리: 흐려짐을 만드는 중.</Make_SpellOf_Blur.jobString>
+  <Make_SpellOf_BlankMind.label>마법부여가 마법 두루마리: 텅빈 마음 만들기</Make_SpellOf_BlankMind.label>
+  <Make_SpellOf_BlankMind.description>마법부여가 마법 두루마리: 텅빈 마음을 만듭니다.</Make_SpellOf_BlankMind.description>
+  <Make_SpellOf_BlankMind.jobString>마법부여가 마법 두루마리: 텅빈 마음을 만드는 중.</Make_SpellOf_BlankMind.jobString>
+  <Make_SkillOf_Sprint.label>전투 기술서: 질주 만들기</Make_SkillOf_Sprint.label>
+  <Make_SkillOf_Sprint.description>전투 기술서: 질주를 만듭니다.</Make_SkillOf_Sprint.description>
+  <Make_SkillOf_Sprint.jobString>전투 기술서: 질주를 만드는 중.</Make_SkillOf_Sprint.jobString>
+  <Make_SkillOf_GearRepair.label>전투 기술서: 장비 수리 만들기</Make_SkillOf_GearRepair.label>
+  <Make_SkillOf_GearRepair.description>전투 기술서: 장비 수리를 만듭니다.</Make_SkillOf_GearRepair.description>
+  <Make_SkillOf_GearRepair.jobString>전투 기술서: 장비 수리를 만드는 중.</Make_SkillOf_GearRepair.jobString>
+  <Make_SkillOf_InnerHealing.label>전투 기술서: 내부 회복 만들기</Make_SkillOf_InnerHealing.label>
+  <Make_SkillOf_InnerHealing.description>전투 기술서: 내부 회복을 만듭니다.</Make_SkillOf_InnerHealing.description>
+  <Make_SkillOf_InnerHealing.jobString>전투 기술서: 내부 회복을 만드는 중.</Make_SkillOf_InnerHealing.jobString>
+  <Make_SkillOf_HeavyBlow.label>전투 기술서: 격렬한 타격 만들기</Make_SkillOf_HeavyBlow.label>
+  <Make_SkillOf_HeavyBlow.description>전투 기술서: 격렬한 타격을 만듭니다.</Make_SkillOf_HeavyBlow.description>
+  <Make_SkillOf_HeavyBlow.jobString>전투 기술서: 격렬한 타격을 만드는 중.</Make_SkillOf_HeavyBlow.jobString>
+  <Make_SkillOf_StrongBack.label>전투 기술서: 허리강화 만들기</Make_SkillOf_StrongBack.label>
+  <Make_SkillOf_StrongBack.description>전투 기술서: 허리강화을 만듭니다.</Make_SkillOf_StrongBack.description>
+  <Make_SkillOf_StrongBack.jobString>전투 기술서: 허리강화를 만드는 중.</Make_SkillOf_StrongBack.jobString>
+  <Make_SkillOf_ThickSkin.label>전투 기술서: 두꺼운 피부 만들기</Make_SkillOf_ThickSkin.label>
+  <Make_SkillOf_ThickSkin.description>전투 기술서: 두꺼운 피부를 만듭니다.</Make_SkillOf_ThickSkin.description>
+  <Make_SkillOf_ThickSkin.jobString>전투 기술서: 두꺼운 피부를 만드는 중.</Make_SkillOf_ThickSkin.jobString>
+  <Make_SkillOf_FightersFocus.label>전투 기술서: 전사의 집중 만들기</Make_SkillOf_FightersFocus.label>
+  <Make_SkillOf_FightersFocus.description>전투 기술서: 전사의 집중을 만듭니다.</Make_SkillOf_FightersFocus.description>
+  <Make_SkillOf_FightersFocus.jobString>전투 기술서: 전사의 집중을 만드는 중.</Make_SkillOf_FightersFocus.jobString>
+  <Make_GemstoneOfInsight_Might.label>신체 통찰의 보석 만들기</Make_GemstoneOfInsight_Might.label>
+  <Make_GemstoneOfInsight_Might.description>신체 통찰의 보석을 만듭니다.</Make_GemstoneOfInsight_Might.description>
+  <Make_GemstoneOfInsight_Might.jobString>신체 통찰의 보석 만드는 중.</Make_GemstoneOfInsight_Might.jobString>
+  <Make_GemstoneOfInsight_Magic.label>아케인 통찰의 보석 만들기</Make_GemstoneOfInsight_Magic.label>
+  <Make_GemstoneOfInsight_Magic.description>아케인 통찰의 보석을 만듭니다.</Make_GemstoneOfInsight_Magic.description>
+  <Make_GemstoneOfInsight_Magic.jobString>아케인 통찰의 보석 만드는 중.</Make_GemstoneOfInsight_Magic.jobString>
+  <Make_TM_ThrumboAxe.label>트럼보 뿔도끼 만들기</Make_TM_ThrumboAxe.label>
+  <Make_TM_ThrumboAxe.description>트럼보 뿔도끼를 만듭니다.</Make_TM_ThrumboAxe.description>
+  <Make_TM_ThrumboAxe.jobString>트럼보 뿔도끼 만드는 중.</Make_TM_ThrumboAxe.jobString>
+  <Make_TM_ElephantSpear.label>코끼리 상아창 만들기</Make_TM_ElephantSpear.label>
+  <Make_TM_ElephantSpear.description>코끼리 상아창을 만듭니다.</Make_TM_ElephantSpear.description>
+  <Make_TM_ElephantSpear.jobString>코끼리 상아창 만드는 중.</Make_TM_ElephantSpear.jobString>
+  <Make_TM_FireWand.label>불의 완드 만들기</Make_TM_FireWand.label>
+  <Make_TM_FireWand.description>불의 완드 만듭니다.</Make_TM_FireWand.description>
+  <Make_TM_FireWand.jobString>불의 완드 만드는 중.</Make_TM_FireWand.jobString>
+  <Make_TM_IceWand.label>얼음 완드 만들기</Make_TM_IceWand.label>
+  <Make_TM_IceWand.description>얼음 완드 만듭니다.</Make_TM_IceWand.description>
+  <Make_TM_IceWand.jobString>얼음 완드 만드는 중.</Make_TM_IceWand.jobString>
+  <Make_TM_LightningWand.label>전격 완드 만들기</Make_TM_LightningWand.label>
+  <Make_TM_LightningWand.description>전격 완드 만듭니다.</Make_TM_LightningWand.description>
+  <Make_TM_LightningWand.jobString>전격 완드 만드는 중.</Make_TM_LightningWand.jobString>
+  <Make_TM_BlazingPowerStaff.label>타오르는 힘의 지팡이 만들기</Make_TM_BlazingPowerStaff.label>
+  <Make_TM_BlazingPowerStaff.description>타오르는 힘의 지팡이 만듭니다.</Make_TM_BlazingPowerStaff.description>
+  <Make_TM_BlazingPowerStaff.jobString>타오르는 힘의 지팡이 만드는 중.</Make_TM_BlazingPowerStaff.jobString>
+  <Make_TM_DefenderStaff.label>추적자의 지팡이 만들기</Make_TM_DefenderStaff.label>
+  <Make_TM_DefenderStaff.description>추적자의 지팡이 만듭니다.</Make_TM_DefenderStaff.description>
+  <Make_TM_DefenderStaff.jobString>추적자의 지팡이 만드는 중.</Make_TM_DefenderStaff.jobString>
+  <Make_TM_ThrumBow.label>트럼보 각궁 만들기</Make_TM_ThrumBow.label>
+  <Make_TM_ThrumBow.description>트럼보 각궁 만듭니다.</Make_TM_ThrumBow.description>
+  <Make_TM_ThrumBow.jobString>트럼보 각궁 만드는 중.</Make_TM_ThrumBow.jobString>
+  <Make_TM_ElephantBow.label>코끼리 상아활 만들기</Make_TM_ElephantBow.label>
+  <Make_TM_ElephantBow.description>코끼리 상아활 만듭니다.</Make_TM_ElephantBow.description>
+  <Make_TM_ElephantBow.jobString>코끼리 상아활 만드는 중.</Make_TM_ElephantBow.jobString>
+  <Make_ManaPotion.label>마나포션 만들기</Make_ManaPotion.label>
+  <Make_ManaPotion.description>마나포션을 만듭니다.</Make_ManaPotion.description>
+  <Make_ManaPotion.jobString>마나포션 만드는 중.</Make_ManaPotion.jobString>
+  <Make_TM_MaestersCloak.label>방랑자의 망토 만들기</Make_TM_MaestersCloak.label>
+  <Make_TM_MaestersCloak.description>방랑자의 망토 만듭니다.</Make_TM_MaestersCloak.description>
+  <Make_TM_MaestersCloak.jobString>방랑자의 망토 만드는 중.</Make_TM_MaestersCloak.jobString>
+  <Make_AncientMail.label>고대의 갑주 만들기</Make_AncientMail.label>
+  <Make_AncientMail.description>고대의 갑주 만듭니다.</Make_AncientMail.description>
+  <Make_AncientMail.jobString>고대의 갑주 만드는 중.</Make_AncientMail.jobString>
+  <Make_DarkRobe.label>검은 로브 만들기</Make_DarkRobe.label>
+  <Make_DarkRobe.description>검은 로브 만듭니다.</Make_DarkRobe.description>
+  <Make_DarkRobe.jobString>검은 로브 만드는 중.</Make_DarkRobe.jobString>
+  <Make_ArchMageRobe.label>대마법사의 로브 만들기</Make_ArchMageRobe.label>
+  <Make_ArchMageRobe.description>대마법사의 로브 만듭니다.</Make_ArchMageRobe.description>
+  <Make_ArchMageRobe.jobString>대마법사의 로브 만드는 중.</Make_ArchMageRobe.jobString>
+  <Make_DemonLordCloak.label>패왕의 로브 만들기</Make_DemonLordCloak.label>
+  <Make_DemonLordCloak.description>패왕의 로브 만듭니다.</Make_DemonLordCloak.description>
+  <Make_DemonLordCloak.jobString>패왕의 로브 만드는 중.</Make_DemonLordCloak.jobString>
+  <Make_RoyalArmor.label>용맹의 갑옷 만들기</Make_RoyalArmor.label>
+  <Make_RoyalArmor.description>용맹의 갑옷 만듭니다.</Make_RoyalArmor.description>
+  <Make_RoyalArmor.jobString>용맹의 갑옷 만드는 중.</Make_RoyalArmor.jobString>
+  <Make_RoyalHelm.label>용맹의 투구 만들기</Make_RoyalHelm.label>
+  <Make_RoyalHelm.description>용맹의 투구 만듭니다.</Make_RoyalHelm.description>
+  <Make_RoyalHelm.jobString>용맹의 투구 만드는 중.</Make_RoyalHelm.jobString>
+  <Make_ParagonHelm.label>파라곤의 투구 만들기</Make_ParagonHelm.label>
+  <Make_ParagonHelm.description>파라곤의 투구 만듭니다.</Make_ParagonHelm.description>
+  <Make_ParagonHelm.jobString>파라곤의 투구 만드는 중.</Make_ParagonHelm.jobString>
+  <Make_HoodOfMadness.label>광기의 후드 만들기</Make_HoodOfMadness.label>
+  <Make_HoodOfMadness.description>광기의 후드 만듭니다.</Make_HoodOfMadness.description>
+  <Make_HoodOfMadness.jobString>광기의 후드 만드는 중.</Make_HoodOfMadness.jobString>
+  <Make_ArcaneHood.label>아케인 후드 만들기</Make_ArcaneHood.label>
+  <Make_ArcaneHood.description>아케인 후드 만듭니다.</Make_ArcaneHood.description>
+  <Make_ArcaneHood.jobString>아케인 후드 만드는 중.</Make_ArcaneHood.jobString>
+  <Make_TM_Artifact_BracersOfThePacifist.label>평화주의자의 팔찌 만들기</Make_TM_Artifact_BracersOfThePacifist.label>
+  <Make_TM_Artifact_BracersOfThePacifist.description>평화주의자의 팔찌 만듭니다.</Make_TM_Artifact_BracersOfThePacifist.description>
+  <Make_TM_Artifact_BracersOfThePacifist.jobString>평화주의자의 팔찌 만드는 중.</Make_TM_Artifact_BracersOfThePacifist.jobString>
+  <Make_TM_Artifact_BracersOfDefense.label>방어의 팔찌 만들기</Make_TM_Artifact_BracersOfDefense.label>
+  <Make_TM_Artifact_BracersOfDefense.description>방어의 팔찌 만듭니다.</Make_TM_Artifact_BracersOfDefense.description>
+  <Make_TM_Artifact_BracersOfDefense.jobString>방어의 팔찌 만드는 중.</Make_TM_Artifact_BracersOfDefense.jobString>
+  <Make_TM_Artifact_BracersOfDeflection.label>굴절의 팔찌 만들기</Make_TM_Artifact_BracersOfDeflection.label>
+  <Make_TM_Artifact_BracersOfDeflection.description>굴절의 팔찌 만듭니다.</Make_TM_Artifact_BracersOfDeflection.description>
+  <Make_TM_Artifact_BracersOfDeflection.jobString>굴절의 팔찌 만드는 중.</Make_TM_Artifact_BracersOfDeflection.jobString>
+  <Make_TM_Artifact_RingOfKeenIntellect.label>번뜩이는 지능의 반지 만들기</Make_TM_Artifact_RingOfKeenIntellect.label>
+  <Make_TM_Artifact_RingOfKeenIntellect.description>번뜩이는 지능의 반지 만듭니다.</Make_TM_Artifact_RingOfKeenIntellect.description>
+  <Make_TM_Artifact_RingOfKeenIntellect.jobString>번뜩이는 지능의 반지 만드는 중.</Make_TM_Artifact_RingOfKeenIntellect.jobString>
+  <Make_TM_Artifact_RingOfBlood.label>피의 반지 만들기</Make_TM_Artifact_RingOfBlood.label>
+  <Make_TM_Artifact_RingOfBlood.description>피의 반지 만듭니다.</Make_TM_Artifact_RingOfBlood.description>
+  <Make_TM_Artifact_RingOfBlood.jobString>피의 반지 만드는 중.</Make_TM_Artifact_RingOfBlood.jobString>
+  <Make_TM_Artifact_RingOfEternalBlue.label>영원한 푸름의 반지 만들기</Make_TM_Artifact_RingOfEternalBlue.label>
+  <Make_TM_Artifact_RingOfEternalBlue.description>영원한 푸름의 반지 만듭니다.</Make_TM_Artifact_RingOfEternalBlue.description>
+  <Make_TM_Artifact_RingOfEternalBlue.jobString>영원한 푸름의 반지 만드는 중.</Make_TM_Artifact_RingOfEternalBlue.jobString>
+  <Make_TM_Artifact_RingOfMalice.label>악의의 반지 만들기</Make_TM_Artifact_RingOfMalice.label>
+  <Make_TM_Artifact_RingOfMalice.description>악의의 반지 만듭니다.</Make_TM_Artifact_RingOfMalice.description>
+  <Make_TM_Artifact_RingOfMalice.jobString>악의의 반지 만드는 중.</Make_TM_Artifact_RingOfMalice.jobString>
+  <Make_TM_Artifact_OrbOfEternal.label>영원의 오브 만들기</Make_TM_Artifact_OrbOfEternal.label>
+  <Make_TM_Artifact_OrbOfEternal.description>영원의 오브 만듭니다.</Make_TM_Artifact_OrbOfEternal.description>
+  <Make_TM_Artifact_OrbOfEternal.jobString>영원의 오브 만드는 중.</Make_TM_Artifact_OrbOfEternal.jobString>
+  <Make_UnfinishedArcane.label>미완성 찢어진 마법서 만들기</Make_UnfinishedArcane.label>
+  <Make_UnfinishedArcane.description>미완성 찢어진 마법서 만듭니다.</Make_UnfinishedArcane.description>
+  <Make_UnfinishedArcane.jobString>미완성 찢어진 마법서 만드는 중.</Make_UnfinishedArcane.jobString>
+  <Make_UnfinishedAdvArcane.label>미완성 마법서 만들기</Make_UnfinishedAdvArcane.label>
+  <Make_UnfinishedAdvArcane.description>미완성 마법서 만듭니다.</Make_UnfinishedAdvArcane.description>
+  <Make_UnfinishedAdvArcane.jobString>미완성 마법서 만드는 중.</Make_UnfinishedAdvArcane.jobString>
+  <Make_UnfinishedMartial.label>미완성 기술서 만들기</Make_UnfinishedMartial.label>
+  <Make_UnfinishedMartial.description>미완성 기술서 만듭니다.</Make_UnfinishedMartial.description>
+  <Make_UnfinishedMartial.jobString>미완성 기술서 만드는 중.</Make_UnfinishedMartial.jobString>
+  <ArcaneForge_ThrumboAxe.label>트럼보 뿔도끼</ArcaneForge_ThrumboAxe.label>
+  <ArcaneForge_ThrumboAxe.description>마법석으로 만든 걸쇠와 함께 트럼보 뿔을 결합하여 만든 도끼. 이 걸쇠는 마법적 힘을 저장하며, 그 힘을 도끼를 휘두를 때 여러 적을 쪼개버릴 수 있도록 물리력으로 변환해줍니다. 또한 손잡이는 사용자의 힘을 증대시키는 마법 룬으로 장식되어 있습니다.\n\n이 무기는 숙련된 마법사와 전사에게 추가 효과를 부여합니다 :\n최대 에너지 +10%\n피해 증가량 +20%\n아케인 저항력 +30%</ArcaneForge_ThrumboAxe.description>
+  <ArcaneForge_ThrumboAxe.jobString>트럼보 뿔도끼 만드는 중.</ArcaneForge_ThrumboAxe.jobString>
+  <ArcaneForge_ElephantSpear.label>코끼리 상아창</ArcaneForge_ElephantSpear.label>
+  <ArcaneForge_ElephantSpear.description>코끼리의 엄니로 만들어진 코끼리 상아창은 일반적으로 최고 사냥꾼이나 부족장의 지위를 상징하기도 합니다. 손잡이에는 마법 룬이 새겨져 있어, 사용자의 전투 능력을 한층 더 향상시킵니다.\n\n이 무기는 숙련된 마법사와 전사에게 추가 효과를 부여합니다 :\n최대 에너지 +10%\n피해 증가량 +10%\n아케인 저항력 +20%</ArcaneForge_ElephantSpear.description>
+  <ArcaneForge_ElephantSpear.jobString>코끼리 상아창 만드는 중</ArcaneForge_ElephantSpear.jobString>
+  <ArcaneForge_ThrumBow.label>트럼보 각궁</ArcaneForge_ThrumBow.label>
+  <ArcaneForge_ThrumBow.description>트럼보 뿔 모양의 활. 뿔은 무게를 줄이기 위해 안을 파냈으며, 마법 화합물에 푹 담궈져 놀랍도록 유연하게 변했습니다. 또한 이 활은 사거리를 향샹시키기 위한 단단한 마법 각인과, 정교한 룬 조각이 새겨져 있습니다. 활에는 어느정도 지각 능력이 있는 것으로 알려져 있고, 사용자와의 정신적 연계를 통해서 목표물을 정할 수도 있습니다. 그로 인해 이 활에서 발사된 화살은 거의 목표물에 적중하는 편이지만, 이는 사용자가 자신의 능력을 과대평가하여 발전이 느려지는 부작용도 존재합니다.\n\n이 무기는 숙련된 마법사와 전사에게 추가 효과를 부여합니다 :\n최대 에너지 +20%\n에너지 재생 +10%\n피해 증가량 +20%\n재사용 대기시간 -10%\n직업 경험치 획득 -20%</ArcaneForge_ThrumBow.description>
+  <ArcaneForge_ThrumBow.jobString>트럼보 각궁 만드는 중.</ArcaneForge_ThrumBow.jobString>
+  <ArcaneForge_ElephantBow.label>코끼리 상아활</ArcaneForge_ElephantBow.label>
+  <ArcaneForge_ElephantBow.description>코끼리의 엄니로 만든 활. 엄니는 무게를 줄이기 위해 안을 파냈으며, 마법 화합물에 담궈 유연하게 만들었습니다. 코끼리 상아활은 다른 활보다 다루기가 조금 어렵기는 하지만, 먼 표적을 조준할 수 있는 사정거리와 정확도가 상당히 향상되어 있습니다.\n\n코끼리 상아활에는 자잘한 마법 각인이 새겨져 있으며, 많은 경험 많은 레인져들과 사냥꾼들이 선호하는 무기입니다.\n\n이 무기는 숙련된 마법사와 전사에게 추가 효과를 부여합니다 :\n최대 에너지 +5%\n에너지 재생 +5%\n피해 증가량 +10%\n재사용 대기시간 -10%</ArcaneForge_ElephantBow.description>
+  <ArcaneForge_ElephantBow.jobString>코끼리 상아활 만드는 중.</ArcaneForge_ElephantBow.jobString>
+  <ArcaneForge_Replication.label>복제 설계도 사용하기</ArcaneForge_Replication.label>
+  <ArcaneForge_Replication.description>복제한 설계도를 사용하여 복제품을 제작합니다.</ArcaneForge_Replication.description>
+  <ArcaneForge_Replication.jobString>복제중</ArcaneForge_Replication.jobString>
+  <ArcaneForge_Replication_Restore.label>복제 설계도 사용하기</ArcaneForge_Replication_Restore.label>
+  <ArcaneForge_Replication_Restore.description>복제한 설계도를 사용하여 복제품을 제작합니다.</ArcaneForge_Replication_Restore.description>
+  <ArcaneForge_Replication_Restore.jobString>복제중</ArcaneForge_Replication_Restore.jobString>
+  <CutMinorMPGem.label>투박한 저장의 보석 만들기</CutMinorMPGem.label>
+  <CutMinorMPGem.description>마법석을 정제하여 마나를 저장할 수 있는 마법의 보석을 만듭니다.</CutMinorMPGem.description>
+  <CutMinorMPGem.jobString>투박한 저장의 보석 만드는 중</CutMinorMPGem.jobString>
+  <CutMPGem.label>저장의 보석 만들기</CutMPGem.label>
+  <CutMPGem.description>마법석을 정제하여 마나를 저장할 수 있는 마법의 보석을 만듭니다.</CutMPGem.description>
+  <CutMPGem.jobString>저장의 보석 만드는 중</CutMPGem.jobString>
+  <CutMajorMPGem.label>뛰어난 저장의 보석 만들기</CutMajorMPGem.label>
+  <CutMajorMPGem.description>마법석을 정제하여 마나를 저장할 수 있는 마법의 보석을 만듭니다.</CutMajorMPGem.description>
+  <CutMajorMPGem.jobString>뛰어난 저장의 보석 만드는 중</CutMajorMPGem.jobString>
+  <CutMinorCoolDownGem.label>투박한 가속의 보석 만들기</CutMinorCoolDownGem.label>
+  <CutMinorCoolDownGem.description>마법석을 정제하여 능력의 재사용 시간을 줄이는 마법의 보석을 만듭니다.</CutMinorCoolDownGem.description>
+  <CutMinorCoolDownGem.jobString>투박한 가속의 보석 만드는 중</CutMinorCoolDownGem.jobString>
+  <CutCoolDownGem.label>가속의 보석 만들기</CutCoolDownGem.label>
+  <CutCoolDownGem.description>마법석을 정제하여 능력의 재사용 시간을 줄이는 마법의 보석을 만듭니다.</CutCoolDownGem.description>
+  <CutCoolDownGem.jobString>가속의 보석 만드는 중</CutCoolDownGem.jobString>
+  <CutMajorCoolDownGem.label>뛰어난 가속의 보석 만들기</CutMajorCoolDownGem.label>
+  <CutMajorCoolDownGem.description>마법석을 정제하여 능력의 재사용 시간을 줄이는 마법의 보석을 만듭니다.</CutMajorCoolDownGem.description>
+  <CutMajorCoolDownGem.jobString>뛰어난 가속의 보석 만드는 중</CutMajorCoolDownGem.jobString>
+  <CutMinorMPCostGem.label>투박한 보존의 보석 만들기</CutMinorMPCostGem.label>
+  <CutMinorMPCostGem.description>마법석을 정제하여 마법에 사용되는 마나의 양을 줄일 수 있는 마법의 보석을 만듭니다.</CutMinorMPCostGem.description>
+  <CutMinorMPCostGem.jobString>투박한 보존의 보석 만드는 중</CutMinorMPCostGem.jobString>
+  <CutMPCostGem.label>보존의 보석 만들기</CutMPCostGem.label>
+  <CutMPCostGem.description>마법석을 정제하여 마법에 사용되는 마나의 양을 줄일 수 있는 마법의 보석을 만듭니다.</CutMPCostGem.description>
+  <CutMPCostGem.jobString>보존의 보석 만드는 중</CutMPCostGem.jobString>
+  <CutMajorMPCostGem.label>뛰어난 보존의 보석 만들기</CutMajorMPCostGem.label>
+  <CutMajorMPCostGem.description>마법석을 정제하여 마법에 사용되는 마나의 양을 줄일 수 있는 마법의 보석을 만듭니다.</CutMajorMPCostGem.description>
+  <CutMajorMPCostGem.jobString>뛰어난 보존의 보석 만드는 중</CutMajorMPCostGem.jobString>
+  <CutMinorMPRegenRateGem.label>투박한 재생의 보석 만들기</CutMinorMPRegenRateGem.label>
+  <CutMinorMPRegenRateGem.description>마법석을 정제하여 마나가 증가하는 비율을 높일 수 있는 마법의 보석을 만듭니다.</CutMinorMPRegenRateGem.description>
+  <CutMinorMPRegenRateGem.jobString>투박한 재생의 보석 만드는 중</CutMinorMPRegenRateGem.jobString>
+  <CutMPRegenRateGem.label>재생의 보석 만들기</CutMPRegenRateGem.label>
+  <CutMPRegenRateGem.description>마법석을 정제하여 마나가 증가하는 비율을 높일 수 있는 마법의 보석을 만듭니다.</CutMPRegenRateGem.description>
+  <CutMPRegenRateGem.jobString>재생의 보석 만드는 중</CutMPRegenRateGem.jobString>
+  <CutMajorMPRegenRateGem.label>뛰어난 재생의 보석 만들기</CutMajorMPRegenRateGem.label>
+  <CutMajorMPRegenRateGem.description>마법석을 정제하여 마나가 증가하는 비율을 높일 수 있는 마법의 보석을 만듭니다.</CutMajorMPRegenRateGem.description>
+  <CutMajorMPRegenRateGem.jobString>뛰어난 재생의 보석 만드는 중</CutMajorMPRegenRateGem.jobString>
+  <CutMinorXPGainGem.label>투박한 학습의 보석 만들기</CutMinorXPGainGem.label>
+  <CutMinorXPGainGem.description>마법석을 정제하여 능력을 사용할 때 얻게되는 경험치를 늘릴 수 있는 마법의 보석을 만듭니다.</CutMinorXPGainGem.description>
+  <CutMinorXPGainGem.jobString>투박한 학습의 보석 만드는 중</CutMinorXPGainGem.jobString>
+  <CutXPGainGem.label>학습의 보석 만들기</CutXPGainGem.label>
+  <CutXPGainGem.description>마법석을 정제하여 능력을 사용할 때 얻게되는 경험치를 늘릴 수 있는 마법의 보석을 만듭니다.</CutXPGainGem.description>
+  <CutXPGainGem.jobString>학습의 보석 만드는 중</CutXPGainGem.jobString>
+  <CutMajorXPGainGem.label>뛰어난 학습의 보석 만들기</CutMajorXPGainGem.label>
+  <CutMajorXPGainGem.description>마법석을 정제하여 능력을 사용할 때 얻게되는 경험치를 늘릴 수 있는 마법의 보석을 만듭니다.</CutMajorXPGainGem.description>
+  <CutMajorXPGainGem.jobString>뛰어난 학습의 보석 만드는 중</CutMajorXPGainGem.jobString>
+  <CutMinorArcaneResGem.label>투박한 저항의 보석 만들기</CutMinorArcaneResGem.label>
+  <CutMinorArcaneResGem.description>마법석을 정제하여 마법 공격에 효과적으로 저항할 수 있도록 하는 마법의 보석을 만듭니다.</CutMinorArcaneResGem.description>
+  <CutMinorArcaneResGem.jobString>투박한 저항의 보석 만드는 중</CutMinorArcaneResGem.jobString>
+  <CutArcaneResGem.label>저항의 보석 만들기</CutArcaneResGem.label>
+  <CutArcaneResGem.description>마법석을 정제하여 마법 공격에 효과적으로 저항할 수 있도록 하는 마법의 보석을 만듭니다.</CutArcaneResGem.description>
+  <CutArcaneResGem.jobString>저항의 보석 만드는 중</CutArcaneResGem.jobString>
+  <CutMajorArcaneResGem.label>뛰어난 저항의 보석 만들기</CutMajorArcaneResGem.label>
+  <CutMajorArcaneResGem.description>마법석을 정제하여 마법 공격에 효과적으로 저항할 수 있도록 하는 마법의 보석을 만듭니다.</CutMajorArcaneResGem.description>
+  <CutMajorArcaneResGem.jobString>뛰어난 저항의 보석 만드는 중</CutMajorArcaneResGem.jobString>
+  <CutMinorArcaneDmgGem.label>투박한 힘의 보석 만들기</CutMinorArcaneDmgGem.label>
+  <CutMinorArcaneDmgGem.description>마법석을 정제하여 마법 공격의 힘을 증가시킬 수 있는 마법의 보석을 만듭니다.</CutMinorArcaneDmgGem.description>
+  <CutMinorArcaneDmgGem.jobString>투박한 힘의 보석 만드는 중</CutMinorArcaneDmgGem.jobString>
+  <CutArcaneDmgGem.label>힘의 보석 만들기</CutArcaneDmgGem.label>
+  <CutArcaneDmgGem.description>마법석을 정제하여 마법 공격의 힘을 증가시킬 수 있는 마법의 보석을 만듭니다.</CutArcaneDmgGem.description>
+  <CutArcaneDmgGem.jobString>힘의 보석 만드는 중</CutArcaneDmgGem.jobString>
+  <CutMajorArcaneDmgGem.label>뛰어난 힘의 보석 만들기</CutMajorArcaneDmgGem.label>
+  <CutMajorArcaneDmgGem.description>마법석을 정제하여 마법 공격의 힘을 증가시킬 수 있는 마법의 보석을 만듭니다.</CutMajorArcaneDmgGem.description>
+  <CutMajorArcaneDmgGem.jobString>뛰어난 힘의 보석 만드는 중</CutMajorArcaneDmgGem.jobString>
+  <CutMinorArcaneWonderGem.label>투박한 경이의 보석 만들기</CutMinorArcaneWonderGem.label>
+  <CutMinorArcaneWonderGem.description>마법석을 정제하여 모든 마법의 힘을 증가시킬 수 있는 마법의 보석을 만듭니다.</CutMinorArcaneWonderGem.description>
+  <CutMinorArcaneWonderGem.jobString>투박한 경이의 보석 만드는 중</CutMinorArcaneWonderGem.jobString>
+  <CutArcaneWonderGem.label>경이의 보석 만들기</CutArcaneWonderGem.label>
+  <CutArcaneWonderGem.description>마법석을 정제하여 모든 마법의 힘을 증가시킬 수 있는 마법의 보석을 만듭니다.</CutArcaneWonderGem.description>
+  <CutArcaneWonderGem.jobString>경이의 보석 만드는 중</CutArcaneWonderGem.jobString>
+  <CutMajorArcaneWonderGem.label>뛰어난 경이의 보석 만들기</CutMajorArcaneWonderGem.label>
+  <CutMajorArcaneWonderGem.description>마법석을 정제하여 모든 마법의 힘을 증가시킬 수 있는 마법의 보석을 만듭니다.</CutMajorArcaneWonderGem.description>
+  <CutMajorArcaneWonderGem.jobString>뛰어난 경이의 보석 만드는 중</CutMajorArcaneWonderGem.jobString>
+  <ManaPotion_Refined.label>마나포션 만들기</ManaPotion_Refined.label>
+  <ManaPotion_Refined.description>고주스와 정제된 마법석을 가공하여 2개의 마나포션을 제작합니다.</ManaPotion_Refined.description>
+  <ManaPotion_Refined.jobString>마나포션 만드는 중.</ManaPotion_Refined.jobString>
+  <TM_MakeManaweave.label>마나 옷감 만들기</TM_MakeManaweave.label>
+  <TM_MakeManaweave.description>마나와 바법석 그리고 옷감을 엮어 마나 옷감을 제작합니다.</TM_MakeManaweave.description>
+  <TM_MakeManaweave.jobString>마나 옷감 만드는 중.</TM_MakeManaweave.jobString>
+  <Regrowth.label>신체 부위 재생 (드루이드만 해당, 90% 마나 필요)</Regrowth.label>
+  <Regrowth.description>일부 몸부위를 재생하기 위해 드루이드의 힘을 사용합니다.</Regrowth.description>
+  <Regrowth.jobString>몸부위 재생 중.</Regrowth.jobString>
+  <TM_ExtractSyrrium.label>사이리움 추출</TM_ExtractSyrrium.label>
+  <TM_ExtractSyrrium.description>사이리움이 으깬 포마나에서 사이펀을 통과할 수 있을 때까지 포마나사이리움을 끓입니다.</TM_ExtractSyrrium.description>
+  <TM_ExtractSyrrium.jobString>사이리움 추출 중.</TM_ExtractSyrrium.jobString>
+
+</LanguageData>

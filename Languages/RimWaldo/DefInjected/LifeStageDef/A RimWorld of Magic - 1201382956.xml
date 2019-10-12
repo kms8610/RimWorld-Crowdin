@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TM_LesserElemental_Lifestage.label>하위 정령</TM_LesserElemental_Lifestage.label>
+  <TM_Elemental_Lifestage.label>정령</TM_Elemental_Lifestage.label>
+  <TM_GreaterElemental_Lifestage.label>상위 정령</TM_GreaterElemental_Lifestage.label>
+  <TM_Minion_Lifestage.label>종복</TM_Minion_Lifestage.label>
+  <TM_GreaterMinion_Lifestage.label>상위 종복</TM_GreaterMinion_Lifestage.label>
+  <TM_Demon_Lifestage.label>악마</TM_Demon_Lifestage.label>
+  <TM_LesserSentinel_Lifestage.label>하위 수호령</TM_LesserSentinel_Lifestage.label>
+  <TM_Sentinel_Lifestage.label>수호령</TM_Sentinel_Lifestage.label>
+  <TM_GreaterSentinel_Lifestage.label>상위 수호령</TM_GreaterSentinel_Lifestage.label>
+
+</LanguageData>

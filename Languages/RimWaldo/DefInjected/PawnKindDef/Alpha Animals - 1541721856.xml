@@ -22,6 +22,8 @@
   <AA_CrepuscularBeetle.label>반딧불</AA_CrepuscularBeetle.label>
   <AA_DecayDrake.label>누룩 도마뱀</AA_DecayDrake.label>
   <AA_DevilSheep.label>악마양</AA_DevilSheep.label>
+  <AA_DevilSheep.labelMale>악마양</AA_DevilSheep.labelMale>
+  <AA_DevilSheep.labelFemale>악마양</AA_DevilSheep.labelFemale>
   <AA_Dunealisk.label>두니아리스크</AA_Dunealisk.label>
   <AA_DunealiskClutchMother.label>두니아리스크 무리어미</AA_DunealiskClutchMother.label>
   <AA_DuskRat.label>황혼 쥐</AA_DuskRat.label>
@@ -62,6 +64,8 @@
   <AA_SandLion.label>모래 사자</AA_SandLion.label>
   <AA_SandSquid.label>모래징어</AA_SandSquid.label>
   <AA_ShockGoat.label>충격 염소</AA_ShockGoat.label>
+  <AA_ShockGoat.labelMale>충격 염소</AA_ShockGoat.labelMale>
+  <AA_ShockGoat.labelFemale>충격 염소</AA_ShockGoat.labelFemale>
   <AA_Skyeel.label>아크투란 하늘장어</AA_Skyeel.label>
   <AA_Slurrypede.label>슬러리피드</AA_Slurrypede.label>
   <AA_TetraSlug.label>테트라 슬러그</AA_TetraSlug.label>

@@ -15,11 +15,11 @@
   <ContractEnd>계약 종료</ContractEnd>
   <ContractBreach>계약 위반</ContractBreach>
   <ContractRenewedMessage>{PAWN_nameDef}(은)는 임차권 계약을 연장합니다.</ContractRenewedMessage>
-  <ContractDoneHappy>{PAWN_nameDef}(와)과 계약을 맺었으며 {0}의 임대금을 받았습니다. {PAWN_nameDef}(은)는 매우 만족하며 지냈습니다.</ContractDoneHappy>
-  <ContractDoneSad>{PAWN_nameDef}(와)과 계약을 맺었으며 {0}의 임대금을 받았습니다. {PAWN_nameDef}(은)는 다소 불만을 가지고 있습니다...</ContractDoneSad>
-  <ContractDone>{PAWN_nameDef}(와)과 계약을 맺었으며 {0}의 임대금을 받았습니다.</ContractDone>
-  <ContractDoneTerminated>{PAWN_nameDef}(와)과의 계약이 종료됨에 따라 {0}의 임대금을 받았습니다. {PAWN_nameDef}(은)는 씁쓸해하며 떠납니다...</ContractDoneTerminated>
-  <ContractDonePlayerTerminated>{PAWN_nameDef}(와)과의 계약은 종료 되었고 {PAWN_pronoun}는 강제로 떠나게 됩니다.</ContractDonePlayerTerminated>
+  <ContractDoneHappy>{PAWN_nameDef}(와)과 계약이 종료됨에 따라 {0}의 임대금을 받았습니다. {PAWN_nameDef}(은)는 매우 만족하며 지냈습니다.</ContractDoneHappy>
+  <ContractDoneSad>{PAWN_nameDef}(와)과 계약이 종료됨에 따라 {0}의 임대금을 받았습니다. {PAWN_nameDef}(은)는 다소 불만을 가지고 있습니다...</ContractDoneSad>
+  <ContractDone>{PAWN_nameDef}(와)과 계약이 종료됨에 따라 {0}의 임대금을 받았습니다.</ContractDone>
+  <ContractDoneTerminated>{PAWN_nameDef}(와)과 계약이 종료됨에 따라 {0}의 임대금을 받았습니다. {PAWN_nameDef}(은)는 씁쓸해하며 떠납니다...</ContractDoneTerminated>
+  <ContractDonePlayerTerminated>{PAWN_nameDef}(와)과 계약은 종료 되었고 {PAWN_pronoun}는 강제로 떠나게 됩니다.</ContractDonePlayerTerminated>
   <ContractDoneTheft>{PAWN_nameDef}(은)는 비용을 내지 않고 몰래 도망치기로 결심했습니다. {PAWN_pronoun}(은)는 뻔뻔하게도 도둑질을 하려고 합니다! {PAWN_nameDef}(와)과 같은 인간 쓰레기는 처벌을 받아도 마땅하며 {PAWN_objective} 마음대로 처리할 권한이 있습니다.</ContractDoneTheft>
   <ContractTerminateFail>지금은 계약을 취소할 수 없습니다.</ContractTerminateFail>
   <ContractEndDate>종료: {0}</ContractEndDate>
@@ -53,7 +53,7 @@
   <CleaningTip>세입자가 청소를 도와줄 수 있도록 허용합니다.</CleaningTip>
   <CleaningError>{PAWN_nameDef}(은)는 청소를 할 수 없습니다!</CleaningError>
   <TenantMood>기분</TenantMood>
-  <TenantSad>슬픈 세입자 {0}.</TenantSad>
+  <TenantSad>슬픈 세입자 {0}명</TenantSad>
   <TenantSadDesc>슬퍼하고 있는 세입자:\n\n{0}\n어떠한 문제가 있는지 살펴보시길 바랍니다.</TenantSadDesc>
   <Captured>포획됨</Captured>
   <Retribution>응징</Retribution>

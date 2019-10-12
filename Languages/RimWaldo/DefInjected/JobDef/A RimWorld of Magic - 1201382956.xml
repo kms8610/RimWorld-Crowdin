@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TMCastAbilityVerb.reportString>능력 사용하기</TMCastAbilityVerb.reportString>
+  <TMCastAbilitySelf.reportString>능력 사용하기</TMCastAbilitySelf.reportString>
+  <JobDriver_RemoveEnchantingGem.reportString>TargetA에 대한 마법부여 준비를 취소 중.</JobDriver_RemoveEnchantingGem.reportString>
+  <JobDriver_AddEnchantingGem.reportString>TargetA(을)를 마법부여할 준비 중.</JobDriver_AddEnchantingGem.reportString>
+  <JobDriver_EnchantItem.reportString>TargetA에 마법부여 중.</JobDriver_EnchantItem.reportString>
+  <PlacePoisonTrap.reportString>독 함정 설치 중.</PlacePoisonTrap.reportString>
+  <JobDriver_SleepNow.reportString>수면 중. (자장가)</JobDriver_SleepNow.reportString>
+  <JobDriver_Entertain.reportString>즐거워하는 중.</JobDriver_Entertain.reportString>
+  <JobDriver_DoFor.reportString>공격 준비 중.</JobDriver_DoFor.reportString>
+  <JobDriver_SummonDemon.reportString>희생자 표식</JobDriver_SummonDemon.reportString>
+  <JobDriver_PsionicBarrier.reportString>사이오닉 장벽 투사</JobDriver_PsionicBarrier.reportString>
+  <JobDriver_TM_Teach.reportString>훈련 및 지도 중.</JobDriver_TM_Teach.reportString>
+  <PortalDestination.reportString>차원 관문 대상 지정 중.</PortalDestination.reportString>
+  <UsePortal.reportString>차원 관문 이용 중.</UsePortal.reportString>
+  <DeactivatePortal.reportString>차원 관문 비활성화 중.</DeactivatePortal.reportString>
+  <ChargePortal.reportString>차원 관문 충전 중.</ChargePortal.reportString>
+  <PortalStockpile.reportString>차원 관문을 통해 물품을 보내는 중.</PortalStockpile.reportString>
+
+</LanguageData>

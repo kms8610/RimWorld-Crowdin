@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DoomsdayHelp.label>диалог просьба о помощи в рейде</DoomsdayHelp.label>
+  <DoomsdayHelp.Pages.0.Title>Я вас приветствую.</DoomsdayHelp.Pages.0.Title>
+  <DoomsdayHelp.Pages.0.Text>- Как вы уже, наверное, знаете, одна из фракций намерена уничтожить планету. Требуются незамедлительные действия.</DoomsdayHelp.Pages.0.Text>
+  <DoomsdayHelp.Pages.0.Options.0.Label>MustUnite</DoomsdayHelp.Pages.0.Options.0.Label>
+  <DoomsdayHelp.Pages.0.Options.1.Label>EndCooms</DoomsdayHelp.Pages.0.Options.1.Label>
+  <DoomsdayHelp.Pages.1.Title>Объединиться?</DoomsdayHelp.Pages.1.Title>
+  <DoomsdayHelp.Pages.1.Text>*Он задумался, а после с интересом ответил:* \n- Мы не хотим неприятностей, так что расскажите подробнее.</DoomsdayHelp.Pages.1.Text>
+  <DoomsdayHelp.Pages.1.Options.0.Label>AskHelp</DoomsdayHelp.Pages.1.Options.0.Label>
+  <DoomsdayHelp.Pages.1.Options.1.Label>ReqHelp</DoomsdayHelp.Pages.1.Options.1.Label>
+  <DoomsdayHelp.Pages.1.Options.2.Label>NapDolg</DoomsdayHelp.Pages.1.Options.2.Label>
+  <DoomsdayHelp.Pages.1.Options.3.Label>Threaten</DoomsdayHelp.Pages.1.Options.3.Label>
+  <DoomsdayHelp.Pages.1.Options.4.Label>Rude</DoomsdayHelp.Pages.1.Options.4.Label>
+  <DoomsdayHelp.Pages.1.Options.5.Label>EndCooms</DoomsdayHelp.Pages.1.Options.5.Label>
+  <DoomsdayHelp.Pages.2.Title>Помощь?</DoomsdayHelp.Pages.2.Title>
+  <DoomsdayHelp.Pages.2.Text>- Всё настолько плохо? \n*в его интонации смешались страх и отчаяние. Казалось будто прямо сейчас он разрыдается и закричит* \n- Мы не можем помочь. Наших сил недостаточно. Простите...</DoomsdayHelp.Pages.2.Text>
+  <DoomsdayHelp.Pages.2.Options.0.Label>Insist</DoomsdayHelp.Pages.2.Options.0.Label>
+  <DoomsdayHelp.Pages.2.Options.1.Label>Manipulir</DoomsdayHelp.Pages.2.Options.1.Label>
+  <DoomsdayHelp.Pages.2.Options.2.Label>Ask</DoomsdayHelp.Pages.2.Options.2.Label>
+  <DoomsdayHelp.Pages.3.Title>Невероятно...</DoomsdayHelp.Pages.3.Title>
+  <DoomsdayHelp.Pages.3.Text>- Это правда страшно. \n*замолчав и тяжело вздохнув, он сначала сделал глубокий вдох, а затем продолжил:* \n- Я скажу своим людям готовиться, однако наша фракция переживает не лучшие времена. Не могу быть уверен в том, что мы сможем прийти на помощь.</DoomsdayHelp.Pages.3.Text>
+  <DoomsdayHelp.Pages.3.Options.0.Label>FriendlyConver</DoomsdayHelp.Pages.3.Options.0.Label>
+  <DoomsdayHelp.Pages.3.Options.1.Label>SpeakConv</DoomsdayHelp.Pages.3.Options.1.Label>
+  <DoomsdayHelp.Pages.3.Options.2.Label>HiddenThreat</DoomsdayHelp.Pages.3.Options.2.Label>
+  <DoomsdayHelp.Pages.4.Title>Ваши слова не могут меня убедить...</DoomsdayHelp.Pages.4.Title>
+  <DoomsdayHelp.Pages.4.Text>- Нет-нет, не подумайте, угроза правда велика, однако я не вижу смысла отправлять своих людей на помощь к вам. Мы способны защитить себя, а большего и не надо.</DoomsdayHelp.Pages.4.Text>
+  <DoomsdayHelp.Pages.4.Options.0.Label>TalkBig</DoomsdayHelp.Pages.4.Options.0.Label>
+  <DoomsdayHelp.Pages.4.Options.1.Label>BigYstyp</DoomsdayHelp.Pages.4.Options.1.Label>
+  <DoomsdayHelp.Pages.4.Options.2.Label>ThreatWarn</DoomsdayHelp.Pages.4.Options.2.Label>
+  <DoomsdayHelp.Pages.5.Title>Ваши требования невообразимы...</DoomsdayHelp.Pages.5.Title>
+  <DoomsdayHelp.Pages.5.Text>- То что они собираются сделать - ужасно, определённо, но... \n*он замолчал на несколько секунд, а затем с печальной интонацией продолжил говорить:* \n- риск слишком велик. Мы не можем помочь.</DoomsdayHelp.Pages.5.Text>
+  <DoomsdayHelp.Pages.5.Options.0.Label>NaporUp</DoomsdayHelp.Pages.5.Options.0.Label>
+  <DoomsdayHelp.Pages.5.Options.1.Label>NextDavl</DoomsdayHelp.Pages.5.Options.1.Label>
+  <DoomsdayHelp.Pages.6.Title>Я не собираюсь слушать вас!</DoomsdayHelp.Pages.6.Title>
+  <DoomsdayHelp.Pages.6.Text>*выслушав вас он громко засмеялся, а затем грубо спросил:* \n- Вы сами слышите себя? Наша военная сила намного значительнее вашей. Забудьте о своей глупой идее.</DoomsdayHelp.Pages.6.Text>
+  <DoomsdayHelp.Pages.6.Options.0.Label>LastWords</DoomsdayHelp.Pages.6.Options.0.Label>
+  <DoomsdayHelp.Pages.6.Options.1.Label>PsyhoPress</DoomsdayHelp.Pages.6.Options.1.Label>
+  <DoomsdayHelp.Pages.7.Title>Какой ещё долг?</DoomsdayHelp.Pages.7.Title>
+  <DoomsdayHelp.Pages.7.Text>- Я ничего такого не помню. Хотя, если вы говорите... Я выслушаю вас.</DoomsdayHelp.Pages.7.Text>
+  <DoomsdayHelp.Pages.7.Options.0.Label>NextDial</DoomsdayHelp.Pages.7.Options.0.Label>
+  <DoomsdayHelp.Pages.7.Options.1.Label>TalkYver</DoomsdayHelp.Pages.7.Options.1.Label>
+  <DoomsdayHelp.Pages.8.Title>О чем вы говорите?</DoomsdayHelp.Pages.8.Title>
+  <DoomsdayHelp.Pages.8.Text>- Должны денег? \n*на минуту он задумывается, а затем неуверенно отвечает:* \n- Я не помню такого, но если вы так говорите, то я готов выслушать.</DoomsdayHelp.Pages.8.Text>
+  <DoomsdayHelp.Pages.8.Options.0.Label>NextDial</DoomsdayHelp.Pages.8.Options.0.Label>
+  <DoomsdayHelp.Pages.8.Options.1.Label>TalkYver</DoomsdayHelp.Pages.8.Options.1.Label>
+  <DoomsdayHelp.Pages.9.Title>Это возмутительно!</DoomsdayHelp.Pages.9.Title>
+  <DoomsdayHelp.Pages.9.Text>*Неохотно выслушивая вас он несколько раз зевнул, а когда вы закончили негромко засмеялся и ответил:* \n- Мы знакомы с угрозой, но помогать вам? Смешно! Слепые пингвины будут союзниками получше вашего. Забудьте про этот канал связи.</DoomsdayHelp.Pages.9.Text>
+  <DoomsdayHelp.Pages.9.Options.0.Label>EndCooms</DoomsdayHelp.Pages.9.Options.0.Label>
+  <DoomsdayHelp.Pages.10.Title>Мы согласны...</DoomsdayHelp.Pages.10.Title>
+  <DoomsdayHelp.Pages.10.Text>*После услышанного от вас на несколько секунд он замолчал, а когда попытался говорить казалось будто он совсем забыл как это делать. Его дыхание участилось, а слова были ужасно медленными:* \n- Уничтожить... всю планету? Мы хотим помочь. Мы поможем. Пожалуйста, скажите что делать и наши лучшие бойцы сделают это.</DoomsdayHelp.Pages.10.Text>
+  <DoomsdayHelp.Pages.10.Options.0.Label>EndCooms</DoomsdayHelp.Pages.10.Options.0.Label>
+  <CommOptionGetHelp.label>Опция - просить помощи</CommOptionGetHelp.label>
+  <CommOptionGetHelp.Pages.0.Title>Просьба о помощи</CommOptionGetHelp.Pages.0.Title>
+  <CommOptionGetHelp.Pages.0.Text>Вы вызываете лидера дружественной фракции на связь. Не торопясь он отвечает грубым голосом: ало?</CommOptionGetHelp.Pages.0.Text>
+  <CommOptionGetHelp.Pages.0.Options.0.Label>AskForResources</CommOptionGetHelp.Pages.0.Options.0.Label>
+  <CommOptionGetHelp.Pages.0.Options.1.Label>AskForPower</CommOptionGetHelp.Pages.0.Options.1.Label>
+  <CommOptionGetHelp.Pages.0.Options.2.Label>EndCooms</CommOptionGetHelp.Pages.0.Options.2.Label>
+
+</LanguageData>

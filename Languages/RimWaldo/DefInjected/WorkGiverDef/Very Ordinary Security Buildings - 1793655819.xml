@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DoBillsVOSBAssembler.label>조립 기계 조작</DoBillsVOSBAssembler.label>
+  <DoBillsVOSBAssembler.verb>만들기</DoBillsVOSBAssembler.verb>
+  <DoBillsVOSBAssembler.gerund>만들기</DoBillsVOSBAssembler.gerund>
+  <DoBillsVOSBProcurebench.label>물자 조달</DoBillsVOSBProcurebench.label>
+  <DoBillsVOSBProcurebench.verb>만들기</DoBillsVOSBProcurebench.verb>
+  <DoBillsVOSBProcurebench.gerund>만들기</DoBillsVOSBProcurebench.gerund>
+
+</LanguageData>

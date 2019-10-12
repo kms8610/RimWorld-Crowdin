@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AB_RedFog.label>붉은 안개</AB_RedFog.label>
+  <AB_RedFog.description>붉은 안개는 원거리 무기의 정확도를 감소시킵니다.</AB_RedFog.description>
+  <AB_ForsakenNight.label>버림받은 안개</AB_ForsakenNight.label>
+  <AB_ForsakenNight.description>당신의 영혼에 스며드는 초자연적인 어둠입니다. '낮'일 때에도 밝기가 매우 낮아서 조명이 꼭 필요합니다. 밤은 정말 어둡습니다.</AB_ForsakenNight.description>
+  <AB_ForsakenThunderstorm.label>잊혀진 폭풍우</AB_ForsakenThunderstorm.label>
+  <AB_ForsakenThunderstorm.description>당신의 영혼에 스며드는 초자연적인 어둠입니다. 이제는 천둥 번개까지 치는군요. 대단하지 않습니까?</AB_ForsakenThunderstorm.description>
+
+</LanguageData>
