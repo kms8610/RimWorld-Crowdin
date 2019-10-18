@@ -132,14 +132,6 @@
   <ArrestPeacefullyChance.label>평화적 구속 기회</ArrestPeacefullyChance.label>
   <ArrestPeacefullyChance.description>상대를 설득하여 평화적으로 구속할 확률입니다.</ArrestPeacefullyChance.description>
 
-  <!--753498552_190826_Hospitality-->
-  <RecruitRelationshipDamage.label>포섭 시 우호도 손상</RecruitRelationshipDamage.label>
-  <RecruitRelationshipDamage.description>방문객을 성공적으로 포섭하였을 때에 하락하는 우호도입니다.</RecruitRelationshipDamage.description>
-  <ForcedRecruitRelationshipDamage.label>강제 포섭 시 우호도 손상</ForcedRecruitRelationshipDamage.label>
-  <ForcedRecruitRelationshipDamage.description>방문객을 강제로 포섭하였을 때에 하락하는 우호도입니다.</ForcedRecruitRelationshipDamage.description>
-  <RecruitEffectivity.label>포섭 효과</RecruitEffectivity.label>
-  <RecruitEffectivity.description>방문객을 포섭하려고 할때 방문객이 관심을 가지는 효과입니다.</RecruitEffectivity.description>
-
   <!--1366888108_190822_4M Mehni's Misc Modifications-->
   <RangedWeapon_TouchDPS.label>원거리 초당 피해량 (근접)</RangedWeapon_TouchDPS.label>
   <RangedWeapon_TouchDPS.description>3칸 이내의 거리에서의 초당 무기 피해입니다. 초당 실제 피해는 다른 것과 마찬가지로 다른 요인의 영향도 받습니다.</RangedWeapon_TouchDPS.description>

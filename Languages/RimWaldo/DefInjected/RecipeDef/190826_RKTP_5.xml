@@ -2914,38 +2914,6 @@
   <RRWood.jobString>나무 복제 중.</RRWood.jobString>
   <MRYayo.jobString>야요 복제 중.</MRYayo.jobString>
 
-  <!--1844744736_190826_ROK ARMY MOD-->
-  <Make_k2_rifle.label>K2 생산</Make_k2_rifle.label>
-  <Make_k2_rifle.description>K2를만듭니다.</Make_k2_rifle.description>
-  <Make_k2_rifle.jobString>K2 만드는중.</Make_k2_rifle.jobString>
-  <Make_k1a_SMG.label>K1a 생산</Make_k1a_SMG.label>
-  <Make_k1a_SMG.description>K1a를만듭니다.</Make_k1a_SMG.description>
-  <Make_k1a_SMG.jobString>K1a 만드는중.</Make_k1a_SMG.jobString>
-  <Make_k3_LMG.label>K3 생산</Make_k3_LMG.label>
-  <Make_k3_LMG.description>K3를만듭니다.</Make_k3_LMG.description>
-  <Make_k3_LMG.jobString>K3 만드는중.</Make_k3_LMG.jobString>
-  <Make_k5_pistol.label>K5 생산</Make_k5_pistol.label>
-  <Make_k5_pistol.description>K5를만듭니다.</Make_k5_pistol.description>
-  <Make_k5_pistol.jobString>K5 만드는중.</Make_k5_pistol.jobString>
-  <Make_k14_sniperrifle.label>K14 생산</Make_k14_sniperrifle.label>
-  <Make_k14_sniperrifle.description>K14를만듭니다.</Make_k14_sniperrifle.description>
-  <Make_k14_sniperrifle.jobString>K14 만드는중.</Make_k14_sniperrifle.jobString>
-  <Make_k2C_rifle.label>K2C 생산</Make_k2C_rifle.label>
-  <Make_k2C_rifle.description>K2C를만듭니다.</Make_k2C_rifle.description>
-  <Make_k2C_rifle.jobString>K2C 만드는중.</Make_k2C_rifle.jobString>
-  <Make_k12_LMG.label>K12 생산</Make_k12_LMG.label>
-  <Make_k12_LMG.description>K12를만듭니다.</Make_k12_LMG.description>
-  <Make_k12_LMG.jobString>K12 만드는중.</Make_k12_LMG.jobString>
-  <Make_Apparel_RokMilitaryhelmet.label>한국군 방탄모 생산</Make_Apparel_RokMilitaryhelmet.label>
-  <Make_Apparel_RokMilitaryhelmet.description>한국군방탄모를만듭니다.</Make_Apparel_RokMilitaryhelmet.description>
-  <Make_Apparel_RokMilitaryhelmet.jobString>한국군방탄모만드는중.</Make_Apparel_RokMilitaryhelmet.jobString>
-  <Make_Apparel_RokMilitaryuniform.label>한국군 군복 생산</Make_Apparel_RokMilitaryuniform.label>
-  <Make_Apparel_RokMilitaryuniform.description>한국군 군복을 만듭니다.</Make_Apparel_RokMilitaryuniform.description>
-  <Make_Apparel_RokMilitaryuniform.jobString>한국군군복만드는중.</Make_Apparel_RokMilitaryuniform.jobString>
-  <Make_ROK_Raincoat.label>한국군 판초우의 생산</Make_ROK_Raincoat.label>
-  <Make_ROK_Raincoat.description>한국군판초우의를만듭니다.</Make_ROK_Raincoat.description>
-  <Make_ROK_Raincoat.jobString>한국군판초우의만드는중.</Make_ROK_Raincoat.jobString>
-
   <!--1833163132_190826_Ceramics-->
   <Collect50Sand.label>모래 50개 모으기</Collect50Sand.label>
   <Collect50Sand.description>모래를 50개 모읍니다.</Collect50Sand.description>

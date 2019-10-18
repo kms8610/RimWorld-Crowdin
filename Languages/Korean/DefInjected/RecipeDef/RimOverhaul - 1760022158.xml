@@ -1,14 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Make_CatapultProjectile.label>투석기 발사체 제작</Make_CatapultProjectile.label>
-  <Make_CatapultProjectile.description>투석기를 위한 발사체 제작</Make_CatapultProjectile.description>
-  <Make_CatapultProjectile.jobString>투석기를 위한 발사체 제작</Make_CatapultProjectile.jobString>
-  <Make_BallistaProjectile.label>발리스타 발사체 제작</Make_BallistaProjectile.label>
-  <Make_BallistaProjectile.description>발리스타를 위한 발사체 제작</Make_BallistaProjectile.description>
-  <Make_BallistaProjectile.jobString>발리스타를 위한 발사체 제작</Make_BallistaProjectile.jobString>
-  <Make_VacuumTube.label>진공관 제작</Make_VacuumTube.label>
-  <Make_VacuumTube.description>진공관 제작.</Make_VacuumTube.description>
-  <Make_VacuumTube.jobString>진공관 제작 중.</Make_VacuumTube.jobString>
+
   <GetHydrogen.label>수소 실린더 만들기</GetHydrogen.label>
   <GetHydrogen.description>액화 천연 가스를 수소로 전환합니다.</GetHydrogen.description>
   <GetHydrogen.jobString>수소 획득</GetHydrogen.jobString>
@@ -45,9 +37,9 @@
   <SmeltingSteel.label>강철 제련</SmeltingSteel.label>
   <SmeltingSteel.description>철 주괴와 석탄을 결합하여 강철 제작합니다.</SmeltingSteel.description>
   <SmeltingSteel.jobString>강철 제련</SmeltingSteel.jobString>
-  <SmeltingSteelBig.label>Smelt steel (x10)</SmeltingSteelBig.label>
-  <SmeltingSteelBig.description>Get steel by combining iron ingot and coal (x10)</SmeltingSteelBig.description>
-  <SmeltingSteelBig.jobString>Smelting steel</SmeltingSteelBig.jobString>
+  <SmeltingSteelBig.label>강철 제련 x10</SmeltingSteelBig.label>
+  <SmeltingSteelBig.description>철 주괴와 석탄을 결합하여 강철을 10개 제작합니다.</SmeltingSteelBig.description>
+  <SmeltingSteelBig.jobString>강철 제련하는 중,</SmeltingSteelBig.jobString>
   <BurnCoalToCokeCoal.label>코크스 석탄 만들기</BurnCoalToCokeCoal.label>
   <BurnCoalToCokeCoal.description>석탄을 연소시켜 코크스 석탄 제작합니다.</BurnCoalToCokeCoal.description>
   <BurnCoalToCokeCoal.jobString>코크스 석탄 만들기</BurnCoalToCokeCoal.jobString>

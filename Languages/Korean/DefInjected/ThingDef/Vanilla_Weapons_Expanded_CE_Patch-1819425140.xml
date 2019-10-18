@@ -162,8 +162,8 @@
   <VWE_Gun_MarksmanRifle.description>고전적인 소총과 유사합니다. 그러나 공격력은 더 약하고 대신에 2발을 빠르게 연사합니다.</VWE_Gun_MarksmanRifle.description>
   <VWE_Gun_MarksmanRifle.tools.0.label>개머리판</VWE_Gun_MarksmanRifle.tools.0.label>
   <VWE_Gun_MarksmanRifle.tools.1.label>총열</VWE_Gun_MarksmanRifle.tools.1.label>
-  <Bullet_AntiMaterialRifle.label>반물질 충격 탄환</Bullet_AntiMaterialRifle.label>
-  <VWE_Gun_AntiMaterialRifle.label>반물질소총</VWE_Gun_AntiMaterialRifle.label>
+  <Bullet_AntiMaterialRifle.label>대물 저격탄환</Bullet_AntiMaterialRifle.label>
+  <VWE_Gun_AntiMaterialRifle.label>대물 저격소총</VWE_Gun_AntiMaterialRifle.label>
   <VWE_Gun_AntiMaterialRifle.description>적의 장갑 장비를 상대할 목적으로 제작한 50구경 소총입니다.\n\n대메카노이드 교전지에서 폭넓게 사용하는 장비이지만, 대인 살상에도 한 발에 한 명이 가능할 만큼 탁월합니다.</VWE_Gun_AntiMaterialRifle.description>
   <VWE_Gun_AntiMaterialRifle.tools.0.label>개머리판</VWE_Gun_AntiMaterialRifle.tools.0.label>
   <VWE_Gun_AntiMaterialRifle.tools.1.label>총열</VWE_Gun_AntiMaterialRifle.tools.1.label>

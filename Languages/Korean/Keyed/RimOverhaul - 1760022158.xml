@@ -1,10 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <RelationChangeDialog>{0}와 관계가 {1}으로 변경되었습니다.</RelationChangeDialog>
+
+  <RelationChangeDialog>{0}(와)과 관계가 {1}(으)로 변경되었습니다.</RelationChangeDialog>
   <TabCokeFurnace>용광로</TabCokeFurnace>
   <CheckRecipes>제작: {0}</CheckRecipes>
   <CockeFurnace_Ingedients>성분</CockeFurnace_Ingedients>
-  <CokeFurnace_CarryItem>운반 {0} (왼쪽 {1})</CokeFurnace_CarryItem>
+  <CokeFurnace_CarryItem>{0} 운반 ({1} 남음)</CokeFurnace_CarryItem>
   <CokeFurnace_CarryItem_NoItem>(충분하지 않음)</CokeFurnace_CarryItem_NoItem>
   <CokeFurnace_StartFire>불 피우기</CokeFurnace_StartFire>
   <CokeFurnace_off>끄기</CokeFurnace_off>
@@ -44,29 +45,29 @@
   <QuestsCommTab>퀘스트</QuestsCommTab>
   <InteractionCommTab>통신</InteractionCommTab>
   <RelatedEventCom>관련 이벤트: {0}</RelatedEventCom>
-  <FactionComm>팩션: {0}</FactionComm>
+  <FactionComm>세력: {0}</FactionComm>
   <NoEventComm>관련 이벤트: 아님</NoEventComm>
-  <NoFactionComm>팩션: 아님</NoFactionComm>
+  <NoFactionComm>세력: 아님</NoFactionComm>
   <HelpingFactionsList>\n도움:</HelpingFactionsList>
   <SupportFullDoomsday>도움의 손길이 온전합니다. 더 이상의 행동을 취할 수 없습니다.</SupportFullDoomsday>
   <NoHelpDoomsday>돕지 않을 것입니다.</NoHelpDoomsday>
   <UnknownDoomsdayStatus>알 수 없음</UnknownDoomsdayStatus>
   <HelpDoomsday>도움이 될 것입니다</HelpDoomsday>
-  <DiscussWithOtherFactions>사건을 다른 팩션들과 토론하십시오.</DiscussWithOtherFactions>
+  <DiscussWithOtherFactions>사건을 다른 세력들과 토론하십시오.</DiscussWithOtherFactions>
   <DoomsdayCardLabel>세상의 끝</DoomsdayCardLabel>
-  <DoomsdayDesc>{0}팩션이 이 행성에 모임을 주선하기 위해 모였습니다. 누락된 금액을 회수할 수도 있고 그렇지 않으면 다른 팩션들이 그들의 근거지에 대한 급습에 도움을 줄 수도 있지 않을까요?</DoomsdayDesc>
+  <DoomsdayDesc>{0} 세력이 이 행성에 모임을 주선하기 위해 모였습니다. 누락된 금액을 회수할 수도 있고 그렇지 않으면 다른 세력들이 그들의 근거지에 대한 급습에 도움을 줄 수도 있지 않을까요?</DoomsdayDesc>
   <InteractionInterTab>통신</InteractionInterTab>
   <MessagesInterTab>메일</MessagesInterTab>
   <AllianceInterTab>동맹</AllianceInterTab>
   <RelationsWithPlayer>플레이어와의 관계: {0} ({1})</RelationsWithPlayer>
-  <FactionInteractionDef>팩션: {0}</FactionInteractionDef>
+  <FactionInteractionDef>세력: {0}</FactionInteractionDef>
   <AdditionalContent>추가 정보</AdditionalContent>
-  <CommOption_GetHelp_Label>도움을 요청 (왼쪽: {0})</CommOption_GetHelp_Label>
+  <CommOption_GetHelp_Label>도움을 요청 (잔여: {0})</CommOption_GetHelp_Label>
   <Help_AskResoucesTitle>전송된 자원</Help_AskResoucesTitle>
-  <Help_AskResouces>{0}팩션(은)는 그 의무를 기억하고 수집할 수 있었던 자원을 당신에게 보냈습니다. {1}</Help_AskResouces>
+  <Help_AskResouces>{0} 세력은 그 의무를 기억하고 수집할 수 있었던 자원을 당신에게 보냈습니다. {1}</Help_AskResouces>
   <Help_AskPowerTitle>도움의 손길이 보내졌다.</Help_AskPowerTitle>
-  <Help_AskPower>{0}팩션(은)는 그 의무를 기억하고 당신의 정착지를 지원하기 위해 한 무리의 전투원들을 보냈습니다.</Help_AskPower>
-  <UsingCaravan>팩션 기술은 포트를 사용하는 것을 허용하지 않기 때문에 그들은 상단을 보냈습니다.</UsingCaravan>
+  <Help_AskPower>{0} 세력은 그 의무를 기억하고 당신의 정착지를 지원하기 위해 한 무리의 전투원들을 보냈습니다.</Help_AskPower>
+  <UsingCaravan>세력 기술은 포트를 사용하는 것을 허용하지 않기 때문에 그들은 상단을 보냈습니다.</UsingCaravan>
   <UsingCapsules>지원은 포트에 의해 보내졌습니다.</UsingCapsules>
   <GiftHasBeenDroppedTitle>전송된 자원</GiftHasBeenDroppedTitle>
   <GiftHasBeenDropped>당신의 정착지 가까이에 자원이 남아있음. (클릭해서 이동)</GiftHasBeenDropped>
@@ -92,7 +93,7 @@
   <ScoutingComp_NoThreatsInfoTitle>인사가 끝난 후에 우리의 정찰병들이 마침내 돌아왔습니다. 그들은 다가오는 위협을 감지하지 못했습니다.</ScoutingComp_NoThreatsInfoTitle>
   <ScoutingComp_Subject>정보 보고서</ScoutingComp_Subject>
   <CommOption_SubscribeScout_Label>정보 계약</CommOption_SubscribeScout_Label>
-  <CommOption_SubscribeScout_SubTitle>정보 계약 \n\n합의서에 서명함으로써, 서명된 팩션은 위협에 관한 정보가 포함될 수 있는 사람들의 정보 결과를 메일로 보낼 것입니다.\n\n</CommOption_SubscribeScout_SubTitle>
+  <CommOption_SubscribeScout_SubTitle>정보 계약 \n\n합의서에 서명함으로써, 서명된 세력은 위협에 관한 정보가 포함될 수 있는 사람들의 정보 결과를 메일로 보낼 것입니다.\n\n</CommOption_SubscribeScout_SubTitle>
   <CommOption_SubscribeScout_SubAlready>[계약이 이미 체결됨: {0}일 남음]</CommOption_SubscribeScout_SubAlready>
   <CommOption_SubscribeScout_SubButton>승낙</CommOption_SubscribeScout_SubButton>
   <CommOption_SubscribeScout_SubAlreadyOption>이미 승낙함</CommOption_SubscribeScout_SubAlreadyOption>
@@ -107,32 +108,32 @@
   <Pocahontas_CardLabel>통합 교환 토론</Pocahontas_CardLabel>
   <CommOption_PawnOfferYes_Label>적용 {0}</CommOption_PawnOfferYes_Label>
   <CommOption_PawnOfferYesTitle>보충</CommOption_PawnOfferYesTitle>
-  <CommOption_PawnOfferYes>당신은 그 제안을 받아들였다. 정착민 {0}(이)가 당신의 정착지 목록에 추가되었습니다. {1}팩션과의 관계도 개선되었습니다.</CommOption_PawnOfferYes>
+  <CommOption_PawnOfferYes>당신은 그 제안을 받아들였다. 정착민 {0}(이)가 당신의 정착지 목록에 추가되었습니다. {1}세력과의 관계도 개선되었습니다.</CommOption_PawnOfferYes>
   <PawnInfo>{PAWN_gender ? He : She}, {PAWN_kind}. {PAWN_possessive} 이름은 {PAWN_nameDef}, 그리고 {PAWN_pronoun} {PAWN_title}.</PawnInfo>
   <CommOption_DeclineQuest_Label>거절</CommOption_DeclineQuest_Label>
   <CommOption_DeclineDialog_Label>거절</CommOption_DeclineDialog_Label>
   <ActualOnlyThisMap>그 제안은 게스트가 당신과 함께 있는 동안 적절합니다.</ActualOnlyThisMap>
   <TimerInfo>이 제안은 {0}일 동안 유효합니다.</TimerInfo>
   <CommunicationDialog_PocahontasTitle>제안이 거부 됨</CommunicationDialog_PocahontasTitle>
-  <CommunicationDialog_Pocahontas>당신은 공동 거주 제안을 수락하지 않았으므로 {0}팩션과의 관계가 축소될 것입니다.</CommunicationDialog_Pocahontas>
+  <CommunicationDialog_Pocahontas>당신은 공동 거주 제안을 수락하지 않았으므로 {0} 세력과의 관계가 축소될 것입니다.</CommunicationDialog_Pocahontas>
   <InspectString_Timer>{0}일 남음</InspectString_Timer>
   <EnterToMapQuest_Option>퀘스트 시작</EnterToMapQuest_Option>
   <Quest_KillLeaderTitle>승리</Quest_KillLeaderTitle>
   <Quest_KillLeaderDesc>적 리더가 죽었으므로 상단을 형성 할 수 있습니다.</Quest_KillLeaderDesc>
   <LeaderStillAlive>적군의 지도자가 아직 살아있다. ({0})</LeaderStillAlive>
   <QuestOption_IncreaseReward_Label>보상을 늘리십시오. ({0} - {1})</QuestOption_IncreaseReward_Label>
-  <QuestOption_IncreaseReward_Level>부족한 기술 레벨 {0}, 필수 {1} (actual {2})</QuestOption_IncreaseReward_Level>
+  <QuestOption_IncreaseReward_Level>부족한 기술 레벨 {0}, 필수 {1} (실제 {2})</QuestOption_IncreaseReward_Level>
   <OrderedTargetStillAlive>아직 살아있습니다. ({0})</OrderedTargetStillAlive>
   <Quest_KillOrderTitle>집행 완료</Quest_KillOrderTitle>
   <Quest_KillOrderDesc>당신은 집행을 완수했다. {0} 제거.</Quest_KillOrderDesc>
-  <Quest_KillOrderTargetInfo>타켓: {0}\n보상:\n {1}</Quest_KillOrderTargetInfo>
+  <Quest_KillOrderTargetInfo>목표: {0}\n보상:\n {1}</Quest_KillOrderTargetInfo>
   <CommOption_NonAgressionPact_Label>불가침 협약 ({0})</CommOption_NonAgressionPact_Label>
   <CommOption_NonAgressionPact_NotEnoughSilver>은이 부족합니다. ({0} 필요, {1} 사용가능)</CommOption_NonAgressionPact_NotEnoughSilver>
   <CommOption_NonAgressionPact_SuccessTitle>계약 체결</CommOption_NonAgressionPact_SuccessTitle>
-  <CommOption_NonAgressionPact_Success>{0}팩션과 불가침 협약을 체결합니다. 사교 레벨 {1}으로 인해 {2}날 동안 유효합니다. 협약이 유효한 동안 {0}팩션은 당신의 정착지를 습격하지 않을 것입니다.</CommOption_NonAgressionPact_Success>
+  <CommOption_NonAgressionPact_Success>{0} 세력과 불가침 협약을 체결합니다. 사교 레벨 {1}(으)로 인해 {2}날 동안 유효합니다. 협약이 유효한 동안 {0} 세력은 당신의 정착지를 습격하지 않을 것입니다.</CommOption_NonAgressionPact_Success>
   <NonAfressionPackCompTitle>협약 기간이 끝났습니다</NonAfressionPackCompTitle>
-  <NonAfressionPackComp>{0}팩션과의 협약이 완료되었습니다. 이제 그들은 당신을 다시 공격 할 수 있습니다.</NonAfressionPackComp>
-  <CommunicationComponent_CommunicationDialogTimer>Notification</CommunicationComponent_CommunicationDialogTimer>
+  <NonAfressionPackComp>{0} 세력과의 협약이 완료되었습니다. 이제 그들은 당신을 다시 공격 할 수 있습니다.</NonAfressionPackComp>
+  <CommunicationComponent_CommunicationDialogTimer>알림</CommunicationComponent_CommunicationDialogTimer>
   <DS_InstallCommand_Title>건설 {0}</DS_InstallCommand_Title>
   <DS_InstallCommand_Desc>새로운 오프젝트 건설</DS_InstallCommand_Desc>
   <Supernova_label>초신성 폭발</Supernova_label>
@@ -144,12 +145,12 @@
   <HiveLevel>수준:</HiveLevel>
   <ShipCargo_Food_ExpandLabel>우주선의 일부</ShipCargo_Food_ExpandLabel>
   <ShipCargo_Food_Description>화물 구역의 일부</ShipCargo_Food_Description>
-  <ShipSite_LeaveCommandLabel>라벨</ShipSite_LeaveCommandLabel>
+  <ShipSite_LeaveCommandLabel>떠나기</ShipSite_LeaveCommandLabel>
   <ShipSite_LeaveCommandDesc>상단을 형성하고 떠난다.</ShipSite_LeaveCommandDesc>
   <CaravanEnteredShipCrash>상단 도착</CaravanEnteredShipCrash>
   <ShipCargo_Mining_ExpandLabel>우주선의 일부</ShipCargo_Mining_ExpandLabel>
   <ShipCargo_Mining_Description>화물 구역의 일부</ShipCargo_Mining_Description>
-  <ShipPartTimeout>\n잔해가 약탈당할 날짜 (days)후:</ShipPartTimeout>
+  <ShipPartTimeout>\n잔해가 약탈되기까지 남은 날짜:</ShipPartTimeout>
   <ShipCargo_Complex_ExpandLabel>우주선의 일부</ShipCargo_Complex_ExpandLabel>
   <ShipCargo_Complex_Description>화물 구역의 일부</ShipCargo_Complex_Description>
   <EnemyOnTheMap>지도에는 여전히 적들이 있습니다. 아작 상단을 만들 수 없습니다.</EnemyOnTheMap>
@@ -157,9 +158,9 @@
   <Ship_Living_Description>생활 구역의 일부</Ship_Living_Description>
   <Ship_Armory_ExpandLabel>우주선의 일부</Ship_Armory_ExpandLabel>
   <Ship_Armory_Description>무기고 구역의 일부</Ship_Armory_Description>
-  <FireSpreadIs>화재가 심화 될 것입니다. (일)후:</FireSpreadIs>
+  <FireSpreadIs>화재가 심화되기까지 남은 날짜:</FireSpreadIs>
   <CaravanEnteredMassiveFire>상단 도착</CaravanEnteredMassiveFire>
-  <DetonationIn>자동 폭파 (일)후:</DetonationIn>
+  <DetonationIn>자동 폭파되기까지 남은 날짜:</DetonationIn>
   <DisarmingProgress>지뢰 제거 진행:</DisarmingProgress>
   <DisarmAction>탈분극 과정 시작</DisarmAction>
   <SuccessDisarming>폭탄이 제거되었습니다.</SuccessDisarming>
@@ -212,7 +213,7 @@
   <WeaponDeactivated>최후의 심판 무기는 여전히 활동 중</WeaponDeactivated>
   <PlanetWillBeDestroyed>행성은 파괴될 것입니다. (일):</PlanetWillBeDestroyed>
   <PlayerSilverCount>플레이어 은: {0}</PlayerSilverCount>
-  <FactionGift>팩션들의 은: {0}</FactionGift>
+  <FactionGift>세력들의 은: {0}</FactionGift>
   <GiveRansom>몸값 지불</GiveRansom>
   <NotEnoughSilverDoom>몸값 지불 [은이 충분하지 않습니다]</NotEnoughSilverDoom>
   <PaidSuccessDoom>몸값 지불</PaidSuccessDoom>
@@ -267,28 +268,28 @@
   <GameCondition_SpaceBattleTitle>하늘에서 우주선만 떨어졌다</GameCondition_SpaceBattleTitle>
   <Building_TribalCrack_OptionInactive>파괴할 수 없습니다. 선택된 림에게는 수류탄이 없습니다.</Building_TribalCrack_OptionInactive>
   <Building_TribalCrack_Option>터널로 내려가서 폭파시키기</Building_TribalCrack_Option>
-  <TribalCrack_InfoTitle>Mission started</TribalCrack_InfoTitle>
-  <TribalCrack_InfoDesc>The settler {0} went into the tunnel. Planting a bomb and exploding will take about {1} days. At this time, the settler will be unavailable.</TribalCrack_InfoDesc>
+  <TribalCrack_InfoTitle>임무 시작</TribalCrack_InfoTitle>
+  <TribalCrack_InfoDesc>정착민 {0}(이)가 터널로 들어갔습니다. 폭탄을 심고 폭발하기까지 {1}일이 걸립니다. 그땐 정착민을 사용할 수 없습니다.</TribalCrack_InfoDesc>
   <Building_TribalCrack_Title>터널이 파괴되었습니다.</Building_TribalCrack_Title>
-  <Building_TribalCrack_Desc>{0} 원주민 거주지와 연결되는 터널을 파괴했습니다.</Building_TribalCrack_Desc>
-  <Building_TribalCrack_DoDestroyAction>Fill up the hole with your hands</Building_TribalCrack_DoDestroyAction>
-  <Building_TribalCrack_Info>Buried: {0}</Building_TribalCrack_Info>
+  <Building_TribalCrack_Desc>{0}(이)가 부족 정착지와 연결되는 터널을 파괴했습니다.</Building_TribalCrack_Desc>
+  <Building_TribalCrack_DoDestroyAction>손으로 구멍 채우기</Building_TribalCrack_DoDestroyAction>
+  <Building_TribalCrack_Info>매장: {0}</Building_TribalCrack_Info>
   <QuestPrefix>퀘스트</QuestPrefix>
   <Quest_RequiredItems>자원 요청</Quest_RequiredItems>
   <Quest_HelpItems_Site>자원 전송 위치</Quest_HelpItems_Site>
   <HowToCheckReqList>필수항목 목록을 보려면 상세 정보를 여십시오.</HowToCheckReqList>
-  <HelpResourcesDescriptionTitle>{0}팩션(이)가 자원을 요청했습니다. 그들을 돕기 위해서는 필요한 자원을 가진 상단을 이 곳에 보내야 합니다.\n\n필요한 자원 목록:</HelpResourcesDescriptionTitle>
+  <HelpResourcesDescriptionTitle>{0} 세력이 자원을 요청했습니다. 그들을 돕기 위해서는 필요한 자원을 가진 상단을 이 곳에 보내야 합니다.\n\n필요한 자원 목록:</HelpResourcesDescriptionTitle>
   <GiveItemsSuccessTitle>전송된 항목</GiveItemsSuccessTitle>
   <GiveItemsSuccess>자원을 성공적으로 보냈습니다. 보상은 수송포트에 의해 기지로 보내졌습니다.</GiveItemsSuccess>
   <GiveItemsSuccess2>자원을 성공적으로 보냈습니다. 보상은 당신의 상단에게 주어졌습니다.</GiveItemsSuccess2>
   <NotEnoughItemsToQuest>항목이 충분하지 않습니다.</NotEnoughItemsToQuest>
   <GiveItemsOption>자원 전송</GiveItemsOption>
   <Quest_HelpItems_Label>자원 요청</Quest_HelpItems_Label>
-  <Quest_HelpItems_Description>{0}팩션의 리더는 당신에게 연락하여 정착지를 확장하려고 하지만 이용가능한 자원이 별로 없다고 합니다. 그들은 당신이 가지고 있고 옮길 수 있기를 바라면서 당신에게서 어떤 자원을 요청합니다. 대신, 그들은 그들이 가진 것을 줄 것입니다. \n우리는 필요한 물품이 있는 상단을 만들어 그들을 보낼 수 있습니다.\n</Quest_HelpItems_Description>
+  <Quest_HelpItems_Description>{0} 세력의 리더는 당신에게 연락하여 정착지를 확장하려고 하지만 이용가능한 자원이 별로 없다고 합니다. 그들은 당신이 가지고 있고 옮길 수 있기를 바라면서 당신에게서 어떤 자원을 요청합니다. 대신, 그들은 그들이 가진 것을 줄 것입니다. \n우리는 필요한 물품이 있는 상단을 만들어 그들을 보낼 수 있습니다.\n</Quest_HelpItems_Description>
   <HowToGivePawns>일을 돕기 위해 ({0})명으로 구성된 상단을 건설 현장에 보냅니다. \n건설 시간: {1}</HowToGivePawns>
   <Quest_BuildNewBase_Label>새로운 거주지 건설</Quest_BuildNewBase_Label>
-  <Quest_BuildNewBase_Description>{0}팩션이 거주지를 변경하려고합니다. 지도자 {1}(은)는 현재 거주지에서의 기본적인 자원 부족과 조악하고 불쾌한 날씨가 이유라고 설명합니다. 새로운 기반을 구축하는 것은 비싸고 길지만 다행스럽게도 충분한 자원을 보유하고 있습니다. 그러나 망치를 잡을 수 있는 사람이 없습니다. 공사를 지연시키지 않기 위해 그는 건설을 도울 사람 몇 명을 요청합니다. \n\n공사는 며칠이 걸릴 수 있습니다. 이 시점에서 당신은 정착민을 사용할 수 없게 되며 건설이 완료되면 보너스와 은을 받게됩니다.\n</Quest_BuildNewBase_Description>
-  <Quest_BuildNewBase_Place>건설 현장 {0}</Quest_BuildNewBase_Place>
+  <Quest_BuildNewBase_Description>{0} 세력이 정착지를 변경하려고합니다. 지도자 {1}(은)는 현재 거주지에서의 기본적인 자원 부족과 조악하고 불쾌한 날씨가 이유라고 설명합니다. 새로운 기반을 구축하는 것은 비싸고 길지만 다행스럽게도 충분한 자원을 보유하고 있습니다. 그러나 망치를 잡을 수 있는 사람이 없습니다. 공사를 지연시키지 않기 위해 그는 건설을 도울 사람 몇 명을 요청합니다. \n\n공사는 며칠이 걸릴 수 있습니다. 이 시점에서 당신은 정착민을 사용할 수 없게 되며 건설이 완료되면 보너스와 은을 받게됩니다.\n</Quest_BuildNewBase_Description>
+  <Quest_BuildNewBase_Place>{0} 건설 지역</Quest_BuildNewBase_Place>
   <NotEnoughPawnsToHelp>상단에 사람이 부족하다.</NotEnoughPawnsToHelp>
   <HelpStartedTitle>건설 시작</HelpStartedTitle>
   <HelpStarted>새로운 정착 기지 건설 현장에 왔습니다. 계산에 따르면 공사가 {0} 일 소요되며, 그 후 당신의 정착민은 다시 당신에게 반환됩니다.</HelpStarted>
@@ -298,13 +299,13 @@
   <BuildingSeccessEndTitle>건설 완료</BuildingSeccessEndTitle>
   <BuildingSeccessEnd>{0}에 대한 거주지 건설이 끝났습니다. 그들은 당신의 도움에 감사하며 자원이나 군대의 도움이 필요한 어려운 상황에서 당신을 도울 수 있다고 알려줍니다. (지오 스케프를 통해 요청할 수 있습니다)\n</BuildingSeccessEnd>
   <Quest_AttackFriendlySettlement_CardLabel>우호적인 거주지에 대한 공격</Quest_AttackFriendlySettlement_CardLabel>
-  <Quest_AttackFriendlySettlement_Description>{0}팩션의 지도자 {1}(은)는 그들의 정찰대가 그들의 거주지에 대한 적의 기습의 형태로 다가오는 위협을 알아차렸다고 보고한다. 현재 대부분의 전투원들은 임무에 투입되었다고 유감스럽게 당신에게 말합니다. \n그들은 당신이 공격을 격퇴하도록 도와달라 요청합니다. 그들은 수시로 당신에게 필요한 정보를 제공할 할 것입니다. \n\n그들을 돕기 위해 필요한 모든 것을 갖춘 상단을 구성하고 지도상의 공격 지점으로 향합니다. \n보상은 동맹국의 살아남은 거주민 수에 따라 다릅니다.\n</Quest_AttackFriendlySettlement_Description>
+  <Quest_AttackFriendlySettlement_Description>{0} 세력의 지도자 {1}(은)는 그들의 정찰대가 그들의 거주지에 대한 적의 기습의 형태로 다가오는 위협을 알아차렸다고 보고한다. 현재 대부분의 전투원들은 임무에 투입되었다고 유감스럽게 당신에게 말합니다. \n그들은 당신이 공격을 격퇴하도록 도와달라 요청합니다. 그들은 수시로 당신에게 필요한 정보를 제공할 할 것입니다. \n\n그들을 돕기 위해 필요한 모든 것을 갖춘 상단을 구성하고 지도상의 공격 지점으로 향합니다. \n보상은 동맹국의 살아남은 거주민 수에 따라 다릅니다.\n</Quest_AttackFriendlySettlement_Description>
   <ScoutComp_GiveTitle>정보 계약</ScoutComp_GiveTitle>
-  <ScoutComp_Give>{0}팩션과 정보 계약을 체결 했으므로 {2}일 동안 {1}일마다 정보를 제공 할 예정입니다. (정보의 성공 여부에 따라)임박한 위협에 대한 정보가 포함될 수 있습니다.</ScoutComp_Give>
+  <ScoutComp_Give>{0} 세력과 정보 계약을 체결 했으므로 {2}일 동안 {1}일마다 정보를 제공 할 예정입니다. (정보의 성공 여부에 따라)임박한 위협에 대한 정보가 포함될 수 있습니다.</ScoutComp_Give>
   <ScoutComp_AlreadyGiveTitle>정보 계약</ScoutComp_AlreadyGiveTitle>
-  <ScoutComp_AlreadyGive>{0}팩션과 계약은 이미 체결되었으므로 {1}일 동안 연장되었습니다.</ScoutComp_AlreadyGive>
+  <ScoutComp_AlreadyGive>{0} 세력과 계약은 이미 체결되었으므로 {1}일 동안 연장되었습니다.</ScoutComp_AlreadyGive>
   <Quest_MissingPeople_CardLabel>실종자</Quest_MissingPeople_CardLabel>
-  <Quest_MissingPeople_Description>팩션의 지도자 {0}(이)가 우리에게 연락을 했고 며칠 전 그들의 거주민들 중 소수의 사람들이 자원을 얻기 위해 여행을 갔다고 보고했습니다. 그들의 여행 예상 시간은 {1}일 이었습니다. {2}일이 지났지만 그들은 돌아오지 않았습니다. 통신은 실패했으며 그들이 길을 잃었거나 공격받은 것인지 걱정합니다.. \n그들의 남은 식량은 약 {3}일 동안 지속될 것이고, 그 후에는 굶게 될 것입니다. 그는 우리에게 실종된 거주민들을 찾아서 그들에게 돌려달라고 부탁합니다.</Quest_MissingPeople_Description>
+  <Quest_MissingPeople_Description>세력의 지도자 {0}(이)가 우리에게 연락을 했고 며칠 전 그들의 거주민들 중 소수의 사람들이 자원을 얻기 위해 여행을 갔다고 보고했습니다. 그들의 여행 예상 시간은 {1}일 이었습니다. {2}일이 지났지만 그들은 돌아오지 않았습니다. 통신은 실패했으며 그들이 길을 잃었거나 공격받은 것인지 걱정합니다.. \n그들의 남은 식량은 약 {3}일 동안 지속될 것이고, 그 후에는 굶게 될 것입니다. 그는 우리에게 실종된 거주민들을 찾아서 그들에게 돌려달라고 부탁합니다.</Quest_MissingPeople_Description>
   <Quest_MissingPeople_PlaceLabel>잠재적 실종자</Quest_MissingPeople_PlaceLabel>
   <Quest_MissingPeople_InspectString>실종자를 위한 잠재적인 장소. \n남은 음식: {0} (일)</Quest_MissingPeople_InspectString>
   <Quest_CheckMissingPeople_Action>장소를 검사하십시오.</Quest_CheckMissingPeople_Action>
@@ -315,9 +316,9 @@
   <Quest_MissingPeople_Stage2Title>상단이 형성되었고 보내질 수 있습니다.</Quest_MissingPeople_Stage2Title>
   <Quest_MissingPeople_Stage2>우리는 그 공격을 격퇴할 수 있었습니다. 이제 {0} 이들을 집으로 바래다 주는 일만 남았습니다. 만약 이 기간안에 우리가 그들을 운송하지 못하면 우리는 납치로 비난 받게됩니다. (상단을 표시된 거주지로 가져 가십시오)</Quest_MissingPeople_Stage2>
   <Quest_MissingPeople_End>동맹 거구지에 도착했습니다.\n</Quest_MissingPeople_End>
-  <Quest_MissingPeople_EndFull>\n당신은 모든 거주민을 살렸습니다. {0}팩션은 당신에게 매우 감사하고 있습니다.</Quest_MissingPeople_EndFull>
+  <Quest_MissingPeople_EndFull>\n당신은 모든 거주민을 살렸습니다. {0} 세력은 당신에게 매우 감사하고 있습니다.</Quest_MissingPeople_EndFull>
   <Quest_MissingPeople_EndPart>\n당신은 당신이 어떤 어려움을 겪었는지, 도중에 죽은 정착민들은 가치가 있었고 그들은 자랑스러워 할 수 있다고 말했습니다.</Quest_MissingPeople_EndPart>
-  <Quest_MissingPeople_Fiasko>\n당신은 아무것도 없이 왔습니다. {0}팩션의 지도자는 매우 화가났습니다. 정착민 중 한 명은 그를 진정 시키려하지만, 그를 밀어 내고 멀리 나갔습니다.</Quest_MissingPeople_Fiasko>
+  <Quest_MissingPeople_Fiasko>\n당신은 아무것도 없이 왔습니다. {0} 세력의 지도자는 매우 화가났습니다. 정착민 중 한 명은 그를 진정 시키려하지만, 그를 밀어 내고 멀리 나갔습니다.</Quest_MissingPeople_Fiasko>
   <Quest_MissingPeople_EndQuest>퀘스트 결과</Quest_MissingPeople_EndQuest>
   <Quest_CheckMissingPeople_Action2>거주민들</Quest_CheckMissingPeople_Action2>
   <Quest_MissingPeople_ThiefTitle>비난</Quest_MissingPeople_ThiefTitle>
@@ -325,25 +326,25 @@
   <Quest_TradeRequestComp_CardLabel>거래 요청</Quest_TradeRequestComp_CardLabel>
   <Quest_BanditCamp_CardLabel>도적 캠프</Quest_BanditCamp_CardLabel>
   <Quest_KillLeader_CardLabel>적의 지도자를 죽이라는 명령</Quest_KillLeader_CardLabel>
-  <Quest_KillLeader_Description>{0}(은) {2}의 지도자인 독재자 {1} 에 대해 이야기합니다. 이들은 자신의 정착을 위협하고 있다며 그를 제거해달고 요청해 왔습니다. 그는 세계지도에 장소를 표시했습니다.\n암살 시도가 준비 중이라는 정보는 이미 세계 곳곳에 흩어져있을 수 있으므로 가능한 한 빨리 행동해야합니다.</Quest_KillLeader_Description>
+  <Quest_KillLeader_Description>{0}(은)는 {2}의 지도자인 독재자 {1}에 대해 이야기합니다. 이들은 자신의 정착을 위협하고 있다며 그를 제거해달고 요청해 왔습니다. 그는 세계지도에 장소를 표시했습니다.\n암살 시도가 준비 중이라는 정보는 이미 세계 곳곳에 흩어져있을 수 있으므로 가능한 한 빨리 행동해야합니다.</Quest_KillLeader_Description>
   <Quest_KillLeader_PlaceLabel>타켓 위치</Quest_KillLeader_PlaceLabel>
   <Quest_SuppressionRebellion_CardLabel>반란 진압</Quest_SuppressionRebellion_CardLabel>
-  <Quest_SuppressionRebellion_Description>팩션 {0}에서 반란이 일어났습니다. 이들은 학살과 약탈을 만연하며 민간인들을 살해하고 있습니다. {0}팩션의 군인들은 거주지에서 반란군들을 몰아냈지만, 그들은 힘을 얻고 있으며 다시 공격 할 것입니다.\n우리는 반란을 진압하거나 서로를 죽이는 걸 지켜 볼 수 있습니다. 결국 반란군이 승리하면 새로운 팩션이 형성 될 것입니다.</Quest_SuppressionRebellion_Description>
+  <Quest_SuppressionRebellion_Description>{0} 세력에서 반란이 일어났습니다. 이들은 학살과 약탈을 만연하며 민간인들을 살해하고 있습니다. {0} 세력의 군인들은 거주지에서 반란군들을 몰아냈지만, 그들은 힘을 얻고 있으며 다시 공격 할 것입니다.\n우리는 반란을 진압하거나 서로를 죽이는 걸 지켜 볼 수 있습니다. 결국 반란군이 승리하면 새로운 세력이 형성 될 것입니다.</Quest_SuppressionRebellion_Description>
   <Quest_SuppressionRebellion_PlaceLabel>반란 세력의 위치</Quest_SuppressionRebellion_PlaceLabel>
-  <Quest_SuppressionRebellion_Dia>당신은 현장에 들어갔습니다. 멀리서 공격할 준비를 하고있는 반군군을 보았습니다.\n\n두 가지 방법으로 퀘스트를 완료 할 수 있습니다.\n\n잔혹하게 모든 저항 세력을 죽일 수 있습니다. 이 경우 행동에 제한이 없습니다.\n또는 가능한 한 기절시키기 위해 노력할 수 있습니다. 이 경우 {0}팩션이 추가 아이템을 제공합니다.\n\n어느쪽이든, 작업은 성공한 것으로 간주됩니다.</Quest_SuppressionRebellion_Dia>
+  <Quest_SuppressionRebellion_Dia>당신은 현장에 들어갔습니다. 멀리서 공격할 준비를 하고있는 반군군을 보았습니다.\n\n두 가지 방법으로 퀘스트를 완료 할 수 있습니다.\n\n잔혹하게 모든 저항 세력을 죽일 수 있습니다. 이 경우 행동에 제한이 없습니다.\n또는 가능한 한 기절시키기 위해 노력할 수 있습니다. 이 경우 {0}세력이 추가 아이템을 제공합니다.\n\n어느쪽이든, 작업은 성공한 것으로 간주됩니다.</Quest_SuppressionRebellion_Dia>
   <Quest_SuppressionRebellionFailTitle>반란 세력의 진압에 실패했다.</Quest_SuppressionRebellionFailTitle>
   <Quest_SuppressionRebellionDesc>반란 세력을 진압하려는 시도는 실패했고 반란 세력은 당신을 격퇴시킬 수 있었습니다.\n아마 그들은 이미 합의에 도달했으며, 그들이 대처할 수 있기를 희망합니다.</Quest_SuppressionRebellionDesc>
   <Quest_SuppressionRebellionWinTitle>승리</Quest_SuppressionRebellionWinTitle>
-  <Quest_SuppressionRebellionWinDesc>당신은 반란 세력을 물리 치고 {0}의 생명을 구할 수있었습니다.  {1}팩션은 당신에게 {2}은을 추가로 보상하기로 결정했습니다.\n--------------\n{3}</Quest_SuppressionRebellionWinDesc>
+  <Quest_SuppressionRebellionWinDesc>당신은 반란 세력을 물리 치고 {0}의 생명을 구할 수있었습니다.  {1} 세력은 당신에게 {2}은을 추가로 보상하기로 결정했습니다.\n--------------\n{3}</Quest_SuppressionRebellionWinDesc>
   <Quest_SuppressionRebellionRebelWinTitle>반란 세력이 승리했다.</Quest_SuppressionRebellionRebelWinTitle>
-  <Quest_SuppressionRebellionRebelWinDesc>반란 세력은 군인들을 {0}팩션을 거주지에서 몰아내는데 성공했습니다. 이로인해 {1}팩션은 지도자와 정치 체제가 바뀌었습니다.\n</Quest_SuppressionRebellionRebelWinDesc>
+  <Quest_SuppressionRebellionRebelWinDesc>반란 세력은 군인들을 {0} 세력을 거주지에서 몰아내는데 성공했습니다. 이로인해 {1} 세력은 지도자와 정치 체제가 바뀌었습니다.\n</Quest_SuppressionRebellionRebelWinDesc>
   <Quest_SuppressionRebelplayerAffect>반란군들은 당신의 정착지가 자신들을 막으려 했다는 것을 기억하고 있습니다. 따라서 관계가 악화되었습니다.</Quest_SuppressionRebelplayerAffect>
   <Quest_SuppressionRebelNonplayerAffect>당신은 이 사건에 참여하지 않았습니다.</Quest_SuppressionRebelNonplayerAffect>
   <Quest_SuppressionRebellionNewFactionTitle>반란군들은 패배했다.</Quest_SuppressionRebellionNewFactionTitle>
-  <Quest_SuppressionRebellionNewFactionDesc>반란군들은 {0}(을)를 물칠 수 없었고 생존자들은 자신들의 팩션을 형성했습니다. 그들은 {1}이라 칭합니다.</Quest_SuppressionRebellionNewFactionDesc>
+  <Quest_SuppressionRebellionNewFactionDesc>반란군들은 {0}(을)를 물칠 수 없었고 생존자들은 자신들의 세력을 형성했습니다. 그들은 {1}이라 칭합니다.</Quest_SuppressionRebellionNewFactionDesc>
   <CaravanArrivalAction_EnterToRebelMap_AlreadyStart>반란은 이미 시작되었다.</CaravanArrivalAction_EnterToRebelMap_AlreadyStart>
   <Quest_KillOrder_CardLabel>집행 주문</Quest_KillOrder_CardLabel>
-  <Quest_KillOrder_Description>{0}(은)는 {2}팩션의 {1}(을)를 제거하도록 요청합니다. 그는 세계지도에서 장소를 표시했습니다.</Quest_KillOrder_Description>
+  <Quest_KillOrder_Description>{0}(은)는 {2} 세력의 {1}(을)를 제거하도록 요청합니다. 그는 세계지도에서 장소를 표시했습니다.</Quest_KillOrder_Description>
   <Quest_KillOrder_PlaceLabel>대상 위치</Quest_KillOrder_PlaceLabel>
   <MEM_Settings_General>이벤트 구성</MEM_Settings_General>
   <EventActive>적용?</EventActive>
@@ -379,9 +380,9 @@
   <EnablePositive>긍정적인 별자리 활성화 (1 - 예, 0 - 아니오)</EnablePositive>
   <EnableNegative_title>부정적인 별자리 활성화 (1 - 예, 0 - 아니오)</EnableNegative_title>
   <EnableNegative>부정적인 별자리 활성화 (1 - 예, 0 - 아니오)</EnableNegative>
-  <RaidEnemyWithAnimals_Title>Raid with animals</RaidEnemyWithAnimals_Title>
-  <RaidEnemyWithAnimals_Desc>Raid with animals</RaidEnemyWithAnimals_Desc>
-  <DoMapChange_title>Change biomes to the desert gradually (1/0)</DoMapChange_title>
-  <DoMapChange>If active (1), then every few days random tiles will change their biome to the desert</DoMapChange>
+  <RaidEnemyWithAnimals_Title>동물들과 습격</RaidEnemyWithAnimals_Title>
+  <RaidEnemyWithAnimals_Desc>동물들과 습격</RaidEnemyWithAnimals_Desc>
+  <DoMapChange_title>점차적으로 생물군계가 사막으로 변경됨 (1/0)</DoMapChange_title>
+  <DoMapChange>(1) 활성하면, 며칠마다 임의의 타일이 사막으로 변경됩니다.</DoMapChange>
 
 </LanguageData>

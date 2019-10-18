@@ -628,12 +628,4 @@
   <DoBillsTableLoom.verb>방직</DoBillsTableLoom.verb>
   <DoBillsTableLoom.gerund>방직 중</DoBillsTableLoom.gerund>
 
-  <!--753498552_190826_Hospitality-->
-  <Recruiter.label>방문객 및 수감자 포섭</Recruiter.label>
-  <Recruiter.verb>포섭</Recruiter.verb>
-  <Recruiter.gerund>포섭</Recruiter.gerund>
-  <Diplomat.label>방문객 접대</Diplomat.label>
-  <Diplomat.verb>접대</Diplomat.verb>
-  <Diplomat.gerund>접대</Diplomat.gerund>
-
 </LanguageData>

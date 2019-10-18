@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+
   <SuperHeatWave.label>엄청난 폭염</SuperHeatWave.label>
   <SuperHeatWave.description>극한의 열기가 주위를 구워버리고 있습니다.</SuperHeatWave.description>
   <SuperHeatWave.endMessage>폭염이 끝났습니다.</SuperHeatWave.endMessage>

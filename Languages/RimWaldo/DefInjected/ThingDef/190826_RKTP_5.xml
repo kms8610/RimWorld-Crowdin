@@ -6024,42 +6024,6 @@
   <ResourceReplicator_Blueprint_Install.label>자원 복제기 (청사진)</ResourceReplicator_Blueprint_Install.label>
   <ResourceReplicator_Frame.label>자원 복제기 (건설 중)</ResourceReplicator_Frame.label>
 
-  <!--1844744736_190826_ROK ARMY MOD-->
-  <k2_rifle.label>K2</k2_rifle.label>
-  <k2_rifle.description>대한민국의 국방과학연구소에서 개발하고 S＆T 모티브(구 대우정밀)와 다산기공에서 생산한 한국군의 주력 돌격소총 입니다.</k2_rifle.description>
-  <k2_rifle.tools.0.label>개머리판</k2_rifle.tools.0.label>
-  <k2_rifle.tools.1.label>총열</k2_rifle.tools.1.label>
-  <k1a_SMG.label>K1a</k1a_SMG.label>
-  <k1a_SMG.description>한국군의 제식 기관단총 입니다..</k1a_SMG.description>
-  <k1a_SMG.tools.0.label>개머리판</k1a_SMG.tools.0.label>
-  <k1a_SMG.tools.1.label>총열</k1a_SMG.tools.1.label>
-  <k3_LMG.label>K3</k3_LMG.label>
-  <k3_LMG.description>S＆T (구 대우정밀)가 개발/생산한 한국 육군이 사용하는 기관총입니다.</k3_LMG.description>
-  <k3_LMG.tools.0.label>개머리판</k3_LMG.tools.0.label>
-  <k3_LMG.tools.1.label>총열</k3_LMG.tools.1.label>
-  <k5_pistol.label>K5</k5_pistol.label>
-  <k5_pistol.description>대한민국의 군수업체 S＆T 모티브의 전신인 대우정밀공업이 1984년부터 개발한 9mm 구경의 한국군 제식 자동권총입니다.</k5_pistol.description>
-  <k5_pistol.tools.0.label>개머리판</k5_pistol.tools.0.label>
-  <k5_pistol.tools.1.label>총열</k5_pistol.tools.1.label>
-  <k14_sniperrifle.label>K14</k14_sniperrifle.label>
-  <k14_sniperrifle.description>2011년 3월 본격 설계에 들어가 2년여 만인 2013년에 개발을 완료, 한국군에서 동일 연도부터 도입을 시작한 볼트액션식 저격 소총입니다.</k14_sniperrifle.description>
-  <k14_sniperrifle.tools.0.label>개머리판</k14_sniperrifle.tools.0.label>
-  <k14_sniperrifle.tools.1.label>총열</k14_sniperrifle.tools.1.label>
-  <k2C_rifle.label>K2C</k2C_rifle.label>
-  <k2C_rifle.description>수출용으로 개발된 K2의 카빈 버전입니다. 총열이 465 mm에서 310 mm 로 단축되었고, 소염기는 K11에 사용되는 형태로 교체, M4 계열에 쓰이는 6단 조절식 개머리판의 복제판을 장착했으며, 원본의 심각하게 낮은 확장성을 개선하기 위해 피카티니 레일이 일체화된 총열 덮개가 장착되었습니다.</k2C_rifle.description>
-  <k2C_rifle.tools.0.label>개머리판</k2C_rifle.tools.0.label>
-  <k2C_rifle.tools.1.label>총열</k2C_rifle.tools.1.label>
-  <k12_LMG.label>K12</k12_LMG.label>
-  <k12_LMG.description>S＆T 모티브에서 개발한 한국군의 차기 다목적 기관총입니다.</k12_LMG.description>
-  <k12_LMG.tools.0.label>개머리판</k12_LMG.tools.0.label>
-  <k12_LMG.tools.1.label>총열</k12_LMG.tools.1.label>
-  <Apparel_RokMilitaryhelmet.label>한국군 방탄모</Apparel_RokMilitaryhelmet.label>
-  <Apparel_RokMilitaryhelmet.description>한국군이 사용하는 방탄모입니다.</Apparel_RokMilitaryhelmet.description>
-  <Apparel_RokMilitaryuniform.label>한국군 군복</Apparel_RokMilitaryuniform.label>
-  <Apparel_RokMilitaryuniform.description>한국군의 군복입니다.</Apparel_RokMilitaryuniform.description>
-  <ROK_Raincoat.label>한국군 판초우의</ROK_Raincoat.label>
-  <ROK_Raincoat.description>비를 막고, 야외의 모래를 털어내며, 때로는 멋있게 보이기 위한 긴 우비입니다.</ROK_Raincoat.description>
-
   <!--1842983803_190826_Mental Shield Crystal-->
   <MSC_Building.label>고대 가로등</MSC_Building.label>
   <MSC_Building.description>그것은 발굴된 고대 인류 유물의 복제품입니다. 열과 전기를 흡수하여 정신 보호막을 만들어냅니다. \n깨지기 쉬우니 조심하세요.</MSC_Building.description>

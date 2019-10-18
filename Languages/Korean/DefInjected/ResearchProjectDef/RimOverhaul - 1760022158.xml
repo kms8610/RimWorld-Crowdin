@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+
   <BasicOreProcessing.label>기본 광석 가공 및 제련</BasicOreProcessing.label>
   <BasicOreProcessing.description>광석 가공 및 주괴 생산의 기본 원리.\n간단한 용광로에서 철 및 구리 주괴를 제련할 수 있습니다.</BasicOreProcessing.description>
   <AdvancedOreProcessing.label>고급 광석 가공</AdvancedOreProcessing.label>

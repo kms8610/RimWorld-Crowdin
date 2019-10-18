@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+
   <GasPipeline.label>가스관 (천연 가스)</GasPipeline.label>
   <GasPipeline.description>천연 가스를 운송하도록 설계된 가스관.</GasPipeline.description>
   <GasPipeline_Blueprint.label>가스관 (천연 가스) (청사진)</GasPipeline_Blueprint.label>
@@ -105,7 +106,7 @@
   <SingularReactor.label>단일 반응기</SingularReactor.label>
   <SingularReactor.description>미세한 블랙홀(붕괴 항성)이 작동 매체로 사용되는 에너지 원천입니다. 이러한 반응기의 작동 원리는 블랙홀이 증발하는 동안 방출되는 에너지를 사용하는 것입니다.</SingularReactor.description>
   <DoomsdayUltimateBomb.label>최후의 심판 무기</DoomsdayUltimateBomb.label>
-  <DoomsdayUltimateBomb.description>최후의 심판 무기(Doomsday Weapon)는 대기를 파괴하고 창공을 작은 파편으로 분해하여 행성을 파괴하는 무기입니다.\n\n이 기계는 메카노이드 기술과 매우 비싸고 희귀한 물질로부터 생산되었습니다. 플라스틸과 은는 도금에 사용되고 금은 고급 내부구성 요소로 사용되었습니다. 진보된 컴퓨터 통신 시스템의 존재로 우주 또는 다른 행성에서 모든 생명체에 대한 파괴적인 공격을 즉시 취할 수 있습니다.\n\n잘못된 손에 들어간 최후의 심판 무기는 산소 부족, 태양 복사, 수많은 돌연변이, 그리고 그 밖의 아주 주목할 만한 사건들과 관련된 많은 문제들을 가져올 것입니다.</DoomsdayUltimateBomb.description>
+  <DoomsdayUltimateBomb.description>둠스데이는 대기를 파괴하고 창공을 작은 파편으로 분해하여 행성을 파괴하는 무기입니다.\n\n이 기계는 메카노이드 기술과 매우 비싸고 희귀한 물질로부터 생산되었습니다. 플라스틸과 은는 도금에 사용되고 금은 고급 내부구성 요소로 사용되었습니다. 진보된 컴퓨터 통신 시스템의 존재로 우주 또는 다른 행성에서 모든 생명체에 대한 파괴적인 공격을 즉시 취할 수 있습니다.\n\n잘못된 손에 들어간 최후의 심판 무기는 산소 부족, 태양 복사, 수많은 돌연변이, 그리고 그 밖의 아주 주목할 만한 사건들과 관련된 많은 문제들을 가져올 것입니다.</DoomsdayUltimateBomb.description>
   <Geoscape.label>지오 스케프</Geoscape.label>
   <Geoscape.description>이 컴퓨터는 행성에서 일어나고 있는 일을 보다 면밀히 확인하는데 필요합니다. 행성의 홀로그램에서는 행성 정보 네트워크에 연결되어 모든 중요한 이벤트가 표시됩니다. 행성 컴퓨터는 메카노이드 기술을 기반으로 했으며 고품질의 연결과 틈새없이 적시의 통보를 제공합니다.</Geoscape.description>
   <Geoscape_Blueprint.label>지오 스케프 (청사진)</Geoscape_Blueprint.label>
@@ -210,7 +211,7 @@
   <Mech_BigAvtomaton_Corpse.label>대형 자동장치 시체</Mech_BigAvtomaton_Corpse.label>
   <Mech_BigAvtomaton_Corpse.description>대형 자동장치 시체</Mech_BigAvtomaton_Corpse.description>
   <Mech_SmallAvtomaton.label>소형 자동장치</Mech_SmallAvtomaton.label>
-  <Mech_SmallAvtomaton.description>보통 사람 크기의 자동장치입니다. 몸통 모양에는 작은 돌출부가 있습니다. 캐터필라는 운동에 사용되지만 이것에도 불구하고 그들은 충분히 빠르며 기동성이 있습니다.\n    그것들은 대형 자동장치와 비슷한 갑옷 합금을 사용하지만 크기 때문에 갑옷 자체의 두께가 훨씬 적습니다.</Mech_SmallAvtomaton.description>
+  <Mech_SmallAvtomaton.description>보통 사람 크기의 자동장치입니다. 몸통 모양에는 작은 돌출부가 있습니다. 캐터필라는 운동에 사용되지만 이것에도 불구하고 그들은 충분히 빠르며 기동성이 있습니다.\n그것들은 대형 자동장치와 비슷한 갑옷 합금을 사용하지만 크기 때문에 갑옷 자체의 두께가 훨씬 적습니다.</Mech_SmallAvtomaton.description>
   <Mech_SmallAvtomaton.tools.0.label>왼쪽 카브</Mech_SmallAvtomaton.tools.0.label>
   <Mech_SmallAvtomaton.tools.1.label>오른쪽 카브</Mech_SmallAvtomaton.tools.1.label>
   <Mech_SmallAvtomaton.tools.2.label>머리</Mech_SmallAvtomaton.tools.2.label>
