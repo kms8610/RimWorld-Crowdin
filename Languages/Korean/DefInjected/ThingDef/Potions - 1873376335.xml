@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Cauldron.label>가마솥</Cauldron.label>
-  <Cauldron.description>여러 물약을 정제하는 데 사용되는 금속 가마솥.</Cauldron.description>
+  <PCauldron.label>가마솥</PCauldron.label>
+  <PCauldron.description>여러 물약을 정제하는 데 사용되는 금속 가마솥.</PCauldron.description>
   <PlasteelDust.label>플라스틸 가루</PlasteelDust.label>
   <PlasteelDust.description>고급 우주 기술 구조 재료. 플라스틸 가루는 물약 정제시 재료로 사용됩니다. 별로 강하지 않습니다.</PlasteelDust.description>
   <GoldDust.label>금 가루</GoldDust.label>
@@ -93,5 +93,7 @@
   <PPotionHunger.ingestible.ingestReportString>{0} 마시는 중.</PPotionHunger.ingestible.ingestReportString>
   <WindDaisy.label>바람 데이지</WindDaisy.label>
   <WindDaisy.description>오랫동안 잊혀진 세계에서 온 마법 같은 아름다운 꽃. 바람 데이지를 파종 및 수확하는 것은 섬세한 싹때문에 매우 노동 집약적인 작업입니다. 이 곷의 가루는 다른 물약들을 정제하는 데 사용됩니다.</WindDaisy.description>
+  <PThrumboBone.label>트럼보 뼈</PThrumboBone.label>
+  <PThrumboBone.description>물약 정제에 사용하는 트럼보의 거대한 뼈입니다.</PThrumboBone.description>
 
 </LanguageData>

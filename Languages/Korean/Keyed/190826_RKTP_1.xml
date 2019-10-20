@@ -3531,7 +3531,7 @@
   <DW_Setting_TwoHand_DisabledReason>이 무기는 양손 무기로 설정되어 있습니다. 양손 무기는 쌍수로 사용할 수 없습니다. 따라서 이 설정은 쌍수의 설정보다 우선됩니다.</DW_Setting_TwoHand_DisabledReason>
   <DW_Setting_NPCDualWieldChance_Title>NPC의 쌍수 확률(%)</DW_Setting_NPCDualWieldChance_Title>
   <DW_Setting_NPCDualWieldChance_Description>양손 무기를 장비하지 않았다면 쌍수를 사용하는 NPC(적 또는 동맹)가 등장할 수 있습니다.</DW_Setting_NPCDualWieldChance_Description>
-  <DW_Message_UnequippedOffHand>{0}(은)는 {1}(을)를 떨어뜨리고 양손 무기를 들었습니다.</DW_Message_UnequippedOffHand>
+  <DW_Message_UnequippedOffHand>{0}(은)는 양손 무기를 장착하기 위해 {1} 무기를 떨어뜨렸습니다.</DW_Message_UnequippedOffHand>
   <DW_HerHis_Male>그의</DW_HerHis_Male>
   <DW_HerHis_Female>그녀의</DW_HerHis_Female>
   <DW_EquipOffHand>{0} 장착 (쌍수)</DW_EquipOffHand>
@@ -3544,7 +3544,7 @@
   <DW_Setting_RangedMirrored_Title>원거리 무기 반전표시</DW_Setting_RangedMirrored_Title>
 
   <!--1633517937_190526_Raids For Me-->
-  <RFM_StartRaidDelayed>{0} ({1})(이)가 정말 화났습니다! 당신은 {2}에 습격 당할 것입니다!</RFM_StartRaidDelayed>
+  <RFM_StartRaidDelayed>{0} ({1})(이)가 정말 화났습니다! 당신은 {2} 이내에 습격 당할 것입니다!</RFM_StartRaidDelayed>
   <RFM_StartRaidNow>{0} ({1})(이)가 당신을 공격하기 시작했습니다!</RFM_StartRaidNow>
   <RFM_StartAirDropRaidNow>{0} ({1})(이)가 에어 드롭 포드로 당신을 공격했습니다!</RFM_StartAirDropRaidNow>
   <RFM_InsultEnemy>{0} {1}</RFM_InsultEnemy>
