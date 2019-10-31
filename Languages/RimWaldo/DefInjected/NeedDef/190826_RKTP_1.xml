@@ -91,10 +91,6 @@
   <PJ_ForcePool.description>정착지인의 현재 포스 풀 레벨</PJ_ForcePool.description>
   <PJ_ForcePool.label>포스 풀</PJ_ForcePool.label>
 
-  <!--972057888_190814_Prison Labor-->
-  <PrisonLabor_Motivation.label>동기 부여</PrisonLabor_Motivation.label>
-  <PrisonLabor_Motivation.description>어떻게 수감자들에게 일에 대해 동기를 부여할지 나타냅니다. 근처의 정착민들을 통해 동기 부여를 해줄 수 있습니다.</PrisonLabor_Motivation.description>
-
   <!--1552507180_190814_Psychology-->
   <Chemical_Methadone.label>메타돈</Chemical_Methadone.label>
   <Chemical_Methadone.description>메타돈 중독으로 인한 금단현상을 피하려면 주기적인 복용이 필요합니다.</Chemical_Methadone.description>

@@ -291,7 +291,7 @@
   <PrisonCampLGE.label>감옥 캠프</PrisonCampLGE.label>
   <NewSettlementLGE.label>새로운 정착지</NewSettlementLGE.label>
   <QuestResearchRequestSW.label>연구 요청 기회</QuestResearchRequestSW.label>
-  <QuestResearchRequestSW.letterText>{1}의 [PAWN_nameDef], {0}(이)가 메시지를 보내왔습니다. 이들은 옛 고대 물품들을 조사하고 있지만, 어떤 장애물에 부딪힌 상태라고 합니다. 이들은 우리가 가진 최고 연구자의 도움을 구하고 있으며, 만약 연구 성과가 잘 나온다면 그렇게 얻은 지식 중 일부를 기꺼이 공유하겠다고 합니다.\n\n이것은 그들의 파벌과 관계를 개선할 수 있는 기회가 될 수도 있습니다. 하지만 주의하세요. 모자란 연구자가 파견을 오면 차라리 없느니만 못할 것입니다. 이들의 연구를 미루면 이들 파벌이 화가 날지도 모릅니다.\n\n요청은 {2}일 뒤에 만료됩니다.</QuestResearchRequestSW.letterText>
+  <QuestResearchRequestSW.letterText>{1}의 {0}, [PAWN_nameDef](이)가 메시지를 보내왔습니다. 이들은 옛 고대 물품들을 조사하고 있지만, 어떤 장애물에 부딪힌 상태라고 합니다. 이들은 우리가 가진 최고 연구자의 도움을 구하고 있으며, 만약 연구 성과가 잘 나온다면 그렇게 얻은 지식 중 일부를 기꺼이 공유하겠다고 합니다.\n\n이것은 그들의 파벌과 관계를 개선할 수 있는 기회가 될 수도 있습니다. 하지만 주의하세요. 모자란 연구자가 파견을 오면 차라리 없느니만 못할 것입니다. 이들의 연구를 미루면 이들 파벌이 화가 날지도 모릅니다.\n\n요청은 {2}일 뒤에 만료됩니다.</QuestResearchRequestSW.letterText>
   <QuestResearchRequestSW.letterLabel>연구 요청 기회</QuestResearchRequestSW.letterLabel>
   <InterceptedMessageLGE.label>가로챈 메시지</InterceptedMessageLGE.label>
 
@@ -537,11 +537,6 @@
 
   <!--950475543_190818_Rim of Madness - Arachnophobia-->
   <ROM_GiantSpiders.label>거대한 거미들</ROM_GiantSpiders.label>
-
-  <!--972057888_190814_Prison Labor-->
-  <PrisonLabor_Revolt.label>반란</PrisonLabor_Revolt.label>
-  <PrisonLabor_Revolt.letterLabel>반란</PrisonLabor_Revolt.letterLabel>
-  <PrisonLabor_Revolt.letterText>반란은 {0}에 의해 시작되었습니다. 수감자들은 세력 {1} 아래로 연합되었고 스스로 만든 무기로 반란을 시작했습니다.</PrisonLabor_Revolt.letterText>
 
   <!--1552507180_190814_Psychology-->
   <Election.label>선거</Election.label>

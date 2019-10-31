@@ -1422,6 +1422,9 @@
   <Sedentary.stages.0.description>그렇게 많이 돌아다닐 필요가 없어서 좋아.</Sedentary.stages.0.description>
   <Sedentary.stages.1.label>편안하게 자리잡음</Sedentary.stages.1.label>
   <Sedentary.stages.1.description>잠시 쉬기 좋은 편안한 장소야. 이대로가 좋아.</Sedentary.stages.1.description>
+  <Chitchat.stages.Smalltalk.label>잡담</Chitchat.stages.Smalltalk.label>
+  <MoodOffsetDepressive.stages.depressive-1.label>우울증</MoodOffsetDepressive.stages.depressive-1.label>
+  <MoodOffsetDepressive.stages.depressive-1.description>우울증</MoodOffsetDepressive.stages.depressive-1.description>
 
   <!--936594912_190820_SS Researchable Stat Upgrades-->
   <AteAwfulMealFlavored.stages.0.label>형편없는 음식 (조미됨)</AteAwfulMealFlavored.stages.0.label>

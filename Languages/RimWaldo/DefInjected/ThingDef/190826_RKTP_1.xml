@@ -14479,4 +14479,36 @@
   <Methadone.ingestible.ingestCommandString>{0} 복용</Methadone.ingestible.ingestCommandString>
   <Methadone.ingestible.ingestReportString>{0} 복용 중.</Methadone.ingestible.ingestReportString>
 
+  <!-- Secret Passage Doors -->
+  <HiddenDoorSmooth.label>숨겨진 문 (금속)</HiddenDoorSmooth.label>
+  <HiddenDoorSmooth.description>매끄러운 금속제 벽과 어우러지는 문입니다.\n'벽 연결'을 같은 타일에 두면, 인접한 벽 또는 지형지물과 연결될 수 있습니다.</HiddenDoorSmooth.description>
+  <HiddenDoorSmooth_Blueprint.label>숨겨진 문 (금속) (청사진)</HiddenDoorSmooth_Blueprint.label>
+  <HiddenDoorSmooth_Frame.label>숨겨진 문 (금속) (건설 중)</HiddenDoorSmooth_Frame.label>
+  <HiddenDoorSmooth_Frame.description>매끄러운 금속제 벽과 어우러지는 문입니다.\n'벽 연결'을 같은 타일에 두면, 인접한 벽 또는 지형지물과 연결될 수 있습니다.</HiddenDoorSmooth_Frame.description>
+  <HiddenDoorBricks.label>숨겨진 문 (벽돌)</HiddenDoorBricks.label>
+  <HiddenDoorBricks.description>석재로 지어진 벽과 어우러지는 문입니다.\n'벽 연결'을 같은 타일에 두면, 인접한 벽 또는 지형지물과 연결될 수 있습니다.</HiddenDoorBricks.description>
+  <HiddenDoorBricks_Blueprint.label>숨겨진 문 (벽돌) (청사진)</HiddenDoorBricks_Blueprint.label>
+  <HiddenDoorBricks_Frame.label>숨겨진 문 (벽돌) (건설 중)</HiddenDoorBricks_Frame.label>
+  <HiddenDoorBricks_Frame.description>석재로 지어진 벽과 어우러지는 문입니다.\n'벽 연결'을 같은 타일에 두면, 인접한 벽 또는 지형지물과 연결될 수 있습니다.</HiddenDoorBricks_Frame.description>
+  <HiddenDoorPlanks.label>숨겨진 문 (널빤지)</HiddenDoorPlanks.label>
+  <HiddenDoorPlanks.description>목재 널빤지 등으로 지어진 벽과 어우러지는 문입니다.\n'벽 연결'을 같은 타일에 두면, 인접한 벽 또는 지형지물과 연결될 수 있습니다.</HiddenDoorPlanks.description>
+  <HiddenDoorPlanks_Blueprint.label>숨겨진 문 (널빤지) (청사진)</HiddenDoorPlanks_Blueprint.label>
+  <HiddenDoorPlanks_Frame.label>숨겨진 문 (널빤지) (건설 중)</HiddenDoorPlanks_Frame.label>
+  <HiddenDoorPlanks_Frame.description>목재 널빤지 등으로 지어진 벽과 어우러지는 문입니다.\n'벽 연결'을 같은 타일에 두면, 인접한 벽 또는 지형지물과 연결될 수 있습니다.</HiddenDoorPlanks_Frame.description>
+  <HiddenDoorRock.label>숨겨진 문 (암석)</HiddenDoorRock.label>
+  <HiddenDoorRock.description>자연적인 암석과 어우러지는 문입니다.\n'벽 연결'을 같은 타일에 두면, 인접한 벽 또는 지형지물과 연결될 수 있습니다.</HiddenDoorRock.description>
+  <HiddenDoorRock_Blueprint.label>숨겨진 문 (암석) (청사진)</HiddenDoorRock_Blueprint.label>
+  <HiddenDoorRock_Frame.label>숨겨진 문 (암석) (건설 중)</HiddenDoorRock_Frame.label>
+  <HiddenDoorRock_Frame.description>자연적인 암석과 어우러지는 문입니다.\n'벽 연결'을 같은 타일에 두면, 인접한 벽 또는 지형지물과 연결될 수 있습니다.</HiddenDoorRock_Frame.description>
+  <HiddenDoorRocksmooth.label>숨겨진 문 (매끄러운 암석)</HiddenDoorRocksmooth.label>
+  <HiddenDoorRocksmooth.description>인위적으로 다듬은 암석과 어우러지는 문입니다.\n'벽 연결'을 같은 타일에 두면, 인접한 벽 또는 지형지물과 연결될 수 있습니다.</HiddenDoorRocksmooth.description>
+  <HiddenDoorRocksmooth_Blueprint.label>숨겨진 문 (매끄러운 암석) (청사진)</HiddenDoorRocksmooth_Blueprint.label>
+  <HiddenDoorRocksmooth_Frame.label>숨겨진 문 (매끄러운 암석) (건설 중)</HiddenDoorRocksmooth_Frame.label>
+  <HiddenDoorRocksmooth_Frame.description>인위적으로 다듬은 암석과 어우러지는 문입니다.\n'벽 연결'을 같은 타일에 두면, 인접한 벽 또는 지형지물과 연결될 수 있습니다.</HiddenDoorRocksmooth_Frame.description>
+  <WallLink.label>벽 연결</WallLink.label>
+  <WallLink.description>'숨겨진 문'과 주위의 '벽' 또는 '지형지물'을 연결합니다. '숨겨진 문'과 같은 타일에 두어야합니다.</WallLink.description>
+  <WallLink_Blueprint.label>벽 연결 (청사진)</WallLink_Blueprint.label>
+  <WallLink_Frame.label>벽 연결 (건설 중)</WallLink_Frame.label>
+  <WallLink_Frame.description>'숨겨진 문'과 주위의 '벽' 또는 '지형지물'을 연결합니다. '숨겨진 문'과 같은 타일에 두어야합니다.</WallLink_Frame.description>
+
 </LanguageData>

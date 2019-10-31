@@ -15,8 +15,8 @@
   <EnableElections>선거 활성화</EnableElections>
   <EnableElectionsDesc>비활성화 된 경우, 선거는 일어나지 않습니다.</EnableElectionsDesc>
   <NoColonistAbleLeader>이 정착민은 리더가 될 수 없습니다.</NoColonistAbleLeader>
-  <LeaderChosen>{0}(은)는 {1}으로 선택되었습니다.</LeaderChosen>
-  <LeaderElected>{0}(은)는 {1}으로 선출되었습니다.</LeaderElected>
+  <LeaderChosen>{0}(은)는 {1}(으)로 선택되었습니다.</LeaderChosen>
+  <LeaderElected>{0}(은)는 {1}(으)로 선출되었습니다.</LeaderElected>
   <NewLeaderLetterTitle>새로운 {0}</NewLeaderLetterTitle>
   <TimeLeftL>남은 기간:</TimeLeftL>
   <LeaderDied>{0} {1}(이)가 사망했습니다.</LeaderDied>
@@ -27,8 +27,8 @@
   <LeaderLevel>지도자 등급:</LeaderLevel>
   <AverageOpinion>나에 대한 평균적인 의견:</AverageOpinion>
   <TeacherUnavailable>교사는 사용할 수 없습니다.</TeacherUnavailable>
-  <TeacherUnavailableNamed>교사는 {0}(을)를 사용할 수 없습니다.</TeacherUnavailableNamed>
-  <LessonGathering>{0}의 수업이 준비중입니다. {1}가 교사 입니다. 관련 기술:</LessonGathering>
+  <TeacherUnavailableNamed>교사 {0}(은)는 수업을 할 수 없습니다.</TeacherUnavailableNamed>
+  <LessonGathering>{0}의 수업이 준비 중입니다. 교사: {1} 관련 기술: </LessonGathering>
   <MustWaitForLesson>새로운 수업을 진행하기 위해 하루를 기다려야 합니다.</MustWaitForLesson>
   <NoTeacherSelected>선택된 교사가 없습니다. 다시 확인해주세요.</NoTeacherSelected>
   <TeacherDrafted>교사가 소집 중입니다. 다시 시도해주세요.</TeacherDrafted>
@@ -77,9 +77,9 @@
   <UnlikedLeader>주의: 이 지도자는 정착민들이 별로 좋아하지 않습니다.</UnlikedLeader>
   <Dictatorship>독재정치</Dictatorship>
   <DictatorshipDesc>정착민 한명을 선택하여 정착지를 통치하게 합니다. 독재자가 사망할 때 지도력도 끝나게 됩니다.</DictatorshipDesc>
-  <Dictator>독재자 -</Dictator>
+  <Dictator>독재자 - </Dictator>
   <Democracy>민주주의</Democracy>
   <DemocracyDesc>유권자들은 지도자들에게 투표를 합니다. 각 지도부에 대한 권한은 1년입니다.</DemocracyDesc>
-  <Leader>지도자 -</Leader>
+  <Leader>지도자 - </Leader>
 
 </LanguageData>

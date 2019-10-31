@@ -1910,11 +1910,6 @@
   <FearGas.stages.2.label>심각한 공포</FearGas.stages.2.label>
   <FearGas.stages.3.label>극도의 공포</FearGas.stages.3.label>
 
-  <!--972057888_190814_Prison Labor-->
-  <PrisonLabor_PrisonerChains.stages.1.label>활성화</PrisonLabor_PrisonerChains.stages.1.label>
-  <PrisonLabor_PrisonerChains.stages.0.label>비활성화</PrisonLabor_PrisonerChains.stages.0.label>
-  <PrisonLabor_PrisonerChains.label>수감자 사슬</PrisonLabor_PrisonerChains.label>
-
   <!--1552507180_190814_Psychology-->
   <HoldingConversation.label>대화</HoldingConversation.label>
   <HoldingConversation.stages.0.label>hidden</HoldingConversation.stages.0.label>

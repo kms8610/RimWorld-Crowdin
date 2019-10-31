@@ -6,16 +6,28 @@
   <supportedVersions>
     <li>1.0</li>
   </supportedVersions>
-  <url>https://steamcommunity.com/sharedfiles/filedetails/?id=1848471817</url>
+  <url>https://crowdin.com/project/RKTM</url>
   <description>
 RimWorld Korean Translation MOD (RKTM)
-림월드 모드들을 번역하는 한글화 모드 입니다.
+림월드 모드들을 번역하는 한글화 모드입니다.
 
-모드를 최하위로 놔둘 경우 모드 자체에 들어 있는 한글을 우선적으로 인식하고 중복되는 번역은 무시가 되므로
+모드를 최하위로 놔둘 경우 모드 자체에 들어 있는 한글을 우선적으로 인식하고 중복되는 번역은 무시되므로
 해당 모드의 배열을 Core 모드 바로 아래쪽으로 두시길 권장합니다.
 
-&lt;color=orange&gt;1. Core&lt;/color&gt;
-&lt;color=orange&gt;2. RKTM&lt;/color&gt;
+* Korean 채널 이용 시에는 최상위
+
+&lt;color=orange>1. Core&lt;/color>
+&lt;color=orange>2. RKTM&lt;/color>
+
+
+* RimWaldo (림왈도) 채널 이용 시에는 최하위로 설정 변경 해주시기 바랍니다.
+
+&lt;color=orange>1. Core&lt;/color>
+↓
+↓ - 기타 모드들 -
+↓
+&lt;color=orange>99. [RKTM] 림월드 한국어&lt;/color>
+&lt;color=orange>100. [RKTM] 림월드 모드 한글화&lt;/color>
   </description>
 
 </ModMetaData>

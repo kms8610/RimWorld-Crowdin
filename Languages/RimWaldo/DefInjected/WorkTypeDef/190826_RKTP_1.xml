@@ -107,12 +107,4 @@
   <FinishingOff.description>기절한 동물을 빠르고 고통없이 확실하게 숨통을 끊어버립니다. \n이 기능은 &lt;b>모드 설정 > AllowTool&lt;/b> 에서 끄고 켤 수 있습니다.</FinishingOff.description>
   <HaulingUrgent.pawnLabel>우선 운반 하는 사람</HaulingUrgent.pawnLabel>
 
-  <!--972057888_190814_Prison Labor-->
-  <PrisonLabor_Jailor.label>교도관</PrisonLabor_Jailor.label>
-  <PrisonLabor_Jailor.labelShort>교도관</PrisonLabor_Jailor.labelShort>
-  <PrisonLabor_Jailor.pawnLabel>교도관</PrisonLabor_Jailor.pawnLabel>
-  <PrisonLabor_Jailor.description>수감자를 호송하고, 감시하고, 석방하고, 처형하는 것을 포함합니다.</PrisonLabor_Jailor.description>
-  <PrisonLabor_Jailor.verb>감독하기</PrisonLabor_Jailor.verb>
-  <PrisonLabor_Jailor.gerundLabel>수감자 감시</PrisonLabor_Jailor.gerundLabel>
-
 </LanguageData>

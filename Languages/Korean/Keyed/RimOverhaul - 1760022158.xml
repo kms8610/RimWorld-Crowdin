@@ -100,7 +100,7 @@
   <CommOption_SubscribeScout_SubGoodWillOption>적어도 80의 관계가 필요합니다.</CommOption_SubscribeScout_SubGoodWillOption>
   <CommOption_ExitNode>취소</CommOption_ExitNode>
   <QuestPawn_Title>반갑네! 무슨 얘기를 하고 싶은가?</QuestPawn_Title>
-  <QuestPawn_Line1>{0} 파벌에서 {1} ({2}: {3})</QuestPawn_Line1>
+  <QuestPawn_Line1>{1} 세력의 {0} ({2}: {3})</QuestPawn_Line1>
   <QuestPawn_Line1_Player>{0}</QuestPawn_Line1_Player>
   <TakeQuestFromPawn>퀘스트 수행</TakeQuestFromPawn>
   <TakeQuestFromPawnLetter>퀘스트 "{0}" 수행.</TakeQuestFromPawnLetter>
@@ -108,11 +108,11 @@
   <Pocahontas_CardLabel>통합 교환 토론</Pocahontas_CardLabel>
   <CommOption_PawnOfferYes_Label>적용 {0}</CommOption_PawnOfferYes_Label>
   <CommOption_PawnOfferYesTitle>보충</CommOption_PawnOfferYesTitle>
-  <CommOption_PawnOfferYes>당신은 그 제안을 받아들였다. 정착민 {0}(이)가 당신의 정착지 목록에 추가되었습니다. {1}세력과의 관계도 개선되었습니다.</CommOption_PawnOfferYes>
-  <PawnInfo>{PAWN_gender ? He : She}, {PAWN_kind}. {PAWN_possessive} 이름은 {PAWN_nameDef}, 그리고 {PAWN_pronoun} {PAWN_title}.</PawnInfo>
+  <CommOption_PawnOfferYes>당신은 그 제안을 받아들였다. 정착민 {0}(이)가 당신의 정착지 목록에 추가되었습니다. {1} 세력과의 관계도 개선되었습니다.</CommOption_PawnOfferYes>
+  <PawnInfo>{PAWN_gender ? 남성 : 여성}, {PAWN_kind}. {PAWN_possessive} 이름은 {PAWN_nameDef}, 그리고 {PAWN_pronoun}의 배경은 {PAWN_title}입니다.</PawnInfo>
   <CommOption_DeclineQuest_Label>거절</CommOption_DeclineQuest_Label>
   <CommOption_DeclineDialog_Label>거절</CommOption_DeclineDialog_Label>
-  <ActualOnlyThisMap>그 제안은 게스트가 당신과 함께 있는 동안 적절합니다.</ActualOnlyThisMap>
+  <ActualOnlyThisMap>이 제안은 방문객이 함께 있을 동안 유효합니다.</ActualOnlyThisMap>
   <TimerInfo>이 제안은 {0}일 동안 유효합니다.</TimerInfo>
   <CommunicationDialog_PocahontasTitle>제안이 거부 됨</CommunicationDialog_PocahontasTitle>
   <CommunicationDialog_Pocahontas>당신은 공동 거주 제안을 수락하지 않았으므로 {0} 세력과의 관계가 축소될 것입니다.</CommunicationDialog_Pocahontas>
@@ -305,7 +305,7 @@
   <ScoutComp_AlreadyGiveTitle>정보 계약</ScoutComp_AlreadyGiveTitle>
   <ScoutComp_AlreadyGive>{0} 세력과 계약은 이미 체결되었으므로 {1}일 동안 연장되었습니다.</ScoutComp_AlreadyGive>
   <Quest_MissingPeople_CardLabel>실종자</Quest_MissingPeople_CardLabel>
-  <Quest_MissingPeople_Description>세력의 지도자 {0}(이)가 우리에게 연락을 했고 며칠 전 그들의 거주민들 중 소수의 사람들이 자원을 얻기 위해 여행을 갔다고 보고했습니다. 그들의 여행 예상 시간은 {1}일 이었습니다. {2}일이 지났지만 그들은 돌아오지 않았습니다. 통신은 실패했으며 그들이 길을 잃었거나 공격받은 것인지 걱정합니다.. \n그들의 남은 식량은 약 {3}일 동안 지속될 것이고, 그 후에는 굶게 될 것입니다. 그는 우리에게 실종된 거주민들을 찾아서 그들에게 돌려달라고 부탁합니다.</Quest_MissingPeople_Description>
+  <Quest_MissingPeople_Description>{0} 세력의 지도자가 우리에게 연락을 했고 며칠 전 그들의 거주민들 중 소수의 사람들이 자원을 얻기 위해 여행을 갔다고 보고했습니다. 그들의 여행 예상 시간은 {1}일 이었습니다. {2}일이 지났지만 그들은 돌아오지 않았습니다. 통신은 실패했으며 그들이 길을 잃었거나 공격받은 것인지 걱정합니다..\n그들의 남은 식량은 약 {3}일 동안 지속될 것이고, 그 후에는 굶게 될 것입니다. 그는 우리에게 실종된 거주민들을 찾아서 그들에게 돌려달라고 부탁합니다.</Quest_MissingPeople_Description>
   <Quest_MissingPeople_PlaceLabel>잠재적 실종자</Quest_MissingPeople_PlaceLabel>
   <Quest_MissingPeople_InspectString>실종자를 위한 잠재적인 장소. \n남은 음식: {0} (일)</Quest_MissingPeople_InspectString>
   <Quest_CheckMissingPeople_Action>장소를 검사하십시오.</Quest_CheckMissingPeople_Action>

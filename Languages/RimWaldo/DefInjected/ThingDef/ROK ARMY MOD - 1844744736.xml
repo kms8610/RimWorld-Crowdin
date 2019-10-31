@@ -2,11 +2,11 @@
 <LanguageData>
 
   <k2_rifle.label>K2</k2_rifle.label>
-  <k2_rifle.description>대한민국의 국방과학연구소에서 개발하고 S＆T 모티브(구 대우정밀)와 다산기공에서 생산한 한국군의 주력 돌격소총 입니다.</k2_rifle.description>
+  <k2_rifle.description>대한민국의 국방과학연구소에서 개발하고 S＆T 모티브(구. 대우정밀)와 다산기공에서 생산한 한국군의 주력 돌격소총 입니다.</k2_rifle.description>
   <k2_rifle.tools.0.label>개머리판</k2_rifle.tools.0.label>
   <k2_rifle.tools.1.label>총열</k2_rifle.tools.1.label>
-  <k1a_SMG.label>K1a</k1a_SMG.label>
-  <k1a_SMG.description>한국군의 제식 기관단총 입니다..</k1a_SMG.description>
+  <k1a_SMG.label>K1A</k1a_SMG.label>
+  <k1a_SMG.description>한국군의 제식 기관단총 입니다.</k1a_SMG.description>
   <k1a_SMG.tools.0.label>개머리판</k1a_SMG.tools.0.label>
   <k1a_SMG.tools.1.label>총열</k1a_SMG.tools.1.label>
   <k3_LMG.label>K3</k3_LMG.label>
@@ -22,7 +22,7 @@
   <k14_sniperrifle.tools.0.label>개머리판</k14_sniperrifle.tools.0.label>
   <k14_sniperrifle.tools.1.label>총열</k14_sniperrifle.tools.1.label>
   <k2C_rifle.label>K2C</k2C_rifle.label>
-  <k2C_rifle.description>수출용으로 개발된 K2의 카빈 버전입니다. 총열이 465 mm에서 310 mm 로 단축되었고, 소염기는 K11에 사용되는 형태로 교체, M4 계열에 쓰이는 6단 조절식 개머리판의 복제판을 장착했으며, 원본의 심각하게 낮은 확장성을 개선하기 위해 피카티니 레일이 일체화된 총열 덮개가 장착되었습니다.</k2C_rifle.description>
+  <k2C_rifle.description>수출용으로 개발된 K2의 카빈 버전입니다. 총열이 465mm 에서 310mm 로 단축되었고, 소염기는 K11에 사용되는 형태로 교체, M4 계열에 쓰이는 6단 조절식 개머리판의 복제판을 장착했으며, 원본의 심각하게 낮은 확장성을 개선하기 위해 피카티니 레일이 일체화된 총열 덮개가 장착되었습니다.</k2C_rifle.description>
   <k2C_rifle.tools.0.label>개머리판</k2C_rifle.tools.0.label>
   <k2C_rifle.tools.1.label>총열</k2C_rifle.tools.1.label>
   <k12_LMG.label>K12</k12_LMG.label>

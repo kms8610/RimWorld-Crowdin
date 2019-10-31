@@ -618,11 +618,6 @@
   <DoBillsTableSeeds.verb>씨앗 추출</DoBillsTableSeeds.verb>
   <DoBillsTableSeeds.gerund>씨앗 추출</DoBillsTableSeeds.gerund>
 
-  <!--972057888_190814_Prison Labor-->
-  <PrisonLabor_SupervisePrisonLabor.label>수감자 감시하기</PrisonLabor_SupervisePrisonLabor.label>
-  <PrisonLabor_SupervisePrisonLabor.verb>수감자 감시하기</PrisonLabor_SupervisePrisonLabor.verb>
-  <PrisonLabor_SupervisePrisonLabor.gerund>수감자 감시하는 중.</PrisonLabor_SupervisePrisonLabor.gerund>
-
   <!--1185269798_190818_VGP Garden Fabrics-->
   <DoBillsTableLoom.label>베틀로 짜기</DoBillsTableLoom.label>
   <DoBillsTableLoom.verb>방직</DoBillsTableLoom.verb>

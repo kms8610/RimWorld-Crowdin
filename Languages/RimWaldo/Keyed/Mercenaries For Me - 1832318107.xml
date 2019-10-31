@@ -44,7 +44,7 @@
   <MFM_AddPawnRecall>복귀할 정착민 추가</MFM_AddPawnRecall>
   <MFM_AddPawn>정착민 추가</MFM_AddPawn>
   <MFM_RemovePawn>정착민 제거</MFM_RemovePawn>
-  <MFM_ThisCurrentMap>현재 맵 ({0})</MFM_ThisCurrentMap>
+  <MFM_ThisCurrentMap>현재 지도 ({0})</MFM_ThisCurrentMap>
   <MFM_GuaranteeLineOK>{1}에 대한 보증서 {0}</MFM_GuaranteeLineOK>
   <MFM_GuaranteeLineNOK>{1}에 대한 보증서 {0} (부상으로 인한 {2} - {3})</MFM_GuaranteeLineNOK>
   <MFM_ColorRed>적색</MFM_ColorRed>
@@ -78,14 +78,14 @@
   <MFM_LetterRentedMercInjured>부상당한 용병</MFM_LetterRentedMercInjured>
   <MFM_LetterRentedMercInjuredDesc>부상으로 인해 {0}의 계약이 취소되었습니다. ({1} 손상)</MFM_LetterRentedMercInjuredDesc>
   <MFM_LetterRentedMercDeath>용병 사망</MFM_LetterRentedMercDeath>
-  <MFM_LetterRentedMercDeathDesc>임무를 수행하던 {0}(이)가 사망했다는 소식을 알려드리게 되어 유감입니다 {1}</MFM_LetterRentedMercDeathDesc>
-  <MFM_LetterRentedMercDeathDescComp>. 시신을 바로 보내드리도록 하겠습니다.</MFM_LetterRentedMercDeathDescComp>
+  <MFM_LetterRentedMercDeathDesc>임무를 수행하던 {0}(이)가 사망했다는 소식을 알려드리게 되어 유감입니다. {1}</MFM_LetterRentedMercDeathDesc>
+  <MFM_LetterRentedMercDeathDescComp>시신을 바로 보내드리도록 하겠습니다.</MFM_LetterRentedMercDeathDescComp>
   <MFM_LetterRentedMercEarnMoney>임무 전리품</MFM_LetterRentedMercEarnMoney>
-  <MFM_LetterRentedMercEarnMoneyDesc>기지를 성공적으로 급습한 후 {0}(이)가 {2}(을)를 통해 성과금 ({1})을 받았습니다.</MFM_LetterRentedMercEarnMoneyDesc>
+  <MFM_LetterRentedMercEarnMoneyDesc>{0}(은)는 기지를 성공적으로 급습한 후 {2}(을)를 통해 성과금 ({1})을 받았습니다.</MFM_LetterRentedMercEarnMoneyDesc>
   <MFM_LetterMercRaid>용병대 습격</MFM_LetterMercRaid>
-  <MFM_LetterMercRaidDesc>당신을 전멸시키기 위해 {1} 용병 부대에게 {0}(이)가 높은 가격을 지불했습니다. {2}</MFM_LetterMercRaidDesc>
+  <MFM_LetterMercRaidDesc>당신을 없애기 위해 {0}(이)가 {1} 용병대에게 높은 가격을 지불했습니다.{2}</MFM_LetterMercRaidDesc>
   <MFM_LetterRentedMercPaid>{0}: 용병 납입금</MFM_LetterRentedMercPaid>
-  <MFM_LetterRentedMercPaidDesc>고용된 용병의 활동 수입에 해당하는 {1}(으)로부터 {0}은을 수령합니다.</MFM_LetterRentedMercPaidDesc>
+  <MFM_LetterRentedMercPaidDesc>고용된 용병의 활동 수입에 해당하는 {0}은을 {1}(으)로부터 수령합니다.</MFM_LetterRentedMercPaidDesc>
   <MFM_LetterMercFired>용병 해고</MFM_LetterMercFired>
   <MFM_LetterMercFiredDesc>{0}(은)는 {1} 고객과의 임무 중 동료에게 무례하고 부적절한 행동을 보이는 만행을 저질러 해고되었고, 당분간 용병으로 다시 고용될 수 없습니다.</MFM_LetterMercFiredDesc>
   <MFM_LetterMercSalaryIncreaseRejected>악랄한 용병</MFM_LetterMercSalaryIncreaseRejected>

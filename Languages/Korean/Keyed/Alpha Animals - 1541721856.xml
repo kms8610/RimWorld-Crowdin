@@ -8,6 +8,7 @@
   <NocturnalAnimals.BodyClock_Description>동물이 잠을 자고 깨어날 때를 결정합니다.\n\n주행성 동물은 밤에는 잠을 자고 낮에는 깨어 있고, 야행성 동물은 낮에는 잠을 자고 밤에는 깨어 있습니다.</NocturnalAnimals.BodyClock_Description>
   <NocturnalAnimals.BodyClock_Diurnal>주행성</NocturnalAnimals.BodyClock_Diurnal>
   <NocturnalAnimals.BodyClock_Nocturnal>야행성</NocturnalAnimals.BodyClock_Nocturnal>
+  <NocturnalAnimals.BodyClock_Crepuscular>반야행성</NocturnalAnimals.BodyClock_Crepuscular>
   <LetterLabelColossalAerofleetPasses>거대 에어로플렛</LetterLabelColossalAerofleetPasses>
   <LetterColossalAerofleetPasses>주변을 어슬렁거리며 날아다니는 이상한 생물체입니다.\n\n작은 개체들은 큰 개체에 이끌리는 듯 하며, 아주 가까이 붙어서 큰 개체를 따라다닙니다.\n\n대부분 해롭지 않은 듯 보이며, 먹이를 다 먹고나면 지역을 떠날 것입니다.</LetterColossalAerofleetPasses>
   <LetterLabelSkyAsteroid>이상한 소행성</LetterLabelSkyAsteroid>
@@ -30,18 +31,20 @@
   <LetterGallatrossPasses>전설에 따르면 그 어떤 전사 종족도 달아날 수 밖에 없었다고 하는 너무나 거대하고 강인한 생물에 대해서 전해지고 있습니다. 이 전설은 거친 식욕을 가진 거대한 동물인 갈라트로스의 영향을 받았음이 분명합니다. 혹시 그 동물 또한 이해할 수 없는 트럼보와 관련이 있지는 않을까요? 누구도 그 질문에는 대답할 수 없을 것입니다.</LetterGallatrossPasses>
   <LetterLabelBlackHiveAttack>검은 둥지 공격</LetterLabelBlackHiveAttack>
   <LetterBlackHiveAttack>림에 있는 곤충들은 메카노이드의 침입에 대항하기 위해 고안된 유전자 변형된 개체들입니다. '검은 둥지'는 그 중 최고의 전력으로, 일반 개체들보다 훨씬 더 공격적이고, 난공불락의 요새도 포위할 수 있도록 설계되었습니다. 기존의 개체들은 개선되었고, 몇몇 새로운 개체가 추가되었으며, 치명적인 전력이 되어 둥지에 포함되었습니다.\n\n검은 둥지의 곤충 군단이 이 지역으로 터널을 뚫었고, 즉시 기지를 공격할 것입니다.</LetterBlackHiveAttack>
-  <HyperweaveDesc>초경조직 생산:</HyperweaveDesc>
-  <AA_UraniumCrystalsDesc>우라늄 수정 등장:</AA_UraniumCrystalsDesc>
-  <StoneChunkDesc>무작위 돌덩이 등장:</StoneChunkDesc>
-  <StoneBlockDesc>무작위 석재 등장:</StoneBlockDesc>
-  <MedicinalQuillDesc>약용 깃털 성장:</MedicinalQuillDesc>
-  <DevilstrandDesc>악마가닥 제작:</DevilstrandDesc>
-  <SynthreadDesc>합성원단 제작:</SynthreadDesc>
-  <BoomthreadDesc>폭탄실?(Boomthread) 생산</BoomthreadDesc>
-  <ChunkSlagSteelDesc>강철 덩어리 등장:</ChunkSlagSteelDesc>
+  <HyperweaveDesc>초경조직 생산</HyperweaveDesc>
+  <AA_UraniumCrystalsDesc>우라늄 수정 등장</AA_UraniumCrystalsDesc>
+  <StoneChunkDesc>무작위 돌덩이 등장</StoneChunkDesc>
+  <StoneBlockDesc>무작위 석재 등장</StoneBlockDesc>
+  <MedicinalQuillDesc>약용 깃털 성장</MedicinalQuillDesc>
+  <DevilstrandDesc>악마가닥 제작</DevilstrandDesc>
+  <SynthreadDesc>합성원단 제작</SynthreadDesc>
+  <AA_SeasonalWoolDesc>카멜레온 울 제작</AA_SeasonalWoolDesc>
+  <BoomthreadDesc>폭탄가닥 생산</BoomthreadDesc>
+  <ChunkSlagSteelDesc>강철 덩어리 등장</ChunkSlagSteelDesc>
   <RawMushrooms>야생 버섯 성장</RawMushrooms>
   <AA_MealNutrientPaste>영양반죽 생산</AA_MealNutrientPaste>
   <AA_Wood>나무 '손질' 시간</AA_Wood>
+  <AA_MutantImplantsDesc>임플란트 '수확' 시간</AA_MutantImplantsDesc>
   <allowBlackHive>검은 둥지 습격 허용</allowBlackHive>
   <allowStalkingLions>극지사자 사냥개시 허용</allowStalkingLions>
   <allowCactipineDroppods>선인장뿔쥐 드랍포드 이벤트 허용</allowCactipineDroppods>

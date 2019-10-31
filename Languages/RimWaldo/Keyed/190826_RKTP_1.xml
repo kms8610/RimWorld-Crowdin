@@ -941,7 +941,7 @@
   <TD.BlueprintAnyStuff>건설 도구를 오른클릭해 건설한 재질을 선택합니다. (사용이 안되는 경우에도 해당됩니다.)</TD.BlueprintAnyStuff>
   <TD.SarcophagusPreferred>무덤 보다 석관을 더 선호</TD.SarcophagusPreferred>
   <TD.SmoothSelectedStone>선택한 바위에 연마하기 버튼</TD.SmoothSelectedStone>
-  <TD.SettingTradeClose>거래 똔느 협상 대화상자를 닫은 후 속도 설정</TD.SettingTradeClose>
+  <TD.SettingTradeClose>거래 또는 협상 대화상자를 닫은 후 속도 설정</TD.SettingTradeClose>
   <TD.SettingPawnTableClickSelectDesc>다른 선택처럼 직관적으로 작동하게 됩니다. Esc 키를 눌러 탭 창을 닫습니다.\n\nShift- 클릭하여 여러 항목을 선택 / 선택 해제합니다. 더블클릭시 카메라를 가운데로 맞춥니다. 마우스 오른클릭시 단일 정착민을 선택합니다. Alt를 클릭하여 창을 닫고, 해당 정착민을 선택하여 해당 정착민에게 이동합니다.</TD.SettingPawnTableClickSelectDesc>
   <TD.SettingSkillGainArrow>스킬 경험치 획득을 나타내는 화살표 표시</TD.SettingSkillGainArrow>
   <TD.SettingSkillLossArrow>스킬 경험치 손실을 나타내는 화살표 표시</TD.SettingSkillLossArrow>
@@ -5000,11 +5000,11 @@
   <setting_storageSpaceAlert_desc>우선 운반으로 표시되어있지만, 보관할 장소가 없는 경우 경고 메시지가 표시됩니다.</setting_storageSpaceAlert_desc>
 
   <!--764375772_181016_Call of Cthulhu - Factions-->
-  <AgencyDiscoveredCult>컬트 발견됨</AgencyDiscoveredCult>
-  <AgencyDiscoveredCultDesc>{0}(을)를 방문하는 동안, {1}(은)는 {2}(을)를 발견했으며 컬트의 존재에 대해 조직에 경보를 내렸습니다. 이 비밀조직은 이제 적대로 돌아섭니다.</AgencyDiscoveredCultDesc>
+  <AgencyDiscoveredCult>종교 발견됨</AgencyDiscoveredCult>
+  <AgencyDiscoveredCultDesc>{0}(을)를 방문하는 동안, {1}(은)는 {2}(을)를 발견했으며 숭배의 존재에 대해 조직에 경보를 내렸습니다. 이 비밀조직은 이제 적대로 돌아섭니다.</AgencyDiscoveredCultDesc>
 
   <!--765890823_181117_Call of Cthulhu - Cosmic Horrors-->
-  <CriesFromBelow>{0}(은)는 {1} 구덩이로 아래로 들어간 인간의 외침을 들을 수 있습니다.</CriesFromBelow>
+  <CriesFromBelow>{0}(은)는 구덩이 아래로 들어간 인간의 외침을 들을 수 있었습니다.</CriesFromBelow>
   <ROM_TradedSanityLossForMadnessFailed>{0}(은)는 상태 이상에 실패했습니다. 다시 시도할까요?</ROM_TradedSanityLossForMadnessFailed>
   <ROM_TradedSanityLossForMadness>{0}(은)는 상태 이상으로 쓰러졌지만, 정신이 회복되었습니다.</ROM_TradedSanityLossForMadness>
   <CommandFillHoleDesc>무작위 정착민이 구멍을 채우려 합니다.</CommandFillHoleDesc>
@@ -6390,60 +6390,6 @@
   <SettingsMMIntervalLabel>업데이트 빈도 (간격)</SettingsMMIntervalLabel>
   <SettingsMMBarLabel>시각적 메모리 사용률</SettingsMMBarLabel>
 
-  <!--972057888_190814_Prison Labor-->
-  <PrisonLabor_DifficultyJoke>농담</PrisonLabor_DifficultyJoke>
-  <PrisonLabor_RestartInfo2>이 단계를 수행 한 후에 이 모드를 안전하게 비활성화 할 수 있습니다.</PrisonLabor_RestartInfo2>
-  <PrisonLabor_AllowAll>모두 허용</PrisonLabor_AllowAll>
-  <PrisonLabor_AllowAllWorkTypes>모든 작업 유형 허용</PrisonLabor_AllowAllWorkTypes>
-  <PrisonLabor_AllowedWorkTypes>허용 된 작업 유형 :</PrisonLabor_AllowedWorkTypes>
-  <PrisonLabor_AllowedWorkTypesL>허용 된 작업 유형 :</PrisonLabor_AllowedWorkTypesL>
-  <PrisonLabor_Browse>검색</PrisonLabor_Browse>
-  <PrisonLabor_DifficultyCasual>캐쥬얼</PrisonLabor_DifficultyCasual>
-  <PrisonLabor_ClearLaborArea>수감자 노동 구역 삭제</PrisonLabor_ClearLaborArea>
-  <PrisonLabor_ColonistsOnlyShort>정착민 전용</PrisonLabor_ColonistsOnlyShort>
-  <PrisonLabor_ColonistsOnly>정착민 전용</PrisonLabor_ColonistsOnly>
-  <PrisonLabor_ColonyOnly>정착지 전용</PrisonLabor_ColonyOnly>
-  <PrisonLabor_DefaultInterMode>기본 수감자 상호 작용 모드</PrisonLabor_DefaultInterMode>
-  <PrisonLabor_Defaults>기본</PrisonLabor_Defaults>
-  <PrisonLabor_Difficulty>난이도:</PrisonLabor_Difficulty>
-  <PrisonLabor_DisableMod>모드 해제</PrisonLabor_DisableMod>
-  <PrisonLabor_DontShowAgain>다시 표시 안 함</PrisonLabor_DontShowAgain>
-  <PrisonLabor_DifficultyEasy>쉬움</PrisonLabor_DifficultyEasy>
-  <PrisonLabor_EnableRevolts>반란 허용</PrisonLabor_EnableRevolts>
-  <PrisonLabor_ColonyOnlyShort>모두 허용</PrisonLabor_ColonyOnlyShort>
-  <PrisonLabor_ExpandLaborArea>수감자 노동 구역 확장</PrisonLabor_ExpandLaborArea>
-  <PrisonLabor_PrisonerWork>강제 노역</PrisonLabor_PrisonerWork>
-  <PrisonLabor_MotivationIcons>영감/동기 부여 아이콘</PrisonLabor_MotivationIcons>
-  <PrisonLabor_LaborAreaDesc>수감자 노동 구역은 수감자들만 일할 수 있는 구역입니다. 교도관이 오는 것을 제외하고는 이곳에서 정착민들이 일을 하지 않습니다.</PrisonLabor_LaborAreaDesc>
-  <PrisonLabor_LaborAreaWarning>수감자들이 일을 하게 만드는 데는 수감자 노동 구역이 필요하지 않습니다.\n\n이 지역은 정착민들이 일하는 것을 금지합니다.\n\n정칙민들이 특정 지역에서 일하지 않는 상황에 수감자 노동 구역을 설정하십시오. 수감자들은 접근가능한 모든 곳에서 일할 것입니다.</PrisonLabor_LaborAreaWarning>
-  <PrisonLabor_MotivationMechanics>동기 부여 역학 (!)</PrisonLabor_MotivationMechanics>
-  <PrisonLabor_DifficultyNormal>일반</PrisonLabor_DifficultyNormal>
-  <PrisonLabor_DifficultyPeaceful>평화로움</PrisonLabor_DifficultyPeaceful>
-  <PrisonLabor_LaborArea>수감자 노동 구역</PrisonLabor_LaborArea>
-  <PrisonLabor_PrisonersOnlyShort>수감자 전용</PrisonLabor_PrisonersOnlyShort>
-  <PrisonLabor_LazyPrisonerExplanationDef>수감자들이 게으릅니다. 그들에게 동기를 부여하십시오.</PrisonLabor_LazyPrisonerExplanationDef>
-  <PrisonLabor_StarvingPrisonerAlert>수감자들이 굶주리고 있습니다.</PrisonLabor_StarvingPrisonerAlert>
-  <PrisonLabor_StarvingPrisonerExplanationDef>수감자들이 굶주정착민으로 인해 일하지 않습니다.</PrisonLabor_StarvingPrisonerExplanationDef>
-  <PrisonLabor_LazyPrisonerAlert>수감자들이 일하지 않습니다.</PrisonLabor_LazyPrisonerAlert>
-  <PrisonLabor_CanGrowAdvanced>수감자들은 진보된 식물들을 재배 할 수 있습니다.</PrisonLabor_CanGrowAdvanced>
-  <PrisonLabor_PrisonersOnly>수감자 전용</PrisonLabor_PrisonersOnly>
-  <PrisonLabor_RestartInfo>다시 시작한 다음 게임을 다시 저장하십시오.</PrisonLabor_RestartInfo>
-  <PrisonLabor_ShowNews>소식 보기</PrisonLabor_ShowNews>
-  <PrisonLabor_ShowNewsDesc>수감자가 감지되었을 때 변경 사항에 대한 뉴스를 표시합니다.</PrisonLabor_ShowNewsDesc>
-  <PrisonLabor_StoppingWorkThreshold>근무 한계점으로 중지합니다.</PrisonLabor_StoppingWorkThreshold>
-  <PrisonLabor_LazyPrisonerExplanation>저 수감자는 게으릅니다.:\n\n{0}\n그에게 동기를 부여해주십시오.</PrisonLabor_LazyPrisonerExplanation>
-  <PrisonLabor_StarvingPrisonerExplanation>저 수감자는 굶주정착민으로 인해 일하지 않고 있습니다.:\n\n{0}</PrisonLabor_StarvingPrisonerExplanation>
-  <PrisonLabor_Version>버전:</PrisonLabor_Version>
-  <PrisonLabor_WardenResponseThreshold>교도관이 발단에 응답합니다.</PrisonLabor_WardenResponseThreshold>
-  <PrisonLabor_MotivationWarning>수감자들을 확인할 때 동기 부여가 필요합니다.\n\n주의 : 다시 로드해야 합니다.</PrisonLabor_MotivationWarning>
-  <PrisonLabor_CanGrowAdvancedDesc>무능한 수감자들은 기술을 필요로 하지 않는 식물을 키울 수 있습니다.</PrisonLabor_CanGrowAdvancedDesc>
-  <PrisonLabor_MotivationIconsDesc>활성화 된 아이콘은 수감자의 머리 위에 표시됩니다. 영감을 주는 파란색 아이콘, 동기 부여를 위한 녹색 아이콘</PrisonLabor_MotivationIconsDesc>
-  <PrisonLabor_EnableRevoltsDesc>바닐라에서 일어나는 사건들 대신 때때로 반란이 일어납니다.</PrisonLabor_EnableRevoltsDesc>
-  <PrisonLabor_DisableModDesc>이 기능을 사용하면 "안전 모드"로 전환 되고 모드 없이 플레이 할 수 있습니다.</PrisonLabor_DisableModDesc>
-  <PrisonLabor_WorkAndRecruit>노역 및 포섭</PrisonLabor_WorkAndRecruit>
-  <PrisonLabor_WorkTypeDisabled>불구가 되어 일할 수 없는 수감자들</PrisonLabor_WorkTypeDisabled>
-  <PrisonLabor_LazyPrisonerMessage>수감자가 일을 멈췄습니다!</PrisonLabor_LazyPrisonerMessage>
-
   <!--973091113_190622_Centralized Climate Control-->
   <CentralizedClimateControl.AirType>공기 운반: {0}</CentralizedClimateControl.AirType>
   <CentralizedClimateControl.AirFlowOutput>공기 순환: {0} cc/s</CentralizedClimateControl.AirFlowOutput>
@@ -6580,7 +6526,7 @@
   <LordReportHangingOut>누군가와 어울리는 중.</LordReportHangingOut>
   <LordReportDate>데이트 중.</LordReportDate>
   <LordReportAttendingFuneral>장례식 참석 중.</LordReportAttendingFuneral>
-  <ConversationStage>대화</ConversationStage>
+  <ConversationStage></ConversationStage>
   <ConversationEnd>[INITIATOR_nameDef](와)과 [RECIPIENT_nameDef]의 대화가 끝났습니다.</ConversationEnd>
   <ConversationEnded>대화 종료</ConversationEnded>
   <Complained>{0_labelShort}(은)는 지도자 {1_labelShort}에게 불만을 제기했습니다.</Complained>

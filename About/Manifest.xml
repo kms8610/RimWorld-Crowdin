@@ -2,6 +2,10 @@
 <Manifest>
 
   <identifier>RKTM</identifier>
-  <version>19.10.20</version>
+  <version>19.10.31</version>
+  <loadAfter>
+    <li>Core</li>
+    <li>RimWaldo</li>
+  </loadAfter>
 
 </Manifest>

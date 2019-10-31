@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Wall Sun Lamp -->
+  <WSLWallSunLamp.label>벽면 태양등</WSLWallSunLamp.label>
+  <WSLWallSunLamp.description>벽면에 설치할 수 있는 태양등입니다. 작물이 성장할 수 있도록 인공적인 태양광을 발산합니다.</WSLWallSunLamp.description>
+  <WSLWallSunLamp_Blueprint.label>벽면 태양등 (청사진)</WSLWallSunLamp_Blueprint.label>
+  <WSLWallSunLamp_Blueprint_Install.label>벽면 태양등 (청사진)</WSLWallSunLamp_Blueprint_Install.label>
+  <WSLWallSunLamp_Frame.label>벽면 태양등 (건설 중)</WSLWallSunLamp_Frame.label>
+  <WSLWallSunLamp_Frame.description>벽면에 설치할 수 있는 태양등입니다. 작물이 성장할 수 있도록 인공적인 태양광을 발산합니다.</WSLWallSunLamp_Frame.description>
+
+  <WSLWallBrightLamp.label>벽면 밝은 조명</WSLWallBrightLamp.label>
+  <WSLWallBrightLamp.description>먼 거리까지 보통의 빛을 발산하는 밝은 벽걸이형 조명입니다.</WSLWallBrightLamp.description>
+  <WSLWallBrightLamp_Blueprint.label>벽면 밝은 조명 (청사진)</WSLWallBrightLamp_Blueprint.label>
+  <WSLWallBrightLamp_Blueprint_Install.label>벽면 밝은 조명 (청사진)</WSLWallBrightLamp_Blueprint_Install.label>
+  <WSLWallBrightLamp_Frame.label>벽면 밝은 조명 (건설 중)</WSLWallBrightLamp_Frame.label>
+  <WSLWallBrightLamp_Frame.description>먼 거리까지 보통의 빛을 발산하는 밝은 벽걸이형 조명입니다.</WSLWallBrightLamp_Frame.description>
+
+</LanguageData>

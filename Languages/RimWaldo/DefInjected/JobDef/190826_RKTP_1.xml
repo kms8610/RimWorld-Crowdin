@@ -394,13 +394,6 @@
   <ROMA_SpinPrey.reportString>TargetA 사냥하는 중.</ROMA_SpinPrey.reportString>
   <ROMA_SpinWeb.reportString>거미줄 치는 중.</ROMA_SpinWeb.reportString>
 
-  <!--972057888_190814_Prison Labor-->
-  <PrisonLabor_CutPlant_Tweak.reportString>수감자 TargetA 벌목하는 중</PrisonLabor_CutPlant_Tweak.reportString>
-  <PrisonLabor_Mine_Tweak.reportString>수감자 TargetA 땅 파는 중.</PrisonLabor_Mine_Tweak.reportString>
-  <PrisonLabor_DeliverFood_Tweak.reportString>수감자 TargetA에게 TargetB 먹이는 중.</PrisonLabor_DeliverFood_Tweak.reportString>
-  <PrisonLabor_Harvest_Tweak.reportString>수감자 TargetA 재배하는 중.</PrisonLabor_Harvest_Tweak.reportString>
-  <PrisonLabor_PrisonerSupervise.reportString>수감자 TargetA 감시하는 중.</PrisonLabor_PrisonerSupervise.reportString>
-
   <!--1552507180_190814_Psychology-->
   <Abuse.reportString>TargetA에게 욕을 함.</Abuse.reportString>
   <MakeAdvance.reportString>TargetA에게 추파를 던짐.</MakeAdvance.reportString>
