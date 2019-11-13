@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Nyaron_Colonist.label>냐론 개척민</Nyaron_Colonist.label>
+  <Nyaron_Colonist.labelPlural>냐론 개척민들</Nyaron_Colonist.labelPlural>
+
+  <Nyaron_Leader.label>냐론 우두머리</Nyaron_Leader.label>
+  <Nyaron_Leader.labelPlural>냐론 우두머리들</Nyaron_Leader.labelPlural>
+
+  <Nyaron_Trader.label>냐론 행상인</Nyaron_Trader.label>
+  <Nyaron_Trader.labelPlural>냐론 행상인들</Nyaron_Trader.labelPlural>
+
+  <NyaronSlave.label>냐론 노예</NyaronSlave.label>
+  <NyaronSlave.labelPlural>냐론 노예들</NyaronSlave.labelPlural>
+
+  <NyaronRefugee.label>냐론 피난민</NyaronRefugee.label>
+  <NyaronRefugee.labelPlural>냐론 피난민들</NyaronRefugee.labelPlural>
+
+  <Nyaron_Soldier.label>냐론 병사</Nyaron_Soldier.label>
+  <Nyaron_Soldier.labelPlural>냐론 병사들</Nyaron_Soldier.labelPlural>
+
+  <Nyaron_Soldier_Elite.label>엘리트 냐론 병사</Nyaron_Soldier_Elite.label>
+  <Nyaron_Soldier_Elite.labelPlural>엘리트 냐론 병사들</Nyaron_Soldier_Elite.labelPlural>
+
+  <NyaronPlayerColonist.label>냐론 정착민</NyaronPlayerColonist.label>
+  <NyaronPlayerColonist.labelPlural>냐론 정착민들</NyaronPlayerColonist.labelPlural>
+
+  <NyaronPlayerTribal.label>냐론 정착민</NyaronPlayerTribal.label>
+  <NyaronPlayerTribal.labelPlural>냐론 정착민들</NyaronPlayerTribal.labelPlural>
+
+</LanguageData>

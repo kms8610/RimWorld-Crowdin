@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <NyaronStart.label>산산조각난 상선</NyaronStart.label>
+  <NyaronStart.description>사고가 난 상선에 실려 있던 것은 수많은 원자재와 약품, 무기 그리고 상품으로써 가치가 있는 여러 생명체들입니다.</NyaronStart.description>
+  <NyaronStart.scenario.name>산산조각난 상선</NyaronStart.scenario.name>
+  <NyaronStart.scenario.summary>원자로에 심각한 손상. 분리 프로토콜 이행.</NyaronStart.scenario.summary>
+  <NyaronStart.scenario.description>사고가 난 상선에 실려 있던 것은 수많은 원자재와 약품, 무기 그리고 상품으로써 가치가 있는 여러 생명체들입니다.</NyaronStart.scenario.description>
+  <NyaronStart.scenario.parts.9.text>잠시 후, 선실이 폭발하면서 격벽구조로 되어있는 선실이 분리되어 주변행성에 흩뿌려 졌습니다. 운좋게도 4체의 '생명체'가 동면포드에 탑승한 채로 행성표면에 안착 합니다.</NyaronStart.scenario.parts.9.text>
+
+</LanguageData>

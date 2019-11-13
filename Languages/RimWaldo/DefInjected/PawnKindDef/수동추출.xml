@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Project Fallout - 725471844 -->
+  <PFBrahmin.labelMale>브라민</PFBrahmin.labelMale>
+  <PFBrahmin.labelMalePlural>브라민</PFBrahmin.labelMalePlural>
+  <PFBrahmin.labelFemale>브라민</PFBrahmin.labelFemale>
+  <PFBrahmin.labelFemalePlural>브라민</PFBrahmin.labelFemalePlural>
+
+  <!-- Vanilla Animals Expanded — Livestock - 1700683323 -->
+  <AEXP_Duck.labelMale>오리</AEXP_Duck.labelMale>
+  <AEXP_Duck.labelMalePlural>오리</AEXP_Duck.labelMalePlural>
+  <AEXP_Duck.labelFemale>오리</AEXP_Duck.labelFemale>
+  <AEXP_Duck.labelFemalePlural>오리</AEXP_Duck.labelFemalePlural>
+  <AEXP_Yak.lifeStages.0.label>새끼 야크</AEXP_Yak.lifeStages.0.label>
+  <AEXP_Yak.lifeStages.0.labelPlural>새끼 야크</AEXP_Yak.lifeStages.0.labelPlural>
+  <AEXP_Yak.labelMale>야크</AEXP_Yak.labelMale>
+  <AEXP_Yak.labelMalePlural>야크</AEXP_Yak.labelMalePlural>
+  <AEXP_Yak.labelFemale>야크</AEXP_Yak.labelFemale>
+  <AEXP_Yak.labelFemalePlural>야크</AEXP_Yak.labelFemalePlural>
+  <AEXP_Sheep.labelMale>양</AEXP_Sheep.labelMale>
+  <AEXP_Sheep.labelMalePlural>양</AEXP_Sheep.labelMalePlural>
+  <AEXP_Sheep.labelFemale>양</AEXP_Sheep.labelFemale>
+  <AEXP_Sheep.labelFemalePlural>양</AEXP_Sheep.labelFemalePlural>
+  <AEXP_Horse.labelMale>말</AEXP_Horse.labelMale>
+  <AEXP_Horse.labelMalePlural>말</AEXP_Horse.labelMalePlural>
+  <AEXP_Horse.labelFemale>말</AEXP_Horse.labelFemale>
+  <AEXP_Horse.labelFemalePlural>말</AEXP_Horse.labelFemalePlural>
+
+</LanguageData>

@@ -375,9 +375,6 @@
   <EquipSecondary.reportString>TargetA 휴대무기로 착용 중.</EquipSecondary.reportString>
   <EquipSecondaryCombat.reportString>TargetA 휴대무기로 착용 중.</EquipSecondaryCombat.reportString>
 
-  <!--928376710_190628_Zombieland-->
-  <Stumble.reportString>비틀거리는 중.</Stumble.reportString>
-
   <!--928992405_190519_1.0_Starship_Troopers_Arachnids-->
   <ArachnidDeconstruct.reportString>해체 종.</ArachnidDeconstruct.reportString>
   <WaitCombatBuilding.reportString>목표 지켜보는 중.</WaitCombatBuilding.reportString>

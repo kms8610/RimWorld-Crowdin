@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Nr_CatHoodie.label>고양이 후드티</Nr_CatHoodie.label>
+  <Nr_CatHoodie.description>귀여운 고양이귀 후드가 달린 외투입니다.</Nr_CatHoodie.description>
+  <Nr_PowerArmor.label>냐론 파워아머(임시)</Nr_PowerArmor.label>
+  <Nr_PowerArmor.description>기동성을 중시하는 타입의 아머입니다. 전광석화와 같은 움직임으로 대부분의 공격을 회피할 수 있습니다.</Nr_PowerArmor.description>
+  <Filth_Blood_Nyaron.label>피</Filth_Blood_Nyaron.label>
+  <Filth_Hairball_Nyaron.label>털뭉치</Filth_Hairball_Nyaron.label>
+  <Leather_Nyaron.label>냐론 가죽</Leather_Nyaron.label>
+  <Leather_Nyaron.description>사람 가죽과 거의 동일한 냐론의 피부입니다.</Leather_Nyaron.description>
+  <Leather_Nyaron.stuffProps.stuffAdjective>냐론 가죽</Leather_Nyaron.stuffProps.stuffAdjective>
+  <Nr_Clawbar.label>냐냥발</Nr_Clawbar.label>
+  <Nr_Clawbar.description>적을 산산조각 내는 날카롭고 육중한 고양이발 모양의 무기입니다.</Nr_Clawbar.description>
+  <Nr_Clawbar.tools.0.label>손잡이</Nr_Clawbar.tools.0.label>
+  <Nr_Clawbar.tools.1.label>고양이발</Nr_Clawbar.tools.1.label>
+  <Nr_Clawbar.tools.2.label>발톱</Nr_Clawbar.tools.2.label>
+  <Nr_CriPistol.label>크리바이트 권총</Nr_CriPistol.label>
+  <Nr_CriPistol.description>고속의 에너지탄으로 적을 찢는 무기입니다. 근거리에서 효과적입니다.</Nr_CriPistol.description>
+  <Nr_CriPistol.tools.0.label>손잡이</Nr_CriPistol.tools.0.label>
+  <Nr_CriPistol.tools.1.label>총신</Nr_CriPistol.tools.1.label>
+  <NR_EnergyBall.label>에너지탄</NR_EnergyBall.label>
+  <Nr_Karambit.label>카람빗</Nr_Karambit.label>
+  <Nr_Karambit.description>발톱모양의 나이프입니다. 재빠르게 적을 베어버립니다.</Nr_Karambit.description>
+  <Nr_Karambit.tools.0.label>손잡이</Nr_Karambit.tools.0.label>
+  <Nr_Karambit.tools.1.label>칼날</Nr_Karambit.tools.1.label>
+  <Nr_Karambit.tools.2.label>칼끝</Nr_Karambit.tools.2.label>
+  <Nr_NpcRifle.label>N.P.C 라이플</Nr_NpcRifle.label>
+  <Nr_NpcRifle.description>대인 제압용으로 만들어진 번화계 소총입니다. 메카노이드랑 곤충에겐 효율적이지 않습니다.</Nr_NpcRifle.description>
+  <Nr_NpcRifle.tools.0.label>개머리판</Nr_NpcRifle.tools.0.label>
+  <Nr_NpcRifle.tools.1.label>총신</Nr_NpcRifle.tools.1.label>
+  <NR_LasBullet.label>NRLaser</NR_LasBullet.label>
+
+</LanguageData>

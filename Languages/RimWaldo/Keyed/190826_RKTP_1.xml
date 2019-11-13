@@ -1286,9 +1286,6 @@
   <RWAutoSell.DescTreatDefSeperate>이를 체크하면 각각의 다른 타입의 아이템이 각각 개별의 카운트에서 처리되지만 체크되어 있지 않으면 모든 필터링 된 아이템이 1개의 큰 공유 카운팅에 결합됩니다.</RWAutoSell.DescTreatDefSeperate>
   <RWAutoSell.FilterWorkTag>작업 가능</RWAutoSell.FilterWorkTag>
 
-  <!--1446523594_190811_Dubs Mint Menus-->
-  <BillSearchTip>검색 가능한 단어:\n\nball 라벨 또는 제품 라벨의 단어(예: 은행\n\nStuff catagory)(예: 가죽\n\n\n신체 부위 그룹(예: 산업용\n\n\nLayers, 오버헤드)</BillSearchTip>
-
   <!--1447372624_190816_Nano Repair Tech-->
   <NanoTech.ModName>나노 수리 기술</NanoTech.ModName>
   <NanoTech.ModName.Short>나노기술</NanoTech.ModName.Short>
@@ -2284,249 +2281,6 @@
   <CommandSetTargetingMode>{0} 조준</CommandSetTargetingMode>
   <CommandSetTargetingModeDesc>폰이 조준할 부위를 결정합니다.</CommandSetTargetingModeDesc>
 
-  <!--1508850027_181112_RimHud-->
-  <RimHUD.Model.Age.Birthday>(생일)</RimHUD.Model.Age.Birthday>
-  <RimHUD.Model.Health.IsTended>(정신잃음)</RimHUD.Model.Health.IsTended>
-  <RimHUD.Model.Component.Need>{0} 막대</RimHUD.Model.Component.Need>
-  <RimHUD.Model.Health.Tend>{0}군데의 치료가 필요함</RimHUD.Model.Health.Tend>
-  <RimHUD.Model.Health.TendPlural>{0}군데의 치료가 필요함</RimHUD.Model.Health.TendPlural>
-  <RimHUD.Model.Component.Skill>{0} 기술</RimHUD.Model.Component.Skill>
-  <RimHUD.Model.GenderAndAge>{0}{1}, 나이 {2}</RimHUD.Model.GenderAndAge>
-  <RimHUD.Model.RelationKindAndFaction>{2} {0}{1}</RimHUD.Model.RelationKindAndFaction>
-  <RimHUD.Integration.Bubbles.Activated>활성화됨</RimHUD.Integration.Bubbles.Activated>
-  <RimHUD.Model.Component.Activity>활동</RimHUD.Model.Component.Activity>
-  <RimHUD.Model.Info.Activity>활동: {0}</RimHUD.Model.Info.Activity>
-  <RimHUD.Dialog_Config.Tab.Content.AddContainer>컨테이너 추가</RimHUD.Dialog_Config.Tab.Content.AddContainer>
-  <RimHUD.Dialog_Config.Tab.Content.AddNeed>사용자 지정 필요 추가</RimHUD.Dialog_Config.Tab.Content.AddNeed>
-  <RimHUD.Dialog_Config.Tab.Content.AddSkill>사용자 지정 기술 추가</RimHUD.Dialog_Config.Tab.Content.AddSkill>
-  <RimHUD.Dialog_Config.Tab.Content.AddElement>요소 추가</RimHUD.Dialog_Config.Tab.Content.AddElement>
-  <RimHUD.Model.Health.Affected>{0}의 영향</RimHUD.Model.Health.Affected>
-  <RimHUD.Model.Health.AffectedPlural>{0} 및 {1} 기타 조건의 영향</RimHUD.Model.Health.AffectedPlural>
-  <RimHUD.Model.Faction.Allied>동맹</RimHUD.Model.Faction.Allied>
-  <RimHUD.Theme.FactionAlliedColor>동맹</RimHUD.Theme.FactionAlliedColor>
-  <RimHUD.Dialog_Config.Tab.Colors.Alpha>알파 값</RimHUD.Dialog_Config.Tab.Colors.Alpha>
-  <RimHUD.Theme.HudAnchor>고정</RimHUD.Theme.HudAnchor>
-  <RimHUD.Model.Age.Days>년 {0}일</RimHUD.Model.Age.Days>
-  <RimHUD.Model.Age.Day>년</RimHUD.Model.Age.Day>
-  <RimHUD.Model.Component.SkillAnimals>조련 기술</RimHUD.Model.Component.SkillAnimals>
-  <RimHUD.Alert.SetToDefault>설정을 기본값으로 되돌리시겠습니까?</RimHUD.Alert.SetToDefault>
-  <RimHUD.Model.Component.Area>구역 선택기</RimHUD.Model.Component.Area>
-  <RimHUD.Model.Selector.AreaFormat>구역: {0}</RimHUD.Model.Selector.AreaFormat>
-  <RimHUD.Model.Component.SkillArtistic>예술 기술</RimHUD.Model.Component.SkillArtistic>
-  <RimHUD.Model.Info.Attacking>{0} 공격</RimHUD.Model.Info.Attacking>
-  <RimHUD.Integration.Bubbles.BackColor>배경 색</RimHUD.Integration.Bubbles.BackColor>
-  <RimHUD.Theme.BarBackgroundColor>배경 막대</RimHUD.Theme.BarBackgroundColor>
-  <RimHUD.Theme.BarLowColor>낮은 막대</RimHUD.Theme.BarLowColor>
-  <RimHUD.Theme.BarMainColor>메인 막대</RimHUD.Theme.BarMainColor>
-  <RimHUD.Theme.BarThresholdColor>임계값 막대</RimHUD.Theme.BarThresholdColor>
-  <RimHUD.Model.Component.Blank>공백</RimHUD.Model.Component.Blank>
-  <RimHUD.Model.Health.Bleed>출혈 중 {0} 후 사망</RimHUD.Model.Health.Bleed>
-  <RimHUD.Integration.Bubbles.Colors>Bubble 색</RimHUD.Integration.Bubbles.Colors>
-  <RimHUD.Button.Cancel>취소</RimHUD.Button.Cancel>
-  <RimHUD.Model.Component.Carrying>운반</RimHUD.Model.Component.Carrying>
-  <RimHUD.Model.Info.Carrying>휴대: {0}</RimHUD.Model.Info.Carrying>
-  <RimHUD.InspectPane.MedicalCare>해당 림의 의료 서비스 수준 변경 {0}.\n\n현황: {1}</RimHUD.InspectPane.MedicalCare>
-  <RimHUD.Theme.LetterPaddingDesc>화면 오른쪽에 나타나는 문자 알림 사이의 거리를 변경합니다. 바닐라 : 12</RimHUD.Theme.LetterPaddingDesc>
-  <RimHUD.Dialog_Config.Tab.Content.Mode>모드 선택</RimHUD.Dialog_Config.Tab.Content.Mode>
-  <RimHUD.Dialog_Config.Tab.Content.Preset>사전설정 선택</RimHUD.Dialog_Config.Tab.Content.Preset>
-  <RimHUD.Button.Close>닫기</RimHUD.Button.Close>
-  <RimHUD.Dialog_Config.Tab.Colors>색상</RimHUD.Dialog_Config.Tab.Colors>
-  <RimHUD.Dialog_Config.Tab.Content.Components>부품</RimHUD.Dialog_Config.Tab.Content.Components>
-  <RimHUD.Theme.LetterCompress>알림 압축</RimHUD.Theme.LetterCompress>
-  <RimHUD.Dialog_Config.OpenFolder>구성 폴더</RimHUD.Dialog_Config.OpenFolder>
-  <RimHUD.Model.Component.SkillConstruction>건설 기술</RimHUD.Model.Component.SkillConstruction>
-  <RimHUD.Dialog_Config.Tab.Content>내용물</RimHUD.Dialog_Config.Tab.Content>
-  <RimHUD.Model.Component.SkillCooking>조리 기술</RimHUD.Model.Component.SkillCooking>
-  <RimHUD.Model.Component.SkillCrafting>제작 기술</RimHUD.Model.Component.SkillCrafting>
-  <RimHUD.Model.Creature.Wild>동물</RimHUD.Model.Creature.Wild>
-  <RimHUD.Theme.CriticalColor>중요 문자열</RimHUD.Theme.CriticalColor>
-  <RimHUD.Model.Health.Dead>죽음</RimHUD.Model.Health.Dead>
-  <RimHUD.Dialog_Config.Tab.Content.Preset.Default>기본값</RimHUD.Dialog_Config.Tab.Content.Preset.Default>
-  <RimHUD.Theme.TextStyleSmall>설명 텍스트</RimHUD.Theme.TextStyleSmall>
-  <RimHUD.Dialog_Config.Tab.Design>디자인</RimHUD.Dialog_Config.Tab.Design>
-  <RimHUD.Model.Bio.Diet>식사: {0}</RimHUD.Model.Bio.Diet>
-  <RimHUD.Theme.DisabledColor>사용안함 문자열</RimHUD.Theme.DisabledColor>
-  <RimHUD.Integration.PawnRules.HideGizmoDesc>소집 옆에 있는 규칙 버튼을 사용 안함\n(RimHUD 점검 창에 규칙 버튼을 추가할 수 있음)</RimHUD.Integration.PawnRules.HideGizmoDesc>
-  <RimHUD.Theme.HudDocked>검사 창에 도킹</RimHUD.Theme.HudDocked>
-  <RimHUD.Dialog_Config.Tab.Content.Mode.Docked>Docked</RimHUD.Dialog_Config.Tab.Content.Mode.Docked>
-  <RimHUD.Integration.Bubbles.OffsetDirections>아래|왼쪽|위|오른쪽</RimHUD.Integration.Bubbles.OffsetDirections>
-  <RimHUD.Dialog_Config.Tab.Colors.Editor>{0}의 색상 편집</RimHUD.Dialog_Config.Tab.Colors.Editor>
-  <RimHUD.Model.Faction.Enemy>적군, </RimHUD.Model.Faction.Enemy>
-  <RimHUD.Model.Component.Equipped>장비</RimHUD.Model.Component.Equipped>
-  <RimHUD.Model.Info.Equipped>장비: {0}</RimHUD.Model.Info.Equipped>
-  <RimHUD.Theme.ExcellentColor>매우좋음 문자열</RimHUD.Theme.ExcellentColor>
-  <RimHUD.Model.Creature.ExoticPet>이국적인 애완동물</RimHUD.Model.Creature.ExoticPet>
-  <RimHUD.Model.Component.CompInfo>추가 정보</RimHUD.Model.Component.CompInfo>
-  <RimHUD.Theme.FactionColors>세력 색상</RimHUD.Theme.FactionColors>
-  <RimHUD.Model.Bio.Faction>세력: {0}</RimHUD.Model.Bio.Faction>
-  <RimHUD.Model.Creature.Farm>경작용 동물</RimHUD.Model.Creature.Farm>
-  <RimHUD.Model.Mood.Content>만족감</RimHUD.Model.Mood.Content>
-  <RimHUD.Model.Mood.ExtremeBreakImminent>우울함</RimHUD.Model.Mood.ExtremeBreakImminent>
-  <RimHUD.Model.Mood.Happy>행복함</RimHUD.Model.Mood.Happy>
-  <RimHUD.Model.Mood.Indifferent>무관심</RimHUD.Model.Mood.Indifferent>
-  <RimHUD.Model.Mood.MinorBreakImminent>스트레스받음</RimHUD.Model.Mood.MinorBreakImminent>
-  <RimHUD.Model.Mood.MajorBreakImminent>불행함</RimHUD.Model.Mood.MajorBreakImminent>
-  <RimHUD.Model.Component.Container.Filled>가득 찬 높이</RimHUD.Model.Component.Container.Filled>
-  <RimHUD.Theme.InspectPaneAddLogDesc>점검 창에 선택한 캐릭터에 대한 로그를 채웁니다. 도킹되지 않은 모드에서만 사용할 수 있습니다.</RimHUD.Theme.InspectPaneAddLogDesc>
-  <RimHUD.Dialog_Config.Tab.Content.Mode.Floating>Floating</RimHUD.Dialog_Config.Tab.Content.Mode.Floating>
-  <RimHUD.Integration.Bubbles.FontSize>글자 크기</RimHUD.Integration.Bubbles.FontSize>
-  <RimHUD.Model.Component.NeedFood>허기 막대</RimHUD.Model.Component.NeedFood>
-  <RimHUD.Model.Component.Food>식사 선택기</RimHUD.Model.Component.Food>
-  <RimHUD.Model.Selector.FoodFormat>식량: {0}</RimHUD.Model.Selector.FoodFormat>
-  <RimHUD.Model.Component.GenderAndAge>성별과 나이</RimHUD.Model.Component.GenderAndAge>
-  <RimHUD.Integration.General>일반 세팅</RimHUD.Integration.General>
-  <RimHUD.Theme.GoodColor>좋음 문자열</RimHUD.Theme.GoodColor>
-  <RimHUD.Model.Health.ThreatPlural>{0}</RimHUD.Model.Health.ThreatPlural>
-  <RimHUD.Model.Health.Threat>{0}</RimHUD.Model.Health.Threat>
-  <RimHUD.Model.Component.TrainingHaul>운반 훈련</RimHUD.Model.Component.TrainingHaul>
-  <RimHUD.Theme.TextStyleLarge>헤더 텍스트</RimHUD.Theme.TextStyleLarge>
-  <RimHUD.Model.Component.Health>건강 막대</RimHUD.Model.Component.Health>
-  <RimHUD.Model.Component.HealthCondition>건강상태</RimHUD.Model.Component.HealthCondition>
-  <RimHUD.Theme.HudHeight>높이</RimHUD.Theme.HudHeight>
-  <RimHUD.TextStyle.Height>높이</RimHUD.TextStyle.Height>
-  <RimHUD.Model.Creature.Herd>목축용 동물</RimHUD.Model.Creature.Herd>
-  <RimHUD.Dialog_Config.Tab.Colors.Hex>헥스코드</RimHUD.Dialog_Config.Tab.Colors.Hex>
-  <RimHUD.Integration.PawnRules.HideGizmo>Gizmo 숨기기</RimHUD.Integration.PawnRules.HideGizmo>
-  <RimHUD.Model.Component.HStack>수평 스택</RimHUD.Model.Component.HStack>
-  <RimHUD.Model.Component.HStackFilled>수평 스택 (filled)</RimHUD.Model.Component.HStackFilled>
-  <RimHUD.Model.Faction.Hostile>적대적</RimHUD.Model.Faction.Hostile>
-  <RimHUD.Theme.FactionHostileColor>적대적인</RimHUD.Theme.FactionHostileColor>
-  <RimHUD.Theme.RefreshRateDesc>HUD의 새로 고침 간격을 결정합니다. 프레임 하락이 발생하면 이 값을 더 높게 설정하십시오.</RimHUD.Theme.RefreshRateDesc>
-  <RimHUD.Theme.HudColors>HUD 색상</RimHUD.Theme.HudColors>
-  <RimHUD.Theme.HudDimensions>HUD 크기</RimHUD.Theme.HudDimensions>
-  <RimHUD.Theme.HudPosition>HUD 위치</RimHUD.Theme.HudPosition>
-  <RimHUD.Dialog_Config.Tab.Colors.Hue>색조</RimHUD.Dialog_Config.Tab.Colors.Hue>
-  <RimHUD.Model.Creature.Hunt>사냥용 동물</RimHUD.Model.Creature.Hunt>
-  <RimHUD.Model.Health.Stable>건강 이상없음</RimHUD.Model.Health.Stable>
-  <RimHUD.Model.Health.Incapacitated>무력화</RimHUD.Model.Health.Incapacitated>
-  <RimHUD.Model.Faction.Independent>독립된</RimHUD.Model.Faction.Independent>
-  <RimHUD.Theme.FactionIndependentColor>독립된</RimHUD.Theme.FactionIndependentColor>
-  <RimHUD.Theme.InfoColor>알림 문자열</RimHUD.Theme.InfoColor>
-  <RimHUD.Model.Creature.Insect>곤충</RimHUD.Model.Creature.Insect>
-  <RimHUD.Theme.InspectPane>점검 창</RimHUD.Theme.InspectPane>
-  <RimHUD.Dialog_Config.Tab.Integration>통합</RimHUD.Dialog_Config.Tab.Integration>
-  <RimHUD.Model.Component.SkillIntellectual>연구 기술</RimHUD.Model.Component.SkillIntellectual>
-  <RimHUD.Integration.Bubbles>Interaction Bubbles</RimHUD.Integration.Bubbles>
-  <RimHUD.Theme.LabelWidth>라벨 너비</RimHUD.Theme.LabelWidth>
-  <RimHUD.Dialog_Config.Tab.Content.Layout>레이아웃</RimHUD.Dialog_Config.Tab.Content.Layout>
-  <RimHUD.Dialog_Config.Tab.Content.Preset.Loaded>{0}' 모드에 대한 레이아웃 사전 설정이 로드되었습니다.</RimHUD.Dialog_Config.Tab.Content.Preset.Loaded>
-  <RimHUD.Dialog_Config.Tab.Content.Preset.DefaultLoaded>레이아웃이 기본값으로 재설정됩니다.</RimHUD.Dialog_Config.Tab.Content.Preset.DefaultLoaded>
-  <RimHUD.Theme.LetterPadding>알림 간격</RimHUD.Theme.LetterPadding>
-  <RimHUD.Dialog_Config.Tab.Colors.Lightness>명도</RimHUD.Dialog_Config.Tab.Colors.Lightness>
-  <RimHUD.Theme.LineColor>선</RimHUD.Theme.LineColor>
-  <RimHUD.Model.Component.Separator>선 분리기</RimHUD.Model.Component.Separator>
-  <RimHUD.Integration.GetMod>모드에 연결</RimHUD.Integration.GetMod>
-  <RimHUD.Theme.MainTextColor>메인 문자열</RimHUD.Theme.MainTextColor>
-  <RimHUD.Theme.SkillMajorPassionColor>열정: 열정</RimHUD.Theme.SkillMajorPassionColor>
-  <RimHUD.Model.Selector.Manage>관리...</RimHUD.Model.Selector.Manage>
-  <RimHUD.Model.Component.Master>마스터</RimHUD.Model.Component.Master>
-  <RimHUD.Model.Bio.Master>주인: {0}</RimHUD.Model.Bio.Master>
-  <RimHUD.Integration.Bubbles.MaxPerPawn>정착민 당 최대치</RimHUD.Integration.Bubbles.MaxPerPawn>
-  <RimHUD.Integration.Bubbles.MaxWidth>최대 폭</RimHUD.Integration.Bubbles.MaxWidth>
-  <RimHUD.Model.Component.SkillMedicine>의학 기술</RimHUD.Model.Component.SkillMedicine>
-  <RimHUD.Model.Component.SkillMelee>격투 기술</RimHUD.Model.Component.SkillMelee>
-  <RimHUD.Model.Component.MindCondition>정신상태</RimHUD.Model.Component.MindCondition>
-  <RimHUD.Theme.InspectPaneMinTabs>탭 최소화</RimHUD.Theme.InspectPaneMinTabs>
-  <RimHUD.Integration.Bubbles.MinTime>최소 페이드 시간</RimHUD.Integration.Bubbles.MinTime>
-  <RimHUD.Integration.Bubbles.MinScale>최소 줌 표시</RimHUD.Integration.Bubbles.MinScale>
-  <RimHUD.Model.Component.SkillMining>채굴 기술</RimHUD.Model.Component.SkillMining>
-  <RimHUD.Theme.SkillMinorPassionColor>열정: 관심</RimHUD.Theme.SkillMinorPassionColor>
-  <RimHUD.Theme.InspectPaneModify>수정</RimHUD.Theme.InspectPaneModify>
-  <RimHUD.Model.Component.NeedMood>기분 막대</RimHUD.Model.Component.NeedMood>
-  <RimHUD.Alert.MoreComingSoon>더 많은 기능이 곧 출시될 예정입니다.™</RimHUD.Alert.MoreComingSoon>
-  <RimHUD.Integration.Bubbles.MouseOverOpacity>마우스-오버 불투명도</RimHUD.Integration.Bubbles.MouseOverOpacity>
-  <RimHUD.Theme.RefreshRateUnits>ms</RimHUD.Theme.RefreshRateUnits>
-  <RimHUD.Model.Component.NameHeader>헤더로 이름 지정</RimHUD.Model.Component.NameHeader>
-  <RimHUD.Button.No>아니오</RimHUD.Button.No>
-  <RimHUD.Model.Component.TrainingObedience>복종 훈련</RimHUD.Model.Component.TrainingObedience>
-  <RimHUD.Model.OfFaction>{0}의</RimHUD.Model.OfFaction>
-  <RimHUD.Integration.Bubbles.OffsetDirection>간격띄우기 방향</RimHUD.Integration.Bubbles.OffsetDirection>
-  <RimHUD.Integration.Bubbles.StartOffset>레이블 간격 띄우기</RimHUD.Integration.Bubbles.StartOffset>
-  <RimHUD.Button.OK>확인</RimHUD.Button.OK>
-  <RimHUD.Model.Target.OtherCreature>비플레이어 동물</RimHUD.Model.Target.OtherCreature>
-  <RimHUD.Model.Target.OtherHumanlike>비플레이어 정착민</RimHUD.Model.Target.OtherHumanlike>
-  <RimHUD.Theme.OtherOptions>기타 옵션</RimHUD.Theme.OtherOptions>
-  <RimHUD.Model.Faction.Own>아군</RimHUD.Model.Faction.Own>
-  <RimHUD.Model.Component.Outfit>장비 선택기</RimHUD.Model.Component.Outfit>
-  <RimHUD.Model.Selector.OutfitFormat>의상: {0}</RimHUD.Model.Selector.OutfitFormat>
-  <RimHUD.Theme.FactionOwnColor>아군</RimHUD.Theme.FactionOwnColor>
-  <RimHUD.Model.Creature.Pack>운반용 동물</RimHUD.Model.Creature.Pack>
-  <RimHUD.Theme.InspectPaneHeight>창 높이</RimHUD.Theme.InspectPaneHeight>
-  <RimHUD.Model.Component.Panel>패널</RimHUD.Model.Component.Panel>
-  <RimHUD.Model.Component.PanelFilled>패널 (filled)</RimHUD.Model.Component.PanelFilled>
-  <RimHUD.Integration.PawnRules>Pawn Rules</RimHUD.Integration.PawnRules>
-  <RimHUD.Model.Creature.Pet>애완동물</RimHUD.Model.Creature.Pet>
-  <RimHUD.Model.Bio.Petness>애완동물: {0}</RimHUD.Model.Bio.Petness>
-  <RimHUD.Model.Component.SkillPlants>원예 기술</RimHUD.Model.Component.SkillPlants>
-  <RimHUD.Model.Target.PlayerCreature>플레이어 동물</RimHUD.Model.Target.PlayerCreature>
-  <RimHUD.Model.Target.PlayerHumanlike>플레이어 정착민</RimHUD.Model.Target.PlayerHumanlike>
-  <RimHUD.Model.Creature.Predator>포식 동물</RimHUD.Model.Creature.Predator>
-  <RimHUD.Model.Component.Queued>대기</RimHUD.Model.Component.Queued>
-  <RimHUD.Model.Info.Queued>대기: {0}</RimHUD.Model.Info.Queued>
-  <RimHUD.Model.Component.NeedRecreation>재미 막대</RimHUD.Model.Component.NeedRecreation>
-  <RimHUD.Theme.RefreshRate>갱신 간격</RimHUD.Theme.RefreshRate>
-  <RimHUD.Theme.TextStyleRegular>일반 텍스트</RimHUD.Theme.TextStyleRegular>
-  <RimHUD.Model.Component.RelationKindAndFaction>세력 관계</RimHUD.Model.Component.RelationKindAndFaction>
-  <RimHUD.Model.Component.TrainingRelease>풀어놓기 훈련</RimHUD.Model.Component.TrainingRelease>
-  <RimHUD.Integration.PawnRules.ReplaceFoodSelector>음식 규칙 선택방법 교체</RimHUD.Integration.PawnRules.ReplaceFoodSelector>
-  <RimHUD.Theme.HudDockedDesc>점검 창을 수정해야 한다면, 아래 값을 수정하세요.</RimHUD.Theme.HudDockedDesc>
-  <RimHUD.Model.Component.TrainingRescue>구조 훈련</RimHUD.Model.Component.TrainingRescue>
-  <RimHUD.Model.Component.NeedRest>휴식 막대</RimHUD.Model.Component.NeedRest>
-  <RimHUD.Dialog_Config.Title>RimHUD</RimHUD.Dialog_Config.Title>
-  <RimHUD.Alert.ConfigReset>RimHUD이 {0} 버전으로 업데이트되었습니다. 환경설정을 기본값으로 재설정해야 합니다.</RimHUD.Alert.ConfigReset>
-  <RimHUD.Model.Component.Row>열</RimHUD.Model.Component.Row>
-  <RimHUD.Model.Component.Rules>규칙 선택기 (Pawn Rules 모드 필요)</RimHUD.Model.Component.Rules>
-  <RimHUD.Integration.PawnRules.RuleNameFormat>규칙: {0}</RimHUD.Integration.PawnRules.RuleNameFormat>
-  <RimHUD.Dialog_Config.Tab.Colors.Saturation>채도</RimHUD.Dialog_Config.Tab.Colors.Saturation>
-  <RimHUD.Model.Selector.TimetableFormat>일정: {0}</RimHUD.Model.Selector.TimetableFormat>
-  <RimHUD.Integration.Bubbles.SelectedBackColor>선택한 배경 색</RimHUD.Integration.Bubbles.SelectedBackColor>
-  <RimHUD.Integration.Bubbles.SelectedForeColor>선택한 글자 색</RimHUD.Integration.Bubbles.SelectedForeColor>
-  <RimHUD.Theme.SelectorBackgroundColor>선택한 배경</RimHUD.Theme.SelectorBackgroundColor>
-  <RimHUD.Theme.SelectorTextColor>선택된 문자</RimHUD.Theme.SelectorTextColor>
-  <RimHUD.Model.Selector.SetTimeAssignment>{0} 시간을 {1}(으)로 설정</RimHUD.Model.Selector.SetTimeAssignment>
-  <RimHUD.Model.Component.SkillShooting>사격 기술</RimHUD.Model.Component.SkillShooting>
-  <RimHUD.Theme.InspectPaneAddLog>캐릭터 로그 보기</RimHUD.Theme.InspectPaneAddLog>
-  <RimHUD.Theme.ShowDecimals>소수점 표시</RimHUD.Theme.ShowDecimals>
-  <RimHUD.Integration.Bubbles.DoAnimals>동물 상호작용 표시</RimHUD.Integration.Bubbles.DoAnimals>
-  <RimHUD.Integration.Bubbles.DoNonPlayer>비-플레이어 세력 표시</RimHUD.Integration.Bubbles.DoNonPlayer>
-  <RimHUD.ToggleHud>HUD 보기</RimHUD.ToggleHud>
-  <RimHUD.TextStyle.Size>크기</RimHUD.TextStyle.Size>
-  <RimHUD.Theme.SkillColors>기술 색상</RimHUD.Theme.SkillColors>
-  <RimHUD.Model.Component.SkillSocial>사교 기술</RimHUD.Model.Component.SkillSocial>
-  <RimHUD.Integration.Bubbles.Spacing>간격</RimHUD.Integration.Bubbles.Spacing>
-  <RimHUD.Integration.Bubbles.StartOpacity>불투명도 시작</RimHUD.Integration.Bubbles.StartOpacity>
-  <RimHUD.Model.Creature.Stray>길을 잃은</RimHUD.Model.Creature.Stray>
-  <RimHUD.Theme.InspectPaneTabWidth>탭 너비</RimHUD.Theme.InspectPaneTabWidth>
-  <RimHUD.Model.Creature.Tame>길들인 생물</RimHUD.Model.Creature.Tame>
-  <RimHUD.Model.Component.TrainingTameness>유대감 훈련</RimHUD.Model.Component.TrainingTameness>
-  <RimHUD.Integration.Bubbles.ForeColor>글자 색</RimHUD.Integration.Bubbles.ForeColor>
-  <RimHUD.Theme.TextOptions>텍스트 옵션</RimHUD.Theme.TextOptions>
-  <RimHUD.Integration.Bubbles.PaddingX>텍스트 간격 X</RimHUD.Integration.Bubbles.PaddingX>
-  <RimHUD.Integration.Bubbles.PaddingY>텍스트 간격 Y</RimHUD.Integration.Bubbles.PaddingY>
-  <RimHUD.Dialog_Config.Tab.Content.Preset.Invalid>{0}' 모드를 찾을 수 없으며 이 사전 설정이 작동하지 않을 것입니다.</RimHUD.Dialog_Config.Tab.Content.Preset.Invalid>
-  <RimHUD.Alert.NotImplemented>이 기능은 아직 구현되지 않았습니다.</RimHUD.Alert.NotImplemented>
-  <RimHUD.Theme.InspectPaneModifyDesc>도킹된 HUD 모드에 필요합니다.</RimHUD.Theme.InspectPaneModifyDesc>
-  <RimHUD.Integration.Bubbles.FadeLength>페이드 눈금</RimHUD.Integration.Bubbles.FadeLength>
-  <RimHUD.Integration.Bubbles.FadeStart>페이드 시작 눈금</RimHUD.Integration.Bubbles.FadeStart>
-  <RimHUD.Model.Component.Timetable>시간표 선택기</RimHUD.Model.Component.Timetable>
-  <RimHUD.Model.Bio.Title>직업: {0}</RimHUD.Model.Bio.Title>
-  <RimHUD.Theme.HudAnchors>왼쪽 상단|중앙 상단|오른쪽 상단|왼쪽 중앙|중앙|오른쪽 중앙|왼쪽 하단|중앙 하단|오른쪽 하단</RimHUD.Theme.HudAnchors>
-  <RimHUD.Model.Bio.Trainability>훈련: {0}</RimHUD.Model.Bio.Trainability>
-  <RimHUD.Dialog_Config.SetToDefault>디폴트값 사용</RimHUD.Dialog_Config.SetToDefault>
-  <RimHUD.Theme.ValueWidth>값 너비</RimHUD.Theme.ValueWidth>
-  <RimHUD.Model.Component.VStack>수직 스택</RimHUD.Model.Component.VStack>
-  <RimHUD.Model.Component.VStackFilled>수직 스택 (filled)</RimHUD.Model.Component.VStackFilled>
-  <RimHUD.Theme.WarningColor>경고 문자열</RimHUD.Theme.WarningColor>
-  <RimHUD.Theme.HudWidth>너비</RimHUD.Theme.HudWidth>
-  <RimHUD.Model.Faction.Wild>야생</RimHUD.Model.Faction.Wild>
-  <RimHUD.Theme.FactionWildColor>야생의</RimHUD.Theme.FactionWildColor>
-  <RimHUD.Model.Bio.Wildness>야생 상태: {0}</RimHUD.Model.Bio.Wildness>
-  <RimHUD.Theme.LetterCompressDesc>HUD와 겹치면 화면 오른쪽에 있는 모든 문자와 경고를 압축합니다.</RimHUD.Theme.LetterCompressDesc>
-  <RimHUD.Theme.HudOffsetX>X</RimHUD.Theme.HudOffsetX>
-  <RimHUD.Theme.HudOffsetY>Y</RimHUD.Theme.HudOffsetY>
-  <RimHUD.Button.Yes>예</RimHUD.Button.Yes>
-  <RimHUD.Integration.Bubbles.ScaleStart>시작 비율로 줌</RimHUD.Integration.Bubbles.ScaleStart>
-
   <!--1509102551_190627_Faction Control-->
   <RFC.FactionControl>세력통제－주 설정</RFC.FactionControl>
   <RFC.FactionControlFactionOptions>세력통제－세력 설정</RFC.FactionControlFactionOptions>
@@ -3282,11 +3036,6 @@
   <GU_NoAdjacentBeehouseHybridization>경고: 교배실 근처에 벌통이 없습니다.</GU_NoAdjacentBeehouseHybridization>
   <RB_NoBees>수벌이 없습니다!</RB_NoBees>
   <RB_NoQueens>여왕벌이 없습니다!</RB_NoQueens>
-
-  <!--1561221991_181112_RPG Style Inventory-->
-  <SandyMassValue>{0} / {1} kg</SandyMassValue>
-  <SandyMassCarried>운반 무게</SandyMassCarried>
-  <Sandy_ViewList>목록 표시</Sandy_ViewList>
 
   <!--1561768672_190606_PackedMeat-->
   <pack_on_butchering>고기를 도축할 때 포장하기</pack_on_butchering>
@@ -4205,23 +3954,23 @@
   <LetterLabelStandartLostCityLGE>폭격받는 도시 기회</LetterLabelStandartLostCityLGE>
   <LetterStandartLostCityLGE>우리 정착민들이 하늘에서 이상한 빛줄기가 떨어져내리고 있음을 눈치챘습니다. 궤도에 있는 폭격위성들이 고대 도시와 그 인근지역을 공격하기 시작했습니다. 아마도 폭격으로 도시가 파괴되기 전에 약탈할 수 있는 어떤 무기가 있을 것입니다.</LetterStandartLostCityLGE>
   <LetterLabelNewSettlementLGE>새로운 정착지</LetterLabelNewSettlementLGE>
-  <LetterNewSettlementLGE>{0}의 팩션이 황장되어 새로운 정착지가 만들어졌습니다.</LetterNewSettlementLGE>
+  <LetterNewSettlementLGE>{0}의 세력이 확장되어 새로운 정착지가 만들어졌습니다.</LetterNewSettlementLGE>
   <LetterLabelPrisonCampLGE>감옥 캠프 기회</LetterLabelPrisonCampLGE>
-  <LetterPrisonCampLGE>{0}의 일부 구성원들이 적대적인 팩션에 의해 인근 감옥에 수감되어있습니다. 그들은 우리가 이들을 구해내면 {1}가치 있는 물품들을 제공하겠다고 합니다.:\n\n{2}\n\n또한 이것으로 그들과의 관계가 개선될 것입니다.</LetterPrisonCampLGE>
+  <LetterPrisonCampLGE>{0}의 일부 구성원들이 적대적인 세력에 의해 인근 감옥에 수감되어있습니다. 그들은 우리가 이들을 구해내면 {1}가치 있는 물품들을 제공하겠다고 합니다.:\n\n{2}\n\n또한 이것으로 그들과의 관계가 개선될 것입니다.</LetterPrisonCampLGE>
   <OfferHelpMessageLGE>죄수들은 기꺼이 우리의 도움을 받아들이고, 이제는 너무 오래 비워두었던 자신들의 기지로 돌아갑니다.</OfferHelpMessageLGE>
   <PrisonersFreedLGE>우리 덕분에 수 많은 억울한 수감자들이 자신들의 기지로 되돌아갔습니다.</PrisonersFreedLGE>
   <LetterPrisonerQuestCompletedGLE>죄수들을 해방시켰습니다!\n\n{0}로부터 보상 물품이 도착했으며, {1}의 파벌 관계가 향상되었습니다.</LetterPrisonerQuestCompletedGLE>
   <LetterLabelResearchRequest_DisasterLGE>연구 요청 대참사</LetterLabelResearchRequest_DisasterLGE>
   <LetterResearchRequest_DisasterLGE>연구는 재앙으로 끝났습니다. 폭발이 일어나 몇몇 사람들이 죽었습니다.\n\n우리의 캐러밴은 바로 자리에서 도망치지는 못했지만, {0} (은)는 {1}(을)를 따라잡아 죽이려 들고있습니다!\n\n{1}와의 관계: {2}.</LetterResearchRequest_DisasterLGE>
   <LetterLabelResearchRequest_BackfireLGE>연구 요청 큰 실패</LetterLabelResearchRequest_BackfireLGE>
-  <LetterResearchRequest_BackfireLGE>우리가 파견한 연구원이 중요한 부분에서 실수를 해서 많은 진행사항을 잃고 말았습니다.\n\n{1}와의 관계: {2}.</LetterResearchRequest_BackfireLGE>
+  <LetterResearchRequest_BackfireLGE>우리가 파견한 연구원이 중요한 부분에서 실수를 해서 많은 진행사항을 잃고 말았습니다.\n\n{0}(와)과의 관계: {1}.</LetterResearchRequest_BackfireLGE>
   <LetterLabelResearchRequest_NeutralLGE>연구 요청 사소한 실패</LetterLabelResearchRequest_NeutralLGE>
   <LetterResearchRequest_NeutralLGE>우리 연구원의 최선에 노력에도 불구하고 연구는 전혀 진행되지 않았습니다..\n\n{0}와의 관계:{1}</LetterResearchRequest_NeutralLGE>
   <LetterLabelResearchRequest_SuccessLGE>연구 요청 성공</LetterLabelResearchRequest_SuccessLGE>
-  <LetterResearchRequest_SuccessLGE>연구는 성공적이었습니다. 많은 진전이 이루어졌습니다.\n\{0}와의 관계가 {1}만큼 향상되었습니다.\n\n우리 또한 총 {2}에 대한 통찰력을 얻을 수 있었습니다..</LetterResearchRequest_SuccessLGE>
+  <LetterResearchRequest_SuccessLGE>연구는 성공적이었습니다. 많은 진전이 이루어졌습니다.\n\n{0} 세력과 우호도가 {1}만큼 향상되었습니다.\n\n우리 또한 {2}에 대한 경험을 얻을 수 있었습니다.</LetterResearchRequest_SuccessLGE>
   <LetterLabelResearchRequest_TriumphLGE>연구 요청 대성공</LetterLabelResearchRequest_TriumphLGE>
   <LetterResearchRequest_TriumphLGE>이번 연구는 완벽했습니다! 파견된 우리 연구원이 더 못 할 때 까지 많은 진전이 있었습니다.\n\n{1}.\n\n{2}에 대한 통찰력을 얻었습니다.</LetterResearchRequest_TriumphLGE>
-  <ResearchRequestXPGainLGE>연구원이 {0}(이)가 {1}만큼의 통찰력을 얻었습니다.</ResearchRequestXPGainLGE>
+  <ResearchRequestXPGainLGE>연구원 {0}(이)가 {1}만큼의 경험을 얻었습니다.</ResearchRequestXPGainLGE>
   <LetterLabelShipCoreStartupLGE>선박 원자로 가동</LetterLabelShipCoreStartupLGE>
   <LetterShipCoreStartupLGE>대규모 에너지 반응이 감지되었습니다. 근처 어디에서 누군가 선박의 원자로를 가동한 듯 합니다. 이들은 아마도 잘 방어가 되어있을 것이며, 원자로 가동 소식은 또 다른 불챙객들도 나타날 것입니다.\n\n이 함선은 최소 30명 이상의 방어벙력과 6문의 박격포, 그리고 약간의 터렛으로 방어되고 있습니다.</LetterShipCoreStartupLGE>
 
@@ -6009,105 +5758,6 @@
   <LimitModeSingleRanged_desc>특정 원거리 휴대무기에 어떤 제한을 하겠습니까?</LimitModeSingleRanged_desc>
   <LimitModeSingle_desc>특정 휴대무기에 어떤 제한을 하겠습니까?</LimitModeSingle_desc>
 
-  <!--928376710_190628_Zombieland-->
-  <LetterLabelZombiesRising>좀비 습격</LetterLabelZombiesRising>
-  <ZombiesRising>좀비 무리가 나타났습니다</ZombiesRising>
-  <LetterLabelZombiesRisingNearYourBase>좀비의 급습</LetterLabelZombiesRisingNearYourBase>
-  <ZombiesRisingNearYourBase>좀비 무리가 기지 근처에 나타납니다</ZombiesRisingNearYourBase>
-  <LetterLabelXDaysUntilZombies>좀비 생성까지 {0} 남음</LetterLabelXDaysUntilZombies>
-  <XDaysUntilZombies>좀비들은 흙이나 자갈 모래 같은 연약지반에 생성됩니다. 좀비가 생성될 수 없도록 바닥을 설치하세요.</XDaysUntilZombies>
-  <ZombielandDefaultSettings>좀비랜드 기본값 설정</ZombielandDefaultSettings>
-  <ZombielandGameSettings>좀비랜드 게임 설정</ZombielandGameSettings>
-  <WhenDoZombiesSpawn>좀비의 생성 시기</WhenDoZombiesSpawn>
-  <SpawnWhenType_AllTheTime>항상</SpawnWhenType_AllTheTime>
-  <SpawnWhenType_WhenDark>밤 동안에만</SpawnWhenType_WhenDark>
-  <SpawnWhenType_InEventsOnly>이벤트 때만</SpawnWhenType_InEventsOnly>
-  <HowDoZombiesSpawn>좀비가 생성되는 곳</HowDoZombiesSpawn>
-  <SpawnHowType_AllOverTheMap>연약지반이 있는 모든곳</SpawnHowType_AllOverTheMap>
-  <SpawnHowType_FromTheEdges>맵 가장자리</SpawnHowType_FromTheEdges>
-  <WhatDoZombiesAttack>좀비의 적개심</WhatDoZombiesAttack>
-  <AttackMode_Everything>모든 것</AttackMode_Everything>
-  <AttackMode_OnlyHumans>인간과 같은 생명체</AttackMode_OnlyHumans>
-  <AttackMode_OnlyColonists>정착민과 물건들</AttackMode_OnlyColonists>
-  <EnemiesAttackZombies>적들이 좀비 공격하기</EnemiesAttackZombies>
-  <AnimalsAttackZombies>동물들이 좀비 공격하기</AnimalsAttackZombies>
-  <WhatDoZombiesSmash>좀비의 공격</WhatDoZombiesSmash>
-  <SmashMode_Nothing>없음</SmashMode_Nothing>
-  <SmashMode_DoorsOnly>오직 문만</SmashMode_DoorsOnly>
-  <SmashMode_AnyBuilding>건설된 것들</SmashMode_AnyBuilding>
-  <SmashOnlyWhenAgitated>동요되었을 때만 부수기</SmashOnlyWhenAgitated>
-  <NewGameTitle>새로운 게임</NewGameTitle>
-  <DaysBeforeZombiesCome>좀비 출현까지의 시간</DaysBeforeZombiesCome>
-  <ZombiesOnTheMap>지도상의 좀비들</ZombiesOnTheMap>
-  <MaximumNumberOfZombies>최대</MaximumNumberOfZombies>
-  <Zombies>마리의 좀비들</Zombies>
-  <ColonyMultiplier>정착지 비율</ColonyMultiplier>
-  <ZombieEventTitle>좀비 이벤트</ZombieEventTitle>
-  <ZombiesPerColonistInEvent>정착민 1명당 좀비들</ZombiesPerColonistInEvent>
-  <ExtraDaysBetweenEvents>주기적 이벤트 날짜</ExtraDaysBetweenEvents>
-  <ZombieSpeedTitle>좀비 이동 속도</ZombieSpeedTitle>
-  <MoveSpeedIdle>평상시</MoveSpeedIdle>
-  <MoveSpeedTracking>추적시</MoveSpeedTracking>
-  <ZombieDamageFactorTitle>좀비 피해량</ZombieDamageFactorTitle>
-  <ZombieDamageFactor>공격력 배수</ZombieDamageFactor>
-  <ZombieGameTweaks>게임 수정</ZombieGameTweaks>
-  <ReduceTurretConsumption>포탑 소비량 감소</ReduceTurretConsumption>
-  <ZombieInfections>좀비 감염</ZombieInfections>
-  <ZombieBiteInfectionChance>좀비에게 물려 감염될 확률</ZombieBiteInfectionChance>
-  <ZombieBiteInfectionUnknown>감염 잠복기</ZombieBiteInfectionUnknown>
-  <ZombieBiteInfectionTreatable>감염 치료 가능한 시간</ZombieBiteInfectionTreatable>
-  <ZombieBiteInfectionPersists>감염 기간</ZombieBiteInfectionPersists>
-  <AnyTreatmentStopsInfection>침대에서 치료하면 감염이 멈춤</AnyTreatmentStopsInfection>
-  <ZombieInstinctTitle>좀비의 감지력</ZombieInstinctTitle>
-  <ZombieInstinct_Dull>둔함</ZombieInstinct_Dull>
-  <ZombieInstinct_Normal>보통</ZombieInstinct_Normal>
-  <ZombieInstinct_Sensitive>민감</ZombieInstinct_Sensitive>
-  <RagingZombies>정착지가 커질수록 좀비들이 격노함</RagingZombies>
-  <ZombieHealthTitle>좀비의 맷집</ZombieHealthTitle>
-  <DoubleTapRequired>좀비가 부상으로부터 회복함</DoubleTapRequired>
-  <ZombiesDieVeryEasily>좀비를 쉽게 죽일 수 있음</ZombiesDieVeryEasily>
-  <ZombieEatingTitle>좀비의 식성</ZombieEatingTitle>
-  <ZombiesEatDowned>부상당한 생물 먹기</ZombiesEatDowned>
-  <ZombiesEatCorpses>시체 먹기</ZombiesEatCorpses>
-  <SpecialZombiesTitle>특수 좀비</SpecialZombiesTitle>
-  <SuicideBomberChance>자폭 좀비</SuicideBomberChance>
-  <ToxicSplasherChance>독성 좀비</ToxicSplasherChance>
-  <TankyOperatorChance>탱커 좀비</TankyOperatorChance>
-  <MinerChance>광부 좀비</MinerChance>
-  <NormalZombieChance>일반 좀비: {0}</NormalZombieChance>
-  <ZombieMiscTitle>기타 설정</ZombieMiscTitle>
-  <UseCustomTextures>맞춤형 텍스처 사용</UseCustomTextures>
-  <ReplaceTwinkie>트윙키 교체 및 표시</ReplaceTwinkie>
-  <ZombiesTriggerDangerMusic>위험 상황일때 소리</ZombiesTriggerDangerMusic>
-  <PlayCreepyAmbientSound>밤에 으스스한 소리 재생</PlayCreepyAmbientSound>
-  <BetterZombieAvoidance>좀비를 피해다님</BetterZombieAvoidance>
-  <ZombiesDropBlood>피흘림 (좀비)</ZombiesDropBlood>
-  <ZombiesBurnLonger>화상 (좀비)</ZombiesBurnLonger>
-  <ZombieActionsTitle>행동</ZombieActionsTitle>
-  <ZombieSettingsReset>기본 설정 복원</ZombieSettingsReset>
-  <UninstallZombieland>현재 게임에서 좀비랜드 제거</UninstallZombieland>
-  <ConfirmUninstallZombieland>계속하면 새로운 저장 파일의 이름을 정할 수 있고 게임이 저장된 후에 메인메뉴로 나가게 됩니다. 새로운 저장은 좀비랜드 없이 불러오기할 수 있습니다.\n\n정말로 현재 게임에서 좀비랜드의 컨텐츠를 제거 하겠습니까?</ConfirmUninstallZombieland>
-  <UninstallButton>제거</UninstallButton>
-  <LoadSettings>클라우드에서 설정 불러오기</LoadSettings>
-  <LoadSettingsButton>다운로드</LoadSettingsButton>
-  <PublishSettings>클라우드에 설정 등록하기</PublishSettings>
-  <PublishSettingsButton>등록</PublishSettingsButton>
-  <SearchSettings>검색</SearchSettings>
-  <SettingsName>이름</SettingsName>
-  <ColonistsBittenByZombie>좀비에게 물린 정착민</ColonistsBittenByZombie>
-  <ColonistsBittenByZombieDesc>이 정착민은 좀비에게 물렸습니다. 현 시점에서는 감염 여부가 명확하지 않습니다:\n\n{0}\n감염이 발생하기까지 어느정도 시간이 걸리기 때문에 상처를 면밀히 관찰하세요.</ColonistsBittenByZombieDesc>
-  <ImminentZombiInfection>좀비 감염 임박함</ImminentZombiInfection>
-  <ImminentZombiInfectionDesc>이 정착민은 좀비에게 물려 감염이 되었습니다:\n\n{0}\n높은 의술, 품질이 좋은 의료침대, 생체모니터가 있는 청결한 곳에서 최상 최고의 조건 하에 즉시 치료를 해줘야 살릴 수 있습니다.</ImminentZombiInfectionDesc>
-  <ZombieInfection>좀비 감염</ZombieInfection>
-  <ZombieInfectionDesc>이 정착민은 감염되었고 좀비가 될 것입니다. 더이상 살릴 방법이 없습니다:\n\n{0}\n감염되는 동안 생각, 감정, 고통, 배고픔에 무관심하고 결국 죽어서 좀비가 됩니다.</ZombieInfectionDesc>
-  <NoInfectionRisk>감염위험 없음</NoInfectionRisk>
-  <HoursBeforeBecomingInfected>감염될때까지 {0} 시간</HoursBeforeBecomingInfected>
-  <HoursBeforeBecomingAZombie>좀비될때까지 {0} 시간</HoursBeforeBecomingAZombie>
-  <BecameAZombieLabel>누군가 좀비가 되었음</BecameAZombieLabel>
-  <BecameAZombieDesc>{0}(이)가 강력한 좀비가 되었습니다.</BecameAZombieDesc>
-  <BodyIsInfectedLabel>좀비 바이러스에 감염되었습니다!</BodyIsInfectedLabel>
-  <BodyIsInfectedTooltip>감염된 신체가 썩기 시작되면 좀비로 변합니다.</BodyIsInfectedTooltip>
-
   <!--928992405_190519_1.0_Starship_Troopers_Arachnids-->
   <MessageBrainBugReproduced>새로운 브레인 버그 위치 파악</MessageBrainBugReproduced>
   <BrainBugReproducesIn>증강 병력 진입 중</BrainBugReproducesIn>
@@ -6283,14 +5933,14 @@
   <ROM_Wild>야생 {0}</ROM_Wild>
 
   <!--962732083_190818_RuntimeGC-->
-  <MMTip>.NET VM 사용량: {0:F2} Mb\n유니티 프레임워크 및 bulk game assets은 계산되지 않습니다.</MMTip>
+  <MMTip>.NET VM 사용량: {0:F2} Mb\n유니티 프레임워크 및 게임 자산은 계산되지 않습니다.</MMTip>
   <MsgDefPackageCleaned>{0} DefPackages 제거되었습니다.</MsgDefPackageCleaned>
   <MsgModMetaDataCleaned>{0} 모드 메타데이터가 제거되었고 {1} 정리되었습니다.</MsgModMetaDataCleaned>
   <UITicks>{0} UI 틱</UITicks>
   <MsgLanguageDataCleaned>사용하지 않는 {0} 언어가 제거되었고 {1} 번역 injections이 정리되었습니다.</MsgLanguageDataCleaned>
-  <SettingsMuteGCTip>**활성화 권장함**\n바닐라GC를 RuntimeGC로 대체하여 주기적인 랙과 잠재적인 저장파일 손상을 방지할 수 있습니다.\n독립형태의 MuteGC 모드를 사용 중이라면 활성화 할 필요가 없습니다.</SettingsMuteGCTip>
+  <SettingsMuteGCTip>**활성화 권장함**\n바닐라GC를 런타임 GC로 대체하여 주기적인 랙과 잠재적인 저장파일 손상을 방지할 수 있습니다.\n독립형태의 MuteGC 모드를 사용 중이라면 활성화 할 필요가 없습니다.</SettingsMuteGCTip>
   <SettingsMuteBLTip>*권장하지 않음*\n저장되거나 불러왔을때 전투기록이 생성되지 않도록 비활성합니다.\n독립형태의 MuteCL 모드를 사용 중이라면 활성화 할 필요가 없습니다.</SettingsMuteBLTip>
-  <SettingsArchiveGeneralTip>*권장하지 않음*\nRuntimeGC에 모든 알림을 저장합니다. 게임내 많은 메시지 기록을 보관하여 볼 수 있습니다.</SettingsArchiveGeneralTip>
+  <SettingsArchiveGeneralTip>*권장하지 않음*\n런타임 GC에 모든 알림을 저장합니다. 게임내 많은 메시지 기록을 보관하여 볼 수 있습니다.</SettingsArchiveGeneralTip>
   <MMUpdate_PerMinuteQuarter>~15초</MMUpdate_PerMinuteQuarter>
   <MMUpdate_PerSecond>~1초</MMUpdate_PerSecond>
   <MMUpdate_PerMinuteHalf>~30초</MMUpdate_PerMinuteHalf>
@@ -6298,13 +5948,13 @@
   <DlgTextGCAdvice1>불필요한 WorldPawns을 모두 정리했습니다.\n당분간 버튼을 다시 누를 필요가 없습니다.</DlgTextGCAdvice1>
   <FloatToolsItems1>중복된 동물 가계도</FloatToolsItems1>
   <SettingsMMTipLabel>툴팁에 메모리 사용률 표시</SettingsMMTipLabel>
-  <SettingsArchiveGeneralLabel>RuntimeGC에 모든 알림 보관하기</SettingsArchiveGeneralLabel>
+  <SettingsArchiveGeneralLabel>런타임 GC에 모든 알림 보관하기</SettingsArchiveGeneralLabel>
   <SettingsArchiveGCLabel>WorldPawn 정리 결과 보관하기</SettingsArchiveGCLabel>
   <SettingsAutoCleanupCategory>자동 정리</SettingsAutoCleanupCategory>
-  <QuickOpenSettings>RuntimeGC 설정 변경</QuickOpenSettings>
+  <QuickOpenSettings>런타임 GC 설정 변경</QuickOpenSettings>
   <BtnTextGCWP>World Pawns 정리하기</BtnTextGCWP>
   <HelpTextGCWP>World Pawns 정리하기\n\n지도에서 사라지면(예: 지도 가장자리에서 나가기), pawn은 World Pawn으로 저장됩니다. 이것은 죽은 pawns과 같습니다.\n\nWorldPawns은 중요한 Pawn(세력 지도자, 상단 구성원, 사망한 친인척 등)을 보유하고 관계망(친척이 선택되고 이를 생성할때)을 보다 현실적으로 만들수 있도록 설계되었습니다.\n\n하지만 유저들은 적어도 게임을 원활하게 실행하기 위해 쓸모없는 것들을 제거하는 것은 게의치 않을겁니다. 그렇죠?\n\n\n-GameSystem의 부담을 덜어주기 위해 불필요한 World Pawn이 모두 제거됩니다.\n\n-모든 세력의 지도자는 유지됩니다.\n\n-지도상에 있는 모든 Pawn은 유지됩니다.\n\n-정착민 또는 죄수의 친인척(살아있거나 죽었거나) 관계는 모두 유지됩니다.\n\n-세계지도에서 이동하는 모든 Pawn은 유지됩니다. (상단, 수송포드...)\n\n-예술 작품에 사용되는 모든 이야기는 그대로 유지되지만, 사용되지 않는 이야기는 삭제됩니다.\n(xxxx년 몇월며칠에 누가 뭐 했다 이런 내용을 뺀 다른 이야기 같네요)\n\n잠재적인 버그를 피하기 위해 많은 패치가 될 수있고, 그동안 이 정리 작업을 자유롭게 수행할 수 있습니다!\n\n\nPS. 게임속 플레이 시간이 늘어날수록, 이러한 정리 작업이 더 효과적일 것입니다.</HelpTextGCWP>
-  <BtnTextGCV>정리하기(디버그 전용)</BtnTextGCV>
+  <BtnTextGCV>정리하기 (디버그 전용)</BtnTextGCV>
   <HelpTextGCV>정리하기 (디버그 전용)\n\n제작자가 요청한 경우에만 이 버튼을 클릭하세요.</HelpTextGCV>
   <FloatACDefPackage>캐시된 DefPackage 지우기</FloatACDefPackage>
   <SettingsACDefPackageLabel>캐시된 DefPackage 정리</SettingsACDefPackageLabel>
@@ -6325,9 +5975,9 @@
   <FloatToolsItems2Dev1>Dev: 오물 제거 (현재 지도)</FloatToolsItems2Dev1>
   <FloatToolsItems2SnowDev2>Dev: 눈 제거 (모든 지도)</FloatToolsItems2SnowDev2>
   <FloatToolsItems2SnowDev1>Dev: 눈 제거 (현재 지도)</FloatToolsItems2SnowDev1>
-  <SettingsDevOnScreenMemoryUsageLabel>Dev: "RuntimeGC"를 메모리 사용률 데이터로 대체하기</SettingsDevOnScreenMemoryUsageLabel>
+  <SettingsDevOnScreenMemoryUsageLabel>Dev: "런타임 GC"를 메모리 사용률 데이터로 대체하기</SettingsDevOnScreenMemoryUsageLabel>
   <SettingsACDefPackageTip>각 모드에 대해 캐시된 DefPackage를 정리합니다.\n**참고: 스택 제한 모드나 재료를 추가하는 모드를 사용 중일때 오류가 발생 한다면 비활성하는게 좋습니다 (이 기능 자체는 권장하지 않습니다).**\n\n모드 파일은 아무 영향이 없습니다.</SettingsACDefPackageTip>
-  <SettingsACModMetaDataTip>시작하는 동안, "모드" 버튼을 클릭할 때 사용되는 모드 정보를 정리합니다.\n시작한 후에도 버튼을 클릭하여 접근했을 경우, RuntimeGC탭에 있는 "메모리 재할당"을 Shift+클릭으로 정리할 수 있습니다.\n\n모드 파일은 아무 영향이 없습니다.</SettingsACModMetaDataTip>
+  <SettingsACModMetaDataTip>시작하는 동안, "모드" 버튼을 클릭할 때 사용되는 모드 정보를 정리합니다.\n시작한 후에도 버튼을 클릭하여 접근했을 경우, 런타임 GC 탭에 있는 "메모리 재할당"을 Shift+클릭으로 정리할 수 있습니다.\n\n모드 파일은 아무 영향이 없습니다.</SettingsACModMetaDataTip>
   <SettingsACLanguageDataTip>시작하는 동안, 현재 사용 중인 언어를 제외하고 기타 사용되지 않는 언어들을 정리합니다.\n\n언어 파일들은 아무 영향이 없습니다.\n*참고: 언어를 변경할 때 이 항목을 비활성하고, 재시작 후에 다시 변경을 해야합니다, 그렇지 않다면 림월드는 데이터를 인식하지 못합니다. 언어를 자주 변경해야하는 번역자가 있다면 이 항목을 비활성하는 것이 좋습니다.</SettingsACLanguageDataTip>
   <BtnTextFix>수정..</BtnTextFix>
   <HelpTextFix>수정..\n\n디버그 로그 보기:\n디버그 로그 창을 표시합니다. 개발자 모드를 사용하지 않거나 영구적으로 비활성화를 한 사용자들을 위한 설정입니다.\n\nAvoidGrids 재생성:\n적 습격 AI 문제를 수정하고 AvoidGrids를 재생성합니다.\n\n세력 우호도: DebugLog 오류 수정을 시도합니다: "세력 xxx는 xxx와 아무 관계가 없습니다. 다시 임의 관계로 되돌립니다."\n이 도구는 다음 모드로 인해 발생한 오류는 해결할 수 없습니다:\n1. Misc. FactionBase: 메카노이드가 생성되면서 맵을 생성하는 중에 발생한 오류.\n2. PPSMedicalCare (확실치 않음): 저장 및 로딩 중 오류가 발생하여, 점점 심각해 질 수 있습니다.\n\n세력 지도자: 무역 송신기를 다시 사용할 수 있도록 세력의 지도자를 생성합니다. 세력에 현재 지도자가 있다면 지도자는 교체되지 않습니다.</HelpTextFix>
@@ -6338,19 +5988,19 @@
   <SettingsGeneralCategory>일반 설정</SettingsGeneralCategory>
   <SettingsMMIntervalTip>메모리 모니터링을 업데이트하는 빈도입니다.\n업데이트 빈도 (간격)은 UI 틱을 기반으로 하며 업데이트 간의 실제 시간 간격은 CPU 성능에 따라 다를 수 있습니다.\n\n*참고: 자주 업데이트를 하게 되면 메모리 누수가 발생할 수 있습니다.</SettingsMMIntervalTip>
   <SettingsMMCategory>메모리 모니터</SettingsMMCategory>
-  <SettingsMMTipTip>메모리 사용률이 툴팁에 추가되며, RuntimeGC탭 위에 마우스를 갖다대면 볼 수 있습니다.\n\n*참고: 이 곳에 표시된 메모리 사용률은 현재 프로그램에서 사용되는 림월드의 .NET VM 할당량입니다. 유니티 프레임워크 및 게임 에셋은 .NET VM에서 관리되지 않은 메모리를 사용하기 때문에 계산이 되지 않습니다 (메모리의 안정적인 부분을 차지함). 두 부분 모두 taskmgr.exe에 표시된 총 메모리 사용률에 영향 받습니다.\n이 메모리 사용률은 종합적인 게임 성능을 나타내고 데드 루프나 메모리 누수를 모니터링 하는데 도움이 됩니다.</SettingsMMTipTip>
+  <SettingsMMTipTip>메모리 사용률이 툴팁에 추가되며, 런타임 GC탭 위에 마우스를 갖다대면 볼 수 있습니다.\n\n*참고: 이 곳에 표시된 메모리 사용률은 현재 프로그램에서 사용되는 림월드의 .NET VM 할당량입니다. 유니티 프레임워크 및 게임 에셋은 .NET VM에서 관리되지 않은 메모리를 사용하기 때문에 계산이 되지 않습니다 (메모리의 안정적인 부분을 차지함). 두 부분 모두 taskmgr.exe에 표시된 총 메모리 사용률에 영향 받습니다.\n이 메모리 사용률은 종합적인 게임 성능을 나타내고 데드 루프나 메모리 누수를 모니터링 하는데 도움이 됩니다.</SettingsMMTipTip>
   <MMUpdate_Moderate>적당함 (~10초)</MMUpdate_Moderate>
   <SettingsMMRangeLabel>모니터링 간격 (Mb)</SettingsMMRangeLabel>
   <BtnTextAddOn>추가 정리..</BtnTextAddOn>
   <HelpTextAddOn>추가 정리..\n\n동물 가계도:\n때로는 동물 가족에 너무 많은 구성원들(죽었거나, 다른 세력들)이 있으며, 이 기능으로 정리할 수 있습니다. World Pawns을 정리한 후에 사용하는 것이 더 좋습니다.\n\n주거구역 오물 제거: 네, 말 그대로 제거합니다.\n\n주거구역 눈 제거: 이것도 마찬가지입니다, 하지만 눈은 치워도 치워도 끝이 없죠.\n\n현재 지도 시체 정리:\n무덤 속이나 동면관 등 이러한 곳에 있는 Pawns은 그대로 유지됩니다.\n\n전투기록 항목 정리:\n전투 중에 생성된 항목은 폰의 일지 버튼을 통해 확인할 수 있습니다.\n사교적 상호작용은 영향을 받지 않으며 전투기록 항목만 정리됩니다.\n\n고정이 안된 메시지 정리:\n편지와 메시지는 언제든지 "기록 - 메시지" 버튼을 통해 볼 수가 있습니다. 이 기능으로 정리할 수 있지만 고정된 메시지는 정리되지 않습니다.</HelpTextAddOn>
   <SettingsMuteBLLabel>전투기록 무시</SettingsMuteBLLabel>
   <SettingsMuteCategory>Functionalities 무시/대체</SettingsMuteCategory>
-  <DlgTextRestartRequest>RuntimeGC 설정값이 변경되어 재시작해야 적용이 됩니다.\n\n다시 시작하시겠습니까?</DlgTextRestartRequest>
-  <DlgTextGC>pawnsAlive: {0}명 ->{1}명\npawnsDead: {2}명 ->{3}명\n\n{4}명의 Pawns을 정리했습니다</DlgTextGC>
+  <DlgTextRestartRequest>런타임 GC 설정값이 변경되어 재시작해야 적용이 됩니다.\n\n다시 시작하시겠습니까?</DlgTextRestartRequest>
+  <DlgTextGC>생존: {0}명 ->{1}명\n사망: {2}명 ->{3}명\n\n{4}명의 림들을 정리했습니다</DlgTextGC>
   <BtnTextQB>퀵바</BtnTextQB>
-  <HelpTextQB>퀵바\n\n모든 편지 닫기:\n모든 편지가 우클릭한 것처럼 사라집니다! 쌓여있을 만큼 게으르면 쓰기 좋다는거죠!\n\n일반 속도제한 해제:\n대규모 습격이나 공격을 당했을때 일반 속도로 제한되는 것을 방지해줍니다. 이 기능은 영구적으로 비활성되지 않아 다음 번 사건 계기가 발생할 때마다 다시 제한 해제를 해야합니다. (이것은 속도 제한을 무시하기 위함이 아니라, 전투 시작전까지 방해없이 진행하기 위함입니다)\n\nRuntimeGC 설정 변경:\n모드 설정화면 가져오기 (HugsLib 모드를 사용 중이더라도 바닐라 화면으로 불러옵니다)</HelpTextQB>
+  <HelpTextQB>퀵바\n\n모든 편지 닫기:\n모든 편지가 우클릭한 것처럼 사라집니다! 쌓여있을 만큼 게으르면 쓰기 좋다는거죠!\n\n일반 속도제한 해제:\n대규모 습격이나 공격을 당했을때 일반 속도로 제한되는 것을 방지해줍니다. 이 기능은 영구적으로 비활성되지 않아 다음 번 사건 계기가 발생할 때마다 다시 제한 해제를 해야합니다. (이것은 속도 제한을 무시하기 위함이 아니라, 전투 시작전까지 방해없이 진행하기 위함입니다)\n\n런타임 GC 설정 변경:\n모드 설정화면 가져오기 (HugsLib 모드를 사용 중이더라도 바닐라 화면으로 불러옵니다)</HelpTextQB>
   <BtnTextSysGC>메모리 재확보</BtnTextSysGC>
-  <HelpTextSysGC>메모리 재확보\n\nSystem.GC.Collect()를 사용하여 메모리를 재확보합니다 (다른 프로그램은 간섭되지 않습니다).\n게임 성능을 약간 향상 시키지만 금방 되돌아갑니다.\n\nShift+클릭: 일부 자동 정리 명령을 수동으로 합니다. RuntimeGC 모드의 설정에서 자세한 정보를 볼 수 있습니다.</HelpTextSysGC>
+  <HelpTextSysGC>메모리 재확보\n\nSystem.GC.Collect()를 사용하여 메모리를 재확보합니다 (다른 프로그램은 간섭되지 않습니다).\n게임 성능을 약간 향상 시키지만 금방 되돌아갑니다.\n\nShift+클릭: 일부 자동 정리 명령을 수동으로 합니다. 런타임 GC 모드의 설정에서 자세한 정보를 볼 수 있습니다.</HelpTextSysGC>
   <FloatAGRegen>AvoidGrids 재생성</FloatAGRegen>
   <FloatToolsItems4>전투 기록 제거</FloatToolsItems4>
   <FloatToolsItems3>현재 지도에서 시체 제거</FloatToolsItems3>
@@ -6360,29 +6010,29 @@
   <SettingsMuteGCLabel>바닐라GC 대체/향상</SettingsMuteGCLabel>
   <SettingsReset>기본값으로 재설정</SettingsReset>
   <DlgTitleRestart>재시작 필요함</DlgTitleRestart>
-  <RuntimeGCTitle>RuntimeGC In-Game Cleaner</RuntimeGCTitle>
-  <DlgArchiveTitle>RuntimeGC World Pawn 정리 기록</DlgArchiveTitle>
-  <MsgTextRAM>RuntimeGC: {0} 메시지를 정리 했습니다.</MsgTextRAM>
-  <MsgTextRBL>RuntimeGC: {0} 전투기록 항목을 정리 했습니다.</MsgTextRBL>
-  <MsgTextRCM>RuntimeGC: 현재 지도에서 시체 {0}구를 정리했습니다.</MsgTextRCM>
-  <MsgTextFFL>RuntimeGC: {0} 지도자가 재생성되었습니다.</MsgTextFFL>
-  <MsgTextAFT>RuntimeGC: 중복된 {0}마리의 동물 구성원을 정리했습니다.</MsgTextAFT>
-  <MsgTextRFW>RuntimeGC: {0}제곱의 모든 지도에서 오물을 정리 했습니다.</MsgTextRFW>
-  <MsgTextRFH>RuntimeGC: {0}제곱의 주거 지역에서 오물을 정리 했습니다.</MsgTextRFH>
-  <MsgTextRFM>RuntimeGC: {0}제곱의 현재 지도에서 오물을 정리 했습니다.</MsgTextRFM>
-  <DlgTextGCV>RuntimeGC: output.txt 파일의 출력 내용을 확인하세요.</DlgTextGCV>
-  <MsgTextFFR>RuntimeGC: 세력 관계도를 수정 했습니다.</MsgTextFFR>
-  <MsgTextAGR>RuntimeGC: 모든 지도에 AvoidGrids를 재생성 했습니다.</MsgTextAGR>
-  <MsgTextRSW>RuntimeGC: 모든 지도에서 눈을 정리 했습니다.</MsgTextRSW>
-  <MsgTextRSH>RuntimeGC: 주거 구역에서 눈을 정리 했습니다.</MsgTextRSH>
-  <MsgTextRSM>RuntimeGC: 현재 지도에서 눈을 정리 했습니다.</MsgTextRSM>
+  <RuntimeGCTitle>런타임 GC In-Game Cleaner</RuntimeGCTitle>
+  <DlgArchiveTitle>런타임 GC World Pawn 정리 기록</DlgArchiveTitle>
+  <MsgTextRAM>런타임 GC: {0} 메시지를 정리 했습니다.</MsgTextRAM>
+  <MsgTextRBL>런타임 GC: {0} 전투기록 항목을 정리 했습니다.</MsgTextRBL>
+  <MsgTextRCM>런타임 GC: 현재 지도에서 시체 {0}구를 정리했습니다.</MsgTextRCM>
+  <MsgTextFFL>런타임 GC: {0} 지도자가 재생성되었습니다.</MsgTextFFL>
+  <MsgTextAFT>런타임 GC: 중복된 {0}마리의 동물 구성원을 정리했습니다.</MsgTextAFT>
+  <MsgTextRFW>런타임 GC: {0}제곱의 모든 지도에서 오물을 정리 했습니다.</MsgTextRFW>
+  <MsgTextRFH>런타임 GC: {0}제곱의 주거 지역에서 오물을 정리 했습니다.</MsgTextRFH>
+  <MsgTextRFM>런타임 GC: {0}제곱의 현재 지도에서 오물을 정리 했습니다.</MsgTextRFM>
+  <DlgTextGCV>런타임 GC: output.txt 파일의 출력 내용을 확인하세요.</DlgTextGCV>
+  <MsgTextFFR>런타임 GC: 세력 관계도를 수정 했습니다.</MsgTextFFR>
+  <MsgTextAGR>런타임 GC: 모든 지도에 AvoidGrids를 재생성 했습니다.</MsgTextAGR>
+  <MsgTextRSW>런타임 GC: 모든 지도에서 눈을 정리 했습니다.</MsgTextRSW>
+  <MsgTextRSH>런타임 GC: 주거 구역에서 눈을 정리 했습니다.</MsgTextRSH>
+  <MsgTextRSM>런타임 GC: 현재 지도에서 눈을 정리 했습니다.</MsgTextRSM>
   <SettingsArchiveGCTip>WorldPawn 정리 결과 기록을 저장합니다. "기록 - 메시지" 탭에서 확인할 수 있습니다.\n*참고: 이 "메시지" 탭은 "편지" 기능과 같이 적용이 되며 최대 200개의 항목으로 제한되어 있습니다. 항목이 가득차면 제일 오래된 항목부터 순차적으로 제거됩니다.</SettingsArchiveGCTip>
   <FloatDebugLog>디버그 기록 보기</FloatDebugLog>
   <MsgTextSysGC>System.GC : 메모리 재확보 되었습니다!</MsgTextSysGC>
   <DlgTextRestartNotice>이 설정을 변경하면 게임을 재시작 해야만 적용이 됩니다.\n\n모드 설정창을 닫게 되면 림월드가 재시작됩니다.</DlgTextRestartNotice>
-  <SettingsMMBarTip>RuntimeGC탭을 연구탭처럼 메모리를 얼마나 사용하는지 보여주는 막대를 표시합니다. 모니터링할 간격을 추가로 지정해 줄 수 있습니다.\n\n*참고: 이 곳에 표시된 메모리 사용률은 현재 프로그램에서 사용되는 림월드의 .NET VM 할당량입니다. 유니티 프레임워크 및 게임 에셋은 .NET VM에서 관리되지 않은 메모리를 사용하기 때문에 계산이 되지 않습니다 (메모리의 안정적인 부분을 차지함). 두 부분 모두 taskmgr.exe에 표시된 총 메모리 사용률에 영향 받습니다.\n이 메모리 사용률은 종합적인 게임 성능을 나타내고 데드 루프나 메모리 누수를 모니터링 하는데 도움이 됩니다.</SettingsMMBarTip>
+  <SettingsMMBarTip>런타임 GC 창을 연구 창처럼 메모리를 얼마나 사용하는지 보여주는 막대를 표시합니다. 모니터링할 간격을 추가로 지정해 줄 수 있습니다.\n\n*참고: 이 곳에 표시된 메모리 사용률은 현재 프로그램에서 사용되는 림월드의 .NET VM 할당량입니다. 유니티 프레임워크 및 게임 에셋은 .NET VM에서 관리되지 않은 메모리를 사용하기 때문에 계산이 되지 않습니다 (메모리의 안정적인 부분을 차지함). 두 부분 모두 taskmgr.exe에 표시된 총 메모리 사용률에 영향 받습니다.\n이 메모리 사용률은 종합적인 게임 성능을 나타내고 데드 루프나 메모리 누수를 모니터링 하는데 도움이 됩니다.</SettingsMMBarTip>
   <DlgTextGCAdvice2>아직 정리 해야될 {0}명의 WorldPawn이 있습니다.\n버튼을 다시 눌러 완벽히 정리하는 것이 좋습니다.</DlgTextGCAdvice2>
-  <SettingsMMRangeTip>이 설정은 RuntimeGC탭에 표시되는 막대에만 영향을 줍니다.</SettingsMMRangeTip>
+  <SettingsMMRangeTip>이 설정은 런타임 GC 창에 표시되는 막대에만 영향을 줍니다.</SettingsMMRangeTip>
   <MainTabWindowDescription>이 탭에는 유용한 기능이 많이 포함되어 있습니다.\n현재 저장된 게임을 정리하거나, 향상시키거나, 수정할 수도 있습니다.</MainTabWindowDescription>
   <MMUpdate_UltraFrequent>빠름 (~2.5초)</MMUpdate_UltraFrequent>
   <UndoChange>변경 취소</UndoChange>

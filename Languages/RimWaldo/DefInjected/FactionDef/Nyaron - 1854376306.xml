@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <NyaronPlayerColony.label>냐론 정착지</NyaronPlayerColony.label>
+  <NyaronPlayerColony.description>플레이어의 냐론 정착지입니다.</NyaronPlayerColony.description>
+  <NyaronPlayerColony.pawnsPlural>냐론 정착민</NyaronPlayerColony.pawnsPlural>
+  <NyaronPlayerColonyTribal.label>냐론 부족</NyaronPlayerColonyTribal.label>
+  <NyaronPlayerColonyTribal.description>플레이어의 냐론 부족입니다. (완료된 연구는 없지만, 기술 등급은 높음)</NyaronPlayerColonyTribal.description>
+  <NyaronPlayerColonyTribal.pawnsPlural>냐론 부족민</NyaronPlayerColonyTribal.pawnsPlural>
+  <NyaronFaction.label>냐론 점령지</NyaronFaction.label>
+  <NyaronFaction.description>냐론이 점령한 구역입니다.</NyaronFaction.description>
+  <NyaronFaction.pawnsPlural>냐론들</NyaronFaction.pawnsPlural>
+  <NyaronFaction.leaderTitle>냐론 우두머리</NyaronFaction.leaderTitle>
+
+</LanguageData>

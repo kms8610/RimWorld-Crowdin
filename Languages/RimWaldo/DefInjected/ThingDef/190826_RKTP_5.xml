@@ -2391,48 +2391,6 @@
   <Rotmeth.ingestible.ingestCommandString>{0} 마시기</Rotmeth.ingestible.ingestCommandString>
   <Rotmeth.ingestible.ingestReportString>{0} 마시는 중.</Rotmeth.ingestible.ingestReportString>
 
-  <!--1803445973_190813_Vanilla Fences-->
-  <Closeboard.label>연판 울타리</Closeboard.label>
-  <Closeboard.description>당신 땅의 정원을 보호하기 위한 나무 울타리입니다.</Closeboard.description>
-  <Closeboard_Blueprint.label>연판 울타리 (청사진)</Closeboard_Blueprint.label>
-  <Closeboard_Frame.label>연판 울타리 (건설 중)</Closeboard_Frame.label>
-  <Closeboard_Frame.description>당신 땅의 정원을 보호하기 위한 나무 울타리입니다.</Closeboard_Frame.description>
-  <Solid.label>솔리드 울타리</Solid.label>
-  <Solid.description>당신 땅의 정원을 보호하기 위한 나무 울타리입니다.</Solid.description>
-  <Solid_Blueprint.label>솔리드 울타리 (청사진)</Solid_Blueprint.label>
-  <Solid_Frame.label>솔리드 울타리 (건설 중)</Solid_Frame.label>
-  <Solid_Frame.description>당신 땅의 정원을 보호하기 위한 나무 울타리입니다.</Solid_Frame.description>
-  <Picket.label>피켓 울타리</Picket.label>
-  <Picket.description>당신 땅의 정원을 보호하기 위한 나무 울타리입니다.</Picket.description>
-  <Picket_Blueprint.label>피켓 울타리 (청사진)</Picket_Blueprint.label>
-  <Picket_Frame.label>피켓 울타리 (건설 중)</Picket_Frame.label>
-  <Picket_Frame.description>당신 땅의 정원을 보호하기 위한 나무 울타리입니다.</Picket_Frame.description>
-  <Farm.label>농장 울타리</Farm.label>
-  <Farm.description>당신 땅의 정원을 보호하기 위한 나무 울타리입니다.</Farm.description>
-  <Farm_Blueprint.label>농장 울타리 (청사진)</Farm_Blueprint.label>
-  <Farm_Frame.label>농장 울타리 (건설 중)</Farm_Frame.label>
-  <Farm_Frame.description>당신 땅의 정원을 보호하기 위한 나무 울타리입니다.</Farm_Frame.description>
-  <Bar.label>바 울타리</Bar.label>
-  <Bar.description>당신 땅의 정원을 보호하기 위한 금속 울타리입니다.</Bar.description>
-  <Bar_Blueprint.label>바 울타리 (청사진)</Bar_Blueprint.label>
-  <Bar_Frame.label>바 울타리 (건설 중)</Bar_Frame.label>
-  <Bar_Frame.description>당신 땅의 정원을 보호하기 위한 금속 울타리입니다.</Bar_Frame.description>
-  <TallChainLink.label>철조망 울타리</TallChainLink.label>
-  <TallChainLink.description>당신 땅의 정원을 보호하기 위한 금속 울타리입니다.</TallChainLink.description>
-  <TallChainLink_Blueprint.label>철조망 울타리 (청사진)</TallChainLink_Blueprint.label>
-  <TallChainLink_Frame.label>철조망 울타리 (건설 중)</TallChainLink_Frame.label>
-  <TallChainLink_Frame.description>당신 땅의 정원을 보호하기 위한 금속 울타리입니다.</TallChainLink_Frame.description>
-  <ShortBrick.label>브릭 울타리 (낮음)</ShortBrick.label>
-  <ShortBrick.description>당신 땅의 정원을 보호하기 위한 석재 울타리입니다..</ShortBrick.description>
-  <ShortBrick_Blueprint.label>브릭 울타리 (낮음) (청사진)</ShortBrick_Blueprint.label>
-  <ShortBrick_Frame.label>브릭 울타리 (낮음) (건설 중)</ShortBrick_Frame.label>
-  <ShortBrick_Frame.description>당신 땅의 정원을 보호하기 위한 석재 울타리입니다..</ShortBrick_Frame.description>
-  <TallBrick.label>브릭 울타리 (높음)</TallBrick.label>
-  <TallBrick.description>당신 땅의 정원을 보호하기 위한 석재 울타리입니다..</TallBrick.description>
-  <TallBrick_Blueprint.label>브릭 울타리 (높음) (청사진)</TallBrick_Blueprint.label>
-  <TallBrick_Frame.label>브릭 울타리 (높음) (건설 중)</TallBrick_Frame.label>
-  <TallBrick_Frame.description>당신 땅의 정원을 보호하기 위한 석재 울타리입니다..</TallBrick_Frame.description>
-
   <!--1803983521_190811_Animal Hoods-->
   <Apparel_WolfHood.label>늑대 후드</Apparel_WolfHood.label>
   <Apparel_WolfHood.description>세련되고 튼튼한 이 후드는 당신에게 대항하는 모든 이들에게 두려움을 줄 것입니다.</Apparel_WolfHood.description>

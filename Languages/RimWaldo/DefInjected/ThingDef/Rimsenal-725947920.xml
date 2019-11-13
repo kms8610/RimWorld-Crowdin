@@ -3,7 +3,7 @@
 
   <Carbonsuit.label>카본 점프슈트</Carbonsuit.label>
   <Carbonsuit.description>결정화 탄소 섬유로 제작한 점프슈트입니다. 얇고 가볍지만 놀랍도록 튼튼합니다.</Carbonsuit.description>
-  <Apparel_Laconian.label>그레이데일 공병 방호복</Apparel_Laconian.label>
+  <Apparel_Laconian.label>그레이데일 공병방호복</Apparel_Laconian.label>
   <Apparel_Laconian.description>그레이데일이 전투공병을 위해 제작한 "라코니안" 공병 방호복입니다. 내장형 도구세트가 있어 총격전 와중에 무언가를 지어야하는 상황에 이상적입니다.</Apparel_Laconian.description>
   <Apparel_LaconianH.label>그레이데일 공병 헬멧</Apparel_LaconianH.label>
   <Apparel_LaconianH.description>"라코니안" 공병 방호 헬멧에는 간단한 진통 시스템이 내장되어 있습니다.</Apparel_LaconianH.description>
@@ -23,9 +23,9 @@
   <Apparel_FSArmor.description>걸어다니는 포탑이 필요합니까? "바르그(늑대)" 화력지원복을 사용하세요. 신속 재장전 체계, 추가 탄약 컨테이너, 내장 화력 통제 체계, 바르그의 이 모든 것은 화력 지원 하나만을 위해 존재합니다. 그 대가로 백병전에는 매우 취약해졌습니다.</Apparel_FSArmor.description>
   <Apparel_FSArmorH.label>요튠 화력지원 헬멧</Apparel_FSArmorH.label>
   <Apparel_FSArmorH.description>바르그 화력 지원복과 한 쌍을 이루는 화력 지원 인터페이스 내장 헬멧입니다.</Apparel_FSArmorH.description>
-  <Apparel_Nemesis.label>티시폰 반사 피갑복</Apparel_Nemesis.label>
+  <Apparel_Nemesis.label>티시폰 반사피갑복</Apparel_Nemesis.label>
   <Apparel_Nemesis.description>"네메시스"는 연방 잔당을 사냥하기 위해 제작된 동력 장갑복입니다. 열 에너지 피해에 거의 면역으로, 티시폰 사냥 파견대는 정예 사냥꾼들에게 이 갑옷을 지급합니다.</Apparel_Nemesis.description>
-  <Apparel_NemesisH.label>티시폰 반사 피갑 헬멧</Apparel_NemesisH.label>
+  <Apparel_NemesisH.label>티시폰 반사피갑 헬멧</Apparel_NemesisH.label>
   <Apparel_NemesisH.description>열 편향 장치가 완비된 헬멧입니다.</Apparel_NemesisH.description>
   <Apparel_HazardCarapace.label>티시폰 위험피갑복</Apparel_HazardCarapace.label>
   <Apparel_HazardCarapace.description>"알렉토" 위험피갑복은 최악의 환경에서도 작전을 수행할 수 있도록 제작되었습니다. 얼어붙은 극지대, 열파의 한가운데, 하다못해 방사능 황무지 한가운데라도 티시폰 사냥꾼들은 끝없는 사냥을 이어갑니다.</Apparel_HazardCarapace.description>
@@ -33,7 +33,7 @@
   <Apparel_HazardCarapaceH.description>"알렉토" 위험 피갑복의 헬멧으로 적대지역 활동에 중덤을 두고 설계됐습니다.</Apparel_HazardCarapaceH.description>
   <Apparel_CloseCombatArmor.label>백병전 장갑복</Apparel_CloseCombatArmor.label>
   <Apparel_CloseCombatArmor.description>실드가 내장된 "엑셀시어" 백병전 장갑복은 기동성과 내구성, 그리고 치명성이 조합되어 있습니다.</Apparel_CloseCombatArmor.description>
-  <Apparel_CloseCombatHelmet.label>백병전 헬멧</Apparel_CloseCombatHelmet.label>
+  <Apparel_CloseCombatHelmet.label>백병전 장갑 헬멧</Apparel_CloseCombatHelmet.label>
   <Apparel_CloseCombatHelmet.description>"엑셀시어" 백병전 장갑복 헬멧은 근접전투를 위한 첨단 보조 인터페이스가 내장되어 있습니다.</Apparel_CloseCombatHelmet.description>
   <GDTable.label>장비 조립 설비</GDTable.label>
   <GDTable.description>그레이데일 장비를 분해 조립하기 위한 시설입니다.</GDTable.description>
@@ -91,6 +91,11 @@
   <GD_ModularLMG.description>그레이데일 디펜스 "팬서" 모듈형 소총 체계(MRS). 이 경기관총 모델은 분대급 화력 지원용으로 설계됐습니다.</GD_ModularLMG.description>
   <GD_ModularLMG.tools.0.label>개머리판</GD_ModularLMG.tools.0.label>
   <GD_ModularLMG.tools.1.label>총열</GD_ModularLMG.tools.1.label>
+  <Bullet_MSSH.label>권총탄</Bullet_MSSH.label>
+  <GD_MSSH.label>GD 모듈형 하이브리드 권총</GD_MSSH.label>
+  <GD_MSSH.description>그레이데일 디펜스 "오셀롯" 모듈식 부무장 시스템의 기술적으로 가장 뛰어난 권총으로, 전기화학 하이브리드 화력방식으로 강력한 방어구 관통력을 자랑합니다. 디자인 특성상, 하이브리드 권총은 모듈형 부무장킷으로 분해될 수 없습니다.</GD_MSSH.description>
+  <GD_MSSH.tools.grip.label>손잡이</GD_MSSH.tools.grip.label>
+  <GD_MSSH.tools.barrel.label>총열</GD_MSSH.tools.barrel.label>
   <GD_HybridRifle.label>GD 모듈형 하이브리드 소총</GD_HybridRifle.label>
   <GD_HybridRifle.description>그레이데일 디펜스의 "블랙 팬서" 첨단 모듈형 소총 체계(Advanced Modular Rifle System)입니다. 다른 팬서 MRS와 달리 이 모델은 화력과 장갑 관통 능력을 강화하기 위해 추가적인 사격 메커니즘을 탑재하고 있습니다. 전자기 유도 총신에서 가속된 이 소총의 발사체는 극초음속으로 사출됩니다.</GD_HybridRifle.description>
   <GD_HybridRifle.tools.stock.label>개머리판</GD_HybridRifle.tools.stock.label>

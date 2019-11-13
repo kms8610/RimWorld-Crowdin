@@ -121,30 +121,30 @@
   <AEXP_Wildebeest.labelMalePlural>수컷 누</AEXP_Wildebeest.labelMalePlural>
   <AEXP_Wildebeest.labelFemale>암컷 누</AEXP_Wildebeest.labelFemale>
   <AEXP_Wildebeest.labelFemalePlural>암컷 누</AEXP_Wildebeest.labelFemalePlural>
-  <AEXP_Crocodile.label>악어</AEXP_Crocodile.label>
-  <AEXP_Crocodile.labelPlural>악어</AEXP_Crocodile.labelPlural>
-  <AEXP_Crocodile.lifeStages.0.label>악어</AEXP_Crocodile.lifeStages.0.label>
-  <AEXP_Crocodile.lifeStages.0.labelPlural>악어</AEXP_Crocodile.lifeStages.0.labelPlural>
-  <AEXP_Crocodile.lifeStages.0.labelMale>수컷 악어</AEXP_Crocodile.lifeStages.0.labelMale>
-  <AEXP_Crocodile.lifeStages.0.labelMalePlural>수컷 악어</AEXP_Crocodile.lifeStages.0.labelMalePlural>
-  <AEXP_Crocodile.lifeStages.0.labelFemale>암컷 악어</AEXP_Crocodile.lifeStages.0.labelFemale>
-  <AEXP_Crocodile.lifeStages.0.labelFemalePlural>암컷 악어</AEXP_Crocodile.lifeStages.0.labelFemalePlural>
-  <AEXP_Crocodile.lifeStages.1.label>악어</AEXP_Crocodile.lifeStages.1.label>
-  <AEXP_Crocodile.lifeStages.1.labelPlural>악어</AEXP_Crocodile.lifeStages.1.labelPlural>
-  <AEXP_Crocodile.lifeStages.1.labelMale>수컷 악어</AEXP_Crocodile.lifeStages.1.labelMale>
-  <AEXP_Crocodile.lifeStages.1.labelMalePlural>수컷 악어</AEXP_Crocodile.lifeStages.1.labelMalePlural>
-  <AEXP_Crocodile.lifeStages.1.labelFemale>암컷 악어</AEXP_Crocodile.lifeStages.1.labelFemale>
-  <AEXP_Crocodile.lifeStages.1.labelFemalePlural>암컷 악어</AEXP_Crocodile.lifeStages.1.labelFemalePlural>
-  <AEXP_Crocodile.lifeStages.2.label>악어</AEXP_Crocodile.lifeStages.2.label>
-  <AEXP_Crocodile.lifeStages.2.labelPlural>악어</AEXP_Crocodile.lifeStages.2.labelPlural>
-  <AEXP_Crocodile.lifeStages.2.labelMale>수컷 악어</AEXP_Crocodile.lifeStages.2.labelMale>
-  <AEXP_Crocodile.lifeStages.2.labelMalePlural>수컷 악어</AEXP_Crocodile.lifeStages.2.labelMalePlural>
-  <AEXP_Crocodile.lifeStages.2.labelFemale>암컷 악어</AEXP_Crocodile.lifeStages.2.labelFemale>
-  <AEXP_Crocodile.lifeStages.2.labelFemalePlural>암컷 악어</AEXP_Crocodile.lifeStages.2.labelFemalePlural>
-  <AEXP_Crocodile.labelMale>수컷 악어</AEXP_Crocodile.labelMale>
-  <AEXP_Crocodile.labelMalePlural>수컷 악어</AEXP_Crocodile.labelMalePlural>
-  <AEXP_Crocodile.labelFemale>암컷 악어</AEXP_Crocodile.labelFemale>
-  <AEXP_Crocodile.labelFemalePlural>암컷 악어</AEXP_Crocodile.labelFemalePlural>
+  <AEXP_Crocodile.label>바다악어</AEXP_Crocodile.label>
+  <AEXP_Crocodile.labelPlural>바다악어</AEXP_Crocodile.labelPlural>
+  <AEXP_Crocodile.lifeStages.0.label>바다악어</AEXP_Crocodile.lifeStages.0.label>
+  <AEXP_Crocodile.lifeStages.0.labelPlural>바다악어</AEXP_Crocodile.lifeStages.0.labelPlural>
+  <AEXP_Crocodile.lifeStages.0.labelMale>수컷 바다악어</AEXP_Crocodile.lifeStages.0.labelMale>
+  <AEXP_Crocodile.lifeStages.0.labelMalePlural>수컷 바다악어</AEXP_Crocodile.lifeStages.0.labelMalePlural>
+  <AEXP_Crocodile.lifeStages.0.labelFemale>암컷 바다악어</AEXP_Crocodile.lifeStages.0.labelFemale>
+  <AEXP_Crocodile.lifeStages.0.labelFemalePlural>암컷 바다악어</AEXP_Crocodile.lifeStages.0.labelFemalePlural>
+  <AEXP_Crocodile.lifeStages.1.label>바다악어</AEXP_Crocodile.lifeStages.1.label>
+  <AEXP_Crocodile.lifeStages.1.labelPlural>바다악어</AEXP_Crocodile.lifeStages.1.labelPlural>
+  <AEXP_Crocodile.lifeStages.1.labelMale>수컷 바다악어</AEXP_Crocodile.lifeStages.1.labelMale>
+  <AEXP_Crocodile.lifeStages.1.labelMalePlural>수컷 바다악어</AEXP_Crocodile.lifeStages.1.labelMalePlural>
+  <AEXP_Crocodile.lifeStages.1.labelFemale>암컷 바다악어</AEXP_Crocodile.lifeStages.1.labelFemale>
+  <AEXP_Crocodile.lifeStages.1.labelFemalePlural>암컷 바다악어</AEXP_Crocodile.lifeStages.1.labelFemalePlural>
+  <AEXP_Crocodile.lifeStages.2.label>바다악어</AEXP_Crocodile.lifeStages.2.label>
+  <AEXP_Crocodile.lifeStages.2.labelPlural>바다악어</AEXP_Crocodile.lifeStages.2.labelPlural>
+  <AEXP_Crocodile.lifeStages.2.labelMale>수컷 바다악어</AEXP_Crocodile.lifeStages.2.labelMale>
+  <AEXP_Crocodile.lifeStages.2.labelMalePlural>수컷 바다악어</AEXP_Crocodile.lifeStages.2.labelMalePlural>
+  <AEXP_Crocodile.lifeStages.2.labelFemale>암컷 바다악어</AEXP_Crocodile.lifeStages.2.labelFemale>
+  <AEXP_Crocodile.lifeStages.2.labelFemalePlural>암컷 바다악어</AEXP_Crocodile.lifeStages.2.labelFemalePlural>
+  <AEXP_Crocodile.labelMale>수컷 바다악어</AEXP_Crocodile.labelMale>
+  <AEXP_Crocodile.labelMalePlural>수컷 바다악어</AEXP_Crocodile.labelMalePlural>
+  <AEXP_Crocodile.labelFemale>암컷 바다악어</AEXP_Crocodile.labelFemale>
+  <AEXP_Crocodile.labelFemalePlural>암컷 바다악어</AEXP_Crocodile.labelFemalePlural>
   <AEXP_Cheetah.label>치타</AEXP_Cheetah.label>
   <AEXP_Cheetah.labelPlural>치타</AEXP_Cheetah.labelPlural>
   <AEXP_Cheetah.lifeStages.0.label>치타</AEXP_Cheetah.lifeStages.0.label>

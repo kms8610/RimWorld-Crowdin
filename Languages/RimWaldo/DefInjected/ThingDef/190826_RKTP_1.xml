@@ -12257,7 +12257,7 @@
   <ROM_Gun_PumpShotgun_COC.tools.1.label>총열</ROM_Gun_PumpShotgun_COC.tools.1.label>
   <ROM_Gun_SurvivalRifle_COC.tools.1.label>총열</ROM_Gun_SurvivalRifle_COC.tools.1.label>
   <ROM_Gun_LPRifle_COC.tools.1.label>총열</ROM_Gun_LPRifle_COC.tools.1.label>
-  <ROM_Apparel_CallOfCthulhuBowler.label>중산모 제작</ROM_Apparel_CallOfCthulhuBowler.label>
+  <ROM_Apparel_CallOfCthulhuBowler.label>중산모</ROM_Apparel_CallOfCthulhuBowler.label>
   <ROM_Gun_Flaregun.label>해안 조명탄</ROM_Gun_Flaregun.label>
   <ROM_Apparel1920sPoliceHat.description>누군가를 권위있는 인물로 지명합니다. 이 지명도의 정확성은 보는 사람들의 판단에 맡겨집니다.</ROM_Apparel1920sPoliceHat.description>
   <ROM_Apparel_CallOfCthulhuShirtTie.description>20세기동안 이 의복은 직무를 수행하는데 있어 가장 유행했습니다.</ROM_Apparel_CallOfCthulhuShirtTie.description>
@@ -14067,18 +14067,6 @@
   <FSFPolymerFloor_Blueprint.label>경량 중합체 바닥 (청사진)</FSFPolymerFloor_Blueprint.label>
   <FSFPolymerFloor_Frame.label>경량 중합체 바닥 (건설 중)</FSFPolymerFloor_Frame.label>
   <FSFPolymerFloor_Frame.description>작업이 진행중 입니다.</FSFPolymerFloor_Frame.description>
-
-  <!--928376710_190628_Zombieland-->
-  <Zombie.label>좀비</Zombie.label>
-  <Zombie.description>좀비 입니다.</Zombie.description>
-  <Zombie.tools.0.label>물기</Zombie.tools.0.label>
-  <Zombie.tools.1.label>왼쪽 주먹</Zombie.tools.1.label>
-  <Zombie.tools.2.label>오른쪽 주먹</Zombie.tools.2.label>
-  <Zombie_Corpse.label>좀비 시체</Zombie_Corpse.label>
-  <Zombie_Corpse.description>좀비 시체입니다.</Zombie_Corpse.description>
-  <Apparel_BombVest.label>폭탄달린 조끼</Apparel_BombVest.label>
-  <Apparel_BombVest.description>폭발되는 조끼입니다.</Apparel_BombVest.description>
-  <StickyGoo.label>독성물질</StickyGoo.label>
 
   <!--928992405_190519_1.0_Starship_Troopers_Arachnids-->
   <ArachnidHive.label>아라크니드 둥지</ArachnidHive.label>

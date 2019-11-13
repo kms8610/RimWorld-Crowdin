@@ -3,7 +3,7 @@
 
   <Recon.label>Recon</Recon.label>
   <Recon.description>정찰 임무를 수행하고, 다가오는 적을 탐지합니다.</Recon.description>
-  <Recon.labelShort>정찰하다</Recon.labelShort>
+  <Recon.labelShort>정찰</Recon.labelShort>
   <Recon.pawnLabel>보초병</Recon.pawnLabel>
   <Recon.gerundLabel>정찰 임무 수행</Recon.gerundLabel>
   <Recon.verb>정찰 임무 수행</Recon.verb>

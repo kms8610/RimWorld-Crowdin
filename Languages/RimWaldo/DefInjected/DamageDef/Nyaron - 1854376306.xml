@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Shockbullet.label>전기총</Shockbullet.label>
+  <Shockbullet.deathMessage>{0}의 심장이 마비되었니다.</Shockbullet.deathMessage>
+  <EnergyBall.label>에너지볼</EnergyBall.label>
+  <EnergyBall.deathMessage>{0}(이)가 죽었습니다.</EnergyBall.deathMessage>
+
+</LanguageData>

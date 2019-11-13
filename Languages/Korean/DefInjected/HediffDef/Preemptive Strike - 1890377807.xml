@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-
-  <PES_CombatFervor.label>전투열의</PES_CombatFervor.label>
-  <PES_CombatFervor.stages.0.label>Combat Fervor</PES_CombatFervor.stages.0.label>
-  <PES_CombatTiredness.label>전투태만</PES_CombatTiredness.label>
-  <PES_CombatTiredness.stages.0.label>Combat Tiredness</PES_CombatTiredness.stages.0.label>
-
-</LanguageData>

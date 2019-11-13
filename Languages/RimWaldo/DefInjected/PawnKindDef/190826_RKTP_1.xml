@@ -638,30 +638,9 @@
   <YoungTribalWarrior.labelPlural>젊은 전사</YoungTribalWarrior.labelPlural>
 
   <!--1541353047_190628_Zombiefied-->
-  <Zombie.lifeStages.0.labelFemale>여성 좀비</Zombie.lifeStages.0.labelFemale>
-  <Zombie.lifeStages.1.labelFemale>여성 좀비</Zombie.lifeStages.1.labelFemale>
-  <Zombie.lifeStages.2.labelFemale>여성 좀비</Zombie.lifeStages.2.labelFemale>
-  <Zombie.labelFemale>여성 좀비</Zombie.labelFemale>
-  <Zombie.lifeStages.0.labelFemalePlural>여성 좀비</Zombie.lifeStages.0.labelFemalePlural>
-  <Zombie.lifeStages.1.labelFemalePlural>여성 좀비</Zombie.lifeStages.1.labelFemalePlural>
-  <Zombie.lifeStages.2.labelFemalePlural>여성 좀비</Zombie.lifeStages.2.labelFemalePlural>
-  <Zombie.labelFemalePlural>여성 좀비</Zombie.labelFemalePlural>
-  <Zombie.lifeStages.0.labelMale>남성 좀비</Zombie.lifeStages.0.labelMale>
-  <Zombie.lifeStages.1.labelMale>남성 좀비</Zombie.lifeStages.1.labelMale>
-  <Zombie.lifeStages.2.labelMale>남성 좀비</Zombie.lifeStages.2.labelMale>
-  <Zombie.labelMale>남성 좀비</Zombie.labelMale>
-  <Zombie.lifeStages.0.labelMalePlural>남성 좀비</Zombie.lifeStages.0.labelMalePlural>
-  <Zombie.lifeStages.1.labelMalePlural>남성 좀비</Zombie.lifeStages.1.labelMalePlural>
-  <Zombie.lifeStages.2.labelMalePlural>남성 좀비</Zombie.lifeStages.2.labelMalePlural>
-  <Zombie.labelMalePlural>남성 좀비</Zombie.labelMalePlural>
+
   <Zombie.label>좀비</Zombie.label>
-  <Zombie.lifeStages.0.label>좀비</Zombie.lifeStages.0.label>
-  <Zombie.lifeStages.0.labelPlural>좀비</Zombie.lifeStages.0.labelPlural>
-  <Zombie.lifeStages.1.label>좀비</Zombie.lifeStages.1.label>
-  <Zombie.lifeStages.1.labelPlural>좀비</Zombie.lifeStages.1.labelPlural>
-  <Zombie.lifeStages.2.label>좀비</Zombie.lifeStages.2.label>
-  <Zombie.lifeStages.2.labelPlural>좀비</Zombie.lifeStages.2.labelPlural>
-  <Zombie.labelPlural>좀비</Zombie.labelPlural>
+  <Zombie.labelPlural>좀비들</Zombie.labelPlural>
 
   <!--1541620640_190628_HousekeeperAssistanceCat-->
   <HousekeeperCat.lifeStages.1.labelFemale>여성 청소 고양이</HousekeeperCat.lifeStages.1.labelFemale>
@@ -2116,10 +2095,6 @@
   <PJ_ImpTaxOfficer.labelPlural>세금 책임자들</PJ_ImpTaxOfficer.labelPlural>
   <PJ_RebVillager.label>마을 사람</PJ_RebVillager.label>
   <PJ_RebVillager.labelPlural>마을 사람들</PJ_RebVillager.labelPlural>
-
-  <!--928376710_190628_Zombieland-->
-  <Zombie.label>좀비</Zombie.label>
-  <Zombie.labelPlural>좀비</Zombie.labelPlural>
 
   <!--928992405_190519_1.0_Starship_Troopers_Arachnids-->
   <ScorpionBug.labelPlural>스콜피온 버그</ScorpionBug.labelPlural>

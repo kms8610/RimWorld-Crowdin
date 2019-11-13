@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+
   <Drained.label>흡수</Drained.label>
   <Drained.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef](이)가 에너지가 소진되어 쓰러졌습니다</Drained.rulePack.rulesStrings.0>
   <Drained.rulePack.rulesStrings.1>image->[PAWN_nameFull](이)가 [circumstance_group] 바닥에 쓰러졌습니다</Drained.rulePack.rulesStrings.1>

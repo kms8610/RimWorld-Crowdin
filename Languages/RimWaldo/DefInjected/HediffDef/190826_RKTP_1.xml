@@ -1854,14 +1854,6 @@
   <PJ_BBurn.comps.0.labelSolidTendedWell>적당히 됨</PJ_BBurn.comps.0.labelSolidTendedWell>
   <PJ_AcBurn.comps.0.labelSolidTendedWell>적당히 됨</PJ_AcBurn.comps.0.labelSolidTendedWell>
 
-  <!--928376710_190628_Zombieland-->
-  <ZombieBite.label>좀비에게 물림</ZombieBite.label>
-  <ZombieBite.comps.0.labelTendedWell>붕대감음</ZombieBite.comps.0.labelTendedWell>
-  <ZombieBite.comps.0.labelTendedWellInner>봉함됨</ZombieBite.comps.0.labelTendedWellInner>
-  <ZombieBite.comps.0.labelSolidTendedWell>접합됨</ZombieBite.comps.0.labelSolidTendedWell>
-  <ZombieBite.injuryProps.destroyedLabel>좀비에게 물어뜯김</ZombieBite.injuryProps.destroyedLabel>
-  <ZombieBite.injuryProps.destroyedOutLabel>좀비에게 물어뜯김</ZombieBite.injuryProps.destroyedOutLabel>
-
   <!--950475543_190818_Rim of Madness - Arachnophobia-->
   <ROMA_Neurotoxin.stages.5.label>극심함</ROMA_Neurotoxin.stages.5.label>
   <ROMA_Neurotoxin.stages.0.label>초기</ROMA_Neurotoxin.stages.0.label>

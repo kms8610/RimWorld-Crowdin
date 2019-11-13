@@ -23,4 +23,8 @@
   <OrbitalTrader>궤도 상인 대기 중</OrbitalTrader>
   <OrbitalTraderDesc>궤도상에 대기 중인 상선이 있습니다. :\n\n{0}\n통신기를 사용하여 거래할 수 있습니다.</OrbitalTraderDesc>
 
+  <!-- Toggle Harvest -->
+  <ToggleHarvest.CommandAllowHarvest>수확 허용</ToggleHarvest.CommandAllowHarvest>
+  <ToggleHarvest.CommandAllowHarvestDesc>허용하지 않으면, 정착민들은 이 재배구역의 식물은 절대 수확하지 않을 것입니다.</ToggleHarvest.CommandAllowHarvestDesc>
+
 </LanguageData>

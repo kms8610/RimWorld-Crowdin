@@ -31,22 +31,22 @@
   <GasBill_NotEnoughGas>가스 부족 ({0})</GasBill_NotEnoughGas>
   <CokeFurnace_infinity>무한</CokeFurnace_infinity>
   <CokeFurnace_Notinfinity>번호</CokeFurnace_Notinfinity>
-  <TryStartQuestDialog>퀘스트 체크</TryStartQuestDialog>
-  <QuestFail>퀘스트 {0} 실패</QuestFail>
-  <QuestSuccess>퀘스트 {1} 완료</QuestSuccess>
-  <QuestTimeout>퀘스트 {0}의 시간이 만료되었습니다.</QuestTimeout>
+  <TryStartQuestDialog>기회 확인</TryStartQuestDialog>
+  <QuestFail>기회 {0} 실패</QuestFail>
+  <QuestSuccess>기회 {1} 완료</QuestSuccess>
+  <QuestTimeout>기회 {0}의 시간이 만료되었습니다.</QuestTimeout>
   <UnlimitedTime>남은 시간: 제한없음</UnlimitedTime>
   <QuestTimer>남은 시간: {0} 일</QuestTimer>
   <QuestRewards>보상</QuestRewards>
   <AdditionalQuestContent>추가</AdditionalQuestContent>
   <OpenCommsGeo>콘솔 사용</OpenCommsGeo>
   <OpenCommsGeoNoPower>콘솔 사용 [전력없음]</OpenCommsGeoNoPower>
-  <EventsCommTab>진행중인 이벤트</EventsCommTab>
-  <QuestsCommTab>퀘스트</QuestsCommTab>
+  <EventsCommTab>진행 중인 사건</EventsCommTab>
+  <QuestsCommTab>기회</QuestsCommTab>
   <InteractionCommTab>통신</InteractionCommTab>
-  <RelatedEventCom>관련 이벤트: {0}</RelatedEventCom>
+  <RelatedEventCom>관련 사건: {0}</RelatedEventCom>
   <FactionComm>세력: {0}</FactionComm>
-  <NoEventComm>관련 이벤트: 아님</NoEventComm>
+  <NoEventComm>관련 사건: 아님</NoEventComm>
   <NoFactionComm>세력: 아님</NoFactionComm>
   <HelpingFactionsList>\n도움:</HelpingFactionsList>
   <SupportFullDoomsday>도움의 손길이 온전합니다. 더 이상의 행동을 취할 수 없습니다.</SupportFullDoomsday>
@@ -106,13 +106,13 @@
   <TakeQuestFromPawnLetter>퀘스트 "{0}" 수행.</TakeQuestFromPawnLetter>
   <TakeQuestFromPawnLetterDesc>당신은 퀘스트 "{0}"(을)를 시작했습니다. 작업에 대한 추가 정보는 지오 스케프에서 볼 수 있습니다.\n----------------\n{1}</TakeQuestFromPawnLetterDesc>
   <Pocahontas_CardLabel>통합 교환 토론</Pocahontas_CardLabel>
-  <CommOption_PawnOfferYes_Label>적용 {0}</CommOption_PawnOfferYes_Label>
+  <CommOption_PawnOfferYes_Label>{0} 수락</CommOption_PawnOfferYes_Label>
   <CommOption_PawnOfferYesTitle>보충</CommOption_PawnOfferYesTitle>
-  <CommOption_PawnOfferYes>당신은 그 제안을 받아들였다. 정착민 {0}(이)가 당신의 정착지 목록에 추가되었습니다. {1} 세력과의 관계도 개선되었습니다.</CommOption_PawnOfferYes>
+  <CommOption_PawnOfferYes>제안을 수락했습니다. {0}(이)가 정착민으로 합류했고, {1} 세력과의 관계도 개선되었습니다.</CommOption_PawnOfferYes>
   <PawnInfo>{PAWN_gender ? 남성 : 여성}, {PAWN_kind}. {PAWN_possessive} 이름은 {PAWN_nameDef}, 그리고 {PAWN_pronoun}의 배경은 {PAWN_title}입니다.</PawnInfo>
   <CommOption_DeclineQuest_Label>거절</CommOption_DeclineQuest_Label>
   <CommOption_DeclineDialog_Label>거절</CommOption_DeclineDialog_Label>
-  <ActualOnlyThisMap>이 제안은 방문객이 함께 있을 동안 유효합니다.</ActualOnlyThisMap>
+  <ActualOnlyThisMap>이 제안은 정착민으로 함께 있을 동안에만 유효합니다.</ActualOnlyThisMap>
   <TimerInfo>이 제안은 {0}일 동안 유효합니다.</TimerInfo>
   <CommunicationDialog_PocahontasTitle>제안이 거부 됨</CommunicationDialog_PocahontasTitle>
   <CommunicationDialog_Pocahontas>당신은 공동 거주 제안을 수락하지 않았으므로 {0} 세력과의 관계가 축소될 것입니다.</CommunicationDialog_Pocahontas>
@@ -134,6 +134,7 @@
   <NonAfressionPackCompTitle>협약 기간이 끝났습니다</NonAfressionPackCompTitle>
   <NonAfressionPackComp>{0} 세력과의 협약이 완료되었습니다. 이제 그들은 당신을 다시 공격 할 수 있습니다.</NonAfressionPackComp>
   <CommunicationComponent_CommunicationDialogTimer>알림</CommunicationComponent_CommunicationDialogTimer>
+
   <DS_InstallCommand_Title>건설 {0}</DS_InstallCommand_Title>
   <DS_InstallCommand_Desc>새로운 오프젝트 건설</DS_InstallCommand_Desc>
   <Supernova_label>초신성 폭발</Supernova_label>
@@ -274,7 +275,13 @@
   <Building_TribalCrack_Desc>{0}(이)가 부족 정착지와 연결되는 터널을 파괴했습니다.</Building_TribalCrack_Desc>
   <Building_TribalCrack_DoDestroyAction>손으로 구멍 채우기</Building_TribalCrack_DoDestroyAction>
   <Building_TribalCrack_Info>매장: {0}</Building_TribalCrack_Info>
-  <QuestPrefix>퀘스트</QuestPrefix>
+
+
+
+
+
+
+  <QuestPrefix>기회</QuestPrefix>
   <Quest_RequiredItems>자원 요청</Quest_RequiredItems>
   <Quest_HelpItems_Site>자원 전송 위치</Quest_HelpItems_Site>
   <HowToCheckReqList>필수항목 목록을 보려면 상세 정보를 여십시오.</HowToCheckReqList>

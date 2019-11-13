@@ -244,12 +244,6 @@
   <PJ_RebelFac.label>반란군 동맹</PJ_RebelFac.label>
   <PJ_Bounty.label>인간쓰레기와 악당들의 비참한 벌집</PJ_Bounty.label>
 
-  <!--928376710_190628_Zombieland-->
-  <Zombies.label>좀비</Zombies.label>
-  <Zombies.description>죽었지만 되살아난 존재들입니다.</Zombies.description>
-  <Zombies.fixedName>좀비</Zombies.fixedName>
-  <Zombies.pawnsPlural>좀비</Zombies.pawnsPlural>
-
   <!--928992405_190519_1.0_Starship_Troopers_Arachnids-->
   <Arachnid.label>아라크니드</Arachnid.label>
   <Arachnid.description>일반적으로 공격적이며 거슬리는 곤충들입니다.</Arachnid.description>

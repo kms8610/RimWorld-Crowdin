@@ -16,11 +16,11 @@
   <PrisonLabor_AllowedWorkTypesL>허용 된 작업 유형:</PrisonLabor_AllowedWorkTypesL>
   <PrisonLabor_Browse>검색</PrisonLabor_Browse>
   <PrisonLabor_MotivationMechanics>동기 부여 역학 (!)</PrisonLabor_MotivationMechanics>
-  <PrisonLabor_MotivationWarning>수감자들을 감시할 때 동기 부여가 필요함.\n\n주의: 재시작 필요</PrisonLabor_MotivationWarning>
+  <PrisonLabor_MotivationWarning>수감자들은 동기부여를 필요로 함.\n\n주의 : 저장 후 다시 불러오기 필요</PrisonLabor_MotivationWarning>
   <PrisonLabor_MotivationIcons>영감/동기 부여 기호</PrisonLabor_MotivationIcons>
-  <PrisonLabor_MotivationIconsDesc>활성화 된 기호는 수감자의 머리 위에 표시됩니다. 영감은 파란색 기호, 동기 부여는 녹색 기호입니다.</PrisonLabor_MotivationIconsDesc>
+  <PrisonLabor_MotivationIconsDesc>활성화 된 기호는 수감자의 머리 위에 파란색 기호로 표시됩니다.</PrisonLabor_MotivationIconsDesc>
   <PrisonLabor_CanGrowAdvanced>수감자가 고급 작물들도 재배 가능</PrisonLabor_CanGrowAdvanced>
-  <PrisonLabor_CanGrowAdvancedDesc>무능한 수감자들은 기술을 필요로 하지 않는 식물만 재배할 수 있습니다.</PrisonLabor_CanGrowAdvancedDesc>
+  <PrisonLabor_CanGrowAdvancedDesc>옵션 비활성화시 수감자들은 기술을 필요로 하지 않는 식물만 재배할 수 있습니다.</PrisonLabor_CanGrowAdvancedDesc>
   <PrisonLabor_Version>버전:</PrisonLabor_Version>
   <PrisonLabor_Difficulty>난이도:</PrisonLabor_Difficulty>
   <PrisonLabor_Defaults>기본</PrisonLabor_Defaults>
@@ -30,13 +30,13 @@
   <PrisonLabor_DifficultyPeaceful>평화로움</PrisonLabor_DifficultyPeaceful>
   <PrisonLabor_DifficultyJoke>농담</PrisonLabor_DifficultyJoke>
   <PrisonLabor_LazyPrisonerAlert>수감자들이 일하지 않음</PrisonLabor_LazyPrisonerAlert>
-  <PrisonLabor_LazyPrisonerExplanationDef>수감자들이 게으름을 피웁니다. 동기를 부여해보세요.</PrisonLabor_LazyPrisonerExplanationDef>
-  <PrisonLabor_LazyPrisonerExplanation>게으름 피우는 수감자:\n\n{0}\n동기를 부여해보세요.</PrisonLabor_LazyPrisonerExplanation>
+  <PrisonLabor_LazyPrisonerExplanationDef>수감자들이 게으름을 피웁니다. 동기를 부여하세요.</PrisonLabor_LazyPrisonerExplanationDef>
+  <PrisonLabor_LazyPrisonerExplanation>게으름 피우는 수감자:\n\n{0}\n동기를 부여하세요.</PrisonLabor_LazyPrisonerExplanation>
   <PrisonLabor_StarvingPrisonerAlert>수감자들이 굶주리고 있음</PrisonLabor_StarvingPrisonerAlert>
   <PrisonLabor_StarvingPrisonerExplanationDef>굶주림으로 인해 수감자들이 일을 하지 않고 있습니다.</PrisonLabor_StarvingPrisonerExplanationDef>
   <PrisonLabor_StarvingPrisonerExplanation>굶주림으로 인해 일하지 않는 수감자:\n\n{0}</PrisonLabor_StarvingPrisonerExplanation>
-  <PrisonLabor_LaborArea>감옥 작업 구역</PrisonLabor_LaborArea>
-  <PrisonLabor_LaborAreaDesc>감옥 작업 구역은 수감자들만 일할 수 있는 구역입니다. 교도관이 오는 것을 제외하고는 이곳에서 정착민들은 일을 하지 않습니다.</PrisonLabor_LaborAreaDesc>
+  <PrisonLabor_LaborArea>죄수 작업 구역</PrisonLabor_LaborArea>
+  <PrisonLabor_LaborAreaDesc>죄수 작업 구역은 수감자들만 일할 수 있는 구역입니다. 교도관이 오는 것을 제외하고는 이곳에서 정착민들은 일을 하지 않습니다.</PrisonLabor_LaborAreaDesc>
   <PrisonLabor_ClearLaborArea>작업 구역 삭제</PrisonLabor_ClearLaborArea>
   <PrisonLabor_ExpandLaborArea>작업 구역 확장</PrisonLabor_ExpandLaborArea>
   <PrisonLabor_EnableRevolts>반란 허용</PrisonLabor_EnableRevolts>

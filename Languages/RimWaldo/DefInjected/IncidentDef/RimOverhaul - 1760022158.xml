@@ -109,7 +109,7 @@
   <SummerSolstice.letterText>가장 긴 날. 당신의 정착민들은 긍정적인 대가를 받았습니다!</SummerSolstice.letterText>
   <SummerSolstice.letterLabel>하지점</SummerSolstice.letterLabel>
   <Pocahontas.label>포카혼타스</Pocahontas.label>
-  <Pocahontas.letterText>{1} 세력의 정착지 {0}에서 함께 지낼 {2}(을)를 보내줬습니다.\n제안을 수락하면 {2}(이)가 합류하여 생활하며 관계가 개선됩니다.\n거절하게 되면 관계가 악화됩니다.\n\n{2}의 특징:\n{3}\n\n\n{4}</Pocahontas.letterText>
+  <Pocahontas.letterText>{1} 세력의 정착지 {0}에서 함께 지낼 {2}(을)를 보내준다고 합니다.\n제안을 수락하면 {2}(이)가 합류하여 관계가 개선됩니다.\n거절하게 되면 관계가 악화됩니다.\n\n{2}의 특징:\n{3}\n\n\n{4}</Pocahontas.letterText>
   <Pocahontas.letterLabel>포카혼타스</Pocahontas.letterLabel>
   <SeaAir.label>바닷 바람</SeaAir.label>
   <SeaAir.letterText>유난히 상쾌한 바닷바람! 정착민들은 기분이 훨씬 나아졌습니다!</SeaAir.letterText>

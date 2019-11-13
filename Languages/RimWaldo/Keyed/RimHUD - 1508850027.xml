@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RimHUD.Language.AdjectiveNounOrder>{0} {1}</RimHUD.Language.AdjectiveNounOrder>
+  <RimHUD.ToggleHud>HUD 보기</RimHUD.ToggleHud>
+  <RimHUD.Button.OK>확인</RimHUD.Button.OK>
+  <RimHUD.Button.Yes>예</RimHUD.Button.Yes>
+  <RimHUD.Button.No>아니오</RimHUD.Button.No>
+  <RimHUD.Button.Cancel>취소</RimHUD.Button.Cancel>
+  <RimHUD.Button.Close>닫기</RimHUD.Button.Close>
+  <RimHUD.Button.Save>Save</RimHUD.Button.Save>
+  <RimHUD.Dialog_Config.Title>RimHUD</RimHUD.Dialog_Config.Title>
+  <RimHUD.Dialog_Config.SetToDefault>디폴트값 사용</RimHUD.Dialog_Config.SetToDefault>
+  <RimHUD.Dialog_Config.OpenFolder>구성 폴더</RimHUD.Dialog_Config.OpenFolder>
+  <RimHUD.Dialog_Config.Tab.Design>디자인</RimHUD.Dialog_Config.Tab.Design>
+  <RimHUD.Dialog_Config.Tab.Colors>색상</RimHUD.Dialog_Config.Tab.Colors>
+  <RimHUD.Dialog_Config.Tab.Colors.Editor>{0}의 색상 편집</RimHUD.Dialog_Config.Tab.Colors.Editor>
+  <RimHUD.Dialog_Config.Tab.Colors.Hue>색조</RimHUD.Dialog_Config.Tab.Colors.Hue>
+  <RimHUD.Dialog_Config.Tab.Colors.Saturation>채도</RimHUD.Dialog_Config.Tab.Colors.Saturation>
+  <RimHUD.Dialog_Config.Tab.Colors.Lightness>명도</RimHUD.Dialog_Config.Tab.Colors.Lightness>
+  <RimHUD.Dialog_Config.Tab.Colors.Alpha>알파 값</RimHUD.Dialog_Config.Tab.Colors.Alpha>
+  <RimHUD.Dialog_Config.Tab.Colors.Hex>헥스코드</RimHUD.Dialog_Config.Tab.Colors.Hex>
+  <RimHUD.Dialog_Config.Tab.Content>내용물</RimHUD.Dialog_Config.Tab.Content>
+  <RimHUD.Dialog_Config.Tab.Content.Preset>사전설정 선택</RimHUD.Dialog_Config.Tab.Content.Preset>
+  <RimHUD.Dialog_Config.Tab.Content.Preset.Default>기본값</RimHUD.Dialog_Config.Tab.Content.Preset.Default>
+  <RimHUD.Dialog_Config.Tab.Content.Preset.DefaultLoaded>레이아웃이 기본값으로 재설정됩니다.</RimHUD.Dialog_Config.Tab.Content.Preset.DefaultLoaded>
+  <RimHUD.Dialog_Config.Tab.Content.Preset.Loaded>'{0}' 모드에 대한 레이아웃 사전 설정이 로드되었습니다.</RimHUD.Dialog_Config.Tab.Content.Preset.Loaded>
+  <RimHUD.Dialog_Config.Tab.Content.Mode>모드 선택</RimHUD.Dialog_Config.Tab.Content.Mode>
+
+  <RimHUD.Dialog_Config.Tab.Content.Layout>레이아웃</RimHUD.Dialog_Config.Tab.Content.Layout>
+
+  <RimHUD.Dialog_Config.Tab.Integration>통합</RimHUD.Dialog_Config.Tab.Integration>
+
+  <RimHUD.Alert.ConfigReset>RimHUD이 {0} 버전으로 업데이트되었습니다. 환경설정을 기본값으로 재설정해야 합니다.</RimHUD.Alert.ConfigReset>
+  <RimHUD.Alert.SetToDefault>설정을 기본값으로 되돌리시겠습니까?</RimHUD.Alert.SetToDefault>
+
+  <RimHUD.Alert.NotImplemented>이 기능은 아직 구현되지 않았습니다.</RimHUD.Alert.NotImplemented>
+  <RimHUD.Alert.MoreComingSoon>더 많은 기능이 곧 출시될 예정입니다.™</RimHUD.Alert.MoreComingSoon>
+  <RimHUD.InspectPane.MedicalCare>정착민의 의료 서비스 수준 변경 {0}.\n\n현황: {1}</RimHUD.InspectPane.MedicalCare>
+  <RimHUD.Integration.GetMod>모드로 바로가기</RimHUD.Integration.GetMod>
+  <RimHUD.Integration.General>일반 세팅</RimHUD.Integration.General>
+  <RimHUD.Integration.Bubbles>Interaction Bubbles</RimHUD.Integration.Bubbles>
+  <RimHUD.Integration.Bubbles.Activated>활성화됨</RimHUD.Integration.Bubbles.Activated>
+  <RimHUD.Integration.Bubbles.DoNonPlayer>비-플레이어 세력 표시</RimHUD.Integration.Bubbles.DoNonPlayer>
+  <RimHUD.Integration.Bubbles.DoAnimals>동물 상호작용 표시</RimHUD.Integration.Bubbles.DoAnimals>
+  <RimHUD.Integration.Bubbles.MinScale>최소 줌 표시</RimHUD.Integration.Bubbles.MinScale>
+  <RimHUD.Integration.Bubbles.ScaleStart>시작 비율로 줌</RimHUD.Integration.Bubbles.ScaleStart>
+  <RimHUD.Integration.Bubbles.MaxWidth>최대 폭</RimHUD.Integration.Bubbles.MaxWidth>
+  <RimHUD.Integration.Bubbles.Spacing>간격</RimHUD.Integration.Bubbles.Spacing>
+  <RimHUD.Integration.Bubbles.StartOffset>레이블 간격 띄우기</RimHUD.Integration.Bubbles.StartOffset>
+  <RimHUD.Integration.Bubbles.OffsetDirection>간격띄우기 방향</RimHUD.Integration.Bubbles.OffsetDirection>
+  <RimHUD.Integration.Bubbles.OffsetDirections>아래|왼쪽|위|오른쪽</RimHUD.Integration.Bubbles.OffsetDirections>
+  <RimHUD.Integration.Bubbles.StartOpacity>불투명도 시작</RimHUD.Integration.Bubbles.StartOpacity>
+  <RimHUD.Integration.Bubbles.MouseOverOpacity>마우스-오버 불투명도</RimHUD.Integration.Bubbles.MouseOverOpacity>
+  <RimHUD.Integration.Bubbles.MinTime>최소 페이드 시간</RimHUD.Integration.Bubbles.MinTime>
+  <RimHUD.Integration.Bubbles.FadeStart>페이드 시작 눈금</RimHUD.Integration.Bubbles.FadeStart>
+  <RimHUD.Integration.Bubbles.FadeLength>페이드 눈금</RimHUD.Integration.Bubbles.FadeLength>
+  <RimHUD.Integration.Bubbles.MaxPerPawn>정착민 당 최대치</RimHUD.Integration.Bubbles.MaxPerPawn>
+  <RimHUD.Integration.Bubbles.FontSize>글자 크기</RimHUD.Integration.Bubbles.FontSize>
+  <RimHUD.Integration.Bubbles.PaddingX>텍스트 간격 X</RimHUD.Integration.Bubbles.PaddingX>
+  <RimHUD.Integration.Bubbles.PaddingY>텍스트 간격 Y</RimHUD.Integration.Bubbles.PaddingY>
+  <RimHUD.Integration.Bubbles.Colors>Bubble 색</RimHUD.Integration.Bubbles.Colors>
+  <RimHUD.Integration.Bubbles.ForeColor>글자 색</RimHUD.Integration.Bubbles.ForeColor>
+  <RimHUD.Integration.Bubbles.BackColor>배경 색</RimHUD.Integration.Bubbles.BackColor>
+  <RimHUD.Integration.Bubbles.SelectedForeColor>선택한 글자 색</RimHUD.Integration.Bubbles.SelectedForeColor>
+  <RimHUD.Integration.Bubbles.SelectedBackColor>선택한 배경 색</RimHUD.Integration.Bubbles.SelectedBackColor>
+  <RimHUD.Integration.PawnRules>Pawn Rules</RimHUD.Integration.PawnRules>
+  <RimHUD.Integration.PawnRules.RuleNameFormat>규칙: {0}</RimHUD.Integration.PawnRules.RuleNameFormat>
+  <RimHUD.Integration.PawnRules.ReplaceFoodSelector>음식 규칙 선택방법 교체</RimHUD.Integration.PawnRules.ReplaceFoodSelector>
+
+  <RimHUD.Integration.PawnRules.HideGizmo>Gizmo 숨기기</RimHUD.Integration.PawnRules.HideGizmo>
+  <RimHUD.Integration.PawnRules.HideGizmoDesc>소집 옆에 있는 규칙 버튼을 사용 안함\n(RimHUD 점검 창에 규칙 버튼을 추가할 수 있음)</RimHUD.Integration.PawnRules.HideGizmoDesc>
+  <RimHUD.Model.RelationKindAndFaction>{1} {0}</RimHUD.Model.RelationKindAndFaction>
+  <RimHUD.Model.OfFaction>{0}의</RimHUD.Model.OfFaction>
+  <RimHUD.Model.Faction.Own>아군</RimHUD.Model.Faction.Own>
+  <RimHUD.Model.Faction.Wild>야생</RimHUD.Model.Faction.Wild>
+  <RimHUD.Model.Faction.Allied>동맹</RimHUD.Model.Faction.Allied>
+  <RimHUD.Model.Faction.Enemy>적군,</RimHUD.Model.Faction.Enemy>
+  <RimHUD.Model.Faction.Hostile>적대적</RimHUD.Model.Faction.Hostile>
+  <RimHUD.Model.Faction.Independent>독립된</RimHUD.Model.Faction.Independent>
+  <RimHUD.Model.Creature.Wild>동물</RimHUD.Model.Creature.Wild>
+  <RimHUD.Model.Creature.Tame>길들인 생물</RimHUD.Model.Creature.Tame>
+  <RimHUD.Model.Creature.Stray>주인잃은 동물</RimHUD.Model.Creature.Stray>
+  <RimHUD.Model.Creature.Pet>애완동물</RimHUD.Model.Creature.Pet>
+  <RimHUD.Model.Creature.ExoticPet>이국적인 애완동물</RimHUD.Model.Creature.ExoticPet>
+  <RimHUD.Model.Creature.Predator>포식 동물</RimHUD.Model.Creature.Predator>
+  <RimHUD.Model.Creature.Hunt>사냥용 동물</RimHUD.Model.Creature.Hunt>
+  <RimHUD.Model.Creature.Pack>운반용 동물</RimHUD.Model.Creature.Pack>
+  <RimHUD.Model.Creature.Farm>경작용 동물</RimHUD.Model.Creature.Farm>
+  <RimHUD.Model.Creature.Herd>목축용 동물</RimHUD.Model.Creature.Herd>
+  <RimHUD.Model.Creature.Insect>곤충</RimHUD.Model.Creature.Insect>
+  <RimHUD.Model.GenderAndAge>{0}, 나이 {1}</RimHUD.Model.GenderAndAge>
+  <RimHUD.Model.Age.Birthday>(생일)</RimHUD.Model.Age.Birthday>
+  <RimHUD.Model.Age.Day>년</RimHUD.Model.Age.Day>
+  <RimHUD.Model.Age.Days>년 {0} 일</RimHUD.Model.Age.Days>
+  <RimHUD.Model.Health.Dead>죽음</RimHUD.Model.Health.Dead>
+  <RimHUD.Model.Health.Incapacitated>무력화</RimHUD.Model.Health.Incapacitated>
+  <RimHUD.Model.Health.Bleed>출혈 중 {0} 후 사망</RimHUD.Model.Health.Bleed>
+  <RimHUD.Model.Health.Tend>{0}군데의 치료가 필요함</RimHUD.Model.Health.Tend>
+  <RimHUD.Model.Health.TendPlural>{0}군데의 치료가 필요함</RimHUD.Model.Health.TendPlural>
+  <RimHUD.Model.Health.Threat>{0}</RimHUD.Model.Health.Threat>
+  <RimHUD.Model.Health.ThreatPlural>{0}</RimHUD.Model.Health.ThreatPlural>
+  <RimHUD.Model.Health.Affected>{0}의 영향</RimHUD.Model.Health.Affected>
+  <RimHUD.Model.Health.AffectedPlural>{0} 및 {1} 기타 조건의 영향</RimHUD.Model.Health.AffectedPlural>
+  <RimHUD.Model.Health.Stable>건강 이상없음</RimHUD.Model.Health.Stable>
+  <RimHUD.Model.Mood.ExtremeBreakImminent>우울함</RimHUD.Model.Mood.ExtremeBreakImminent>
+  <RimHUD.Model.Mood.MajorBreakImminent>불행함</RimHUD.Model.Mood.MajorBreakImminent>
+  <RimHUD.Model.Mood.MinorBreakImminent>스트레스받음</RimHUD.Model.Mood.MinorBreakImminent>
+  <RimHUD.Model.Mood.Happy>행복함</RimHUD.Model.Mood.Happy>
+  <RimHUD.Model.Mood.Content>만족감</RimHUD.Model.Mood.Content>
+  <RimHUD.Model.Mood.Indifferent>무관심</RimHUD.Model.Mood.Indifferent>
+  <RimHUD.Model.Info.Activity>활동: {0}</RimHUD.Model.Info.Activity>
+  <RimHUD.Model.Info.Attacking>{0} 공격</RimHUD.Model.Info.Attacking>
+  <RimHUD.Model.Info.Queued>대기: {0}</RimHUD.Model.Info.Queued>
+  <RimHUD.Model.Info.Equipped>장비: {0}</RimHUD.Model.Info.Equipped>
+  <RimHUD.Model.Info.Carrying>휴대: {0}</RimHUD.Model.Info.Carrying>
+  <RimHUD.Model.Bio.Title>직업: {0}</RimHUD.Model.Bio.Title>
+  <RimHUD.Model.Bio.Faction>세력: {0}</RimHUD.Model.Bio.Faction>
+  <RimHUD.Model.Bio.Master>주인: {0}</RimHUD.Model.Bio.Master>
+  <RimHUD.Model.Bio.Diet>식사: {0}</RimHUD.Model.Bio.Diet>
+  <RimHUD.Model.Bio.Trainability>훈련: {0}</RimHUD.Model.Bio.Trainability>
+  <RimHUD.Model.Bio.Wildness>야생 상태: {0}</RimHUD.Model.Bio.Wildness>
+  <RimHUD.Model.Bio.Petness>애완동물: {0}</RimHUD.Model.Bio.Petness>
+  <RimHUD.Model.Selector.OutfitFormat>의상: {0}</RimHUD.Model.Selector.OutfitFormat>
+  <RimHUD.Model.Selector.FoodFormat>식량: {0}</RimHUD.Model.Selector.FoodFormat>
+  <RimHUD.Model.Selector.TimetableFormat>일정: {0}</RimHUD.Model.Selector.TimetableFormat>
+  <RimHUD.Model.Selector.SetTimeAssignment>{0} 시간을 {1}(으)로 설정</RimHUD.Model.Selector.SetTimeAssignment>
+  <RimHUD.Model.Selector.AreaFormat>구역: {0}</RimHUD.Model.Selector.AreaFormat>
+  <RimHUD.Model.Selector.Manage>관리...</RimHUD.Model.Selector.Manage>
+  <RimHUD.Model.Component.Root>Root</RimHUD.Model.Component.Root>
+  <RimHUD.Model.Component.VStack>수직 스택</RimHUD.Model.Component.VStack>
+  <RimHUD.Model.Component.VStackFilled>수직 스택 (filled)</RimHUD.Model.Component.VStackFilled>
+  <RimHUD.Model.Component.HStack>수평 스택</RimHUD.Model.Component.HStack>
+  <RimHUD.Model.Component.HStackFilled>수평 스택 (filled)</RimHUD.Model.Component.HStackFilled>
+  <RimHUD.Model.Component.Panel>패널</RimHUD.Model.Component.Panel>
+  <RimHUD.Model.Component.PanelFilled>패널 (filled)</RimHUD.Model.Component.PanelFilled>
+  <RimHUD.Model.Component.Row>열</RimHUD.Model.Component.Row>
+  <RimHUD.Model.Component.Blank>공백</RimHUD.Model.Component.Blank>
+  <RimHUD.Model.Component.Separator>선 분리기</RimHUD.Model.Component.Separator>
+  <RimHUD.Model.Component.NameHeader>헤더로 이름 지정</RimHUD.Model.Component.NameHeader>
+  <RimHUD.Model.Component.Outfit>장비 선택기</RimHUD.Model.Component.Outfit>
+  <RimHUD.Model.Component.Food>식사 선택기</RimHUD.Model.Component.Food>
+  <RimHUD.Model.Component.Rules>규칙 선택기 (Pawn Rules 모드 필요)</RimHUD.Model.Component.Rules>
+  <RimHUD.Model.Component.Timetable>시간표 선택기</RimHUD.Model.Component.Timetable>
+  <RimHUD.Model.Component.Area>구역 선택기</RimHUD.Model.Component.Area>
+  <RimHUD.Model.Component.RelationKindAndFaction>세력 관계</RimHUD.Model.Component.RelationKindAndFaction>
+  <RimHUD.Model.Component.GenderAndAge>성별과 나이</RimHUD.Model.Component.GenderAndAge>
+  <RimHUD.Model.Component.Health>건강 막대</RimHUD.Model.Component.Health>
+  <RimHUD.Model.Component.HealthCondition>건강상태</RimHUD.Model.Component.HealthCondition>
+  <RimHUD.Model.Component.MindCondition>정신상태</RimHUD.Model.Component.MindCondition>
+  <RimHUD.Model.Component.Stat>{0} stat</RimHUD.Model.Component.Stat>
+  <RimHUD.Model.Component.Record>{0} record</RimHUD.Model.Component.Record>
+  <RimHUD.Model.Component.NeedMood>기분 막대</RimHUD.Model.Component.NeedMood>
+  <RimHUD.Model.Component.NeedFood>허기 막대</RimHUD.Model.Component.NeedFood>
+  <RimHUD.Model.Component.NeedRest>휴식 막대</RimHUD.Model.Component.NeedRest>
+  <RimHUD.Model.Component.NeedRecreation>재미 막대</RimHUD.Model.Component.NeedRecreation>
+  <RimHUD.Model.Component.Need>{0} 막대</RimHUD.Model.Component.Need>
+  <RimHUD.Model.Component.SkillShooting>사격 기술</RimHUD.Model.Component.SkillShooting>
+  <RimHUD.Model.Component.SkillMelee>격투 기술</RimHUD.Model.Component.SkillMelee>
+  <RimHUD.Model.Component.SkillConstruction>건설 기술</RimHUD.Model.Component.SkillConstruction>
+  <RimHUD.Model.Component.SkillMining>채굴 기술</RimHUD.Model.Component.SkillMining>
+  <RimHUD.Model.Component.SkillCooking>조리 기술</RimHUD.Model.Component.SkillCooking>
+  <RimHUD.Model.Component.SkillPlants>원예 기술</RimHUD.Model.Component.SkillPlants>
+  <RimHUD.Model.Component.SkillAnimals>조련 기술</RimHUD.Model.Component.SkillAnimals>
+  <RimHUD.Model.Component.SkillCrafting>제작 기술</RimHUD.Model.Component.SkillCrafting>
+  <RimHUD.Model.Component.SkillArtistic>예술 기술</RimHUD.Model.Component.SkillArtistic>
+  <RimHUD.Model.Component.SkillMedicine>의학 기술</RimHUD.Model.Component.SkillMedicine>
+  <RimHUD.Model.Component.SkillSocial>사교 기술</RimHUD.Model.Component.SkillSocial>
+  <RimHUD.Model.Component.SkillIntellectual>연구 기술</RimHUD.Model.Component.SkillIntellectual>
+  <RimHUD.Model.Component.Skill>{0} 기술</RimHUD.Model.Component.Skill>
+  <RimHUD.Model.Component.TrainingTameness>유대감 훈련</RimHUD.Model.Component.TrainingTameness>
+  <RimHUD.Model.Component.TrainingObedience>복종 훈련</RimHUD.Model.Component.TrainingObedience>
+  <RimHUD.Model.Component.TrainingRelease>풀어놓기 훈련</RimHUD.Model.Component.TrainingRelease>
+  <RimHUD.Model.Component.TrainingRescue>구조 훈련</RimHUD.Model.Component.TrainingRescue>
+  <RimHUD.Model.Component.TrainingHaul>운반 훈련</RimHUD.Model.Component.TrainingHaul>
+  <RimHUD.Model.Component.Master>주인</RimHUD.Model.Component.Master>
+  <RimHUD.Model.Component.Activity>활동</RimHUD.Model.Component.Activity>
+  <RimHUD.Model.Component.Queued>대기</RimHUD.Model.Component.Queued>
+  <RimHUD.Model.Component.Equipped>장비</RimHUD.Model.Component.Equipped>
+  <RimHUD.Model.Component.Carrying>운반</RimHUD.Model.Component.Carrying>
+  <RimHUD.Model.Component.CompInfo>추가 정보</RimHUD.Model.Component.CompInfo>
+  <RimHUD.Model.Component.Container.Filled>가득 찬 높이</RimHUD.Model.Component.Container.Filled>
+  <RimHUD.Model.Target.PlayerHumanlike>플레이어 정착민</RimHUD.Model.Target.PlayerHumanlike>
+  <RimHUD.Model.Target.OtherHumanlike>비플레이어 정착민</RimHUD.Model.Target.OtherHumanlike>
+  <RimHUD.Model.Target.PlayerCreature>플레이어 동물</RimHUD.Model.Target.PlayerCreature>
+  <RimHUD.Model.Target.OtherCreature>비플레이어 동물</RimHUD.Model.Target.OtherCreature>
+  <RimHUD.Theme.HudPosition>HUD 위치</RimHUD.Theme.HudPosition>
+  <RimHUD.Theme.HudDocked>검사 창에 도킹</RimHUD.Theme.HudDocked>
+  <RimHUD.Theme.HudDockedDesc>점검 창을 수정해야 한다면, 아래 값을 수정하세요.</RimHUD.Theme.HudDockedDesc>
+  <RimHUD.Theme.HudAnchor>고정</RimHUD.Theme.HudAnchor>
+  <RimHUD.Theme.HudAnchors>왼쪽 상단|중앙 상단|오른쪽 상단|왼쪽 중앙|중앙|오른쪽 중앙|왼쪽 하단|중앙 하단|오른쪽 하단</RimHUD.Theme.HudAnchors>
+  <RimHUD.Theme.HudOffsetX>X</RimHUD.Theme.HudOffsetX>
+  <RimHUD.Theme.HudOffsetY>Y</RimHUD.Theme.HudOffsetY>
+  <RimHUD.Theme.RefreshRate>갱신 간격</RimHUD.Theme.RefreshRate>
+  <RimHUD.Theme.RefreshRateDesc>HUD의 새로 고침 간격을 결정합니다. 프레임 하락이 발생하면 이 값을 더 높게 설정하십시오.</RimHUD.Theme.RefreshRateDesc>
+  <RimHUD.Theme.RefreshRateUnits>ms</RimHUD.Theme.RefreshRateUnits>
+  <RimHUD.Theme.HudDimensions>HUD 크기</RimHUD.Theme.HudDimensions>
+  <RimHUD.Theme.HudWidth>너비</RimHUD.Theme.HudWidth>
+  <RimHUD.Theme.HudHeight>높이</RimHUD.Theme.HudHeight>
+  <RimHUD.Theme.TextOptions>텍스트 옵션</RimHUD.Theme.TextOptions>
+  <RimHUD.Theme.TextStyleRegular>일반 텍스트</RimHUD.Theme.TextStyleRegular>
+  <RimHUD.Theme.TextStyleLarge>헤더 텍스트</RimHUD.Theme.TextStyleLarge>
+  <RimHUD.Theme.TextStyleSmall>설명 텍스트</RimHUD.Theme.TextStyleSmall>
+  <RimHUD.Theme.LabelWidth>라벨 너비</RimHUD.Theme.LabelWidth>
+  <RimHUD.Theme.ValueWidth>값 너비</RimHUD.Theme.ValueWidth>
+  <RimHUD.Theme.InspectPane>점검 창</RimHUD.Theme.InspectPane>
+  <RimHUD.Theme.InspectPaneModify>수정</RimHUD.Theme.InspectPaneModify>
+  <RimHUD.Theme.InspectPaneModifyDesc>도킹된 HUD 모드에 필요합니다.</RimHUD.Theme.InspectPaneModifyDesc>
+  <RimHUD.Theme.InspectPaneAddLog>캐릭터 로그 보기</RimHUD.Theme.InspectPaneAddLog>
+  <RimHUD.Theme.InspectPaneAddLogDesc>점검 창에 선택한 캐릭터에 대한 로그를 채웁니다. 도킹되지 않은 모드에서만 사용할 수 있습니다.</RimHUD.Theme.InspectPaneAddLogDesc>
+  <RimHUD.Theme.InspectPaneHeight>창 높이</RimHUD.Theme.InspectPaneHeight>
+  <RimHUD.Theme.InspectPaneMinTabs>탭 최소화</RimHUD.Theme.InspectPaneMinTabs>
+  <RimHUD.Theme.InspectPaneTabWidth>탭 너비</RimHUD.Theme.InspectPaneTabWidth>
+  <RimHUD.Theme.OtherOptions>기타 옵션</RimHUD.Theme.OtherOptions>
+  <RimHUD.Theme.ShowDecimals>소수점 표시</RimHUD.Theme.ShowDecimals>
+  <RimHUD.Theme.LetterPadding>알림 간격</RimHUD.Theme.LetterPadding>
+  <RimHUD.Theme.LetterPaddingDesc>화면 오른쪽에 나타나는 문자 알림 사이의 거리를 변경합니다. 바닐라 : 12</RimHUD.Theme.LetterPaddingDesc>
+  <RimHUD.Theme.LetterCompress>알림 압축</RimHUD.Theme.LetterCompress>
+  <RimHUD.Theme.LetterCompressDesc>HUD와 겹치면 화면 오른쪽에 있는 모든 문자와 경고를 압축합니다.</RimHUD.Theme.LetterCompressDesc>
+  <RimHUD.Theme.HudColors>HUD 색상</RimHUD.Theme.HudColors>
+  <RimHUD.Theme.MainTextColor>메인 문자열</RimHUD.Theme.MainTextColor>
+  <RimHUD.Theme.DisabledColor>사용안함 문자열</RimHUD.Theme.DisabledColor>
+  <RimHUD.Theme.CriticalColor>중요 문자열</RimHUD.Theme.CriticalColor>
+  <RimHUD.Theme.WarningColor>경고 문자열</RimHUD.Theme.WarningColor>
+  <RimHUD.Theme.InfoColor>알림 문자열</RimHUD.Theme.InfoColor>
+  <RimHUD.Theme.GoodColor>좋음 문자열</RimHUD.Theme.GoodColor>
+  <RimHUD.Theme.ExcellentColor>매우좋음 문자열</RimHUD.Theme.ExcellentColor>
+  <RimHUD.Theme.BarBackgroundColor>배경 막대</RimHUD.Theme.BarBackgroundColor>
+  <RimHUD.Theme.BarMainColor>메인 막대</RimHUD.Theme.BarMainColor>
+  <RimHUD.Theme.BarLowColor>낮은 막대</RimHUD.Theme.BarLowColor>
+  <RimHUD.Theme.BarThresholdColor>임계값 막대</RimHUD.Theme.BarThresholdColor>
+  <RimHUD.Theme.SelectorBackgroundColor>선택한 배경</RimHUD.Theme.SelectorBackgroundColor>
+  <RimHUD.Theme.SelectorTextColor>선택된 문자</RimHUD.Theme.SelectorTextColor>
+  <RimHUD.Theme.LineColor>선</RimHUD.Theme.LineColor>
+  <RimHUD.Theme.FactionColors>세력 색상</RimHUD.Theme.FactionColors>
+  <RimHUD.Theme.FactionOwnColor>아군</RimHUD.Theme.FactionOwnColor>
+  <RimHUD.Theme.FactionAlliedColor>동맹</RimHUD.Theme.FactionAlliedColor>
+  <RimHUD.Theme.FactionIndependentColor>독립</RimHUD.Theme.FactionIndependentColor>
+  <RimHUD.Theme.FactionHostileColor>적대</RimHUD.Theme.FactionHostileColor>
+  <RimHUD.Theme.FactionWildColor>야생</RimHUD.Theme.FactionWildColor>
+  <RimHUD.Theme.SkillColors>기술 색상</RimHUD.Theme.SkillColors>
+  <RimHUD.Theme.SkillMinorPassionColor>열정: 관심</RimHUD.Theme.SkillMinorPassionColor>
+  <RimHUD.Theme.SkillMajorPassionColor>열정: 열정</RimHUD.Theme.SkillMajorPassionColor>
+  <RimHUD.TextStyle.Size>크기</RimHUD.TextStyle.Size>
+  <RimHUD.TextStyle.Height>높이</RimHUD.TextStyle.Height>
+
+</LanguageData>

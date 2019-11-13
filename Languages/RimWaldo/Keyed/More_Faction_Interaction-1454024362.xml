@@ -57,7 +57,7 @@
   <MFI_FactionWarFavourFactionSuccess>협상은 성공이었습니다. 당신의 협상가는 {1}(이)가 {0}에게 보상하도록 설득하는 데에 성공했고, 대표들은 기본 조약을 타결했습니다.\n\n{0}(와)과의 관계가 상당히 개선되었습니다.\n\n{1}(와)과의 관계가 조금 악화되었습니다.</MFI_FactionWarFavourFactionSuccess>
   <MFI_FactionWarFavourFactionTriumph>협상은 대성공이었습니다! 당신의 협상가는 {1}(이)가 과거의 침략행위에 대해 {0}(이)가 만족할 만한 보상을 지불하도록 설득하는 데에 큰 역할을 해냈습니다.\n\n{0}(와)과의 관계가 대단히 개선되었습니다.\n\n{1}(와)과의 관계가 악화되었습니다.</MFI_FactionWarFavourFactionTriumph>
   <MFI_FactionWarSabotageDisaster>회담 방해는 대실패였습니다. 대표들은 당신의 협상가의 의도를 빠르게 들춰냈고 두 세력 모두가 당신에게 등을 돌렸습니다! 당신의 상단은 황급히 자리를 떴지만, 양 세력의 전사들이 뒤쫓아 공격했습니다!\n\n{0}(와)과의 관계가 허물어졌습니다. 그들은 이제 당신에게 적대적입니다.\n\n{1}(와)과의 관계가 허물어졌습니다. 그들은 이제 당신에게 적대적입니다.</MFI_FactionWarSabotageDisaster>
-  <MFI_FactionWarSabotageBackFire>회담 방해는 역효과였습니다. 대표들이 사교적인 인사를 주고받은 지 얼마 되지 않아, 그들은 당신의 협상가의 비건설적인 의도를 파악했고 협상에서 제외시켰습니다.\n\n{0}(와)과의 처참히 악화되었습니다.\n\n{1}(와)과의 처참히 악화되었습니다.</MFI_FactionWarSabotageBackFire>
+  <MFI_FactionWarSabotageBackFire>회담 방해는 역효과였습니다. 대표들이 사교적인 인사를 주고받은 지 얼마 되지 않아, 그들은 당신의 협상가의 비건설적인 의도를 파악했고 협상에서 제외시켰습니다.\n\n{0}(와)과의 관계가 처참히 악화되었습니다.\n\n{1}(와)과의 관계가 처참히 악화되었습니다.</MFI_FactionWarSabotageBackFire>
   <MFI_FactionWarSabotageFlounder>협상 방해는 엉망이었습니다. 당신의 협상가는 대화에 끼어들거나 어떻게든 평화 협상에 기여할 수 있는 능력이 없음을 증명했습니다.\n\n{0}(와)과 {1}의 관계는 변하지 않았습니다.</MFI_FactionWarSabotageFlounder>
   <MFI_FactionWarSabotageSuccess>협상 방해는 애매하게 성공적이었습니다. 대표들이 주요 사안에 대해 언쟁하는 동안, 당신의 협상가는 정치적 지뢰밭을 건너며 두 세력 모두에게 우호적인 인상을 심어주면서도 실질적인 진척이 없도록 하는 데에 성공했습니다.\n\n{0}(와)과의 관계가 상당히 개선되었습니다.\n\n{1}(와)과의 관계가 상당히 개선되었습니다.</MFI_FactionWarSabotageSuccess>
   <MFI_FactionWarSabotageTriumph>협상 방해는 대승리였습니다! 대표들은 훌륭하게 서로를 상대했으며, 첫 인사가 끝난 지 얼마 지나지 않아, 논의는 욕설과 비난으로 물드는 가운데 두 공격자 모두가 당신의 세력에게 아주 호의적인 인상을 얻었습니다.\n\n{0}(와)과의 관계가 엄청나게 개선되었습니다.\n\n{1}(와)과의 관계가 엄청나게 개선되었습니다.</MFI_FactionWarSabotageTriumph>
@@ -91,7 +91,7 @@
   <MFI_buffChemfuel>잠금'으로 표시된 패널 A의 제거와 현재 표시된 '더 빠르게'로 표시된 로커 스위치 유형 2A의 활성화를 통해 {0}(은)는 현재 {1}(을)를 더 자주 생산합니다.</MFI_buffChemfuel>
   <MFI_buffPsychite>{0}이 더 길어지면서 더 강력해집니다. 현대 공학의 놀라운 일입니다.</MFI_buffPsychite>
   <MFI_SinceYouSuckAndDidntHaveIt>{0}(을)를 아직 가지고 있지 않았기 때문에 당신에게 {0}(을)를 주셨습니다.</MFI_SinceYouSuckAndDidntHaveIt>
-  <MFI_culturalSwapOutcomeWhoaYouActuallyBroughtArt>당신의 상단이 박람회에 가져온 예술품은 심사대회에서 2위를 했지만 관객들이 가장 좋아하는 작품이었습니다. 한 전문가가 쇼가 끝난 후 상단에 접근하여 {1}에 대해 {0}(을)를 구입하겠다고 제안했는데, 심사위원들은 이 것의 시장 가치가 {2}에 있다고 추정했습니다.</MFI_culturalSwapOutcomeWhoaYouActuallyBroughtArt>
+  <MFI_culturalSwapOutcomeWhoaYouActuallyBroughtArt>당신의 상단이 박람회에 가져온 예술품은 심사대회에서 2위를 했지만 관객들이 가장 좋아하는 작품이었습니다. 한 전문가가 쇼가 끝난 후 상단에 접근하여 {0}(을)를 {1}은에 구입하겠다고 제안했는데, 심사위원들은 이것의 시장 가치를 {2}은으로 추정했습니다.</MFI_culturalSwapOutcomeWhoaYouActuallyBroughtArt>
   <MFI_AnnualExpoXPGain>{0}(은)는 {1} {2}의 경험을 얻었습니다.</MFI_AnnualExpoXPGain>
   <MFI_AnnualExpoMedicalEmergency>움푹 들어간 멍 몇개와 작은 뇌진탕을 포함한 약간의 타박상을 입었습니다.</MFI_AnnualExpoMedicalEmergency>
   <MFI_AnnualExpoMedicalEmergencySerious>근육통에 발목을 뼜고, 옷이 헤집어졌습니다.</MFI_AnnualExpoMedicalEmergencySerious>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <IdleJob_TakeNap.reportString>낮잠 자는 중.</IdleJob_TakeNap.reportString>
+  <IdleJob_MendItem.reportString>TargetA 수선하는 중.</IdleJob_MendItem.reportString>
+  <IdleJob_WatchResearch.reportString>연구 하고 있는 TargetA 구경 중.</IdleJob_WatchResearch.reportString>
+  <IdleJob_WatchWorking.reportString>일하고 있는 TargetA 구경 중.</IdleJob_WatchWorking.reportString>
+  <IdleJob_ObservingAnimal.reportString>TargetA 관찰하는 중.</IdleJob_ObservingAnimal.reportString>
+  <IdleJob_MessingAround.reportString>앉아서 빈둥거리는 중.</IdleJob_MessingAround.reportString>
+  <IdleJob_LookAroundRoom.reportString>TargetA의 방을 둘러보는 중.</IdleJob_LookAroundRoom.reportString>
+  <IdleJob_PracticeMelee.reportString>TargetA의 활용법을 연습하는 중.</IdleJob_PracticeMelee.reportString>
+  <IdleJob_ThrowingStone.reportString>작은 돌을 던지는 중.</IdleJob_ThrowingStone.reportString>
+  <IdleJob_Graffiti.reportString>바닥에 낙서하는 중.</IdleJob_Graffiti.reportString>
+  <IdleJob_CleaningGun.reportString>TargetA 손질하는 중.</IdleJob_CleaningGun.reportString>
+
+</LanguageData>

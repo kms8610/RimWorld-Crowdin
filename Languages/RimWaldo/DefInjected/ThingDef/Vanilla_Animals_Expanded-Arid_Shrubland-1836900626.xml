@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <AEXP_EggCrocodileUnfertilized.label>악어 알 (무정란)</AEXP_EggCrocodileUnfertilized.label>
-  <AEXP_EggCrocodileUnfertilized.description>수정되지 않은 악어의 알입니다. 생으로도 먹을 수는 있지만 익혔을 때 훨씬 더 맛있습니다.</AEXP_EggCrocodileUnfertilized.description>
-  <AEXP_EggCrocodileFertilized.label>악어 알 (유정란)</AEXP_EggCrocodileFertilized.label>
-  <AEXP_EggCrocodileFertilized.description>수정이 된 악어의 알입니다. 잘 관리하면 악어가 부화합니다. 생으로도 먹을 수는 있지만 익혔을 때 훨씬 더 맛있습니다.</AEXP_EggCrocodileFertilized.description>
+  <AEXP_EggCrocodileUnfertilized.label>바다악어 알 (무정란)</AEXP_EggCrocodileUnfertilized.label>
+  <AEXP_EggCrocodileUnfertilized.description>수정되지 않은 바다악어의 알입니다. 생으로도 먹을 수는 있지만 익혔을 때 훨씬 더 맛있습니다.</AEXP_EggCrocodileUnfertilized.description>
+  <AEXP_EggCrocodileFertilized.label>바다악어 알 (유정란)</AEXP_EggCrocodileFertilized.label>
+  <AEXP_EggCrocodileFertilized.description>수정이 된 바다악어의 알입니다. 잘 관리하면 바다악어가 부화합니다. 생으로도 먹을 수는 있지만 익혔을 때 훨씬 더 맛있습니다.</AEXP_EggCrocodileFertilized.description>
   <AEXP_Leather_Hippopotamus.label>하마 가죽</AEXP_Leather_Hippopotamus.label>
   <AEXP_Leather_Hippopotamus.description>하마의 두꺼운 가죽입니다. 내구성이 뛰어날 뿐 아니라 우수한 단열 효과를 제공합니다.</AEXP_Leather_Hippopotamus.description>
   <AEXP_Leather_Hippopotamus.stuffProps.stuffAdjective>하마의 가죽</AEXP_Leather_Hippopotamus.stuffProps.stuffAdjective>
@@ -71,15 +71,15 @@
   <AEXP_Wildebeest_Meat.description>누의 고기입니다.</AEXP_Wildebeest_Meat.description>
   <AEXP_Wildebeest_Corpse.label>누 시체</AEXP_Wildebeest_Corpse.label>
   <AEXP_Wildebeest_Corpse.description>누의 시체입니다.</AEXP_Wildebeest_Corpse.description>
-  <AEXP_Crocodile.label>악어</AEXP_Crocodile.label>
-  <AEXP_Crocodile.description>커다란 수중 파충류로 강둑에서 흔히 발견됩니다. 유연한 턱과 위협적인 이빨로 훨씬 더 큰 먹이를 잡을 수 있습니다. 오래된 악어는 괴물 같은 크기로 성장할 수 있습니다.</AEXP_Crocodile.description>
-  <AEXP_Crocodile_Leather.label>악어 가죽</AEXP_Crocodile_Leather.label>
-  <AEXP_Crocodile_Leather.description>악어의 가죽입니다.</AEXP_Crocodile_Leather.description>
-  <AEXP_Crocodile_Leather.stuffProps.stuffAdjective>악어 가죽</AEXP_Crocodile_Leather.stuffProps.stuffAdjective>
-  <AEXP_Crocodile_Meat.label>악어 고기</AEXP_Crocodile_Meat.label>
-  <AEXP_Crocodile_Meat.description>악어의 고기입니다.</AEXP_Crocodile_Meat.description>
-  <AEXP_Crocodile_Corpse.label>악어 시체</AEXP_Crocodile_Corpse.label>
-  <AEXP_Crocodile_Corpse.description>악어의 시체입니다.</AEXP_Crocodile_Corpse.description>
+  <AEXP_Crocodile.label>바다악어</AEXP_Crocodile.label>
+  <AEXP_Crocodile.description>커다란 수중 파충류로 강둑에서 흔히 발견됩니다. 유연한 턱과 위협적인 이빨로 훨씬 더 큰 먹이를 잡을 수 있습니다. 오래된 바다악어는 괴물 같은 크기로 성장할 수 있습니다.</AEXP_Crocodile.description>
+  <AEXP_Crocodile_Leather.label>바다악어 가죽</AEXP_Crocodile_Leather.label>
+  <AEXP_Crocodile_Leather.description>바다악어의 가죽입니다.</AEXP_Crocodile_Leather.description>
+  <AEXP_Crocodile_Leather.stuffProps.stuffAdjective>바다악어 가죽</AEXP_Crocodile_Leather.stuffProps.stuffAdjective>
+  <AEXP_Crocodile_Meat.label>바다악어 고기</AEXP_Crocodile_Meat.label>
+  <AEXP_Crocodile_Meat.description>바다악어의 고기입니다.</AEXP_Crocodile_Meat.description>
+  <AEXP_Crocodile_Corpse.label>바다악어 시체</AEXP_Crocodile_Corpse.label>
+  <AEXP_Crocodile_Corpse.description>바다악어의 시체입니다.</AEXP_Crocodile_Corpse.description>
   <AEXP_Cheetah.label>치타</AEXP_Cheetah.label>
   <AEXP_Cheetah.description>이 고양이는 유연하고 재빠르기 때문에 놀라운 속도로 달릴 수 있습니다. 검은색의 둥근 반점, 매우 긴 다리, 균형을 잡기 위한 길고 좁은 꼬리, 그리고 큰 폐가 들어있는 가슴을 가지고 있으며, 황갈색의 털을 가지고 있습니다.</AEXP_Cheetah.description>
   <AEXP_Cheetah.tools.0.label>왼쪽 발톱</AEXP_Cheetah.tools.0.label>

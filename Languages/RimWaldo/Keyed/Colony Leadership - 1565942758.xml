@@ -11,7 +11,7 @@
   <ElectionFail_NoDemocracy>이 정착지는 민주주의가 아니기 때문에 선거는 일어나지 않을 것입니다.</ElectionFail_NoDemocracy>
   <ElectionFail_Disaster>지도자 선거가 취소 되었습니다! 무언가 안좋은 일이 일어났습니다.</ElectionFail_Disaster>
   <BallotDescription>선거가 일어나는 날: 1일, 7일, 15일.\n필요한 경우에만 발생합니다.\n마지막 선거: </BallotDescription>
-  <BallotDescriptionDisabled>선거가 일어나지 않을 것입니다.\n\n마지막 선거: </BallotDescriptionDisabled>
+  <BallotDescriptionDisabled>\n선거가 일어나지 않습니다.\n\n마지막 선거: </BallotDescriptionDisabled>
   <EnableElections>선거 활성화</EnableElections>
   <EnableElectionsDesc>비활성화 된 경우, 선거는 일어나지 않습니다.</EnableElectionsDesc>
   <NoColonistAbleLeader>이 정착민은 리더가 될 수 없습니다.</NoColonistAbleLeader>

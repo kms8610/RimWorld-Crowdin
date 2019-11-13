@@ -231,14 +231,6 @@
   <PJ_BlasterDam.label>블래스터 볼트</PJ_BlasterDam.label>
   <PJ_Vibro.label>진동</PJ_Vibro.label>
 
-  <!--928376710_190628_Zombieland-->
-  <ZombieBite.label>좀비에게 물림</ZombieBite.label>
-  <ZombieBite.deathMessage>{0}(이)가 좀비에게 물려 죽었습니다.</ZombieBite.deathMessage>
-  <SuicideBomb.label>자폭좀비</SuicideBomb.label>
-  <SuicideBomb.deathMessage>{0}(이)가 자폭 좀비에게 죽었습니다.</SuicideBomb.deathMessage>
-  <ToxicSplatter.label>독가스</ToxicSplatter.label>
-  <ToxicSplatter.deathMessage>{0}(이)가 죽었습니다.</ToxicSplatter.deathMessage>
-
   <!--950475543_190818_Rim of Madness - Arachnophobia-->
   <ROMA_Sting.deathMessage>{0}(이)가 물려 사망했습니다.</ROMA_Sting.deathMessage>
   <ROMA_Sting.label>독침</ROMA_Sting.label>

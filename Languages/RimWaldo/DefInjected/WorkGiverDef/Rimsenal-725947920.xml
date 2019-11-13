@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <DoBillsGDTable.label>GD 작업대에서 작업</DoBillsGDTable.label>
+  <DoBillsGDTable.label>장비 조립 설비에서 작업</DoBillsGDTable.label>
   <DoBillsGDTable.verb>작업</DoBillsGDTable.verb>
   <DoBillsGDTable.gerund>작업</DoBillsGDTable.gerund>
-  <DoBillsYPTable.label>YP 작업대에서 작업</DoBillsYPTable.label>
+  <DoBillsYPTable.label>결정 구조 주조소에서 작업</DoBillsYPTable.label>
   <DoBillsYPTable.verb>작업</DoBillsYPTable.verb>
   <DoBillsYPTable.gerund>작업</DoBillsYPTable.gerund>
-  <DoBillsJITable.label>JI 작업대에서 작업</DoBillsJITable.label>
+  <DoBillsJITable.label>자기 단조장에서 작업</DoBillsJITable.label>
   <DoBillsJITable.verb>작업</DoBillsJITable.verb>
   <DoBillsJITable.gerund>작업</DoBillsJITable.gerund>
-  <DoBillsTETable.label>TE 작업대에서 작업</DoBillsTETable.label>
+  <DoBillsTETable.label>운동에너지 조작기에서 작업</DoBillsTETable.label>
   <DoBillsTETable.verb>작업</DoBillsTETable.verb>
   <DoBillsTETable.gerund>작업</DoBillsTETable.gerund>
 

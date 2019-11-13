@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-
-  <AB_ParalysingSting.label>마비 찌르기</AB_ParalysingSting.label>
-  <AB_ParalysingSting.deathMessage>{0}(이)가 물려 죽었습니다.</AB_ParalysingSting.deathMessage>
-
-</LanguageData>
