@@ -271,7 +271,7 @@
   <CureChronicAlzheimers.label>알츠하이머 치료 (3 번화계 약품)</CureChronicAlzheimers.label>
   <CureChronicAlzheimers.description>알츠하이머를 치료합니다.</CureChronicAlzheimers.description>
   <CureChronicAlzheimers.jobString>알츠하이머 치료 중.</CureChronicAlzheimers.jobString>
-  <CureChronicAlzheimers.successfullyRemovedHediffMessage>{0}(이)가 성공적으로 {1}의 치매를 알츠하이머를 치료했습니다.</CureChronicAlzheimers.successfullyRemovedHediffMessage>
+  <CureChronicAlzheimers.successfullyRemovedHediffMessage>{0}(이)가 성공적으로 {1}의 알츠하이머를 치료했습니다.</CureChronicAlzheimers.successfullyRemovedHediffMessage>
   <CureChronicBadBack.label>요통 치료 (80 플라스틸/3 약품 - 생약 안됨)</CureChronicBadBack.label>
   <CureChronicBadBack.description>요통을 치료합니다.</CureChronicBadBack.description>
   <CureChronicBadBack.jobString>요통 치료 중.</CureChronicBadBack.jobString>

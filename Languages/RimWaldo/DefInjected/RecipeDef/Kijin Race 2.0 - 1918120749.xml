@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MeltIngot.label>금속 주괴 녹이기</MeltIngot.label>
+  <MeltIngot.description>열을가하여 주괴를 사용가능한 기본자원으로 변환합니다.</MeltIngot.description>
+  <MeltIngot.jobString>주괴 녹이는 중.</MeltIngot.jobString>
+  <Make_Kijin_EpicArmor.label>불지옥 갑옷 제작</Make_Kijin_EpicArmor.label>
+  <Make_Kijin_EpicArmor.description>불지옥 갑옷을 제작합니다.</Make_Kijin_EpicArmor.description>
+  <Make_Kijin_EpicArmor.jobString>불지옥 갑옷을 제작하는 중.</Make_Kijin_EpicArmor.jobString>
+  <Make_Kijin_EpicHelm.label>불지옥 면갑 제작</Make_Kijin_EpicHelm.label>
+  <Make_Kijin_EpicHelm.description>불지옥 면갑을 제작합니다.</Make_Kijin_EpicHelm.description>
+  <Make_Kijin_EpicHelm.jobString>불지옥 면갑을 제작하는 중.</Make_Kijin_EpicHelm.jobString>
+  <Make_Kijin_FirewardCharm.label>소화부 제작</Make_Kijin_FirewardCharm.label>
+  <Make_Kijin_FirewardCharm.description>소화부를 제작합니다.</Make_Kijin_FirewardCharm.description>
+  <Make_Kijin_FirewardCharm.jobString>소화부를 제작하는 중.</Make_Kijin_FirewardCharm.jobString>
+  <Make_Apparel_PowerArmorDK.label>다크 파워 아머 제작</Make_Apparel_PowerArmorDK.label>
+  <Make_Apparel_PowerArmorDK.description>다크 파워 아머를 제작합니다.</Make_Apparel_PowerArmorDK.description>
+  <Make_Apparel_PowerArmorDK.jobString>다크 파워 아머를 제작하는 중.</Make_Apparel_PowerArmorDK.jobString>
+  <Make_Apparel_PowerArmorHelmetDK.label>다크 파워 헬멧 제작</Make_Apparel_PowerArmorHelmetDK.label>
+  <Make_Apparel_PowerArmorHelmetDK.description>다크 파워 헬멧을 제작합니다.</Make_Apparel_PowerArmorHelmetDK.description>
+  <Make_Apparel_PowerArmorHelmetDK.jobString>다크 파워 헬멧을 제작하는 중.</Make_Apparel_PowerArmorHelmetDK.jobString>
+  <Make_Kijin_SmokeBombBelt.label>연막 폭탄 벨트 제작</Make_Kijin_SmokeBombBelt.label>
+  <Make_Kijin_SmokeBombBelt.description>연막 폭탄 벨트를 제작합니다.</Make_Kijin_SmokeBombBelt.description>
+  <Make_Kijin_SmokeBombBelt.jobString>연막 폭탄 벨트를 제작하는 중.</Make_Kijin_SmokeBombBelt.jobString>
+  <Make_Kijin_FlakVest.label>보호대 제작</Make_Kijin_FlakVest.label>
+  <Make_Kijin_FlakVest.description>보호대를 제작합니다.</Make_Kijin_FlakVest.description>
+  <Make_Kijin_FlakVest.jobString>보호대를 제작하는 중.</Make_Kijin_FlakVest.jobString>
+  <Make_GoldBar.label>금 주괴 제작</Make_GoldBar.label>
+  <Make_GoldBar.description>금 주괴를 제작합니다.</Make_GoldBar.description>
+  <Make_GoldBar.jobString>금 주괴를 제작하는 중.</Make_GoldBar.jobString>
+  <Make_SilverBar.label>은 주괴 제작</Make_SilverBar.label>
+  <Make_SilverBar.description>은 주괴를 제작합니다.</Make_SilverBar.description>
+  <Make_SilverBar.jobString>은 주괴를 제작하는 중.</Make_SilverBar.jobString>
+  <Make_Kijin_BionicHorn.label>생체공학 키진 뿔 제작</Make_Kijin_BionicHorn.label>
+  <Make_Kijin_BionicHorn.description>생체공학 키진 뿔을 제작합니다.</Make_Kijin_BionicHorn.description>
+  <Make_Kijin_BionicHorn.jobString>생체공학 키진 뿔을 제작하는 중.</Make_Kijin_BionicHorn.jobString>
+  <Make_Kijin_100tHammer.label>100톤 망치 제작</Make_Kijin_100tHammer.label>
+  <Make_Kijin_100tHammer.description>100톤 망치를 제작합니다.</Make_Kijin_100tHammer.description>
+  <Make_Kijin_100tHammer.jobString>100톤 망치를 제작하는 중.</Make_Kijin_100tHammer.jobString>
+  <Make_Kijin_Polearm.label>키진 장병도 제작</Make_Kijin_Polearm.label>
+  <Make_Kijin_Polearm.description>키진 장병도를 제작합니다.</Make_Kijin_Polearm.description>
+  <Make_Kijin_Polearm.jobString>키진 장병도를 제작하는 중.</Make_Kijin_Polearm.jobString>
+  <Make_Kijin_PoisonDagger.label>독 단검 제작</Make_Kijin_PoisonDagger.label>
+  <Make_Kijin_PoisonDagger.description>독 단검을 제작합니다.</Make_Kijin_PoisonDagger.description>
+  <Make_Kijin_PoisonDagger.jobString>독 단검을 제작하는 중.</Make_Kijin_PoisonDagger.jobString>
+  <Make_Kijin_Fan.label>키진 파초선 제작</Make_Kijin_Fan.label>
+  <Make_Kijin_Fan.description>키진 파초선을 제작합니다.</Make_Kijin_Fan.description>
+  <Make_Kijin_Fan.jobString>키진 파초선을 제작하는 중.</Make_Kijin_Fan.jobString>
+  <Make_Kijin_FlameBow.label>키진 화궁 제작</Make_Kijin_FlameBow.label>
+  <Make_Kijin_FlameBow.description>키진 화궁을 제작합니다.</Make_Kijin_FlameBow.description>
+  <Make_Kijin_FlameBow.jobString>키진 화궁을 제작하는 중.</Make_Kijin_FlameBow.jobString>
+  <Make_Kijin_Mace.label>키진 몽둥이 제작</Make_Kijin_Mace.label>
+  <Make_Kijin_Mace.description>키진 몽둥이를 제작합니다.</Make_Kijin_Mace.description>
+  <Make_Kijin_Mace.jobString>키진 몽둥이를 제작하는 중.</Make_Kijin_Mace.jobString>
+  <Make_Kijin_PosionBow.label>키진 독궁 제작</Make_Kijin_PosionBow.label>
+  <Make_Kijin_PosionBow.description>키진 독궁을 제작합니다.</Make_Kijin_PosionBow.description>
+  <Make_Kijin_PosionBow.jobString>키진 독궁을 제작하는 중.</Make_Kijin_PosionBow.jobString>
+  <Make_Kijin_SmokeBomb.label>키진 연막폭탄 제작</Make_Kijin_SmokeBomb.label>
+  <Make_Kijin_SmokeBomb.description>키진 연막폭탄을 제작합니다.</Make_Kijin_SmokeBomb.description>
+  <Make_Kijin_SmokeBomb.jobString>키진 연막폭탄을 제작하는 중.</Make_Kijin_SmokeBomb.jobString>
+  <Kijin_InstallThrumboHorn.label>트럼보 뿔 이식</Kijin_InstallThrumboHorn.label>
+  <Kijin_InstallThrumboHorn.description>트럼보 뿔을 이식합니다.</Kijin_InstallThrumboHorn.description>
+  <Kijin_InstallThrumboHorn.jobString>트럼보 뿔 이식 중.</Kijin_InstallThrumboHorn.jobString>
+  <Kijin_InstallBionicHorn.label>생체공학 키진 뿔 이식</Kijin_InstallBionicHorn.label>
+  <Kijin_InstallBionicHorn.description>생체공학 키진 뿔 이식합니다.</Kijin_InstallBionicHorn.description>
+  <Kijin_InstallBionicHorn.jobString>생체공학 쿠키진 뿔 이식 중.</Kijin_InstallBionicHorn.jobString>
+
+</LanguageData>

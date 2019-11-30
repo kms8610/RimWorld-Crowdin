@@ -57,10 +57,6 @@
   <Ductwork.label>환기구</Ductwork.label>
   <Ductwork.description>멀리 떨어진 구역 간의 온도를 교환합니다.</Ductwork.description>
 
-  <!--1558161673_190814_RimBees-->
-  <RB_Bees.label>림비즈</RB_Bees.label>
-  <RB_Bees.description>림비즈에서 추가된 항목들입니다.</RB_Bees.description>
-
   <!--161751617578581_190606_radiology-->
   <Radiology.description>당신의 정착지의 방사선 치료를 위한 장치이다.</Radiology.description>
   <Radiology.label>방사선학</Radiology.label>

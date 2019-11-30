@@ -1,20 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <PES_StandGuard_Primitive.label>원시 전망탑에서 감시</PES_StandGuard_Primitive.label>
-  <PES_StandGuard_Primitive.verb>감시하다.</PES_StandGuard_Primitive.verb>
-  <PES_StandGuard_Primitive.gerund>감시하다.</PES_StandGuard_Primitive.gerund>
-  <PES_StandGuard.label>원시 전망탑에서 감시</PES_StandGuard.label>
-  <PES_StandGuard.verb>감시하다.</PES_StandGuard.verb>
-  <PES_StandGuard.gerund>감시하다.</PES_StandGuard.gerund>
-  <PES_OperateSentryArray.label>감시 드론 배치 터미널</PES_OperateSentryArray.label>
-  <PES_OperateSentryArray.verb>감시하다.</PES_OperateSentryArray.verb>
-  <PES_OperateSentryArray.gerund>감시하다.</PES_OperateSentryArray.gerund>
-  <PES_InstallUpgrade.label>정찰 장비에 업그레이드 설치</PES_InstallUpgrade.label>
-  <PES_InstallUpgrade.verb>설치 업그레이드</PES_InstallUpgrade.verb>
-  <PES_InstallUpgrade.gerund>설치 업그레이드</PES_InstallUpgrade.gerund>
-  <PES_Refuel.label>정찰 설비를 위해 음식 보충</PES_Refuel.label>
-  <PES_Refuel.verb>음식을 보충</PES_Refuel.verb>
-  <PES_Refuel.gerund>음식을 보충</PES_Refuel.gerund>
+  <PES_StandGuard.label>감시탑에서 경계</PES_StandGuard.label>
+  <PES_StandGuard.verb>경계</PES_StandGuard.verb>
+  <PES_StandGuard.gerund>경계를 서다</PES_StandGuard.gerund>
+  <PES_OperateSentryArray.label>정찰 드론 운용</PES_OperateSentryArray.label>
+  <PES_OperateSentryArray.verb>모니터링</PES_OperateSentryArray.verb>
+  <PES_OperateSentryArray.gerund>모니터링 중</PES_OperateSentryArray.gerund>
+  <PES_InstallUpgrade.label>정찰 시설에 장비 강화</PES_InstallUpgrade.label>
+  <PES_InstallUpgrade.verb>강화</PES_InstallUpgrade.verb>
+  <PES_InstallUpgrade.gerund>강화 중</PES_InstallUpgrade.gerund>
+  <PES_Refuel.label>정찰 시설에 식사 전달</PES_Refuel.label>
+  <PES_Refuel.verb>식사 전달</PES_Refuel.verb>
+  <PES_Refuel.gerund>식사 전달 중</PES_Refuel.gerund>
 
 </LanguageData>

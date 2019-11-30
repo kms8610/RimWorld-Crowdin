@@ -130,13 +130,13 @@
   <SpaceBattle.letterText>당신의 행성에서 멀지 않은 곳에서 두 개의 알려지지 않은 진영이 우주 전투를 벌였습니다. 이 기간 동안 우주선과 발사체는 행성상에서 추락할 수 있습니다.\n오버 슈트 쉘이 떨어질 수 있습니다.</SpaceBattle.letterText>
   <SpaceBattle.letterLabel>우주 전투</SpaceBattle.letterLabel>
   <Quest_KillOrder.label>집행 주문</Quest_KillOrder.label>
-  <Quest_KillOrder.letterText>{0}(은)는 {2}세력의 {1}(을)를 제거하도록 요청합니다. 그는 세계지도에서 장소를 표시했습니다.\n\n지지오 스케프를 통해 연락 할 수 있습니다.\n</Quest_KillOrder.letterText>
+  <Quest_KillOrder.letterText>{0}(은)는 {2}세력의 {1}(을)를 제거하도록 요청합니다. 그는 세계지도에서 장소를 표시했습니다.\n\n지오 스케프를 통해 연락 할 수 있습니다.</Quest_KillOrder.letterText>
   <Quest_KillOrder.letterLabel>집행 명령</Quest_KillOrder.letterLabel>
   <ConcantrationCamp.label>포로 수용소</ConcantrationCamp.label>
-  <ConcantrationCamp.letterText>알 수 없는 사람이 연락했습니다. 지친듯하지만 여전히 힘있게 그는 해적에 의해 설치된 강제 수용소에 대해 알려줍니다. 그는 신속하게 좌표를 보내고 그와 다른 사람들이 이곳에서 벗어날 수 있도록 도와달라고 요청합니다.\n\n지지오 스케프를 통해 이 사건을 볼 수 있습니다.\n</ConcantrationCamp.letterText>
+  <ConcantrationCamp.letterText>알 수 없는 사람이 연락했습니다. 지친듯하지만 여전히 힘있게 그는 해적에 의해 설치된 강제 수용소에 대해 알려줍니다. 그는 신속하게 좌표를 보내고 그와 다른 사람들이 이곳에서 벗어날 수 있도록 도와달라고 요청합니다.\n\n지오 스케프를 통해 이 사건을 볼 수 있습니다.</ConcantrationCamp.letterText>
   <ConcantrationCamp.letterLabel>포로 수용소</ConcantrationCamp.letterLabel>
   <TunnelRats.label>터널 쥐</TunnelRats.label>
-  <TunnelRats.letterText>원주민 세력이 기지로 터널을 파고 들어왔습니다. 당신이 그것을 묻을 때까지 그들은 밖으로 나올 것입니다.\n\n(터널을 매립하고 정착민에 수류탄을 장비한 뒤 터널을 선택하고 터널에서 오른쪽 버튼을 클릭하십시오.)\n</TunnelRats.letterText>
+  <TunnelRats.letterText>원주민 세력이 기지로 터널을 파고 들어왔습니다. 당신이 그것을 묻을 때까지 그들은 밖으로 나올 것입니다.\n\n(터널을 매립하고 정착민에 수류탄을 장비한 뒤 터널을 선택하고 터널에서 오른쪽 버튼을 클릭하십시오.)</TunnelRats.letterText>
   <TunnelRats.letterLabel>터널 쥐</TunnelRats.letterLabel>
 
 </LanguageData>

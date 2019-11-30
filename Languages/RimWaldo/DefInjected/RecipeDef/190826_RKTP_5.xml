@@ -2550,10 +2550,10 @@
   <MakeBulkCompostStarter.description>목재와 식재료로 퇴비를 60개 만듭니다.</MakeBulkCompostStarter.description>
   <MakeBulkCompostStarter.jobString>퇴비 만드는 중.</MakeBulkCompostStarter.jobString>
   <MakeFertilizer.label>비료 만들기</MakeFertilizer.label>
-  <MakeFertilizer.description>퇴비와 흙으로 비료를 만듭니다.</MakeFertilizer.description>
+  <MakeFertilizer.description>퇴비와 토양더미로 비료를 만듭니다.</MakeFertilizer.description>
   <MakeFertilizer.jobString>비료 만드는 중.</MakeFertilizer.jobString>
   <VG_DigSoil.label>토양 만들기</VG_DigSoil.label>
-  <VG_DigSoil.description>비료 만드는데 사용되는 토양 더미를 파냅니다.</VG_DigSoil.description>
+  <VG_DigSoil.description>비료 만드는데 사용되는 토양더미를 파냅니다.</VG_DigSoil.description>
   <VG_DigSoil.jobString>토양 채취 중.</VG_DigSoil.jobString>
   <FertilizerCorpse.label>화장으로 비료 만들기</FertilizerCorpse.label>
   <FertilizerCorpse.description>시체를 화장하여 비료로 만듭니다. 기본 설정값은 꺼져있습니다.</FertilizerCorpse.description>

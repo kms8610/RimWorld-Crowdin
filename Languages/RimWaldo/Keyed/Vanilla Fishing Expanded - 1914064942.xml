@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCEF_FishingGrowingZone>낚시 구역</VCEF_FishingGrowingZone>
+  <VCEF_FishingGrowingZoneDesc>정착민들이 낚시할 구역을 설정합니다.</VCEF_FishingGrowingZoneDesc>
+  <VCEF_ChooseFish>낚시 종류 선택</VCEF_ChooseFish>
+  <VCEF_ChooseFishDesc>이 구역에 서식하는 물고기들을 잡으려면 미리 설정한 물고기 크기를 선택하세요. 몸집이 작은 물고기는 잡는데 시간이 빠르지만, 영양이 거의 없는 반면 몸집이 큰 물고기는 잡는데 시간이 더 오래 걸리고 그만큼 영양도 더 풍부합니다. 중간 정도 크기의 물고기는 양 극단의 균형을 이루고 있습니다. 또 항상 다른 물고기나 특별한 물건들을 잡을 기회가 있습니다.</VCEF_ChooseFishDesc>
+  <VCEF_ChooseFishSmallLabel>작은 물고기 잡기</VCEF_ChooseFishSmallLabel>
+  <VCEF_ChooseFishMediumLabel>중간 물고기 잡기</VCEF_ChooseFishMediumLabel>
+  <VCEF_ChooseFishLargeLabel>큰 물고기 잡기</VCEF_ChooseFishLargeLabel>
+  <VCEF_CommandAllowFishing>낚시 허용</VCEF_CommandAllowFishing>
+  <VCEF_CommandAllowFishingDesc>이 낚시 구역에서 낚시를 허용합니다.</VCEF_CommandAllowFishingDesc>
+  <VCEF_ZoneSetTo>이 구역은 다음과 같은 크기의 물고기를 잡도록 설정되어 있습니다.</VCEF_ZoneSetTo>
+  <VCEF_FishesInThisZone>이 구역의 물고기: </VCEF_FishesInThisZone>
+  <VCEF_IsZoneOceanZone>해양 어업 구역: </VCEF_IsZoneOceanZone>
+  <VCEF_Yes>예</VCEF_Yes>
+  <VCEF_No>아니오</VCEF_No>
+  <VCEF_ZoneTooSmall>구역이 너무 작습니다. 낚시 구역은 최소 25타일 이상 되어야 합니다.</VCEF_ZoneTooSmall>
+  <VCEF_NoFish>이 구역에서 잡을 수 있는 물고기가 없습니다. (이는 수정된 환경의 문제일 수도 있으며, 아마 생명이 살 수 없는 환경일 수도 있습니다. 제작자에게 얘기해 지원을 받으세요!)</VCEF_NoFish>
+
+</LanguageData>

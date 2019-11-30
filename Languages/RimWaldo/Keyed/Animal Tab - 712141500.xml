@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AnimalTab.LabelHeaderTip>클릭: 이름으로 정렬\nCtrl + 클릭: 종류로 정렬</AnimalTab.LabelHeaderTip>
+  <AnimalTab.AnimalRenamed>{0}(은)는 이제 {1}(으)로 불립니다.</AnimalTab.AnimalRenamed>
+  <AnimalTab.CtrlClickToRename>Ctrl + click: 이름 변경</AnimalTab.CtrlClickToRename>
+  <AnimalTab.GatherableTip>{0} x{1}</AnimalTab.GatherableTip>
+  <AnimalTab.AllowedAreaTip>Shift + click: 전체 허용 구역 설정\nCtrl + click: 구역 관리</AnimalTab.AllowedAreaTip>
+  <AnimalTab.MasterHeaderTip>Shift + click: 전체 주인 할당</AnimalTab.MasterHeaderTip>
+  <AnimalTab.MassAssignMasterNone>전체 할당하지 않음</AnimalTab.MassAssignMasterNone>
+  <AnimalTab.MassAssignMasterBonded>각별한 정착민에게 할당</AnimalTab.MassAssignMasterBonded>
+  <AnimalTab.MassAssignMaster>모두 {0}에게 할당 ( 기술 {1}, {2}/{3} 할당 가능함 )</AnimalTab.MassAssignMaster>
+  <AnimalTab.NoObedientAnimals>할당할 가축이 없음</AnimalTab.NoObedientAnimals>
+  <AnimalTab.Not>{0} 하지 않은</AnimalTab.Not>
+  <AnimalTab.Any>아무거나</AnimalTab.Any>
+  <AnimalTab.All>전체</AnimalTab.All>
+  <AnimalTab.And>그리고</AnimalTab.And>
+  <AnimalTab.Or>혹은</AnimalTab.Or>
+  <AnimalTab.Comma>,</AnimalTab.Comma>
+  <AnimalTab.FilterTip>{0} 보기\n\n클릭해서 {1} 보기로 변경</AnimalTab.FilterTip>
+  <AnimalTab.TrainableFilterTip>{0} 조련된 동물 보기\n\n클릭해서 필터 변경</AnimalTab.TrainableFilterTip>
+  <AnimalTab.IntelligenceFilterTip>지능이 {0} 이상되는 동물 보기\n\n클릭해서 필터 변경</AnimalTab.IntelligenceFilterTip>
+  <AnimalTab.PawnKindFilterTip>{0} 보기\n\n클릭해서 필터 변경</AnimalTab.PawnKindFilterTip>
+  <AnimalTab.FilterInactiveTip>전체 동물 보기\n\n클릭해서 필터 변경</AnimalTab.FilterInactiveTip>
+  <AnimalTab.XofYShown>{1} 중 {0} 동물 보임</AnimalTab.XofYShown>
+  <TrainableIntelligence_SuperAdvanced>super advanced</TrainableIntelligence_SuperAdvanced>
+  <Fluffy.AnimalTab.XHasMasteredY>{1}(은)는 {0}의 주인입니다.</Fluffy.AnimalTab.XHasMasteredY>
+  <Fluffy.AnimalTab.XHasLearnedYOutOfZ>{0}(은)는 {1}/{2} 기술을 배웠습니다.</Fluffy.AnimalTab.XHasLearnedYOutOfZ>
+  <Fluffy.AnimalTab.XHasForgottenYOutOfZ>{0}(은)는 {1}/{2} 기술을 잊어버렸습니다.</Fluffy.AnimalTab.XHasForgottenYOutOfZ>
+  <Fluffy.AnimalTab.XIsDesignatedTrainY>{0}(은)는 {1}(을)를 훈련받도록 지시 되었습니다.</Fluffy.AnimalTab.XIsDesignatedTrainY>
+  <Fluffy.AnimalTab.XIsNotDesignatedTrainY>{0}(은)는 {2}(을)를 훈련받도록 지시 되지 않아 시간이 흐름에 따라 기술을 잃습니다.</Fluffy.AnimalTab.XIsNotDesignatedTrainY>
+  <Fluffy.AnimalTab.HandlerX>Handler: {0}</Fluffy.AnimalTab.HandlerX>
+  <Fluffy.AnimalTab.Handler>Handler</Fluffy.AnimalTab.Handler>
+  <Fluffy.AnimalTab.HandlerMode.Any>Anyone</Fluffy.AnimalTab.HandlerMode.Any>
+  <Fluffy.AnimalTab.HandlerMode.Level>By skill</Fluffy.AnimalTab.HandlerMode.Level>
+  <Fluffy.AnimalTab.HandlerMode.Specific>Specific pawn</Fluffy.AnimalTab.HandlerMode.Specific>
+  <Fluffy.AnimalTab.Level>skill {0}-{1}</Fluffy.AnimalTab.Level>
+  <Fluffy.AnimalTab.CanNeverDoHandling>, can never do handling</Fluffy.AnimalTab.CanNeverDoHandling>
+  <Fluffy.AnimalTab.NotAssignedToHandling>, not assigned to handling</Fluffy.AnimalTab.NotAssignedToHandling>
+  <Fluffy.AnimalTab.InsufficientSkill>, skill too low</Fluffy.AnimalTab.InsufficientSkill>
+  <Fluffy.AnimalTab.NotAllowed.SpecificHandler>can't handle {0}, only {1} is allowed.</Fluffy.AnimalTab.NotAllowed.SpecificHandler>
+  <Fluffy.AnimalTab.NotAllowed.SkillTooLow>can't handle {0}, skill too low ({1}lt;{2})</Fluffy.AnimalTab.NotAllowed.SkillTooLow>
+  <Fluffy.AnimalTab.NotAllowed.SkillTooHigh>can't handle {0}, skill too high ({1}gt;{2})</Fluffy.AnimalTab.NotAllowed.SkillTooHigh>
+  <Fluffy.AnimalTab.RightClickToChangeHandler>Right click: change handler</Fluffy.AnimalTab.RightClickToChangeHandler>
+  <Fluffy.AnimalTab.HandlerHeaderTip>Shift + click: mass assign handler</Fluffy.AnimalTab.HandlerHeaderTip>
+  <Fluffy.AnimalTab.HandlerHeaderTip_RightClick>Shift + right click: mass assign handler</Fluffy.AnimalTab.HandlerHeaderTip_RightClick>
+  <Fluffy.AnimalTab.NoHandlerInRange>No valid handler</Fluffy.AnimalTab.NoHandlerInRange>
+  <Fluffy.AnimalTab.NoHandlerInRange.Tip>There are no handlers with a skill in the range set for:\n\n    {0}\n\nYou may want to loosen handler restrictions.</Fluffy.AnimalTab.NoHandlerInRange.Tip>
+  <Fluffy.AnimalTab.InvalidHandlers>Invalid handler</Fluffy.AnimalTab.InvalidHandlers>
+  <Fluffy.AnimalTab.InvalidHandlers.Tip>The handlers assigned to these animals are not able to do the job:\n\n    {0}\n\nYou may want to assign more capable handlers, and enable the handling job.</Fluffy.AnimalTab.InvalidHandlers.Tip>
+
+</LanguageData>

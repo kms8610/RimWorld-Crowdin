@@ -1,17 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <Administer_AB_PsychotropicFungus.label>향정신성 버섯 투여</Administer_AB_PsychotropicFungus.label>
+  <Administer_AB_PsychotropicFungus.jobString>향정신성 버섯 투여 중.</Administer_AB_PsychotropicFungus.jobString>
   <GU_MakeStoneBlocksRoseQuartz.label>장미 석영 석재 만들기</GU_MakeStoneBlocksRoseQuartz.label>
-  <GU_MakeStoneBlocksRoseQuartz.description>장미 석영 덩어리를 사용 가능한 석재로 자릅니다.</GU_MakeStoneBlocksRoseQuartz.description>
-  <GU_MakeStoneBlocksRoseQuartz.jobString>덩어리에서 석재를 자르는 중.</GU_MakeStoneBlocksRoseQuartz.jobString>
-  <AB_MakeStoneBlocksCragstone.label>울퉁불퉁한 돌 석재 만들기</AB_MakeStoneBlocksCragstone.label>
-  <AB_MakeStoneBlocksCragstone.description>울퉁불퉁한 돌 덩어리를 사용 가능한 석재로 자릅니다.</AB_MakeStoneBlocksCragstone.description>
-  <AB_MakeStoneBlocksCragstone.jobString>덩어리에서 석재를 자르는 중.</AB_MakeStoneBlocksCragstone.jobString>
+  <GU_MakeStoneBlocksRoseQuartz.description>장미 석영 덩어리를 사용 가능한 석재로 가공합니다.</GU_MakeStoneBlocksRoseQuartz.description>
+  <GU_MakeStoneBlocksRoseQuartz.jobString>덩어리에서 석재 가공 중.</GU_MakeStoneBlocksRoseQuartz.jobString>
+  <AB_MakeStoneBlocksCragstone.label>암석 석재 만들기</AB_MakeStoneBlocksCragstone.label>
+  <AB_MakeStoneBlocksCragstone.description>암석 덩어리를 사용 가능한 석재로 가공합니다.</AB_MakeStoneBlocksCragstone.description>
+  <AB_MakeStoneBlocksCragstone.jobString>덩어리에서 석재 가공 중.</AB_MakeStoneBlocksCragstone.jobString>
+  <AB_MakeStoneBlocksObsidian.label>흑요석 석재 만들기</AB_MakeStoneBlocksObsidian.label>
+  <AB_MakeStoneBlocksObsidian.description>흑요석 덩어리를 사용 가능한 석재로 자릅니다.</AB_MakeStoneBlocksObsidian.description>
+  <AB_MakeStoneBlocksObsidian.jobString>석재 만드는 중.</AB_MakeStoneBlocksObsidian.jobString>
   <GU_MakeStoneBlocksMudstone.label>이암 석재 만들기</GU_MakeStoneBlocksMudstone.label>
-  <GU_MakeStoneBlocksMudstone.description>이암 덩어리를 사용 가능한 석재로 자릅니다.</GU_MakeStoneBlocksMudstone.description>
-  <GU_MakeStoneBlocksMudstone.jobString>덩어리에서 석재를 자르는 중.</GU_MakeStoneBlocksMudstone.jobString>
-  <AB_MakeStoneBlocksSlimeStone.label>단단하게 굳은 점액질 덩어리에서 '음식' 으로 변환</AB_MakeStoneBlocksSlimeStone.label>
-  <AB_MakeStoneBlocksSlimeStone.description>점액질 돌 덩어리에서 반 식용 음식으로 자릅니다.</AB_MakeStoneBlocksSlimeStone.description>
-  <AB_MakeStoneBlocksSlimeStone.jobString>덩어리에서 석재를 자르는 중.</AB_MakeStoneBlocksSlimeStone.jobString>
+  <GU_MakeStoneBlocksMudstone.description>이암 덩어리를 사용 가능한 석재로 가공합니다.</GU_MakeStoneBlocksMudstone.description>
+  <GU_MakeStoneBlocksMudstone.jobString>덩어리에서 석재 가공 중.</GU_MakeStoneBlocksMudstone.jobString>
+  <AB_MakeStoneBlocksSlimeStone.label>굳은 점액질 덩어리를 "음식" 으로 가공</AB_MakeStoneBlocksSlimeStone.label>
+  <AB_MakeStoneBlocksSlimeStone.description>점액질 덩어리에서 식용(?) 가능한 음식으로 가공합니다.</AB_MakeStoneBlocksSlimeStone.description>
+  <AB_MakeStoneBlocksSlimeStone.jobString>덩어리에서 석재 가공 중.</AB_MakeStoneBlocksSlimeStone.jobString>
 
 </LanguageData>

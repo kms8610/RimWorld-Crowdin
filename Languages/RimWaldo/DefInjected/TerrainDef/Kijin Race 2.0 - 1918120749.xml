@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DadamiTile.label>다다미 바닥</DadamiTile.label>
+  <DadamiTile.description>건초로 만든 바닥. 무드 보너스를 받을 수 있습니다.</DadamiTile.description>
+  <BurnedDadamiTile.label>타버린 다다미 바닥</BurnedDadamiTile.label>
+  <BurnedDadamiTile.description>타버린 다다미 바닥.</BurnedDadamiTile.description>
+
+</LanguageData>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <UpgradeCattleGather.label>털깎기와 젖짜기</UpgradeCattleGather.label>
+  <UpgradeCattleGather.description>더 효율적으로 가축의 털과 젖을 짜는 법을 연구합니다. 효율이 2배로 중가합니다.</UpgradeCattleGather.description>
+  <UpgradeCattleEggLayer.label>가축 관리</UpgradeCattleEggLayer.label>
+  <UpgradeCattleEggLayer.description>가축이 더 많은 알을 낳도록 관리하는 법을 배웁니다. 효율이 2배로 증가합니다.</UpgradeCattleEggLayer.description>
+  <UpgradePlantHarvest.label>낭비되는 풀 활용</UpgradePlantHarvest.label>
+  <UpgradePlantHarvest.description>식물을 자르거나 수확할 때 남는 잎이나 줄기로부터 건초로 쓸수 있는 풀을 얻는 법을 배웁니다.</UpgradePlantHarvest.description>
+  <CornedMeat.label>염장 고기</CornedMeat.label>
+  <CornedMeat.description>염장통을 만들어 염장고기를 만드는 법을 연구합니다. 염장고기는 더 오랜기간 보존할 수 있습니다.</CornedMeat.description>
+  <HotSpringBath.label>온천</HotSpringBath.label>
+  <HotSpringBath.description>여가용 온천을 만드는법을 연구합니다.</HotSpringBath.description>
+  <HealingBath.label>회복 온천</HealingBath.label>
+  <HealingBath.description>온천의 상처회복효과를 강화합니다.</HealingBath.description>
+  <TiledRoofWall.label>기와지붕 벽</TiledRoofWall.label>
+  <TiledRoofWall.description>기와지붕 벽을 만드는 법을 연구합니다. 재료가 조금 더 들어가고 미관수치가 높습니다.</TiledRoofWall.description>
+  <DadamiFloor.label>다다미 바닥</DadamiFloor.label>
+  <DadamiFloor.description>건초로 다다미 바닥을 만드는 법을 연구합니다. 무드 버프를 제공합니다.</DadamiFloor.description>
+  <KijinPoisonWeapons.label>독 무기</KijinPoisonWeapons.label>
+  <KijinPoisonWeapons.description>독 단검과 독궁을 만드는 법을 연구합니다.</KijinPoisonWeapons.description>
+  <KijinFlameWeapons.label>화염 무기</KijinFlameWeapons.label>
+  <KijinFlameWeapons.description>화궁과 파초선을 만드는 법을 연구합니다.</KijinFlameWeapons.description>
+  <KijinSmokeWeapons.label>연막 무기</KijinSmokeWeapons.label>
+  <KijinSmokeWeapons.description>연막폭탄과 연막폭탄 벨트를 만드는 법을 연구합니다.</KijinSmokeWeapons.description>
+  <KijinAdvancedWeapons.label>고급 무기</KijinAdvancedWeapons.label>
+  <KijinAdvancedWeapons.description>100톤 망치와 장병도를 만드는 법을 연구합니다.</KijinAdvancedWeapons.description>
+  <KijinAdvancedArmors.label>불지옥 갑옷</KijinAdvancedArmors.label>
+  <KijinAdvancedArmors.description>근접전에 특화된 불지옥 갑옷을 만드는 법을 연구합니다.</KijinAdvancedArmors.description>
+
+</LanguageData>

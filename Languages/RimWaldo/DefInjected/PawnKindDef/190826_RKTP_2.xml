@@ -4433,56 +4433,6 @@
   <Frog-dog.labelFemale>암컷 프로그 도그</Frog-dog.labelFemale>
   <Frog-dog.labelFemalePlural>암컷 프로그 도그</Frog-dog.labelFemalePlural>
 
-  <!--1418683071_181117_House Maid Nukos-->
-  <Maidnukos.lifeStages.0.labelFemalePlural>여자 메이드 고양이 아기</Maidnukos.lifeStages.0.labelFemalePlural>
-  <XmasMaidnukos.lifeStages.0.labelFemalePlural>여자 메이드 고양이 아기</XmasMaidnukos.lifeStages.0.labelFemalePlural>
-  <Maidnukos.lifeStages.0.labelFemale>여자 메이드 고양이 아기</Maidnukos.lifeStages.0.labelFemale>
-  <XmasMaidnukos.lifeStages.0.labelFemale>여자 메이드 고양이 아기</XmasMaidnukos.lifeStages.0.labelFemale>
-  <Maidnukos.labelFemale>여자 메이드 고양이</Maidnukos.labelFemale>
-  <Maidnukos.labelFemalePlural>여자 메이드 고양이</Maidnukos.labelFemalePlural>
-  <XmasMaidnukos.labelFemale>여자 크리스마스 메이드 고양이</XmasMaidnukos.labelFemale>
-  <XmasMaidnukos.labelFemalePlural>여자 크리스마스 메이드 고양이</XmasMaidnukos.labelFemalePlural>
-  <Maidnukos.lifeStages.1.labelFemale>소녀 메이드 고양이</Maidnukos.lifeStages.1.labelFemale>
-  <XmasMaidnukos.lifeStages.1.labelFemale>소녀 메이드 고양이</XmasMaidnukos.lifeStages.1.labelFemale>
-  <Maidnukos.lifeStages.1.labelFemalePlural>소녀 메이드 고양이</Maidnukos.lifeStages.1.labelFemalePlural>
-  <XmasMaidnukos.lifeStages.1.labelFemalePlural>소녀 메이드 고양이</XmasMaidnukos.lifeStages.1.labelFemalePlural>
-  <Maidnukos.lifeStages.2.label>메이드 고양이</Maidnukos.lifeStages.2.label>
-  <Maidnukos.lifeStages.2.labelMale>메이드 고양이</Maidnukos.lifeStages.2.labelMale>
-  <Maidnukos.lifeStages.2.labelFemale>메이드 고양이</Maidnukos.lifeStages.2.labelFemale>
-  <XmasMaidnukos.lifeStages.2.label>메이드 고양이</XmasMaidnukos.lifeStages.2.label>
-  <XmasMaidnukos.lifeStages.2.labelMale>메이드 고양이</XmasMaidnukos.lifeStages.2.labelMale>
-  <XmasMaidnukos.lifeStages.2.labelFemale>메이드 고양이</XmasMaidnukos.lifeStages.2.labelFemale>
-  <Maidnukos.lifeStages.2.labelPlural>메이드 고양이</Maidnukos.lifeStages.2.labelPlural>
-  <Maidnukos.lifeStages.2.labelMalePlural>메이드 고양이</Maidnukos.lifeStages.2.labelMalePlural>
-  <Maidnukos.lifeStages.2.labelFemalePlural>메이드 고양이</Maidnukos.lifeStages.2.labelFemalePlural>
-  <XmasMaidnukos.lifeStages.2.labelPlural>메이드 고양이</XmasMaidnukos.lifeStages.2.labelPlural>
-  <XmasMaidnukos.lifeStages.2.labelMalePlural>메이드 고양이</XmasMaidnukos.lifeStages.2.labelMalePlural>
-  <XmasMaidnukos.lifeStages.2.labelFemalePlural>메이드 고양이</XmasMaidnukos.lifeStages.2.labelFemalePlural>
-  <Maidnukos.lifeStages.0.labelPlural>메이드 고양이 아기</Maidnukos.lifeStages.0.labelPlural>
-  <XmasMaidnukos.lifeStages.0.labelPlural>메이드 고양이 아기</XmasMaidnukos.lifeStages.0.labelPlural>
-  <Maidnukos.lifeStages.0.label>메이드 고양이 아기</Maidnukos.lifeStages.0.label>
-  <XmasMaidnukos.lifeStages.0.label>메이드 고양이 아기</XmasMaidnukos.lifeStages.0.label>
-  <Maidnukos.lifeStages.1.label>메이드 고양이 아이</Maidnukos.lifeStages.1.label>
-  <XmasMaidnukos.lifeStages.1.label>메이드 고양이 아이</XmasMaidnukos.lifeStages.1.label>
-  <Maidnukos.lifeStages.1.labelPlural>메이드 고양이 아이</Maidnukos.lifeStages.1.labelPlural>
-  <XmasMaidnukos.lifeStages.1.labelPlural>메이드 고양이 아이</XmasMaidnukos.lifeStages.1.labelPlural>
-  <Maidnukos.label>고양이 집사</Maidnukos.label>
-  <Maidnukos.labelPlural>메이드 고양이</Maidnukos.labelPlural>
-  <Maidnukos.lifeStages.0.labelMalePlural>남자 메이드 고양이 아기</Maidnukos.lifeStages.0.labelMalePlural>
-  <XmasMaidnukos.lifeStages.0.labelMalePlural>남자 메이드 고양이 아기</XmasMaidnukos.lifeStages.0.labelMalePlural>
-  <Maidnukos.lifeStages.0.labelMale>남자 메이드 고양이 아기</Maidnukos.lifeStages.0.labelMale>
-  <XmasMaidnukos.lifeStages.0.labelMale>남자 메이드 고양이 아기</XmasMaidnukos.lifeStages.0.labelMale>
-  <Maidnukos.labelMale>남자 메이드 고양이</Maidnukos.labelMale>
-  <Maidnukos.labelMalePlural>남자 메이드 고양이</Maidnukos.labelMalePlural>
-  <XmasMaidnukos.labelMale>남자 크리스마스 메이드 고양이</XmasMaidnukos.labelMale>
-  <XmasMaidnukos.labelMalePlural>남자 크리스마스 메이드 고양이</XmasMaidnukos.labelMalePlural>
-  <Maidnukos.lifeStages.1.labelMale>소년 메이드 고양이</Maidnukos.lifeStages.1.labelMale>
-  <XmasMaidnukos.lifeStages.1.labelMale>소년 메이드 고양이</XmasMaidnukos.lifeStages.1.labelMale>
-  <Maidnukos.lifeStages.1.labelMalePlural>소년 메이드 고양이</Maidnukos.lifeStages.1.labelMalePlural>
-  <XmasMaidnukos.lifeStages.1.labelMalePlural>소년 메이드 고양이</XmasMaidnukos.lifeStages.1.labelMalePlural>
-  <XmasMaidnukos.label>크리스마스 메이드 고양이</XmasMaidnukos.label>
-  <XmasMaidnukos.labelPlural>크리스마스 메이드 고양이</XmasMaidnukos.labelPlural>
-
   <!--1430501911_190519_Infectious Creatures-->
   <Adder.label>살무사</Adder.label>
   <Adder.labelPlural>살무사</Adder.labelPlural>

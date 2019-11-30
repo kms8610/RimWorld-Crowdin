@@ -7,5 +7,8 @@
   <MakeAmmo_265Flare_Illumination.label>26.5mm 조명탄 라운드 (조명) 생산 x50</MakeAmmo_265Flare_Illumination.label>
   <MakeAmmo_265Flare_Illumination.description>26.5mm 조명탄 라운드 (조명) 50 개를 만듭니다.</MakeAmmo_265Flare_Illumination.description>
   <MakeAmmo_265Flare_Illumination.jobString>26.5mm 조명탄 라운드 (조명) 50 개 만드는 중.</MakeAmmo_265Flare_Illumination.jobString>
+  <MakeShell_Illumination.label>81mm 포탄 (조명) x5</MakeShell_Illumination.label>
+  <MakeShell_Illumination.description>81mm 포탄 (조명) 을 5개 만듭니다.</MakeShell_Illumination.description>
+  <MakeShell_Illumination.jobString>81mm 포탄 만드는 중.</MakeShell_Illumination.jobString>
 
 </LanguageData>

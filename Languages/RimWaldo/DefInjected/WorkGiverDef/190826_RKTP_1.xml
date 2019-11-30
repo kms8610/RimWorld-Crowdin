@@ -366,38 +366,6 @@
   <MusicPlay.label>음악 연주하기.</MusicPlay.label>
   <MusicPlay.gerund>공연</MusicPlay.gerund>
 
-  <!--1558161673_190814_RimBees-->
-  <RB_DoBillsAdvancedHoneyCentrifuge.verb>꿀과 밀랍으로 대량 분해</RB_DoBillsAdvancedHoneyCentrifuge.verb>
-  <RB_DoBillsAdvancedHoneyCentrifuge.gerund>꿀과 밀랍으로 대량 분해</RB_DoBillsAdvancedHoneyCentrifuge.gerund>
-  <RB_DoBillsHoneyCentrifuge.verb>꿀과 밀랍으로 분해</RB_DoBillsHoneyCentrifuge.verb>
-  <RB_DoBillsHoneyCentrifuge.gerund>꿀과 밀랍으로 분해</RB_DoBillsHoneyCentrifuge.gerund>
-  <RB_FillMeadFermentingBarrel.verb>채우기</RB_FillMeadFermentingBarrel.verb>
-  <RB_FillMeadFermentingBarrel.label>발효통 채우기</RB_FillMeadFermentingBarrel.label>
-  <RB_FillMeadFermentingBarrel.gerund>채우기</RB_FillMeadFermentingBarrel.gerund>
-  <RB_TakeThingsOutOfBroodChamber.verb>벌 꺼내기</RB_TakeThingsOutOfBroodChamber.verb>
-  <RB_TakeThingsOutOfHybridizationChamber.verb>벌 꺼내기</RB_TakeThingsOutOfHybridizationChamber.verb>
-  <RB_TakeBeerOutOfFermentingBarrel.verb>벌꿀주 꺼내기</RB_TakeBeerOutOfFermentingBarrel.verb>
-  <RB_TakeBeerOutOfFermentingBarrel.label>발효통에서 벌꿀주 꺼내기</RB_TakeBeerOutOfFermentingBarrel.label>
-  <RB_TakeThingsOutOfAdvancedBeehouse.verb>꺼내기</RB_TakeThingsOutOfAdvancedBeehouse.verb>
-  <RB_TakeThingsOutOfBeehouse.verb>꺼내기</RB_TakeThingsOutOfBeehouse.verb>
-  <RB_TakeThingsOutOfClimatizedBeehouse.verb>꺼내기</RB_TakeThingsOutOfClimatizedBeehouse.verb>
-  <RB_TakeThingsOutOfBroodChamber.label>산란실에서 벌 꺼내기</RB_TakeThingsOutOfBroodChamber.label>
-  <RB_TakeThingsOutOfBroodChamber.gerund>벌 꺼내기</RB_TakeThingsOutOfBroodChamber.gerund>
-  <RB_TakeThingsOutOfHybridizationChamber.label>교배실에서 벌 꺼내기</RB_TakeThingsOutOfHybridizationChamber.label>
-  <RB_TakeThingsOutOfHybridizationChamber.gerund>벌 꺼내기</RB_TakeThingsOutOfHybridizationChamber.gerund>
-  <RB_TakeBeerOutOfFermentingBarrel.gerund>벌꿀주 꺼내기</RB_TakeBeerOutOfFermentingBarrel.gerund>
-  <RB_TakeThingsOutOfAdvancedBeehouse.label>고급 벌통에서 꺼내기</RB_TakeThingsOutOfAdvancedBeehouse.label>
-  <RB_TakeThingsOutOfAdvancedBeehouse.gerund>꺼내기</RB_TakeThingsOutOfAdvancedBeehouse.gerund>
-  <RB_TakeThingsOutOfBeehouse.label>벌통에서 꺼내기</RB_TakeThingsOutOfBeehouse.label>
-  <RB_TakeThingsOutOfBeehouse.gerund>꺼내기</RB_TakeThingsOutOfBeehouse.gerund>
-  <RB_TakeThingsOutOfClimatizedBeehouse.label>기후조정 벌통에서 꺼내기</RB_TakeThingsOutOfClimatizedBeehouse.label>
-  <RB_TakeThingsOutOfClimatizedBeehouse.gerund>꺼내기</RB_TakeThingsOutOfClimatizedBeehouse.gerund>
-  <RB_DoBillsBeekeepingWorkbench.verb>작업</RB_DoBillsBeekeepingWorkbench.verb>
-  <RB_DoBillsBeekeepingWorkbench.gerund>작업</RB_DoBillsBeekeepingWorkbench.gerund>
-  <RB_DoBillsAdvancedHoneyCentrifuge.label>고급 원심 분리기에서 작업</RB_DoBillsAdvancedHoneyCentrifuge.label>
-  <RB_DoBillsBeekeepingWorkbench.label>양봉 조리대에서 작업</RB_DoBillsBeekeepingWorkbench.label>
-  <RB_DoBillsHoneyCentrifuge.label>원심 분리기에서 작업</RB_DoBillsHoneyCentrifuge.label>
-
   <!--1563793492_190519_Milkable Colonists-->
   <MilkHumanlike.verb>우유</MilkHumanlike.verb>
   <MilkHumanlike.label>수인의 우유</MilkHumanlike.label>

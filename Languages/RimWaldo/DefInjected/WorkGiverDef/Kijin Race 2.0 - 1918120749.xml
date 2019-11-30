@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <FillSaltingBarrel.label>염장통 채우기</FillSaltingBarrel.label>
+  <FillSaltingBarrel.verb>채우기</FillSaltingBarrel.verb>
+  <FillSaltingBarrel.gerund>채우는 중</FillSaltingBarrel.gerund>
+  <TakeMeatOutOfSaltingBarrel.label>염장통 비우기</TakeMeatOutOfSaltingBarrel.label>
+  <TakeMeatOutOfSaltingBarrel.verb>비우기</TakeMeatOutOfSaltingBarrel.verb>
+  <TakeMeatOutOfSaltingBarrel.gerund>비우는 중</TakeMeatOutOfSaltingBarrel.gerund>
+
+</LanguageData>

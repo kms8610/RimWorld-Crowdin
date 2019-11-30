@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Kijin_Player.label>키진 정착지</Kijin_Player.label>
+  <Kijin_Player.description>키진 정착지</Kijin_Player.description>
+  <Kijin_Player.pawnsPlural>키진들</Kijin_Player.pawnsPlural>
+  <Kijin_NPCFaction.label>키진 정착지</Kijin_NPCFaction.label>
+  <Kijin_NPCFaction.description>키진 정착지</Kijin_NPCFaction.description>
+  <Kijin_NPCFaction.pawnsPlural>키진들</Kijin_NPCFaction.pawnsPlural>
+  <Kijin_NPCFaction.leaderTitle>지도자</Kijin_NPCFaction.leaderTitle>
+  <Kijin_Pirate.label>키진 무법자</Kijin_Pirate.label>
+  <Kijin_Pirate.description>키진 무법자</Kijin_Pirate.description>
+  <Kijin_Pirate.pawnsPlural>키진 무법자들</Kijin_Pirate.pawnsPlural>
+  <Kijin_Pirate.leaderTitle>지도자</Kijin_Pirate.leaderTitle>
+
+</LanguageData>

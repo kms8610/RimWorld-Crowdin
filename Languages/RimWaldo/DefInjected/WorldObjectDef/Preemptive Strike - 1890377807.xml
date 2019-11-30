@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <PES_RaidingCaravan.label>다가오는 무리</PES_RaidingCaravan.label>
-  <PES_RaidingCaravan.description>적군이 당신의 정착지를 향해 돌진한다! 그것에 대비하거나 선제공격을 가하라!</PES_RaidingCaravan.description>
-  <PES_RaidingCaravan_Simple.label>다가오는 무리</PES_RaidingCaravan_Simple.label>
-  <PES_RaidingCaravan_Simple.description>이 무리들은 우리 식민지의 재구성 시스템에 의해 탐지되었다. 자세한 내용은 보안 보고서를 참조하십시오.</PES_RaidingCaravan_Simple.description>
+  <PES_RaidingCaravan.label>수신</PES_RaidingCaravan.label>
+  <PES_RaidingCaravan.description>어떤 집단이 정찰 시스템에 탐지되었습니다. 자세한 내용은 보안 보고서에서 확인하세요.</PES_RaidingCaravan.description>
+  <PES_RaidingCaravan_Simple.label>수신</PES_RaidingCaravan_Simple.label>
+  <PES_RaidingCaravan_Simple.description>어떤 집단이 정찰 시스템에 탐지되었습니다. 자세한 내용은 보안 보고서에서 확인하세요.</PES_RaidingCaravan_Simple.description>
 
 </LanguageData>

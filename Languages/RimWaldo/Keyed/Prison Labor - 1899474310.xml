@@ -4,7 +4,7 @@
   <PrisonLabor_PrisonerWork>강제 노역</PrisonLabor_PrisonerWork>
   <PrisonLabor_WorkAndRecruit>노역 및 포섭</PrisonLabor_WorkAndRecruit>
   <PrisonLabor_LazyPrisonerMessage>수감자가 작업을 중단했습니다!</PrisonLabor_LazyPrisonerMessage>
-  <PrisonLabor_WardenResponseThreshold>교도관 반응 임계값</PrisonLabor_WardenResponseThreshold>
+  <PrisonLabor_WardenResponseThreshold>교도관 감시 임계값</PrisonLabor_WardenResponseThreshold>
   <PrisonLabor_StoppingWorkThreshold>작업 중지 임계값</PrisonLabor_StoppingWorkThreshold>
   <PrisonLabor_WorkTypeDisabled>수감자가 작업할 수 없는 유형</PrisonLabor_WorkTypeDisabled>
   <PrisonLabor_ShowNews>소식 보기</PrisonLabor_ShowNews>

@@ -45,6 +45,8 @@
   <GFM_SettingsJobStop>작업 중지</GFM_SettingsJobStop>
   <GFM_SettingsFoodMinimumThresholdStopJob>음식 최소 임계값 ({0}%)</GFM_SettingsFoodMinimumThresholdStopJob>
   <GFM_SettingsRestMinimumThresholdStopJob>휴식 최소 임계값 ({0}%)</GFM_SettingsRestMinimumThresholdStopJob>
+  <GFM_SettingsBladderMinimumThresholdStopJob>배변 최소 임계값 (Dubs bad Hygiene 모드) ({0}%)</GFM_SettingsBladderMinimumThresholdStopJob>
+  <GFM_SettingsHygieneMinimumThresholdStopJob>위생 최소 임계값 (Dubs bad Hygiene 모드) ({0}%)</GFM_SettingsHygieneMinimumThresholdStopJob>
   <GFM_SettingsPatrolWalkMode>순찰을 하는 보행 방식</GFM_SettingsPatrolWalkMode>
   <GFM_SettingsPatrolWalkModeWalk>걷기</GFM_SettingsPatrolWalkModeWalk>
   <GFM_SettingsPatrolWalkModeJog>가볍게 뛰기</GFM_SettingsPatrolWalkModeJog>

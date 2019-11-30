@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MSE_BodyPartModule.modExtensions.0.labelPretty>{0} 장치 홈</MSE_BodyPartModule.modExtensions.0.labelPretty>
+  <MSE_AddedBodyPartAdaptationBasic.modExtensions.1.labelPretty>인공 {0}</MSE_AddedBodyPartAdaptationBasic.modExtensions.1.labelPretty>
+  <MSE_AddedBodyPartAdaptationSimple.modExtensions.1.labelPretty>보철물 {0}</MSE_AddedBodyPartAdaptationSimple.modExtensions.1.labelPretty>
+  <MSE_AddedBodyPartAdaptationSimple_Organ.modExtensions.1.labelPretty>인공 {0}</MSE_AddedBodyPartAdaptationSimple_Organ.modExtensions.1.labelPretty>
+  <MSE_AddedBodyPartAdaptationBionic.modExtensions.1.labelPretty>생체공학 {0}</MSE_AddedBodyPartAdaptationBionic.modExtensions.1.labelPretty>
+  <MSE_AddedBodyPartAdaptationBionic_Organ.modExtensions.1.labelPretty>생체공학 {0}</MSE_AddedBodyPartAdaptationBionic_Organ.modExtensions.1.labelPretty>
+  <MSE_AddedBodyPartAdaptationArchotech.modExtensions.1.labelPretty>초월공학 {0}</MSE_AddedBodyPartAdaptationArchotech.modExtensions.1.labelPretty>
+  <MSE_AddedBodyPartAdaptationArchotech_Organ.modExtensions.1.labelPretty>초월공학 {0}</MSE_AddedBodyPartAdaptationArchotech_Organ.modExtensions.1.labelPretty>
+
+</LanguageData>

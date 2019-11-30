@@ -865,10 +865,6 @@
   <Shock.injuryProps.destroyedOutLabel>쇼크 줌</Shock.injuryProps.destroyedOutLabel>
   <RWBY_Thermos_Caffeine.label>테르모스 카페인</RWBY_Thermos_Caffeine.label>
 
-  <!--1558161673_190814_RimBees-->
-  <RB_BlackHoneyHediff.label>검은꿀 섭취</RB_BlackHoneyHediff.label>
-  <RB_BlackHoneyHediff.stages.0.label>영양식: 검은 꿀</RB_BlackHoneyHediff.stages.0.label>
-
   <!--1559034352_181116_Diseases overhauled-->
   <Appendicitis.label>급성 충수염</Appendicitis.label>
   <InducedComa5Days.stages.1.label>약 5일 째</InducedComa5Days.stages.1.label>

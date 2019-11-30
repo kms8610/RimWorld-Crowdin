@@ -173,6 +173,9 @@
   <Make_SkillOf_InnerHealing.label>전투 스킬 제작: 내부 회복</Make_SkillOf_InnerHealing.label>
   <Make_SkillOf_InnerHealing.description>전투 스킬 제작: 내부 회복.</Make_SkillOf_InnerHealing.description>
   <Make_SkillOf_InnerHealing.jobString>전투 스킬 제작: 내부 회복.</Make_SkillOf_InnerHealing.jobString>
+  <Make_SkillOf_Legion.label>전투 스킬 제작: 군단</Make_SkillOf_Legion.label>
+  <Make_SkillOf_Legion.description>전투 스킬 제작: 군단.</Make_SkillOf_Legion.description>
+  <Make_SkillOf_Legion.jobString>전투 스킬 제작: 군단.</Make_SkillOf_Legion.jobString>
   <Make_SkillOf_PommelStrike.label>전투 스킬 제작: 자루 치기</Make_SkillOf_PommelStrike.label>
   <Make_SkillOf_PommelStrike.description>전투 스킬 제작: 자루 치기.</Make_SkillOf_PommelStrike.description>
   <Make_SkillOf_PommelStrike.jobString>전투 스킬 제작: 자루 치기.</Make_SkillOf_PommelStrike.jobString>
@@ -182,6 +185,9 @@
   <Make_SkillOf_StrongBack.label>전투 스킬 제작: 튼튼한 허리</Make_SkillOf_StrongBack.label>
   <Make_SkillOf_StrongBack.description>전투 스킬 제작: 튼튼한 허리.</Make_SkillOf_StrongBack.description>
   <Make_SkillOf_StrongBack.jobString>전투 스킬 제작: 튼튼한 허리.</Make_SkillOf_StrongBack.jobString>
+  <Make_SkillOf_TempestStrike.label>전투 스킬 제작: 폭풍의 일격</Make_SkillOf_TempestStrike.label>
+  <Make_SkillOf_TempestStrike.description>전투 스킬 제작: 폭풍의 일격.</Make_SkillOf_TempestStrike.description>
+  <Make_SkillOf_TempestStrike.jobString>전투 스킬 제작: 폭풍의 일격.</Make_SkillOf_TempestStrike.jobString>
   <Make_SkillOf_ThickSkin.label>전투 스킬 제작: 두꺼운 피부</Make_SkillOf_ThickSkin.label>
   <Make_SkillOf_ThickSkin.description>전투 스킬 제작: 두꺼운 피부.</Make_SkillOf_ThickSkin.description>
   <Make_SkillOf_ThickSkin.jobString>전투 스킬 제작: 두꺼운 피부.</Make_SkillOf_ThickSkin.jobString>

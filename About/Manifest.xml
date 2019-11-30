@@ -2,12 +2,10 @@
 <Manifest>
 
   <identifier>RKTM</identifier>
-  <version>19.11.13</version>
+  <version>19.11.30</version>
   <dependencies>
   </dependencies>
   <loadAfter>
-	<li>1668983184</li>
-	<li>ThemeKorean</li>
 	<li>RimWaldo</li>
   </loadAfter>
 

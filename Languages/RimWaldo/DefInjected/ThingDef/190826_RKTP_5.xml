@@ -3596,11 +3596,7 @@
   <ADVModularHydroponicsBasin_Frame.label>고급 연결형 수경재배기 (건설 중)</ADVModularHydroponicsBasin_Frame.label>
   <ADVModularHydroponicsBasin_Frame.description>인공 영양물을 이용해 식물이 빨리 자랄 수 있게 해줍니다. 더 많은 전력을 요구하며 전력이 끊어지면 식물은 죽을것 입니다. 자체 조명을 제공합니다. 성장율 300%.</ADVModularHydroponicsBasin_Frame.description>
   <VG_Composterbox.label>퇴비 상자</VG_Composterbox.label>
-  <VG_Composterbox.description>비료를 "숙성"시키기 위해 토양 및 작물을 채우는 상자입니다.</VG_Composterbox.description>
-  <VG_Composterbox_Blueprint.label>퇴비 상자 (청사진)</VG_Composterbox_Blueprint.label>
-  <VG_Composterbox_Blueprint_Install.label>퇴비 상자 (청사진)</VG_Composterbox_Blueprint_Install.label>
-  <VG_Composterbox_Frame.label>퇴비 상자 (건설 중)</VG_Composterbox_Frame.label>
-  <VG_Composterbox_Frame.description>비료를 "숙성"시키기 위해 토양 및 작물을 채우는 상자입니다.</VG_Composterbox_Frame.description>
+  <VG_Composterbox.description>비료를 "숙성"시키기 위해 퇴비를 채우는 상자입니다.</VG_Composterbox.description>
   <SmallSunLamp.label>중형 태양등</SmallSunLamp.label>
   <SmallSunLamp.description>작물이 성장 할 수 있도록 인공적인 태양광을 발산합니다.</SmallSunLamp.description>
   <SmallSunLamp.comps.3.offMessage>작물 휴식시간동안 꺼짐</SmallSunLamp.comps.3.offMessage>
@@ -3662,24 +3658,6 @@
   <RawFertilizer.description>비료는 토양을 강화하고 식물의 성장을 가속화합니다.</RawFertilizer.description>
   <VG_PileofDirt.label>토양 더미</VG_PileofDirt.label>
   <VG_PileofDirt.description>채굴지점에서 파낸 토양으로 비료를 만드는데 사용됩니다.</VG_PileofDirt.description>
-  <VG_PlaceSoil_Blueprint.label>인공 토양 (청사진)</VG_PlaceSoil_Blueprint.label>
-  <VG_PlaceSoil_Frame.label>인공 토양 (건설 중)</VG_PlaceSoil_Frame.label>
-  <VG_PlaceSoil_Frame.description>작업이 진행중 입니다.</VG_PlaceSoil_Frame.description>
-  <VG_ReclaimSoil_Blueprint.label>재생된 토양 (청사진)</VG_ReclaimSoil_Blueprint.label>
-  <VG_ReclaimSoil_Frame.label>재생된 토양 (건설 중)</VG_ReclaimSoil_Frame.label>
-  <VG_ReclaimSoil_Frame.description>작업이 진행중 입니다.</VG_ReclaimSoil_Frame.description>
-  <VG_ReclaimMud_Blueprint.label>개간된 진흙 (청사진)</VG_ReclaimMud_Blueprint.label>
-  <VG_ReclaimMud_Frame.label>개간된 진흙 (건설 중)</VG_ReclaimMud_Frame.label>
-  <VG_ReclaimMud_Frame.description>작업이 진행중 입니다.</VG_ReclaimMud_Frame.description>
-  <VG_ReclaimWater_Blueprint.label>개간된 물과 습지 (청사진)</VG_ReclaimWater_Blueprint.label>
-  <VG_ReclaimWater_Frame.label>개간된 물과 습지 (건설 중)</VG_ReclaimWater_Frame.label>
-  <VG_ReclaimWater_Frame.description>작업이 진행중 입니다.</VG_ReclaimWater_Frame.description>
-  <VG_GardenSoil_Blueprint.label>정원 토양 (청사진)</VG_GardenSoil_Blueprint.label>
-  <VG_GardenSoil_Frame.label>정원 토양 (건설 중)</VG_GardenSoil_Frame.label>
-  <VG_GardenSoil_Frame.description>작업이 진행중 입니다.</VG_GardenSoil_Frame.description>
-  <VG_PlowSoil_Blueprint.label>개간된 토양 (청사진)</VG_PlowSoil_Blueprint.label>
-  <VG_PlowSoil_Frame.label>개간된 토양 (건설 중)</VG_PlowSoil_Frame.label>
-  <VG_PlowSoil_Frame.description>작업이 진행중 입니다.</VG_PlowSoil_Frame.description>
 
   <!--1516302647_190818_Mercer's Backpacks-->
   <LargeBackpackMC.description>큰 배낭으로, 더욱 편리하게 많은 물건을 운반할 수 있습니다.</LargeBackpackMC.description>

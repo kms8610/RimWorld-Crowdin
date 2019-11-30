@@ -2,59 +2,69 @@
 <LanguageData>
 
   <GU_RoseQuartz_Rough.label>거친 장미 석영</GU_RoseQuartz_Rough.label>
-  <GU_RoseQuartz_Rough.description>거칠고, 천연 그대로의 장미 석영 지대.</GU_RoseQuartz_Rough.description>
-  <GU_RoseQuartz_RoughHewn.label>거칠게 깍인 장미 석영</GU_RoseQuartz_RoughHewn.label>
+  <GU_RoseQuartz_Rough.description>자연 상태의 거친 장미 석영 지대입니다.</GU_RoseQuartz_Rough.description>
+  <GU_RoseQuartz_RoughHewn.label>대충 깎인 장미 석영</GU_RoseQuartz_RoughHewn.label>
   <GU_RoseQuartz_RoughHewn.description>거칠게 다듬은 천연 장미 석영 바닥입니다.</GU_RoseQuartz_RoughHewn.description>
   <GU_RoseQuartz_Smooth.label>매끄러운 장미 석영</GU_RoseQuartz_Smooth.label>
   <GU_RoseQuartz_Smooth.description>매끄러운 천연 장미 석영 바닥입니다.</GU_RoseQuartz_Smooth.description>
-  <AB_Cragstone_Rough.label>거친 울퉁불퉁한 돌</AB_Cragstone_Rough.label>
-  <AB_Cragstone_Rough.description>천연의 울퉁불퉁한 거친 돌 지대입니다.</AB_Cragstone_Rough.description>
-  <AB_Cragstone_RoughHewn.label>거칠게 깍인 울퉁불퉁한 돌입니다.</AB_Cragstone_RoughHewn.label>
-  <AB_Cragstone_RoughHewn.description>거칠게 깍은 천연 울퉁불통한 돌 바닥입니다.</AB_Cragstone_RoughHewn.description>
-  <AB_Cragstone_Smooth.label>매끄러운 울퉁불퉁한 돌</AB_Cragstone_Smooth.label>
-  <AB_Cragstone_Smooth.description>매끄러운 천연 울퉁불퉁한 돌 바닥입니다.</AB_Cragstone_Smooth.description>
+  <AB_Cragstone_Rough.label>거친 암석</AB_Cragstone_Rough.label>
+  <AB_Cragstone_Rough.description>자연 상태의 거친 암석 지대입니다.</AB_Cragstone_Rough.description>
+  <AB_Cragstone_RoughHewn.label>대충 깎인 암석</AB_Cragstone_RoughHewn.label>
+  <AB_Cragstone_RoughHewn.description>거칠게 다듬은 천연 암석 바닥입니다.</AB_Cragstone_RoughHewn.description>
+  <AB_Cragstone_Smooth.label>매끄러운 암석</AB_Cragstone_Smooth.label>
+  <AB_Cragstone_Smooth.description>매끄러운 천연 암석 바닥입니다.</AB_Cragstone_Smooth.description>
+  <AB_Obsidianstone_Rough.label>거친 흑요석</AB_Obsidianstone_Rough.label>
+  <AB_Obsidianstone_Rough.description>자연 상태의 거친 흑요석 지대입니다.</AB_Obsidianstone_Rough.description>
+  <AB_Obsidianstone_RoughHewn.label>대충 깍인 흑요석</AB_Obsidianstone_RoughHewn.label>
+  <AB_Obsidianstone_RoughHewn.description>거칠게 다듬은 천연 흑요석 바닥입니다.</AB_Obsidianstone_RoughHewn.description>
+  <AB_Obsidianstone_Smooth.label>매끄러운 흑요석</AB_Obsidianstone_Smooth.label>
+  <AB_Obsidianstone_Smooth.description>매끄러운 천연 흑요석 바닥입니다.</AB_Obsidianstone_Smooth.description>
   <AB_Mudstone_Rough.label>거친 이암</AB_Mudstone_Rough.label>
-  <AB_Mudstone_Rough.description>거칠고, 천연 이암 지대입니다.</AB_Mudstone_Rough.description>
-  <AB_Mudstone_RoughHewn.label>거칠게 깍인 이암</AB_Mudstone_RoughHewn.label>
-  <AB_Mudstone_RoughHewn.description>거칠게 깍은  천연 이암 바닥입니다.</AB_Mudstone_RoughHewn.description>
+  <AB_Mudstone_Rough.description>자연 상태의 거친 이암 지대입니다.</AB_Mudstone_Rough.description>
+  <AB_Mudstone_RoughHewn.label>대충 깎인 이암</AB_Mudstone_RoughHewn.label>
+  <AB_Mudstone_RoughHewn.description>거칠게 다듬은 천연 이암 바닥입니다.</AB_Mudstone_RoughHewn.description>
   <AB_Mudstone_Smooth.label>매끄러운 이암</AB_Mudstone_Smooth.label>
   <AB_Mudstone_Smooth.description>매끄러운 천연 이암 바닥입니다.</AB_Mudstone_Smooth.description>
-  <AB_SlimeStone_Rough.label>거친 단단하게 굳은 점액질</AB_SlimeStone_Rough.label>
-  <AB_SlimeStone_Rough.description>거칠고, 천연의 단단하게 굳은 점액질 지대입니다.</AB_SlimeStone_Rough.description>
-  <AB_SlimeStone_RoughHewn.label>거칠게 깍인 단단하게 굳은 점액질</AB_SlimeStone_RoughHewn.label>
-  <AB_SlimeStone_RoughHewn.description>거칠게 깍인 천연의 단단하게 굳은 점액질  바닥입니다.</AB_SlimeStone_RoughHewn.description>
-  <AB_SlimeStone_Smooth.label>매끄러운 단단하게 굳은 점액질</AB_SlimeStone_Smooth.label>
-  <AB_SlimeStone_Smooth.description>매끄러운 천연의 단단하게 굳은 점액질  바닥입니다.</AB_SlimeStone_Smooth.description>
-  <GU_AncientMetals_Rough.label>거친 고대 금속 벽</GU_AncientMetals_Rough.label>
-  <GU_AncientMetals_Rough.description>거칠고, 천연의 고대 금속 벽 지대입니다.</GU_AncientMetals_Rough.description>
-  <GU_AncientMetals_RoughHewn.label>거칠게 깍인 고대 금속 벽</GU_AncientMetals_RoughHewn.label>
-  <GU_AncientMetals_RoughHewn.description>거칠게 깍인 고대 금속 벽 바닥입니다.</GU_AncientMetals_RoughHewn.description>
-  <GU_AncientMetals_Smooth.label>매끄러운 고대 금속 벽</GU_AncientMetals_Smooth.label>
-  <GU_AncientMetals_Smooth.description>매끄러운 천연 고대의 금속 바닥입니다.</GU_AncientMetals_Smooth.description>
+  <AB_SlimeStone_Rough.label>거칠게 굳은 점액질</AB_SlimeStone_Rough.label>
+  <AB_SlimeStone_Rough.description>자연 상태의 거칠게 굳은 점액질 지대입니다.</AB_SlimeStone_Rough.description>
+  <AB_SlimeStone_RoughHewn.label>대충 깎인 굳은 점액질</AB_SlimeStone_RoughHewn.label>
+  <AB_SlimeStone_RoughHewn.description>거칠게 다듬은 천연의, 굳은 점액질 바닥입니다.</AB_SlimeStone_RoughHewn.description>
+  <AB_SlimeStone_Smooth.label>매끄러운 굳은 점액질</AB_SlimeStone_Smooth.label>
+  <AB_SlimeStone_Smooth.description>매끄러운 천연의 굳은 점액질 바닥입니다.</AB_SlimeStone_Smooth.description>
+  <GU_AncientMetals_Rough.label>거친 고대 금속</GU_AncientMetals_Rough.label>
+  <GU_AncientMetals_Rough.description>자연 상태의 거친 고대 금속 지대입니다.</GU_AncientMetals_Rough.description>
+  <GU_AncientMetals_RoughHewn.label>거칠게 깎인 고대 금속</GU_AncientMetals_RoughHewn.label>
+  <GU_AncientMetals_RoughHewn.description>거칠게 깎인 고대 금속 바닥입니다.</GU_AncientMetals_RoughHewn.description>
+  <GU_AncientMetals_Smooth.label>매끄러운 고대 금속</GU_AncientMetals_Smooth.label>
+  <GU_AncientMetals_Smooth.description>매끄러운 천연의 고대 금속 바닥입니다.</GU_AncientMetals_Smooth.description>
   <AB_DenseMud.label>짙은 진흙</AB_DenseMud.label>
   <AB_DenseMud.tools.0.label>진흙</AB_DenseMud.tools.0.label>
   <AB_DenseGrass.label>빽빽한 잡초</AB_DenseGrass.label>
   <AB_WebbedMarshyTerrain.label>물갈퀴가 낀 습지 토양</AB_WebbedMarshyTerrain.label>
   <AB_WebbedMarshyTerrain.tools.0.label>진흙</AB_WebbedMarshyTerrain.tools.0.label>
   <AB_TileRoseQuartz.label>장미 석영 타일</AB_TileRoseQuartz.label>
-  <AB_TileRoseQuartz.description>성에 온 듯한 느낌을 주는 돌바닥입니다. 조심스럽게 깍고, 다듬어 예쁘지만 시간이 오래 걸립니다.</AB_TileRoseQuartz.description>
+  <AB_TileRoseQuartz.description>성에 온 듯한 느낌을 주는 돌 바닥입니다. 조심스럽게 깎고 다듬어 예쁘지만, 시간이 오래 걸립니다.</AB_TileRoseQuartz.description>
   <AB_FlagstoneRoseQuartz.label>장미 석영 판석</AB_FlagstoneRoseQuartz.label>
-  <AB_FlagstoneRoseQuartz.description>거칠게 다듬은 돌바닥입니다. 예쁘진 않지만 도로나 보행로를 만들기에는 좋습니다. 판석은 해체해도 자재를 돌려받을 수 없습니다.</AB_FlagstoneRoseQuartz.description>
+  <AB_FlagstoneRoseQuartz.description>거칠게 다듬은 돌 바닥입니다. 예쁘진 않지만 도로나 보행로를 만들기에는 좋습니다. 판석은 해체해도 자재를 돌려받을 수 없습니다.</AB_FlagstoneRoseQuartz.description>
   <AB_TileMudstone.label>이암 타일</AB_TileMudstone.label>
-  <AB_TileMudstone.description>성에 온 듯한 느낌을 주는 돌바닥입니다. 조심스럽게 깍고, 다듬어 예쁘지만 시간이 오래 걸립니다.</AB_TileMudstone.description>
+  <AB_TileMudstone.description>성에 온 듯한 느낌을 주는 돌 바닥입니다. 조심스럽게 깎고 다듬어 예쁘지만, 시간이 오래 걸립니다.</AB_TileMudstone.description>
   <AB_FlagstoneMudstone.label>이암 판석</AB_FlagstoneMudstone.label>
-  <AB_FlagstoneMudstone.description>거칠게 다듬은 돌바닥입니다. 예쁘진 않지만 도로나 보행로를 만들기에는 좋습니다. 판석은 해체해도 자재를 돌려받을 수 없습니다.</AB_FlagstoneMudstone.description>
-  <AB_TileCragstone.label>울퉁불퉁한 돌 타일</AB_TileCragstone.label>
-  <AB_TileCragstone.description>성에 온 듯한 느낌을 주는 돌바닥입니다. 조심스럽게 깍고, 다듬어 예쁘지만 시간이 오래 걸립니다.</AB_TileCragstone.description>
-  <AB_FlagstoneCragstone.label>울퉁불퉁한 돌 판석</AB_FlagstoneCragstone.label>
-  <AB_FlagstoneCragstone.description>거칠게 다듬은 돌바닥입니다. 예쁘진 않지만 도로나 보행로를 만들기에는 좋습니다. 판석은 해체해도 자재를 돌려받을 수 없습니다.</AB_FlagstoneCragstone.description>
-  <AB_ForsakenSand.label>버림받은 모래</AB_ForsakenSand.label>
-  <AB_ForsakenSand.tools.0.label>더러움</AB_ForsakenSand.tools.0.label>
-  <AB_FineForsakenSand.label>고운 버림받은 모래</AB_FineForsakenSand.label>
+  <AB_FlagstoneMudstone.description>거칠게 다듬은 돌 바닥입니다. 예쁘진 않지만 도로나 보행로를 만들기에는 좋습니다. 판석은 해체해도 자재를 돌려받을 수 없습니다.</AB_FlagstoneMudstone.description>
+  <AB_TileCragstone.label>암석 타일</AB_TileCragstone.label>
+  <AB_TileCragstone.description>성에 온 듯한 느낌을 주는 돌 바닥입니다. 조심스럽게 깎고 다듬어 예쁘지만, 시간이 오래 걸립니다.</AB_TileCragstone.description>
+  <AB_FlagstoneCragstone.label>암석 판석</AB_FlagstoneCragstone.label>
+  <AB_FlagstoneCragstone.description>거칠게 다듬은 돌 바닥입니다. 예쁘진 않지만 도로나 보행로를 만들기에는 좋습니다. 판석은 해체해도 자재를 돌려받을 수 없습니다.</AB_FlagstoneCragstone.description>
+  <AB_TileObsidian.label>흑요석 타일</AB_TileObsidian.label>
+  <AB_TileObsidian.description>성에 온 듯한 느낌을 주는 돌 바닥입니다. 조심스럽게 깎고 다듬어 예쁘지만 시간이 오래 걸립니다.</AB_TileObsidian.description>
+  <AB_FlagstoneObsidian.label>흑요석 판석</AB_FlagstoneObsidian.label>
+  <AB_FlagstoneObsidian.description>거칠게 다듬은 돌 바닥입니다. 예쁘진 않지만 도로나 보행로를 만들기에는 좋습니다. 판석은 해체해도 자재를 돌려받을 수 없습니다.</AB_FlagstoneObsidian.description>
+  <AB_ForsakenSand.label>포세이큰 모래</AB_ForsakenSand.label>
+  <AB_ForsakenSand.tools.0.label>먼지</AB_ForsakenSand.tools.0.label>
+  <AB_FineForsakenSand.label>고운 포세이큰 모래</AB_FineForsakenSand.label>
   <AB_FineForsakenSand.tools.0.label>모래</AB_FineForsakenSand.tools.0.label>
-  <AB_ForsakenRock.label>버림받은 바위</AB_ForsakenRock.label>
+  <AB_ForsakenRock.label>포세이큰 바위</AB_ForsakenRock.label>
   <AB_ForsakenRock.tools.0.label>자갈</AB_ForsakenRock.tools.0.label>
-  <AB_DarkMud.label>버림받은 진흙</AB_DarkMud.label>
+  <AB_DarkMud.label>포세이큰 진흙</AB_DarkMud.label>
   <AB_DarkMud.tools.0.label>진흙</AB_DarkMud.tools.0.label>
   <AB_CrackedMud.label>비옥한 쪼개진 토양</AB_CrackedMud.label>
   <AB_CrackedMud.tools.0.label>진흙</AB_CrackedMud.tools.0.label>
@@ -62,37 +72,53 @@
   <AB_RichCrackedMud.tools.0.label>진흙</AB_RichCrackedMud.tools.0.label>
   <AB_FineSand.label>고운 모래</AB_FineSand.label>
   <AB_FineSand.tools.0.label>모래</AB_FineSand.tools.0.label>
-  <AB_Slime.label>단단하게 굳은 점액질 지대</AB_Slime.label>
-  <AB_RichSlime.label>풍부한 단단하게 굳은 점액질 지대</AB_RichSlime.label>
+  <AB_Slime.label>굳은 점액질 지대</AB_Slime.label>
+  <AB_RichSlime.label>기름진 굳은 점액질 지대</AB_RichSlime.label>
   <AB_SlimeGrass.label>점액질 잡초</AB_SlimeGrass.label>
   <AB_SlimyMud.label>끈끈한 진흙</AB_SlimyMud.label>
   <AB_SlimyMud.tools.0.label>점액질</AB_SlimyMud.tools.0.label>
-  <AB_LiquidSlime.label>얕은 액체 점액질</AB_LiquidSlime.label>
+  <AB_LiquidSlime.label>얕은 점액</AB_LiquidSlime.label>
   <AB_LiquidSlime.tools.0.label>물갈퀴가 낀 습지 토양</AB_LiquidSlime.tools.0.label>
   <GU_MetalFloor1.label>단열 바닥재</GU_MetalFloor1.label>
   <GU_MetalFloor2.label>금속 바닥</GU_MetalFloor2.label>
   <GU_MetalFloor3.label>매끄러운 금속 바닥</GU_MetalFloor3.label>
-  <AB_SoilOnCrackedMetal.label>쪼개진 금속 토양</AB_SoilOnCrackedMetal.label>
+  <AB_SoilOnCrackedMetal.label>갈라진 금속 토양</AB_SoilOnCrackedMetal.label>
   <GU_Piping.label>드러난 금속제 파이프</GU_Piping.label>
   <AB_MycoticSoil.label>진균성 토양</AB_MycoticSoil.label>
-  <AB_MycoticSoil.tools.0.label>더러움</AB_MycoticSoil.tools.0.label>
-  <AB_MycoticSoilRich.label>풍부한 진균성 토양</AB_MycoticSoilRich.label>
-  <AB_MycoticSoilRich.tools.0.label>더러움</AB_MycoticSoilRich.tools.0.label>
+  <AB_MycoticSoil.tools.0.label>먼지</AB_MycoticSoil.tools.0.label>
+  <AB_MycoticSoilRich.label>기름진 진균성 토양</AB_MycoticSoilRich.label>
+  <AB_MycoticSoilRich.tools.0.label>먼지</AB_MycoticSoilRich.tools.0.label>
   <AB_MycoticGrass.label>균사체</AB_MycoticGrass.label>
   <GU_AlienSand.label>붉은 색조 지대</GU_AlienSand.label>
   <GU_RichAlienSand.label>풍부한 붉은 색조 지대</GU_RichAlienSand.label>
   <GU_AlienSandFine.label>고운 붉은 모래</GU_AlienSandFine.label>
-  <GU_RedWaterShallow.label>붉은 얕은 물</GU_RedWaterShallow.label>
+  <GU_RedWaterShallow.label>얕은 붉은 물</GU_RedWaterShallow.label>
   <GU_RedWaterShallow.tools.0.label>물</GU_RedWaterShallow.tools.0.label>
-  <GU_RedWaterDeep.label>붉은 깊은 물</GU_RedWaterDeep.label>
+  <GU_RedWaterDeep.label>깊은 붉은 물</GU_RedWaterDeep.label>
   <GU_RedWaterDeep.tools.0.label>물</GU_RedWaterDeep.tools.0.label>
   <GU_MossyRed.label>마른 모래</GU_MossyRed.label>
   <GU_RedQuartzBase.label>거친 붉은 석영</GU_RedQuartzBase.label>
   <AB_PackedSnow.label>다져진 눈</AB_PackedSnow.label>
   <AB_PackedIce.label>다져진 얼음</AB_PackedIce.label>
   <AB_SolidPropane.label>고체 프로판 화합물</AB_SolidPropane.label>
-  <AB_SnowOverRocks.label>눈에 덮힌 지형</AB_SnowOverRocks.label>
+  <AB_SnowOverRocks.label>눈 덮인 바위 지형</AB_SnowOverRocks.label>
   <AB_PropaneLake.label>액체 프로판 호수</AB_PropaneLake.label>
   <AB_PropaneLake.tools.0.label>물</AB_PropaneLake.tools.0.label>
+  <AB_BlackPebbles.label>용암 모래</AB_BlackPebbles.label>
+  <AB_Obsidian.label>흑요석</AB_Obsidian.label>
+  <AB_SolidifiedLava.label>굳은 용암</AB_SolidifiedLava.label>
+  <AB_HardenedGrass.label>단단한 풀</AB_HardenedGrass.label>
+  <AB_LiquidLava.label>용암 호수</AB_LiquidLava.label>
+  <AB_LiquidLava.tools.0.label>물</AB_LiquidLava.tools.0.label>
+  <AB_LushGrass.label>무성한 풀</AB_LushGrass.label>
+  <AB_LushGrass.tools.0.label>흙</AB_LushGrass.tools.0.label>
+  <AB_GrassySand.label>잔디 모래</AB_GrassySand.label>
+  <AB_GrassySand.tools.0.label>모래</AB_GrassySand.tools.0.label>
+  <AB_ParchedEarth.label>마른 진흙</AB_ParchedEarth.label>
+  <AB_ParchedEarth.tools.0.label>진흙</AB_ParchedEarth.tools.0.label>
+  <AB_TarMud.label>타르가 묻은 진흙</AB_TarMud.label>
+  <AB_TarMud.tools.0.label>진흙</AB_TarMud.tools.0.label>
+  <AB_Tar.label>타르 웅덩이</AB_Tar.label>
+  <AB_Tar.tools.0.label>물</AB_Tar.tools.0.label>
 
 </LanguageData>

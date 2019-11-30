@@ -632,24 +632,6 @@
   <DustWeapons.label>더스트 웨폰</DustWeapons.label>
   <DustWeapons.description>그냥 무기냐고? 이건 우리의 연장선이야! 우리의 일부야! 아, 정말 멋져. - 루비 로즈</DustWeapons.description>
 
-  <!--1558161673_190814_RimBees-->
-  <RB_AdvancedBeehouses.label>고급 벌통</RB_AdvancedBeehouses.label>
-  <RB_AdvancedBeehouses.description>전력을 조금 소모하긴 하지만 생산 속도가 10% 빠르고 아주 유용한 고급 벌통입니다!</RB_AdvancedBeehouses.description>
-  <RB_AdvancedCentrifugation.label>고급 원심 분리기</RB_AdvancedCentrifugation.label>
-  <RB_ClimatizedBeehouses.description>극한 지역에서 벌들을 번식시키기 위해 노력하고 계신가요? 1년 중 대부분을 활동하지 않는 걸 볼 수 있습니다. 기후조정 벌통을 사용하면 야외의 온도에 상관없이 활동하게됩니다. 하지만 속도가 느리므로, 해당지역에 특화된 벌들을 교배하여 번식시키는게 최선입니다.</RB_ClimatizedBeehouses.description>
-  <RB_BasicBeekeeping.label>양봉</RB_BasicBeekeeping.label>
-  <RB_BeeBreeding.label>번식</RB_BeeBreeding.label>
-  <RB_BeeHybridizing.label>교배</RB_BeeHybridizing.label>
-  <RB_BeeswaxLighting.label>밀랍 조명등</RB_BeeswaxLighting.label>
-  <RB_ClimatizedBeehouses.label>기후조정 벌통</RB_ClimatizedBeehouses.label>
-  <RB_MeadBrewing.label>벌꿀주 양조</RB_MeadBrewing.label>
-  <RB_BeeBreeding.description>벌들을 사육함으로서 번식을 할 수 있습니다. 벌통에 산란실을 부착시키면 수벌이 태어나며, 벌통에 있는 임의의 품종 중 하나인 여왕도 태어납니다. 이러한 방법으로 벌들을 증식시키기에 아주 유용합니다!</RB_BeeBreeding.description>
-  <RB_BeeHybridizing.description>새로운 품종을 얻기 위해 벌들을 교배시킬 수 있습니다. 벌통에 교배실을 부착시키면, 안에 들어있는 품종의 유전자들을 혼합하여 새로운 품종의 여왕벌이 태어나게됩니다. 교배가 되지 않았거나 혼종이 무작위로 태어나게 된다면 알림으로 보여줍니다!</RB_BeeHybridizing.description>
-  <RB_BeeswaxLighting.description>전기 조명등보다 저렴하고 대안이 될 수도 있는 밀랍 조명등으로 양초를 만들기 위한 연구입니다. 양초는 밀랍을 연료로 사용하며 장기간 보충할 필요없이 사용할 수 있고, 빛뿐만 아니라 은은한 열도 함께 발산됩니다.</RB_BeeswaxLighting.description>
-  <RB_MeadBrewing.description>물과 꿀을 발효시켜 벌꿀주를 만들기 위한 연구입니다. 벌꿀주는 순한 알코올 음료입니다.</RB_MeadBrewing.description>
-  <RB_BasicBeekeeping.description>이 연구를 통해 양봉의 기본 지식을 얻음으로서 야생의 벌둥지에서 채집한 기본적인 품종인 온대와 연질 벌들에 대한 실험을 시작할 수 있습니다. 새로운 품종을 얻기 위해서는 더 많은 연구를 진행해야합니다.</RB_BasicBeekeeping.description>
-  <RB_AdvancedCentrifugation.description>벌집으로부터 자원을 얻기위해 반자동화된 고급 원심 분리기로 대량 분해가 가능합니다.</RB_AdvancedCentrifugation.description>
-
   <!--1559034352_181116_Diseases overhauled-->
   <TranquAnalgetProduction.label>진통제 및 진정제 조제</TranquAnalgetProduction.label>
   <MethylanphenamidProduction.description>인식능력과 학습 능력을 올려주는 약물 인 메틸랜페나미드를 생산하는 방법을 연구합니다.</MethylanphenamidProduction.description>

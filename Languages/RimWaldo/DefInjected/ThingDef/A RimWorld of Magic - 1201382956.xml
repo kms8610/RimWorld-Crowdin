@@ -150,6 +150,7 @@
   <Projectile_ThrowingKnife.label>단검 투척</Projectile_ThrowingKnife.label>
   <FlyingObject_LightningTrap.label>번개</FlyingObject_LightningTrap.label>
   <Projectile_BriarPatch.label>찔레꽃 덧대기</Projectile_BriarPatch.label>
+  <Projectile_TempestStrike.label>폭풍의 일격</Projectile_TempestStrike.label>
   <Projectile_SummonMinion.label>미니언 소환</Projectile_SummonMinion.label>
   <Projectile_SummonPylon.label>방어 파일론 소환</Projectile_SummonPylon.label>
   <Projectile_SummonExplosive.label>폭발 함정 소환</Projectile_SummonExplosive.label>
@@ -200,16 +201,19 @@
   <TableGemcutting.label>마법석 공예 작업대</TableGemcutting.label>
   <TableGemcutting.description>마법의 보석을 정제하는데 사용되는 작업대입니다.(인챈트)</TableGemcutting.description>
   <TableGemcutting_Blueprint.label>마법석 공예 작업대 (청사진)</TableGemcutting_Blueprint.label>
+  <TableGemcutting_Blueprint_Install.label>gemcrafting table (blueprint)</TableGemcutting_Blueprint_Install.label>
   <TableGemcutting_Frame.label>마법석 공예 작업대 (건설 중)</TableGemcutting_Frame.label>
   <TableGemcutting_Frame.description>마법의 보석을 정제하는데 사용되는 작업대입니다.(인챈트)</TableGemcutting_Frame.description>
   <TableMagicPrinter.label>필경 작업대</TableMagicPrinter.label>
   <TableMagicPrinter.description>책과 두루마리를 만드는데 사용되는 인쇄기</TableMagicPrinter.description>
   <TableMagicPrinter_Blueprint.label>필경 작업대 (청사진)</TableMagicPrinter_Blueprint.label>
+  <TableMagicPrinter_Blueprint_Install.label>scribing table (blueprint)</TableMagicPrinter_Blueprint_Install.label>
   <TableMagicPrinter_Frame.label>필경 작업대 (건설 중)</TableMagicPrinter_Frame.label>
   <TableMagicPrinter_Frame.description>책과 두루마리를 만드는데 사용되는 인쇄기.</TableMagicPrinter_Frame.description>
   <TableArcaneForge.label>아케인 제작소</TableArcaneForge.label>
   <TableArcaneForge.description>아케인 제작소는 마법사가 가공되지 않은 신비로운 힘을 이용한 물질을 만들 수 있도록 도와줍니다.\n\n과학적으로 정확한 매커니즘은 알 수 없지만, 아케인 제작소는 그 물질을 제작할 수 있게 만들어줍니다. 그래도 오직 신비로운 힘을 조작할 수 있는 능력을 가진 자만이 아케인 제작소를 사용할 수 있습니다.\n\n아케인 제작소를 이용하면 제작 속도가 크게 향상되지만, 마나를 소모하게 됩니다. 제작된 물품의 품질은 마법사의 직업 레벨과 기술 수준에 따라 결정됩니다.</TableArcaneForge.description>
   <TableArcaneForge_Blueprint.label>아케인 제작소 (청사진)</TableArcaneForge_Blueprint.label>
+  <TableArcaneForge_Blueprint_Install.label>arcane forge (blueprint)</TableArcaneForge_Blueprint_Install.label>
   <TableArcaneForge_Frame.label>아케인 제작소 (건설 중)</TableArcaneForge_Frame.label>
   <TableArcaneForge_Frame.description>아케인 제작소는 마법사가 가공되지 않은 신비로운 힘을 이용한 물질을 만들 수 있도록 도와줍니다.\n\n과학적으로 정확한 매커니즘은 알 수 없지만, 아케인 제작소는 그 물질을 제작할 수 있게 만들어줍니다. 그래도 오직 신비로운 힘을 조작할 수 있는 능력을 가진 자만이 아케인 제작소를 사용할 수 있습니다.\n\n아케인 제작소를 이용하면 제작 속도가 크게 향상되지만, 마나를 소모하게 됩니다. 제작된 물품의 품질은 마법사의 직업 레벨과 기술 수준에 따라 결정됩니다.</TableArcaneForge_Frame.description>
   <TableMagicCircle.label>마법진</TableMagicCircle.label>
@@ -243,8 +247,8 @@
   <TM_PowerNode.description>자연의 에너지를 전기의 형태로 조금씩 방출하는 전력 노드를 만듭니다. 전력 공급용으로 사용할 수 있습니다.</TM_PowerNode.description>
   <TM_Sunlight.label>태양빛</TM_Sunlight.label>
   <TM_Sunlight.description>식물이 성장하기에 충분한 태양빛을 내뿜는 등불을 만듭니다. 이 등불은 마법사가 계속 유지시켜야만 합니다.-최대 마나와 마나 재생속도가 40% 감소합니다.</TM_Sunlight.description>
-  <TM_Sentinel.label>센티널</TM_Sentinel.label>
-  <TM_Sentinel.description>지역을 지키기 위한 돌의 센티널을 만듭니다. 센티널은 적이 범위 내에 들어올 때까지 휴면 상태를 유지하며, 적이 들어왔을 때 돌 사슬에서 벗어나 자신의 지형을 방어합니다.\n\n 휴면 상태의 센티널에게 이 능력을 사용하면 경비영은 해산할 것입니다.\n\n *미적 노트 : 센티널은 항상 시전자를 외면하는 방향으로 바라보게 만들어집니다.</TM_Sentinel.description>
+  <TM_Sentinel.label>수호령</TM_Sentinel.label>
+  <TM_Sentinel.description>지역을 지키기 위한 돌의 센티널을 만듭니다. 센티널은 적이 범위 내에 들어올 때까지 휴면 상태를 유지하며, 적이 들어왔을 때 돌 사슬에서 벗어나 자신의 지형을 방어합니다.\n \n 휴면 상태의 센티널에게 이 능력을 사용하면 경비영은 해산할 것입니다.\n \n *미적 노트 : 센티널은 항상 시전자를 외면하는 방향으로 바라보게 만들어집니다.</TM_Sentinel.description>
   <TM_MageLightTD.label>마법전등</TM_MageLightTD.label>
   <TM_MageLightTD.description>마법사가 만들어 낸 전등입니다.</TM_MageLightTD.description>
   <TM_PoisonTrap.label>독 지뢰</TM_PoisonTrap.label>
@@ -279,11 +283,11 @@
   <TM_ArcaneBarrier.label>아케인 방벽</TM_ArcaneBarrier.label>
   <TM_ArcaneBarrier.description>굳건한 아케인 에너지로 만든 지나갈 수 없는 벽을 만듭니다. 보호를 제공하고 통과할 수 없습니다.</TM_ArcaneBarrier.description>
   <TM_TechnoTurret_Base.label>마크IV</TM_TechnoTurret_Base.label>
-  <TM_TechnoTurret_Base.description>마크IV는 중무기의 화력을 제공하는 전개식 터렛입니다. 소형화를 이용하여 사용자가 사용하지 않을 때 시스템을 쉽게 운반할 수 있습니다. 마크IV의 주요 부품은 소형화 상태에서 원 에너지를 사용하여 포탑을 수리 및 재부착하여 공칭 에너지가 물질 변환을 가능하게 하는 물질 변환기입니다. 그러나, 무기 시스템을 강화하기 위해 플라스틸과 초경조직 천을 사용함에도 불구하고, 이 재료는 전환 과정 동안 가해지는 압력을 견딜 수 없었고, 고장과 부품 고장으로 인해 매우 취약했습니다.\n\n 이후 테크노맨서들은 시스템을 조정하고 아케인 에너지를 제어하여 전개되는 동안 탄약과 수리 및 소형화를 위한 에너지를 포탑에 제공합니다.\n\n 마크IV는 전개 중에는 무게 때문에 이동할 수 없습니다.</TM_TechnoTurret_Base.description>
+  <TM_TechnoTurret_Base.description>마크IV는 중무기의 화력을 제공하는 전개식 터렛입니다. 소형화를 이용하여 사용자가 사용하지 않을 때 시스템을 쉽게 운반할 수 있습니다. 마크IV의 주요 부품은 소형화 상태에서 원 에너지를 사용하여 포탑을 수리 및 재부착하여 공칭 에너지가 물질 변환을 가능하게 하는 물질 변환기입니다. 그러나, 무기 시스템을 강화하기 위해 플라스틸과 초경조직 천을 사용함에도 불구하고, 이 재료는 전환 과정 동안 가해지는 압력을 견딜 수 없었고, 고장과 부품 고장으로 인해 매우 취약했습니다.\n \n 이후 테크노맨서들은 시스템을 조정하고 아케인 에너지를 제어하여 전개되는 동안 탄약과 수리 및 소형화를 위한 에너지를 포탑에 제공합니다.\n \n 마크IV는 전개 중에는 무게 때문에 이동할 수 없습니다.</TM_TechnoTurret_Base.description>
   <TM_TechnoTurret_Base_RL.label>마크IV</TM_TechnoTurret_Base_RL.label>
-  <TM_TechnoTurret_Base_RL.description>마크IV는 중무기의 화력을 제공하는 전개식 터렛입니다. 소형화를 이용하여 사용자가 사용하지 않을 때 시스템을 쉽게 운반할 수 있습니다. 마크IV의 주요 부품은 소형화 상태에서 원 에너지를 사용하여 포탑을 수리 및 재부착하여 공칭 에너지가 물질 변환을 가능하게 하는 물질 변환기입니다. 그러나, 무기 시스템을 강화하기 위해 플라스틸과 초경조직 천을 사용함에도 불구하고, 이 재료는 전환 과정 동안 가해지는 압력을 견딜 수 없었고, 고장과 부품 고장으로 인해 매우 취약했습니다.\n\n 이후 테크노맨서들은 시스템을 조정하고 아케인 에너지를 제어하여 전개되는 동안 탄약과 수리 및 소형화를 위한 에너지를 포탑에 제공합니다.\n\n 마크IV는 전개 중에는 무게 때문에 이동할 수 없습니다.</TM_TechnoTurret_Base_RL.description>
+  <TM_TechnoTurret_Base_RL.description>마크IV는 중무기의 화력을 제공하는 전개식 터렛입니다. 소형화를 이용하여 사용자가 사용하지 않을 때 시스템을 쉽게 운반할 수 있습니다. 마크IV의 주요 부품은 소형화 상태에서 원 에너지를 사용하여 포탑을 수리 및 재부착하여 공칭 에너지가 물질 변환을 가능하게 하는 물질 변환기입니다. 그러나, 무기 시스템을 강화하기 위해 플라스틸과 초경조직 천을 사용함에도 불구하고, 이 재료는 전환 과정 동안 가해지는 압력을 견딜 수 없었고, 고장과 부품 고장으로 인해 매우 취약했습니다.\n \n 이후 테크노맨서들은 시스템을 조정하고 아케인 에너지를 제어하여 전개되는 동안 탄약과 수리 및 소형화를 위한 에너지를 포탑에 제공합니다.\n \n 마크IV는 전개 중에는 무게 때문에 이동할 수 없습니다.</TM_TechnoTurret_Base_RL.description>
   <TM_TechnoTurret_Base_RL_MTR.label>마크IV</TM_TechnoTurret_Base_RL_MTR.label>
-  <TM_TechnoTurret_Base_RL_MTR.description>마크IV는 중무기의 화력을 제공하는 전개식 터렛입니다. 소형화를 이용하여 사용자가 사용하지 않을 때 시스템을 쉽게 운반할 수 있습니다. 마크IV의 주요 부품은 소형화 상태에서 원 에너지를 사용하여 포탑을 수리 및 재부착하여 공칭 에너지가 물질 변환을 가능하게 하는 물질 변환기입니다. 그러나, 무기 시스템을 강화하기 위해 플라스틸과 초경조직 천을 사용함에도 불구하고, 이 재료는 전환 과정 동안 가해지는 압력을 견딜 수 없었고, 고장과 부품 고장으로 인해 매우 취약했습니다.\n\n 이후 테크노맨서들은 시스템을 조정하고 아케인 에너지를 제어하여 전개되는 동안 탄약과 수리 및 소형화를 위한 에너지를 포탑에 제공합니다.\n\n 마크IV는 전개 중에는 무게 때문에 이동할 수 없습니다.</TM_TechnoTurret_Base_RL_MTR.description>
+  <TM_TechnoTurret_Base_RL_MTR.description>마크IV는 중무기의 화력을 제공하는 전개식 터렛입니다. 소형화를 이용하여 사용자가 사용하지 않을 때 시스템을 쉽게 운반할 수 있습니다. 마크IV의 주요 부품은 소형화 상태에서 원 에너지를 사용하여 포탑을 수리 및 재부착하여 공칭 에너지가 물질 변환을 가능하게 하는 물질 변환기입니다. 그러나, 무기 시스템을 강화하기 위해 플라스틸과 초경조직 천을 사용함에도 불구하고, 이 재료는 전환 과정 동안 가해지는 압력을 견딜 수 없었고, 고장과 부품 고장으로 인해 매우 취약했습니다.\n \n 이후 테크노맨서들은 시스템을 조정하고 아케인 에너지를 제어하여 전개되는 동안 탄약과 수리 및 소형화를 위한 에너지를 포탑에 제공합니다.\n \n 마크IV는 전개 중에는 무게 때문에 이동할 수 없습니다.</TM_TechnoTurret_Base_RL_MTR.description>
   <Bullet_Mark-IV.label>마크IV round</Bullet_Mark-IV.label>
   <Gun_Mark-IV.label>마크IV 무기 시스템</Gun_Mark-IV.label>
   <Gun_Mark-IV.description>마크IV 무기 시스템 수류탄 및 발사 컨트롤</Gun_Mark-IV.description>
@@ -294,15 +298,15 @@
   <FlyingObject_RocketSmall.label>소형 로켓</FlyingObject_RocketSmall.label>
   <Bullet_Shell_TechnoTurretExplosive.label>HE 포탄</Bullet_Shell_TechnoTurretExplosive.label>
   <TM_ArcaneCapacitor.label>아케인 축전기</TM_ArcaneCapacitor.label>
-  <TM_ArcaneCapacitor.description>아케인 축전기는 나중에 마법사가 사용할 수 있는 잠재적인 에너지의 형태로 마나를 저장할 수 있습니다. 마법 작업에 할당된 마법사는 설정된 충전률에 도달할 때까지 축전기를 충전합니다. 마나가 최대치의 90%이상인 경우에만 이 작업을 수행합니다.\n\n 아케인 축전기의 마나 비율이 마법사의 250%를 초과하면 마나를 소집되지 않은 정착민에게 방출합니다. 소집된 마법사에게서는 축전기가 비어있거나, 마법사에 90% 이상의 마나를 보유할 때까지 강제로 마나를 콘덴서에서 끌어냅니다.\n\n 일부 마나는 방전 과정에서 손실됩니다.\n 효율성 : 71 %</TM_ArcaneCapacitor.description>
+  <TM_ArcaneCapacitor.description>아케인 축전기는 나중에 마법사가 사용할 수 있는 잠재적인 에너지의 형태로 마나를 저장할 수 있습니다. 마법 작업에 할당된 마법사는 설정된 충전률에 도달할 때까지 축전기를 충전합니다. 마나가 최대치의 90%이상인 경우에만 이 작업을 수행합니다.\n \n 아케인 축전기의 마나 비율이 마법사의 250%를 초과하면 마나를 소집되지 않은 정착민에게 방출합니다. 소집된 마법사에게서는 축전기가 비어있거나, 마법사에 90% 이상의 마나를 보유할 때까지 강제로 마나를 콘덴서에서 끌어냅니다.\n \n 일부 마나는 방전 과정에서 손실됩니다.\n 효율성 : 71 %</TM_ArcaneCapacitor.description>
   <TM_ArcaneCapacitor_Blueprint.label>아케인 축전기 (청사진)</TM_ArcaneCapacitor_Blueprint.label>
   <TM_ArcaneCapacitor_Frame.label>아케인 축전기 (건설 중)</TM_ArcaneCapacitor_Frame.label>
-  <TM_ArcaneCapacitor_Frame.description>아케인 축전기는 나중에 마법사가 사용할 수 있는 잠재적인 에너지의 형태로 마나를 저장할 수 있습니다. 마법 작업에 할당된 마법사는 설정된 충전률에 도달할 때까지 축전기를 충전합니다. 마나가 최대치의 90%이상인 경우에만 이 작업을 수행합니다.\n\n 아케인 축전기의 마나 비율이 마법사의 250%를 초과하면 마나를 소집되지 않은 정착민에게 방출합니다. 소집된 마법사에게서는 축전기가 비어있거나, 마법사에 90% 이상의 마나를 보유할 때까지 강제로 마나를 콘덴서에서 끌어냅니다.\n\n 일부 마나는 방전 과정에서 손실됩니다.\n 효율성 : 71 %</TM_ArcaneCapacitor_Frame.description>
+  <TM_ArcaneCapacitor_Frame.description>아케인 축전기는 나중에 마법사가 사용할 수 있는 잠재적인 에너지의 형태로 마나를 저장할 수 있습니다. 마법 작업에 할당된 마법사는 설정된 충전률에 도달할 때까지 축전기를 충전합니다. 마나가 최대치의 90%이상인 경우에만 이 작업을 수행합니다.\n \n 아케인 축전기의 마나 비율이 마법사의 250%를 초과하면 마나를 소집되지 않은 정착민에게 방출합니다. 소집된 마법사에게서는 축전기가 비어있거나, 마법사에 90% 이상의 마나를 보유할 때까지 강제로 마나를 콘덴서에서 끌어냅니다.\n \n 일부 마나는 방전 과정에서 손실됩니다.\n 효율성 : 71 %</TM_ArcaneCapacitor_Frame.description>
   <TM_DimensionalManaPocket.label>차원 마나 주머니</TM_DimensionalManaPocket.label>
-  <TM_DimensionalManaPocket.description>차원 마나 주머니는 엄청난 양의 마나를 저장하고, 넓은 범위에 마나를 분배할 수 있지만, 마나를 재분배하는 목적으로 아케인 축전기보다는 느립니다.\n\n 마법 작업에 할당된 마법사는 설정된만큼 차원 주머니에 마나를 저장합니다. 마나가 최대치의 90%이상인 경우에만 이 작업을 수행합니다. \n\n 차원 마나 주머니는 마나가 40%이하인 소집되지 않은 마법사 또는 마나가 80%이하인 소집된 마법사가 범위 안에 있는 경우 마나를 방출합니다.\n\n 일부 마나는 충전 및 방전 과정에서 손실됩니다.\n 효율성 : 80%</TM_DimensionalManaPocket.description>
+  <TM_DimensionalManaPocket.description>차원 마나 주머니는 엄청난 양의 마나를 저장하고, 넓은 범위에 마나를 분배할 수 있지만, 마나를 재분배하는 목적으로 아케인 축전기보다는 느립니다.\n \n 마법 작업에 할당된 마법사는 설정된만큼 차원 주머니에 마나를 저장합니다. 마나가 최대치의 90%이상인 경우에만 이 작업을 수행합니다. \n \n 차원 마나 주머니는 마나가 40%이하인 소집되지 않은 마법사 또는 마나가 80%이하인 소집된 마법사가 범위 안에 있는 경우 마나를 방출합니다.\n \n 일부 마나는 충전 및 방전 과정에서 손실됩니다.\n 효율성 : 80%</TM_DimensionalManaPocket.description>
   <TM_DimensionalManaPocket_Blueprint.label>차원 마나 주머니 (청사진)</TM_DimensionalManaPocket_Blueprint.label>
   <TM_DimensionalManaPocket_Frame.label>차원 마나 주머니 (건설 중)</TM_DimensionalManaPocket_Frame.label>
-  <TM_DimensionalManaPocket_Frame.description>차원 마나 주머니는 엄청난 양의 마나를 저장하고, 넓은 범위에 마나를 분배할 수 있지만, 마나를 재분배하는 목적으로 아케인 축전기보다는 느립니다.\n\n 마법 작업에 할당된 마법사는 설정된만큼 차원 주머니에 마나를 저장합니다. 마나가 최대치의 90%이상인 경우에만 이 작업을 수행합니다. \n\n 차원 마나 주머니는 마나가 40%이하인 소집되지 않은 마법사 또는 마나가 80%이하인 소집된 마법사가 범위 안에 있는 경우 마나를 방출합니다.\n\n 일부 마나는 충전 및 방전 과정에서 손실됩니다.\n 효율성 : 80%</TM_DimensionalManaPocket_Frame.description>
+  <TM_DimensionalManaPocket_Frame.description>차원 마나 주머니는 엄청난 양의 마나를 저장하고, 넓은 범위에 마나를 분배할 수 있지만, 마나를 재분배하는 목적으로 아케인 축전기보다는 느립니다.\n \n 마법 작업에 할당된 마법사는 설정된만큼 차원 주머니에 마나를 저장합니다. 마나가 최대치의 90%이상인 경우에만 이 작업을 수행합니다. \n \n 차원 마나 주머니는 마나가 40%이하인 소집되지 않은 마법사 또는 마나가 80%이하인 소집된 마법사가 범위 안에 있는 경우 마나를 방출합니다.\n \n 일부 마나는 충전 및 방전 과정에서 손실됩니다.\n 효율성 : 80%</TM_DimensionalManaPocket_Frame.description>
   <TM_Portal.label>포탈</TM_Portal.label>
   <TM_Portal.description>즉각적인 이동이 가능하게 연결된 두개의 포탈.</TM_Portal.description>
   <TM_Portal_Blueprint.label>포탈 (청사진)</TM_Portal_Blueprint.label>
@@ -386,10 +390,10 @@
   <TM_EStone_wonder_major.description>마법 에너지를 아이템에 부여할 수 있는 마법의 돌로 마법사가 인챈트(아이템 강화) 할 수 있습니다. 이 보석은 마치 폭포 가장자리에 끊임없이 매달려있는 것 처럼, 강렬한 힘으로 떨리고 있습니다. 이 인챈트는 모든 인챈트 보너스를 크게 부여하며, 어떤 아이템에 마법 잠재능력을 부여하는데 사용될 수 있습니다.</TM_EStone_wonder_major.description>
   <TM_EStone_wonder_major.stuffProps.stuffAdjective>뛰어난 경이의 아케인 보석</TM_EStone_wonder_major.stuffProps.stuffAdjective>
   <RawMagicyte.label>정제되지 않은 마법석</RawMagicyte.label>
-  <RawMagicyte.description>아케인 힘이 돌의 중심에 숨어있는 듯 무딘 유리 표면에 감싸여있는 돌입니다. 겉으로 보기에는 일반적인 돌과 비슷하게 보이지만, 마법석은 어두운 곳에서 번들거리면서 마법사가 돌을 만질 때 미약한 에너지를 방출하고 있습니다.\n\n 이 마법석은 보석 세공 작업대에서 다양한 마법의 보석을 만들기 위해 정제될 수 있습니다.</RawMagicyte.description>
+  <RawMagicyte.description>아케인 힘이 돌의 중심에 숨어있는 듯 무딘 유리 표면에 감싸여있는 돌입니다. 겉으로 보기에는 일반적인 돌과 비슷하게 보이지만, 마법석은 어두운 곳에서 번들거리면서 마법사가 돌을 만질 때 미약한 에너지를 방출하고 있습니다.\n \n 이 마법석은 보석 세공 작업대에서 다양한 마법의 보석을 만들기 위해 정제될 수 있습니다.</RawMagicyte.description>
   <RawMagicyte.stuffProps.stuffAdjective>정제되지 않은 마법석</RawMagicyte.stuffProps.stuffAdjective>
   <TM_Manaweave.label>마나 옷감</TM_Manaweave.label>
-  <TM_Manaweave.description>마나 옷감은 마법석과 융합되어 꼼꼼히 신비한 기호를 불어넣은 천입니다. 마나 옷감은 천의 많은 물성을 물려받았지만, 물리적인 힘에 대응하는 반응을 추가로 얻습니다. 마법의 효과를 강화하고 자연적으로 빛과 어둠의 마법으로부터 보호기능을 갖추고 있습니다.\n\n 만들기가 굉장히 어렵고 부담스럽기 때문에 재능있고 지식이 풍부한 마법사만 이 재료를 만들 수 있습니다.</TM_Manaweave.description>
+  <TM_Manaweave.description>마나 옷감은 마법석과 융합되어 꼼꼼히 신비한 기호를 불어넣은 천입니다. 마나 옷감은 천의 많은 물성을 물려받았지만, 물리적인 힘에 대응하는 반응을 추가로 얻습니다. 마법의 효과를 강화하고 자연적으로 빛과 어둠의 마법으로부터 보호기능을 갖추고 있습니다.\n \n 만들기가 굉장히 어렵고 부담스럽기 때문에 재능있고 지식이 풍부한 마법사만 이 재료를 만들 수 있습니다.</TM_Manaweave.description>
   <TM_Manaweave.stuffProps.stuffAdjective>마나 옷감</TM_Manaweave.stuffProps.stuffAdjective>
   <TM_Arcalleum.label>아르칼륨</TM_Arcalleum.label>
   <TM_Arcalleum.description>강철, 옥, 은과 마정석으로 구성된 합금 금속입니다. 이 특수한 구성으로 인해 탄성력이 증가하고 마법 에너지를 투과시키는데 용이한 특성을 지녔습니다. 이 합금의 탄력은 둔탁함을 보호 하는데 특화되어 있지만, 무기의 재료로서는 수준이 떨어집니다. 아르칼륨은 만들기 어렵고 합금의 모든 성분을 결합시킬 수 있는 단조가 필요합니다.\n\n	아르칼륨은 방어구에 특화되어 있지만, 모든 능력의 재사용 대기시간을 무효화 시킬 수 있어 전사들과 마법사들에게 높은 평가를 받습니다. 아르칼륨이 닳을 때마다 재사용 대기시간이 1% 확률로 무효화 될 수 있습니다. (최대 50%)</TM_Arcalleum.description>
@@ -428,7 +432,7 @@
   <Torn_BookOfBard.description>재능이 있는 정착민에게 전문 음유시인이 되는 방법을 가르칩니다. 음유시인들은 단순 노동을 할 수 없으며 이러한 작업 유형들은 비활성화 됩니다. \n 이 마법서는 불완전해서 읽는 자가 일부의 음유시인 능력을 배우거나 또는 어떠한 음유시인 능력도 배울 수 없을 수도 있습니다.</Torn_BookOfBard.description>
   <Torn_BookOfBard.comps.1.useLabel>읽기</Torn_BookOfBard.comps.1.useLabel>
   <Torn_BookOfDemons.label>찢긴 마법서: 악마학</Torn_BookOfDemons.label>
-  <Torn_BookOfDemons.description>금지된 힘을 얻기 위해 악마와 계약을 맺는 방법을 자세히 설명한 문서입니다. 이 계약은 독자를 문자 그대로의 의미로 그들의 유전적 구성에 영향을 미치는 악마와 융합하는 것입니다. 이 계약은 남성과 여성에게 각각 다르게 영향을 미칩니다. 악마는 계약자가 마법에 타고난 재능이 있는 경우에만 계약에 동의할 것입니다. \n\n *첫 페이지 맨 아래 작게 글씨가 쓰여있습니다.* 이 문서로 악마와의 계약에서 벗어나는 방법을 알 수는 없다... 조심해서 사용하길 바란다.\n\n 이 마법서는 완전하지 않으며, 전체 계약 방법을 설명하고 있지 않습니다. 그로 인해 즉시 모든 능력을 얻을 수는 없을 수도 있습니다.</Torn_BookOfDemons.description>
+  <Torn_BookOfDemons.description>금지된 힘을 얻기 위해 악마와 계약을 맺는 방법을 자세히 설명한 문서입니다. 이 계약은 독자를 문자 그대로의 의미로 그들의 유전적 구성에 영향을 미치는 악마와 융합하는 것입니다. 이 계약은 남성과 여성에게 각각 다르게 영향을 미칩니다. 악마는 계약자가 마법에 타고난 재능이 있는 경우에만 계약에 동의할 것입니다. \n \n *첫 페이지 맨 아래 작게 글씨가 쓰여있습니다.* 이 문서로 악마와의 계약에서 벗어나는 방법을 알 수는 없다... 조심해서 사용하길 바란다.\n \n 이 마법서는 완전하지 않으며, 전체 계약 방법을 설명하고 있지 않습니다. 그로 인해 즉시 모든 능력을 얻을 수는 없을 수도 있습니다.</Torn_BookOfDemons.description>
   <Torn_BookOfDemons.comps.1.useLabel>읽기</Torn_BookOfDemons.comps.1.useLabel>
   <Torn_BookOfEarth.label>찢긴 마법서: 지오맨서</Torn_BookOfEarth.label>
   <Torn_BookOfEarth.description>재능이 있는 정착민에게 물리 법칙, 엘리멘트, 아케인을 결합하는 방법을 가르칩니다.\n 이 마법서는 불완전해서 읽는 자가 일부의 지오맨서 주문을 배우거나 또는 어떠한 지오맨서 주문도 배울 수 없을 수도 있습니다.</Torn_BookOfEarth.description>
@@ -445,6 +449,9 @@
   <Torn_BookOfChronomancer.label>찢긴 마법서: 크로노멘서</Torn_BookOfChronomancer.label>
   <Torn_BookOfChronomancer.description>재능이 있는 정착민에게 현실 속 시간의 흐름을 보고, 이를 조작할 수 있는 크로노멘서의 길을 가르칩니다.\n 이 마법서는 불완전해서 읽는 자가 일부의 크로노멘서 기술을 배우거나 또는 어떠한 크로노멘서 기술을 배울 수 없을 수도 있습니다.</Torn_BookOfChronomancer.description>
   <Torn_BookOfChronomancer.comps.1.useLabel>읽기</Torn_BookOfChronomancer.comps.1.useLabel>
+  <Torn_BookOfChaos.label>찢긴 마법서: 카오스</Torn_BookOfChaos.label>
+  <Torn_BookOfChaos.description>재능이 있는 정착민에게 카오스의 전통을 가르칩니다.</Torn_BookOfChaos.description>
+  <Torn_BookOfChaos.comps.1.useLabel>읽기</Torn_BookOfChaos.comps.1.useLabel>
   <BookOfInnerFire.label>마법서: 불</BookOfInnerFire.label>
   <BookOfInnerFire.description>재능이 있는 정착민에게 불의 요소를 활용하는 방법을 가르칩니다.</BookOfInnerFire.description>
   <BookOfInnerFire.comps.1.useLabel>읽기</BookOfInnerFire.comps.1.useLabel>
@@ -476,7 +483,7 @@
   <BookOfBard.description>재능이 있는 정착민에게 전문 음유시인이 되는 방법을 가르칩니다. 음유시인들은 단순 노동을 할 수 없으며 이러한 작업 유형들은 비활성화 됩니다.</BookOfBard.description>
   <BookOfBard.comps.1.useLabel>읽기</BookOfBard.comps.1.useLabel>
   <BookOfDemons.label>마법서: 악마학</BookOfDemons.label>
-  <BookOfDemons.description>금지된 힘을 얻기 위해 악마와 계약을 맺는 방법을 자세히 설명한 문서입니다. 이 계약은 독자를 문자 그대로의 의미로 그들의 유전적 구성에 영향을 미치는 악마와 융합하는 것입니다. 이 계약은 남성과 여성에게 각각 다르게 영향을 미칩니다. 악마는 계약자가 마법에 타고난 재능이 있는 경우에만 계약에 동의할 것입니다. \n\n *첫 페이지 맨 아래 작게 글씨가 쓰여있습니다.* 이 문서로 악마와의 계약에서 벗어나는 방법을 알 수는 없다... 조심해서 사용하길 바란다.</BookOfDemons.description>
+  <BookOfDemons.description>금지된 힘을 얻기 위해 악마와 계약을 맺는 방법을 자세히 설명한 문서입니다. 이 계약은 독자를 문자 그대로의 의미로 그들의 유전적 구성에 영향을 미치는 악마와 융합하는 것입니다. 이 계약은 남성과 여성에게 각각 다르게 영향을 미칩니다. 악마는 계약자가 마법에 타고난 재능이 있는 경우에만 계약에 동의할 것입니다. \n \n *첫 페이지 맨 아래 작게 글씨가 쓰여있습니다.* 이 문서로 악마와의 계약에서 벗어나는 방법을 알 수는 없다... 조심해서 사용하길 바란다.</BookOfDemons.description>
   <BookOfDemons.comps.1.useLabel>읽기</BookOfDemons.comps.1.useLabel>
   <BookOfEarth.label>마법서: 대지</BookOfEarth.label>
   <BookOfEarth.description>재능이 있는 정착민에게 물리 법칙, 엘리멘트, 아케인을 결합하는 방법을 가르칩니다.</BookOfEarth.description>
@@ -493,11 +500,14 @@
   <BookOfChronomancer.label>아케인 마법서: 크로노멘서</BookOfChronomancer.label>
   <BookOfChronomancer.description>재능이 있는 정착민에게 현실 속 시간의 흐름을 보고, 이를 조작할 수 있는 크로노멘서의 길을 가르칩니다.</BookOfChronomancer.description>
   <BookOfChronomancer.comps.1.useLabel>읽기</BookOfChronomancer.comps.1.useLabel>
+  <BookOfChaos.label>아케인 마법서: 카오스 메이지</BookOfChaos.label>
+  <BookOfChaos.description>재능이 있는 정착민에게 카오스 메이지의 길을 가르칩니다. 모든 마법 클래스의 기술을 배울 수 있습니다.</BookOfChaos.description>
+  <BookOfChaos.comps.1.useLabel>읽기</BookOfChaos.comps.1.useLabel>
   <BookOfGladiator.label>전투 기술서: 검투사</BookOfGladiator.label>
   <BookOfGladiator.description>육체적 잠재력이 있는 정착민에게 검투사 전투 형식을 가르칩니다.</BookOfGladiator.description>
   <BookOfGladiator.comps.1.useLabel>읽기</BookOfGladiator.comps.1.useLabel>
   <BookOfPsionic.label>전투 기술서: 사이오닉</BookOfPsionic.label>
-  <BookOfPsionic.description>육체적 잠재력이 있는 정착민에게 사이오닉 파워를 활용하는 방법을 가르칩니다.\n\n *페이지 하단에 목단으로 새겨진 각주가 있습니다: "높은 정심 감응력을 가진 사람들만 사이오닉 에너지를 조작하는 방법을 배울수 있다.. 배울 수 없다면 정신 감응력을 높이는 방법을 찾아라."</BookOfPsionic.description>
+  <BookOfPsionic.description>육체적 잠재력이 있는 정착민에게 사이오닉 파워를 활용하는 방법을 가르칩니다.\n \n *페이지 하단에 목단으로 새겨진 각주가 있습니다: "높은 정심 감응력을 가진 사람들만 사이오닉 에너지를 조작하는 방법을 배울수 있다.. 배울 수 없다면 정신 감응력을 높이는 방법을 찾아라."</BookOfPsionic.description>
   <BookOfPsionic.comps.1.useLabel>읽기</BookOfPsionic.comps.1.useLabel>
   <BookOfFaceless.label>전투 기술서: 얼굴없는 자</BookOfFaceless.label>
   <BookOfFaceless.description>육체적 잠재력이 있는 정착민에게 어떤 상황에서도 적응할 수 있는 전투 스타일과 형식을 가르칩니다.</BookOfFaceless.description>
@@ -685,6 +695,9 @@
   <SkillOf_InnerHealing.label>전투 기술: 내부 회복</SkillOf_InnerHealing.label>
   <SkillOf_InnerHealing.description>파이터에게 치유력을 높이고 질병 면역력을 향상시켜기 위해 신체 에너지와 스태미나를 활용하는 방법을 가르칩니다.</SkillOf_InnerHealing.description>
   <SkillOf_InnerHealing.comps.1.useLabel>읽기</SkillOf_InnerHealing.comps.1.useLabel>
+  <SkillOf_Legion.label>전투 기술: 군단</SkillOf_Legion.label>
+  <SkillOf_Legion.description>파이터에게 다른 파이터 클래스의 전투 능력을 복제하는 방법을 가르칩니다.</SkillOf_Legion.description>
+  <SkillOf_Legion.comps.1.useLabel>읽기</SkillOf_Legion.comps.1.useLabel>
   <SkillOf_PommelStrike.label>전투 기술: 자루 강타</SkillOf_PommelStrike.label>
   <SkillOf_PommelStrike.description>파이터에게 목표물을 기절시키거나 제압하기 위해 치명적이지 않은 타격을 할 수 있는 방법을 가르칩니다.</SkillOf_PommelStrike.description>
   <SkillOf_PommelStrike.comps.1.useLabel>읽기</SkillOf_PommelStrike.comps.1.useLabel>
@@ -694,52 +707,55 @@
   <SkillOf_StrongBack.label>전투 기술: 튼튼한 허리</SkillOf_StrongBack.label>
   <SkillOf_StrongBack.description>파이터에게 운반 능력과 적재 실용성을 높히기 위해 스태미나 활용 방법을 가르칩니다.</SkillOf_StrongBack.description>
   <SkillOf_StrongBack.comps.1.useLabel>읽기</SkillOf_StrongBack.comps.1.useLabel>
+  <SkillOf_TempestStrike.label>전투 기술: 폭풍의 일격</SkillOf_TempestStrike.label>
+  <SkillOf_TempestStrike.description>파이터에게 무기를 사용하여 빠르게 연속으로 공격하는 방법을 가르칩니다.</SkillOf_TempestStrike.description>
+  <SkillOf_TempestStrike.comps.1.useLabel>읽기</SkillOf_TempestStrike.comps.1.useLabel>
   <SkillOf_ThickSkin.label>전투 기술: 두꺼운 피부</SkillOf_ThickSkin.label>
   <SkillOf_ThickSkin.description>파이터에게 방어력 향상과 온도를 견딜 수 있는 방법을 위해 스태미나 활용 방법을 가르칩니다.</SkillOf_ThickSkin.description>
   <SkillOf_ThickSkin.comps.1.useLabel>읽기</SkillOf_ThickSkin.comps.1.useLabel>
   <GemstoneOfInsight_Magic.label>아케인 통찰의 보석</GemstoneOfInsight_Magic.label>
-  <GemstoneOfInsight_Magic.description>사용자에게 아케인 정신을 부여합니다. \n\n **주의: 이 아이템의 사용은 사용자가 7가지 이상의 특성을 가지고 있거나 기존의 마법, 혹은 전투 특성을 가진 정착민이 사용할 경우 임의의 특성으로 대체합니다.**</GemstoneOfInsight_Magic.description>
+  <GemstoneOfInsight_Magic.description>사용자에게 아케인 정신을 부여합니다. \n \n **주의: 이 아이템의 사용은 사용자가 7가지 이상의 특성을 가지고 있거나 기존의 마법, 혹은 전투 특성을 가진 정착민이 사용할 경우 임의의 특성으로 대체합니다.**</GemstoneOfInsight_Magic.description>
   <GemstoneOfInsight_Magic.comps.1.useLabel>사용</GemstoneOfInsight_Magic.comps.1.useLabel>
   <GemstoneOfInsight_Might.label>신체적 통찰의 보석</GemstoneOfInsight_Might.label>
-  <GemstoneOfInsight_Might.description>사용자에게 전사의 정신을 부여합니다. \n\n **주의: 이 아이템의 사용은 사용자가 7가지 이상의 특성을 가지고 있거나 기존의 마법, 혹은 전투 특성을 가진 정착민이 사용할 경우 임의의 특성으로 대체합니다.**</GemstoneOfInsight_Might.description>
+  <GemstoneOfInsight_Might.description>사용자에게 전사의 정신을 부여합니다. \n \n **주의: 이 아이템의 사용은 사용자가 7가지 이상의 특성을 가지고 있거나 기존의 마법, 혹은 전투 특성을 가진 정착민이 사용할 경우 임의의 특성으로 대체합니다.**</GemstoneOfInsight_Might.description>
   <GemstoneOfInsight_Might.comps.1.useLabel>사용</GemstoneOfInsight_Might.comps.1.useLabel>
   <TM_ElephantSpear.label>코끼리 창</TM_ElephantSpear.label>
-  <TM_ElephantSpear.description>코끼리 창은 코끼리의 어금니를 사용하여 제작되었으며, 일반적으로 지도자 사냥꾼 또는 부족 지도자를 위해 준비 된 상징물 입니다. 손잡이에 사소한 인챈팅이 되어 있어 사용자의 전투 능력이 한층 강화됩니다.\n\n 이 무기는 인챈트되어 있어서 훈련된 마법사와 파이터에게 추가적인 이익을 제공합니다.\n 최대 에너지: +10%\n 피해 증가: +10%\n 아케인 저항력: +20%</TM_ElephantSpear.description>
+  <TM_ElephantSpear.description>코끼리 창은 코끼리의 어금니를 사용하여 제작되었으며, 일반적으로 지도자 사냥꾼 또는 부족 지도자를 위해 준비 된 상징물 입니다. 손잡이에 사소한 인챈팅이 되어 있어 사용자의 전투 능력이 한층 강화됩니다.\n \n 이 무기는 인챈트되어 있어서 훈련된 마법사와 파이터에게 추가적인 이익을 제공합니다.\n 최대 에너지: +10%\n 피해 증가: +10%\n 아케인 저항력: +20%</TM_ElephantSpear.description>
   <TM_ElephantSpear.tools.0.label>자루</TM_ElephantSpear.tools.0.label>
   <TM_ElephantSpear.tools.1.label>촉</TM_ElephantSpear.tools.1.label>
   <TM_ElephantSpear.tools.2.label>날</TM_ElephantSpear.tools.2.label>
   <Projectile_ElephantBow.label>코끼리 활 볼트</Projectile_ElephantBow.label>
   <TM_ElephantBow.label>코끼리 활</TM_ElephantBow.label>
-  <TM_ElephantBow.description>코끼리 어금니로 모양을 본떠 만든 활입니다. 상아는 경직성을 줄이고 무게를 줄이고 탄력을 증가시키는 마법석 화합물에 담궈 부드럽게 합니다. 코끼리 활은 대궁보다 사거리와 정확도가 크게 향상되었지만 사용하기가 약간 더 어렵습니다.\n\n 코끼리 활은 사소한 인챈팅이 새겨져 있으며 경험이 많은 레인저와 사냥꾼이 선호하는 무기입니다.\n\n 이 무기는 인챈트되어 있어서 훈련된 마법사와 파이터에게 추가적인 이익을 제공합니다.\n 최대 에너지: +5%\n 에너지 회복율: +5%\n 피해 증가: +10%\n 능력 재사용 대기시간: -10%</TM_ElephantBow.description>
+  <TM_ElephantBow.description>코끼리 어금니로 모양을 본떠 만든 활입니다. 상아는 경직성을 줄이고 무게를 줄이고 탄력을 증가시키는 마법석 화합물에 담궈 부드럽게 합니다. 코끼리 활은 대궁보다 사거리와 정확도가 크게 향상되었지만 사용하기가 약간 더 어렵습니다.\n \n 코끼리 활은 사소한 인챈팅이 새겨져 있으며 경험이 많은 레인저와 사냥꾼이 선호하는 무기입니다.\n \n 이 무기는 인챈트되어 있어서 훈련된 마법사와 파이터에게 추가적인 이익을 제공합니다.\n 최대 에너지: +5%\n 에너지 회복율: +5%\n 피해 증가: +10%\n 능력 재사용 대기시간: -10%</TM_ElephantBow.description>
   <TM_ElephantBow.tools.0.label>활 날개</TM_ElephantBow.tools.0.label>
   <TM_ThrumboAxe.label>트럼보 도끼</TM_ThrumboAxe.label>
-  <TM_ThrumboAxe.description>마법석으로 만든 죔쇠와 함께 트럼보의 뿔을 묶어 제작된 도끼입니다. 이 죔쇠는 도끼를 휘두를 때 에너지를 물리적인 힘으로 전달하여 상대방을 문자 그대로 쪼개어버릴 만큼 강력한 타격을 줄 수 있습니다. 자루는 또한 마술용 룬으로 작용되어 무력을 증가시킵니다.\n\n 이 무기는 인챈트되어 있어서 훈련된 마법사와 파이터에게 추가적인 이익을 제공합니다.\n 최대 에너지: +10%\n 피해 증가: +20%\n 아케인 저항력: +30%</TM_ThrumboAxe.description>
+  <TM_ThrumboAxe.description>마법석으로 만든 죔쇠와 함께 트럼보의 뿔을 묶어 제작된 도끼입니다. 이 죔쇠는 도끼를 휘두를 때 에너지를 물리적인 힘으로 전달하여 상대방을 문자 그대로 쪼개어버릴 만큼 강력한 타격을 줄 수 있습니다. 자루는 또한 마술용 룬으로 작용되어 무력을 증가시킵니다.\n \n 이 무기는 인챈트되어 있어서 훈련된 마법사와 파이터에게 추가적인 이익을 제공합니다.\n 최대 에너지: +10%\n 피해 증가: +20%\n 아케인 저항력: +30%</TM_ThrumboAxe.description>
   <TM_ThrumboAxe.tools.0.label>손잡이</TM_ThrumboAxe.tools.0.label>
   <TM_ThrumboAxe.tools.1.label>틈</TM_ThrumboAxe.tools.1.label>
   <TM_ThrumboAxe.tools.2.label>뿔</TM_ThrumboAxe.tools.2.label>
   <Projectile_ThrumArrow.label>트럼보 활 볼트</Projectile_ThrumArrow.label>
   <TM_ThrumBow.label>트럼보 활</TM_ThrumBow.label>
-  <TM_ThrumBow.description>트럼보 뿔로 모양을 본떠 만든 활입니다. 이 뿔의 속을 비워서 무게를 가볍게 하고 마법석 화합물에 담가서 연화시켜 놀라운 탄력을 추가합니다. 활은 내장된 활의 길이를 다루는 아케인 각인으로 인해 강화 되었습니다. 활은 거의 지성을 지니고 있어서 주인과 정신적 연결을 통해 의도된 목표를 결정할 수 있습니다. 발사된 화살은 거의 항상 그 의도된 목표를 맞출 수 있습니다. 그러나 이 효과는 자신의 경험을 쌓는데 방해되는 경향이 있습니다. \n\n 이 무기는 인챈트되어 있어서 훈련된 마법사와 파이터에게 추가적인 이익을 제공합니다.\n 최대 에너지: +20%\n 에너지 회복율: +10%\n 피해 증가: +20%\n 능력 재사용 대기시간: -10%\n 직업 XP 획득: -20%</TM_ThrumBow.description>
+  <TM_ThrumBow.description>트럼보 뿔로 모양을 본떠 만든 활입니다. 이 뿔의 속을 비워서 무게를 가볍게 하고 마법석 화합물에 담가서 연화시켜 놀라운 탄력을 추가합니다. 활은 내장된 활의 길이를 다루는 아케인 각인으로 인해 강화 되었습니다. 활은 거의 지성을 지니고 있어서 주인과 정신적 연결을 통해 의도된 목표를 결정할 수 있습니다. 발사된 화살은 거의 항상 그 의도된 목표를 맞출 수 있습니다. 그러나 이 효과는 자신의 경험을 쌓는데 방해되는 경향이 있습니다. \n \n 이 무기는 인챈트되어 있어서 훈련된 마법사와 파이터에게 추가적인 이익을 제공합니다.\n 최대 에너지: +20%\n 에너지 회복율: +10%\n 피해 증가: +20%\n 능력 재사용 대기시간: -10%\n 직업 XP 획득: -20%</TM_ThrumBow.description>
   <TM_ThrumBow.tools.0.label>활 날개</TM_ThrumBow.tools.0.label>
   <Projectile_FireWand.label>불의 완드</Projectile_FireWand.label>
   <TM_FireWand.label>불의 완드</TM_FireWand.label>
-  <TM_FireWand.description>사용자 주변의 아케인 에너지를 불로 바꾸는 원드입니다. 원드는 마법사가 자신의 타고난 능력을 무기 그 자체로 활용할 수 있도록 집중하는 도구로 사용됩니다.\n\n 이 무기는 인챈트되어 있어서 훈련된 마법사와 파이터에게 추가적인 이익을 제공합니다.\n 최대 에너지: +5%\n 에너지 회복율: +5%\n 피해 증가: +15%</TM_FireWand.description>
+  <TM_FireWand.description>사용자 주변의 아케인 에너지를 불로 바꾸는 원드입니다. 원드는 마법사가 자신의 타고난 능력을 무기 그 자체로 활용할 수 있도록 집중하는 도구로 사용됩니다.\n \n 이 무기는 인챈트되어 있어서 훈련된 마법사와 파이터에게 추가적인 이익을 제공합니다.\n 최대 에너지: +5%\n 에너지 회복율: +5%\n 피해 증가: +15%</TM_FireWand.description>
   <TM_FireWand.tools.0.label>완드</TM_FireWand.tools.0.label>
   <Projectile_IceWand.label>얼음 완드</Projectile_IceWand.label>
   <TM_IceWand.label>얼음 완드</TM_IceWand.label>
-  <TM_IceWand.description>사용자 주변의 아케인 에너지를 냉기로 바꾸는 원드입니다. 원드는 마법사가 자신의 타고난 능력을 무기 그 자체로 활용할 수 있도록 집중하는 도구로 사용됩니다.\n\n 이 무기는 인챈트되어 있어서 훈련된 마법사와 파이터에게 추가적인 이익을 제공합니다. \n 최대 에너지: +5%\n 에너지 회복율: +5%\n 피해 증가: +15%</TM_IceWand.description>
+  <TM_IceWand.description>사용자 주변의 아케인 에너지를 냉기로 바꾸는 원드입니다. 원드는 마법사가 자신의 타고난 능력을 무기 그 자체로 활용할 수 있도록 집중하는 도구로 사용됩니다.\n \n 이 무기는 인챈트되어 있어서 훈련된 마법사와 파이터에게 추가적인 이익을 제공합니다. \n 최대 에너지: +5%\n 에너지 회복율: +5%\n 피해 증가: +15%</TM_IceWand.description>
   <TM_IceWand.tools.0.label>완드</TM_IceWand.tools.0.label>
   <Projectile_LightningWand.label>전격 완드</Projectile_LightningWand.label>
   <TM_LightningWand.label>전격 완드</TM_LightningWand.label>
-  <TM_LightningWand.description>사용자 주변의 아케인 에너지를 전격으로 바꾸는 원드입니다. 원드는 마법사가 자신의 타고난 능력을 무기 그 자체로 활용할 수 있도록 집중하는 도구로 사용됩니다.\n\n 이 무기는 인챈트되어 있어서 훈련된 마법사와 파이터에게 추가적인 이익을 제공합니다. \n 최대 에너지: +5%\n 에너지 회복율: +5%\n 피해 증가: +15%</TM_LightningWand.description>
+  <TM_LightningWand.description>사용자 주변의 아케인 에너지를 전격으로 바꾸는 원드입니다. 원드는 마법사가 자신의 타고난 능력을 무기 그 자체로 활용할 수 있도록 집중하는 도구로 사용됩니다.\n \n 이 무기는 인챈트되어 있어서 훈련된 마법사와 파이터에게 추가적인 이익을 제공합니다. \n 최대 에너지: +5%\n 에너지 회복율: +5%\n 피해 증가: +15%</TM_LightningWand.description>
   <TM_LightningWand.tools.0.label>완드</TM_LightningWand.tools.0.label>
   <TM_DefenderStaff.label>보호의 지팡이</TM_DefenderStaff.label>
-  <TM_DefenderStaff.description>지혜의 만연한 기운을 담고 있는 고대 디자인의 만들어진 지팡이입니다. 이 지팡이는 영계에 들어가서 조상신들과 대화하여 그들의 힘을 물리적인 장벽의 형태로 나타낼 수 있게 허용합니다. 이 에너지는 행동을 수행하는 그들의 영혼으로부터 오기때문에 사용자로부터 에너지를 끌어들어지는 않습니다. 영혼들은 요청간의 휴식을 취할 필요는 있습니다.\n\n 이 무기는 인챈트되어 있어서 훈련된 마법사와 파이터에게 추가적인 이익을 제공합니다. \n 최대 에너지: +30%\n 에너지 회복율: +20%\n 피해 증가: +20%\n\n 확대 추가 능력: 아케인 장벽</TM_DefenderStaff.description>
+  <TM_DefenderStaff.description>지혜의 만연한 기운을 담고 있는 고대 디자인의 만들어진 지팡이입니다. 이 지팡이는 영계에 들어가서 조상신들과 대화하여 그들의 힘을 물리적인 장벽의 형태로 나타낼 수 있게 허용합니다. 이 에너지는 행동을 수행하는 그들의 영혼으로부터 오기때문에 사용자로부터 에너지를 끌어들어지는 않습니다. 영혼들은 요청간의 휴식을 취할 필요는 있습니다.\n \n 이 무기는 인챈트되어 있어서 훈련된 마법사와 파이터에게 추가적인 이익을 제공합니다. \n 최대 에너지: +30%\n 에너지 회복율: +20%\n 피해 증가: +20%\n \n 확대 추가 능력: 아케인 장벽</TM_DefenderStaff.description>
   <TM_DefenderStaff.tools.0.label>장대</TM_DefenderStaff.tools.0.label>
   <TM_DefenderStaff.tools.1.label>지팡이 머리</TM_DefenderStaff.tools.1.label>
   <Projectile_BlazingPower.label>타오르는 힘</Projectile_BlazingPower.label>
   <TM_BlazingPowerStaff.label>타오르는 힘의 지팡이</TM_BlazingPowerStaff.label>
-  <TM_BlazingPowerStaff.description>타오르는 발사체를 발사하거나 발사체를 막아낼 수 있는 단단한 장벽을 만드는데 사용할 수 있도록 에너지를 사용자와 연결시키는 지팡이입니다. 마법사는 이 지팡이를 사용할 때 마법의 주문에 엄청난 향상을 가져다 주지만 평범한 일반인에게는 그냥 단순한 몽둥이 이상의 의미는 없습니다.\n\n 이 무기는 인챈트되어 있어서 훈련된 마법사와 파이터에게 추가적인 이익을 제공합니다. \n 최대 에너지: +20%\n 에너지 회복율: +10%\n 피해 증가: +40%</TM_BlazingPowerStaff.description>
+  <TM_BlazingPowerStaff.description>타오르는 발사체를 발사하거나 발사체를 막아낼 수 있는 단단한 장벽을 만드는데 사용할 수 있도록 에너지를 사용자와 연결시키는 지팡이입니다. 마법사는 이 지팡이를 사용할 때 마법의 주문에 엄청난 향상을 가져다 주지만 평범한 일반인에게는 그냥 단순한 몽둥이 이상의 의미는 없습니다.\n \n 이 무기는 인챈트되어 있어서 훈련된 마법사와 파이터에게 추가적인 이익을 제공합니다. \n 최대 에너지: +20%\n 에너지 회복율: +10%\n 피해 증가: +40%</TM_BlazingPowerStaff.description>
   <TM_BlazingPowerStaff.tools.0.label>장대</TM_BlazingPowerStaff.tools.0.label>
   <TM_BlazingPowerStaff.tools.1.label>지팡이 머리</TM_BlazingPowerStaff.tools.1.label>
   <Projectile_SeerRing_Fire.label>원소 화염</Projectile_SeerRing_Fire.label>
@@ -754,7 +770,7 @@
   <Seer_LightningRing.label>원소 전격의 반지</Seer_LightningRing.label>
   <Seer_LightningRing.description>이 고대의 유물은 착용자에게 원소의 흐름을 연결시켜 흐르게 합니다. 반지가 착용자로부터 분리되는 경우에는 연결된 계약이 무효화되어 파괴됩니다.</Seer_LightningRing.description>
   <Seer_LightningRing.tools.0.label>원소 손가락</Seer_LightningRing.tools.0.label>
-  <ManaPotion.label>마나 물약</ManaPotion.label>
+  <ManaPotion.label>마력 물약</ManaPotion.label>
   <ManaPotion.description>마법 사용자들이 마력을 빠르게 회복할 수 있도록 해 주는 마법의 약입니다. 이 약은 신체의 자연적인 작용을 억제하는 역할을 하므로, 남용하면 정신적, 감각적으로 손상될 수 있습니다.</ManaPotion.description>
   <ManaPotion.ingestible.ingestCommandString>마시기 {0}</ManaPotion.ingestible.ingestCommandString>
   <ManaPotion.ingestible.ingestReportString>사용 중 {0}.</ManaPotion.ingestible.ingestReportString>
@@ -933,7 +949,7 @@
   <TM_SkeletonR.tools.2.label>이빨</TM_SkeletonR.tools.2.label>
   <TM_SkeletonR_Corpse.label>해골의 시체</TM_SkeletonR_Corpse.label>
   <TM_SkeletonR_Corpse.description>해골의 시체입니다.</TM_SkeletonR_Corpse.description>
-  <TM_Undead.label>언데드</TM_Undead.label>
+  <TM_Undead.label>망자</TM_Undead.label>
   <TM_Undead.description>흑마법으로 움직이는 생명이 빠져나간 인간입니다.</TM_Undead.description>
   <TM_Undead.tools.0.label>왼 손</TM_Undead.tools.0.label>
   <TM_Undead.tools.1.label>오른 손</TM_Undead.tools.1.label>
@@ -945,12 +961,12 @@
   <TM_Undead_Meat.description>언데드 고기</TM_Undead_Meat.description>
   <TM_Undead_Corpse.label>언데드 시체</TM_Undead_Corpse.label>
   <TM_Undead_Corpse.description>언데드 시체</TM_Undead_Corpse.description>
-  <TM_Firestorm_Large.label>화염 마법</TM_Firestorm_Large.label>
-  <TM_Firestorm_Small.label>화염 마법</TM_Firestorm_Small.label>
-  <TM_Firestorm_Tiny.label>화염 마법</TM_Firestorm_Tiny.label>
+  <TM_Firestorm_Large.label>화염마법</TM_Firestorm_Large.label>
+  <TM_Firestorm_Small.label>화염마법</TM_Firestorm_Small.label>
+  <TM_Firestorm_Tiny.label>화염마법</TM_Firestorm_Tiny.label>
   <TM_Blizzard_Tiny.label>서리 폭풍 (작음)</TM_Blizzard_Tiny.label>
-  <TM_Blizzard_Small.label>얼음 마법</TM_Blizzard_Small.label>
-  <TM_Blizzard_Large.label>얼음 마법</TM_Blizzard_Large.label>
+  <TM_Blizzard_Small.label>얼음마법</TM_Blizzard_Small.label>
+  <TM_Blizzard_Large.label>얼음마법</TM_Blizzard_Large.label>
   <TM_ArrowStorm.label>화살 폭풍</TM_ArrowStorm.label>
   <TM_ScornLeaving.label>경멸 떠나기</TM_ScornLeaving.label>
   <TM_ScornIncoming.label>경멸 다가옴</TM_ScornIncoming.label>
@@ -970,21 +986,21 @@
   <TM_Poppi_Corpse.label>포피 시체</TM_Poppi_Corpse.label>
   <TM_Poppi_Corpse.description>포피 시체</TM_Poppi_Corpse.description>
   <TM_MaestersCloak.label>방랑자의 망토</TM_MaestersCloak.label>
-  <TM_MaestersCloak.description>여행하는 마법사를 위해 설계된 망토로 원소들로부터 보호를 제공하고 아케인 에너지의 회복률을 개선시켜줍니다. 이 직물에 마법의 보석을 흡수시키는 것은 비교할 수 없을 만큼 효율이 뛰어납니다.\n\n 망토는 인챈트되어 있어서 훈련된 마법사에게 추가적인 이익을 제공합니다.\n 최대 에너지: +12%\n 능력 재사용 대기시간: -20%\n 아케인 저항력: +5%</TM_MaestersCloak.description>
+  <TM_MaestersCloak.description>여행하는 마법사를 위해 설계된 망토로 원소들로부터 보호를 제공하고 아케인 에너지의 회복률을 개선시켜줍니다. 이 직물에 마법의 보석을 흡수시키는 것은 비교할 수 없을 만큼 효율이 뛰어납니다.\n \n 망토는 인챈트되어 있어서 훈련된 마법사에게 추가적인 이익을 제공합니다.\n 최대 에너지: +12%\n 능력 재사용 대기시간: -20%\n 아케인 저항력: +5%</TM_MaestersCloak.description>
   <DemonLordCloak.label>패왕의 로브</DemonLordCloak.label>
-  <DemonLordCloak.description>불가사의한 힘에 의해 크게 강화된 망토는 처음에 성스런 악마의 대사의 역할을 하는 흑기사를 위해 만들어졌다고 전해집니다. 이 직물은 "시각적 소음"으로만 표현할 수 있는 방식으로 초점을 맞추기가 어렵고 천의 주름은 자연법칙에 얽메이지 않은 것 처럼 부자연스러운 방식으로 움직입니다. 전투에서 이 외투를 입은 소수의 사람들은 옷이 마치 의지를 지닌 것 처럼 자신들을 어떤 파괴로부터 보호해주는 것 같다고 증언했지만 다른 사람들은 그저 정신병자의 환각에 불과하다고 일축해버리고는 합니다. 이러한 주장들로 인해 이 망토가 착용자에 대한 공격을 완벽하게 완화시켜주는 능력이 있다는 소문이 있지만, 어느 누구도 이 결과를 완벽하게 신뢰하지는 못합니다.\n\n 패왕의 로브는 인챈트되어 있어서 훈련된 마법사와 파이터에게 추가적인 이익을 제공합니다.\n 최대 에너지: +40%\n 에너지 회복율: +40%\n 능력 재사용 대기시간: -20%\n\n 팬텀 쉬프트로 인해 증대</DemonLordCloak.description>
+  <DemonLordCloak.description>불가사의한 힘에 의해 크게 강화된 망토는 처음에 성스런 악마의 대사의 역할을 하는 흑기사를 위해 만들어졌다고 전해집니다. 이 직물은 "시각적 소음"으로만 표현할 수 있는 방식으로 초점을 맞추기가 어렵고 천의 주름은 자연법칙에 얽메이지 않은 것 처럼 부자연스러운 방식으로 움직입니다. 전투에서 이 외투를 입은 소수의 사람들은 옷이 마치 의지를 지닌 것 처럼 자신들을 어떤 파괴로부터 보호해주는 것 같다고 증언했지만 다른 사람들은 그저 정신병자의 환각에 불과하다고 일축해버리고는 합니다. 이러한 주장들로 인해 이 망토가 착용자에 대한 공격을 완벽하게 완화시켜주는 능력이 있다는 소문이 있지만, 어느 누구도 이 결과를 완벽하게 신뢰하지는 못합니다.\n \n 패왕의 로브는 인챈트되어 있어서 훈련된 마법사와 파이터에게 추가적인 이익을 제공합니다.\n 최대 에너지: +40%\n 에너지 회복율: +40%\n 능력 재사용 대기시간: -20%\n \n 팬텀 쉬프트로 인해 증대</DemonLordCloak.description>
   <DarkRobe.label>어두운 로브</DarkRobe.label>
-  <DarkRobe.description>흑마법의 전령이 착용하는 로브입니다. 이 옷을 입은 사람들은 비밀스러운 힘의 대가로 그들의 정신을 희생합니다.\n\n 어두운 로브는 인챈트되어 있어서 훈련된 마법사와 파이터에게 추가적인 이익을 제공합니다.\n 최대 에너지: +17.5%\n 에너지 회복율: +10%\n 능력 재사용 대기시간: -15%\n 에너지 비용: -15%\n 직업 XP 획득: -25%\n 아케인 저항력: +10%</DarkRobe.description>
+  <DarkRobe.description>흑마법의 전령이 착용하는 로브입니다. 이 옷을 입은 사람들은 비밀스러운 힘의 대가로 그들의 정신을 희생합니다.\n \n 어두운 로브는 인챈트되어 있어서 훈련된 마법사와 파이터에게 추가적인 이익을 제공합니다.\n 최대 에너지: +17.5%\n 에너지 회복율: +10%\n 능력 재사용 대기시간: -15%\n 에너지 비용: -15%\n 직업 XP 획득: -25%\n 아케인 저항력: +10%</DarkRobe.description>
   <AncientMail.label>고대의 갑주</AncientMail.label>
-  <AncientMail.description>고대의 디자인으로 재현된 체인 메일로 보통 이상의 물리적 방어를 제공합니다. 이 갑옷의 무늬는 신비스러운 힘을 지닌 착용자에게 강화된 능력을 부여하는 아케인 룬이 포함되어있습니다. 일단 만들어지면, 이 룬은 고대 정신의 힘을 부여하여 각 공격들 마다 추가적인 아케인 피해를 입힐 기회를 부여합니다.\n 하지만 착용하는데에는 조건이 있습니다. - 모든 주문에는 더 많은 마나가 필요하며,(덮어지지 않습니다.) 장착한 사람은 정신적인 저항을 천천히 무너뜨리는 악몽에 시달리게 됩니다.\n\n 고대의 갑주는 인챈트되어 있어서 훈련된 마법사와 파이터에게 추가적인 이익을 제공합니다.\n 최대 에너지: +8%\n 에너지 회복율: +10%\n 에너지 비용: -15%\n 아케인 저항력: +20%</AncientMail.description>
+  <AncientMail.description>고대의 디자인으로 재현된 체인 메일로 보통 이상의 물리적 방어를 제공합니다. 이 갑옷의 무늬는 신비스러운 힘을 지닌 착용자에게 강화된 능력을 부여하는 아케인 룬이 포함되어있습니다. 일단 만들어지면, 이 룬은 고대 정신의 힘을 부여하여 각 공격들 마다 추가적인 아케인 피해를 입힐 기회를 부여합니다.\n 하지만 착용하는데에는 조건이 있습니다. - 모든 주문에는 더 많은 마나가 필요하며,(덮어지지 않습니다.) 장착한 사람은 정신적인 저항을 천천히 무너뜨리는 악몽에 시달리게 됩니다.\n \n 고대의 갑주는 인챈트되어 있어서 훈련된 마법사와 파이터에게 추가적인 이익을 제공합니다.\n 최대 에너지: +8%\n 에너지 회복율: +10%\n 에너지 비용: -15%\n 아케인 저항력: +20%</AncientMail.description>
   <RoyalArmor.label>용맹의 갑옷</RoyalArmor.label>
-  <RoyalArmor.description>거룩한 상징이 새겨진 가슴의 판갑은 움직임을 제한하지 않고 중요부위를 보호할 수 있도록 설계되었습니다. 정의와 연민으로 평화를 수호했던 과거의 거룩한 용사들이 똑같은 갑옷을 착용했다고 하지만, 이들이 어떻게 되었는지는 전해지지 않습니다.\n\n 용맹의 갑옷은 인챈트되어 있어서 훈련된 마법사와 파이터에게 추가적인 이익을 제공합니다.\n 에너지 비용: -10%\n 직업 XP 획득: +10%</RoyalArmor.description>
+  <RoyalArmor.description>거룩한 상징이 새겨진 가슴의 판갑은 움직임을 제한하지 않고 중요부위를 보호할 수 있도록 설계되었습니다. 정의와 연민으로 평화를 수호했던 과거의 거룩한 용사들이 똑같은 갑옷을 착용했다고 하지만, 이들이 어떻게 되었는지는 전해지지 않습니다.\n \n 용맹의 갑옷은 인챈트되어 있어서 훈련된 마법사와 파이터에게 추가적인 이익을 제공합니다.\n 에너지 비용: -10%\n 직업 XP 획득: +10%</RoyalArmor.description>
   <ArchMageRobe.label>대마법사의 로브</ArchMageRobe.label>
-  <ArchMageRobe.description>뛰어난 아케인 에너지와 통찰력을 가진 최고수준의 마법사를 위해 디자인된 로브입니다. 이 가볍고 하늘거리는 로브는 날개달린 짐승이 태어난 것 처럼 착용자를 밀어붙이는 것 같이 보입니다.\n\n 대마법사 로브는 인챈트되어 있어서 훈련된 마법사와 파이터에게 추가적인 이익을 제공합니다.\n 최대 에너지: +25%\n 에너지 회복율: +20%\n 능력 재사용 대기시간: -20%\n 에너지 비용: -10%\n 직업 XP 획득: +25%\n 아케인 저항력: +10%</ArchMageRobe.description>
+  <ArchMageRobe.description>뛰어난 아케인 에너지와 통찰력을 가진 최고수준의 마법사를 위해 디자인된 로브입니다. 이 가볍고 하늘거리는 로브는 날개달린 짐승이 태어난 것 처럼 착용자를 밀어붙이는 것 같이 보입니다.\n \n 대마법사 로브는 인챈트되어 있어서 훈련된 마법사와 파이터에게 추가적인 이익을 제공합니다.\n 최대 에너지: +25%\n 에너지 회복율: +20%\n 능력 재사용 대기시간: -20%\n 에너지 비용: -10%\n 직업 XP 획득: +25%\n 아케인 저항력: +10%</ArchMageRobe.description>
   <ArcaneHood.label>아케인 후드</ArcaneHood.label>
-  <ArcaneHood.description>마법의 특성, 가벼운 무게 및 편안함을 위해 마법사에 의해 선호되는 후드. 후드를 만들기 전에 마법을 부여하는 것은 보다 나은 결과를 이끌어냅니다.\n\n 아케인의 후드는 인챈트되어 있어서 훈련된 마법사와 파이터에게 추가적인 이익을 제공합니다.\n 최대 에너지: +10%\n 에너지 회복율: +10% \n 아케인 저항력: +10%</ArcaneHood.description>
+  <ArcaneHood.description>마법의 특성, 가벼운 무게 및 편안함을 위해 마법사에 의해 선호되는 후드. 후드를 만들기 전에 마법을 부여하는 것은 보다 나은 결과를 이끌어냅니다.\n \n 아케인의 후드는 인챈트되어 있어서 훈련된 마법사와 파이터에게 추가적인 이익을 제공합니다.\n 최대 에너지: +10%\n 에너지 회복율: +10% \n 아케인 저항력: +10%</ArcaneHood.description>
   <HoodOfMadness.label>광기의 후드</HoodOfMadness.label>
-  <HoodOfMadness.description>비록 그것의 마법적인 특성을 부인할 수는 없지만 저주를 받았다는 평판을 가진 어두운 색의 후드입니다. 이 후드를 쓰는 사람은 아케인 에너지의 징후를 볼 수 있게 되며, 일반적으로는 알 수 없는 것들을 배울 수 있다고 합니다. 후드의 외관과 공공연한 비밀에 대한 공포는 대부분 이 후드를 착용한 사람들을 불신하게 만듭니다. 마찬가지로 이 후드의 눈으로 보는 사람들은 주변 사람들을 불신하기 시작합니다.\n\n 광기의 후드는 인챈트되어 있어서 훈련된 마법사와 파이터에게 추가적인 이익을 제공합니다.\n 직업 XP 획득: +30%\n 아케인 저항력: +30%</HoodOfMadness.description>
+  <HoodOfMadness.description>비록 그것의 마법적인 특성을 부인할 수는 없지만 저주를 받았다는 평판을 가진 어두운 색의 후드입니다. 이 후드를 쓰는 사람은 아케인 에너지의 징후를 볼 수 있게 되며, 일반적으로는 알 수 없는 것들을 배울 수 있다고 합니다. 후드의 외관과 공공연한 비밀에 대한 공포는 대부분 이 후드를 착용한 사람들을 불신하게 만듭니다. 마찬가지로 이 후드의 눈으로 보는 사람들은 주변 사람들을 불신하기 시작합니다.\n \n 광기의 후드는 인챈트되어 있어서 훈련된 마법사와 파이터에게 추가적인 이익을 제공합니다.\n 직업 XP 획득: +30%\n 아케인 저항력: +30%</HoodOfMadness.description>
   <RoyalHelm.label>용맹의 투구</RoyalHelm.label>
   <RoyalHelm.description>거룩한 상징이 새겨진 이 투구는 시력이나 청력을 떨어트리지 않고 보호 효과를 극대화되도록 설계되었습니다. 이 투구는 용맹의 갑옷을 보완하기 위해 만들어졌으며, 착용자의 아케인 능력을 향상시키면서 뛰어난 물리 방어력 또한 제공합니다.\n\n용맹의 투구는 인챈트되어 있어서 훈련된 마법사와 파이터에게 추가적인 이익을 제공합니다.\n 에너지 비용: -5%\n 직업 XP 획득: +10%</RoyalHelm.description>
   <ParagonHelm.label>파라곤의 투구</ParagonHelm.label>
@@ -1041,13 +1057,13 @@
   <TM_Artifact_NecroticOrb.label>네크로틱 오브</TM_Artifact_NecroticOrb.label>
   <TM_Artifact_NecroticOrb.description>언데드를 지탱하는데 필요한 네크로틱 에너지가 담겨진 오브입니다. 네크로틱 오브는 배터리처럼 작동합니다. 림에게 장착되면 마치 언데드가 된 것 처럼 네크로멘서의 에너지를 흡수합니다. 네크로멘서가 사용할 수 있는 에너지가 없으면 에너지를 분산시켜 언데드를 유지할 것입니다.\n	\n하나의 림은 오직 하나의 오브만 장비할 수 있습니다. 오브는 장착되었을 때만 영향을 줍니다.</TM_Artifact_NecroticOrb.description>
   <TM_Plant_Pomanasyrrium.label>포마나사이리움 덤불</TM_Plant_Pomanasyrrium.label>
-  <TM_Plant_Pomanasyrrium.description>포마나사이리움 식물은 과육을 섭취하는 사람들에게 지혜와 통찰력, 맑은 정신을 주는 신화적 속성을 지니고 있다는 전설로 잘 알려져 있습니다. 그러나 재배가 어렵고 수확량이 다른 작물보다 적기 때문에 작물로 잘 선호되지 않습니다.\n\n 일반적으로 포마나로 알려진 과일은 날 것으로 먹을 수 있고 아주 맛있지만 영양가가 낮습니다. 암브로시아와 마찬가지로, 약간의 행복하게 만들고, 정신적 착란을 조장합니다.</TM_Plant_Pomanasyrrium.description>
+  <TM_Plant_Pomanasyrrium.description>포마나사이리움 식물은 과육을 섭취하는 사람들에게 지혜와 통찰력, 맑은 정신을 주는 신화적 속성을 지니고 있다는 전설로 잘 알려져 있습니다. 그러나 재배가 어렵고 수확량이 다른 작물보다 적기 때문에 작물로 잘 선호되지 않습니다.\n \n 일반적으로 포마나로 알려진 과일은 날 것으로 먹을 수 있고 아주 맛있지만 영양가가 낮습니다. 암브로시아와 마찬가지로, 약간의 행복하게 만들고, 정신적 착란을 조장합니다.</TM_Plant_Pomanasyrrium.description>
   <TM_RawPomanasyrrium.label>포마나 과일</TM_RawPomanasyrrium.label>
   <TM_RawPomanasyrrium.description>주먹 크기의 과일은 해질녘의 주황색에서 어스레한 보라색에 이르기까지 특색있는 색상입니다. 포마나는 보편적으로 진미로 여겨지며, 보통 사막처럼 생으로 먹고 있습니다. 생으로 섭취하면 정신적으로 온화한 행복감이 생겨, 의식을 넓히고 정신 경로가 열리게 됩니다.</TM_RawPomanasyrrium.description>
   <TM_RawPomanaMash.label>으깬 포마나</TM_RawPomanaMash.label>
   <TM_RawPomanaMash.description>생 포마나사이리움에서 사이리움을 추출할 때 남은 식욕을 감소시키는 쓴 부산물입니다. 영양적 가치를 지니지만, 주로 동물 사료를 위해 남겨집니다.</TM_RawPomanaMash.description>
   <TM_Syrrium.label>사이리움</TM_Syrrium.label>
-  <TM_Syrrium.description>사이리움은 포마나사이리움의 으깬 과일을 끓여 포마나에서 사이리움으로 분리 증류됩니다. 사이리움을 섭취했을 때 생 포마나보다 훨씬 더 강력한 효과를 유발합니다. 화학적 효과로 인해 약물로 취급되며 약물 의존을 유발할 수 있습니다. 중독성이 강한 원인은 약물 없이는 능력이 부족한 것으로 느끼고, 자신감과 정신 균형을 유지하기 위해 사이리움을 소비하기 때문입니다.\n\n 포마나사이리움이 통찰력과 맑은 정신을 유지하는데 도움을 주는것은 대부분 전설이나 판타지로 취급되어왔지만, 화학적인 연구에 따르면 이러한 효과는 적어도 마법사에게는 사실임이 밝혀졌습니다. 사이리움의 장점은 포마나사이리움을 재배하는 주요한 이유로 여겨집니다. 적절하게 정제되면, 사이리움의 영향으로 마법사가 마나에 접근할 수 있는 범위가 넓어지고, 마나의 흐름과 유출을 가속화하며, 아케인 파워를 사용할 때 필요한 노력을 감소시키는 것으로 밝혀졌습니다. 이러한 효과는 생 과일 섭취로 얻게 되는 이익과 중복되지 않습니다.</TM_Syrrium.description>
+  <TM_Syrrium.description>사이리움은 포마나사이리움의 으깬 과일을 끓여 포마나에서 사이리움으로 분리 증류됩니다. 사이리움을 섭취했을 때 생 포마나보다 훨씬 더 강력한 효과를 유발합니다. 화학적 효과로 인해 약물로 취급되며 약물 의존을 유발할 수 있습니다. 중독성이 강한 원인은 약물 없이는 능력이 부족한 것으로 느끼고, 자신감과 정신 균형을 유지하기 위해 사이리움을 소비하기 때문입니다.\n \n 포마나사이리움이 통찰력과 맑은 정신을 유지하는데 도움을 주는것은 대부분 전설이나 판타지로 취급되어왔지만, 화학적인 연구에 따르면 이러한 효과는 적어도 마법사에게는 사실임이 밝혀졌습니다. 사이리움의 장점은 포마나사이리움을 재배하는 주요한 이유로 여겨집니다. 적절하게 정제되면, 사이리움의 영향으로 마법사가 마나에 접근할 수 있는 범위가 넓어지고, 마나의 흐름과 유출을 가속화하며, 아케인 파워를 사용할 때 필요한 노력을 감소시키는 것으로 밝혀졌습니다. 이러한 효과는 생 과일 섭취로 얻게 되는 이익과 중복되지 않습니다.</TM_Syrrium.description>
   <TM_Syrrium.ingestible.ingestCommandString>{0} 마시기</TM_Syrrium.ingestible.ingestCommandString>
   <TM_Syrrium.ingestible.ingestReportString>{0} 마시는 중.</TM_Syrrium.ingestible.ingestReportString>
   <TM_Plant_Paracyte.label>패러사이트 가시덤불</TM_Plant_Paracyte.label>
@@ -1065,117 +1081,119 @@
   <UnfinishedMartial.comps.1.useLabel>작성</UnfinishedMartial.comps.1.useLabel>
   <Mote_MagicCircleInner.label>Mote</Mote_MagicCircleInner.label>
   <Mote_MagicCircleOuter.label>Mote</Mote_MagicCircleOuter.label>
-  <TM_Mote_RecallExpand.label>티끌</TM_Mote_RecallExpand.label>
-  <TM_Mote_RecallCollapse.label>티끌</TM_Mote_RecallCollapse.label>
-  <TM_Mote_RedOutline.label>티끌</TM_Mote_RedOutline.label>
-  <TM_Mote_BlueOutline.label>티끌</TM_Mote_BlueOutline.label>
-  <TM_Mote_BlueAreaSmall.label>티끌</TM_Mote_BlueAreaSmall.label>
-  <TM_Mote_BlueArea.label>티끌</TM_Mote_BlueArea.label>
-  <TM_Mote_BlueAreaLarge.label>티끌</TM_Mote_BlueAreaLarge.label>
-  <TM_Mote_ChiBurst.label>티끌</TM_Mote_ChiBurst.label>
-  <TM_Mote_ChiBurstInner.label>티끌</TM_Mote_ChiBurstInner.label>
-  <TM_Mote_ShadowCircleIn.label>티끌</TM_Mote_ShadowCircleIn.label>
-  <TM_Mote_Invisibility.label>티끌</TM_Mote_Invisibility.label>
-  <TM_Mote_BloodShield.label>티끌</TM_Mote_BloodShield.label>
-  <TM_Mote_BloodShieldInner.label>티끌</TM_Mote_BloodShieldInner.label>
-  <TM_Mote_BFBExplosion.label>티끌</TM_Mote_BFBExplosion.label>
-  <TM_Mote_BFBExplosionInner.label>티끌</TM_Mote_BFBExplosionInner.label>
-  <TM_Mote_FearWaveInner.label>티끌</TM_Mote_FearWaveInner.label>
-  <TM_Mote_FearWaveMiddle.label>티끌</TM_Mote_FearWaveMiddle.label>
-  <TM_Mote_FearWaveOuter.label>티끌</TM_Mote_FearWaveOuter.label>
-  <TM_Mote_HolyImplosion.label>티끌</TM_Mote_HolyImplosion.label>
-  <TM_Mote_HolyImplosionInner.label>티끌</TM_Mote_HolyImplosionInner.label>
-  <TM_Mote_SabotageExplosion.label>티끌</TM_Mote_SabotageExplosion.label>
-  <TM_Mote_SabotageExplosionInner.label>티끌</TM_Mote_SabotageExplosionInner.label>
-  <TM_Mote_OSExplosion.label>티끌</TM_Mote_OSExplosion.label>
-  <TM_Mote_OSExplosionInner.label>티끌</TM_Mote_OSExplosionInner.label>
-  <TM_Mote_DeathExplosion.label>티끌</TM_Mote_DeathExplosion.label>
-  <TM_Mote_DeathExplosionInner.label>티끌</TM_Mote_DeathExplosionInner.label>
-  <TM_Mote_GiantExplosion.label>티끌</TM_Mote_GiantExplosion.label>
-  <TM_Mote_GiantExplosionInner.label>티끌</TM_Mote_GiantExplosionInner.label>
-  <TM_Mote_Stoneskin.label>티끌</TM_Mote_Stoneskin.label>
+  <TM_Mote_RecallExpand.label>Mote</TM_Mote_RecallExpand.label>
+  <TM_Mote_RecallCollapse.label>Mote</TM_Mote_RecallCollapse.label>
+  <TM_Mote_RedOutline.label>Mote</TM_Mote_RedOutline.label>
+  <TM_Mote_BlueOutline.label>Mote</TM_Mote_BlueOutline.label>
+  <TM_Mote_BlueAreaSmall.label>Mote</TM_Mote_BlueAreaSmall.label>
+  <TM_Mote_BlueArea.label>Mote</TM_Mote_BlueArea.label>
+  <TM_Mote_BlueAreaLarge.label>Mote</TM_Mote_BlueAreaLarge.label>
+  <TM_Mote_ChiBurst.label>Mote</TM_Mote_ChiBurst.label>
+  <TM_Mote_ChiBurstInner.label>Mote</TM_Mote_ChiBurstInner.label>
+  <TM_Mote_ShadowCircleIn.label>Mote</TM_Mote_ShadowCircleIn.label>
+  <TM_Mote_Invisibility.label>Mote</TM_Mote_Invisibility.label>
+  <TM_Mote_BloodShield.label>Mote</TM_Mote_BloodShield.label>
+  <TM_Mote_BloodShieldInner.label>Mote</TM_Mote_BloodShieldInner.label>
+  <TM_Mote_BFBExplosion.label>Mote</TM_Mote_BFBExplosion.label>
+  <TM_Mote_BFBExplosionInner.label>Mote</TM_Mote_BFBExplosionInner.label>
+  <TM_Mote_FearWaveInner.label>Mote</TM_Mote_FearWaveInner.label>
+  <TM_Mote_FearWaveMiddle.label>Mote</TM_Mote_FearWaveMiddle.label>
+  <TM_Mote_FearWaveOuter.label>Mote</TM_Mote_FearWaveOuter.label>
+  <TM_Mote_HolyImplosion.label>Mote</TM_Mote_HolyImplosion.label>
+  <TM_Mote_HolyImplosionInner.label>Mote</TM_Mote_HolyImplosionInner.label>
+  <TM_Mote_SabotageExplosion.label>Mote</TM_Mote_SabotageExplosion.label>
+  <TM_Mote_SabotageExplosionInner.label>Mote</TM_Mote_SabotageExplosionInner.label>
+  <TM_Mote_OSExplosion.label>Mote</TM_Mote_OSExplosion.label>
+  <TM_Mote_OSExplosionInner.label>Mote</TM_Mote_OSExplosionInner.label>
+  <TM_Mote_DeathExplosion.label>Mote</TM_Mote_DeathExplosion.label>
+  <TM_Mote_DeathExplosionInner.label>Mote</TM_Mote_DeathExplosionInner.label>
+  <TM_Mote_GiantExplosion.label>Mote</TM_Mote_GiantExplosion.label>
+  <TM_Mote_GiantExplosionInner.label>Mote</TM_Mote_GiantExplosionInner.label>
+  <TM_Mote_Stoneskin.label>Mote</TM_Mote_Stoneskin.label>
+  <Mote_Flowers.label>Mote</Mote_Flowers.label>
   <Mote_BoneDust.label>Mote</Mote_BoneDust.label>
   <Mote_GrappleHook.label>Mote</Mote_GrappleHook.label>
-  <Mote_EarthCrack.label>티끌</Mote_EarthCrack.label>
-  <Mote_BracerBlock.label>티끌</Mote_BracerBlock.label>
-  <Mote_BracerBlock_NoFlash.label>티끌</Mote_BracerBlock_NoFlash.label>
-  <Mote_Strike.label>티끌</Mote_Strike.label>
-  <Mote_TigerStrike.label>티끌</Mote_TigerStrike.label>
-  <Mote_BladeSweep.label>티끌</Mote_BladeSweep.label>
-  <Mote_DragonStrike.label>티끌</Mote_DragonStrike.label>
-  <Mote_Cleave.label>티끌</Mote_Cleave.label>
-  <Mote_DirectionalDirt.label>티끌</Mote_DirectionalDirt.label>
-  <Mote_Heat.label>티끌</Mote_Heat.label>
-  <Mote_Ice.label>티끌</Mote_Ice.label>
-  <Mote_TechnoShield.label>티끌</Mote_TechnoShield.label>
-  <Mote_AlterFate.label>티끌</Mote_AlterFate.label>
-  <Mote_Scan.label>티끌</Mote_Scan.label>
-  <Mote_SpiritRetaliation.label>티끌</Mote_SpiritRetaliation.label>
-  <Mote_GraveBlade.label>티끌</Mote_GraveBlade.label>
-  <Mote_Rubble.label>티끌</Mote_Rubble.label>
-  <Mote_ArcaneFabricationA.label>티끌</Mote_ArcaneFabricationA.label>
-  <Mote_ArcaneFabricationB.label>티끌</Mote_ArcaneFabricationB.label>
-  <Mote_ArcaneFabricationC.label>티끌</Mote_ArcaneFabricationC.label>
-  <Mote_ArcaneFabricationD.label>티끌</Mote_ArcaneFabricationD.label>
-  <Mote_ThickDust.label>티끌</Mote_ThickDust.label>
-  <Mote_Ghost.label>티끌</Mote_Ghost.label>
-  <Mote_Holy.label>티끌</Mote_Holy.label>
-  <Mote_ManaPuff.label>티끌</Mote_ManaPuff.label>
-  <Mote_PsiCurrent.label>티끌</Mote_PsiCurrent.label>
-  <Mote_Psi_Arcane.label>티끌</Mote_Psi_Arcane.label>
-  <Mote_ArcaneStream.label>티끌</Mote_ArcaneStream.label>
-  <Mote_Psi.label>티끌</Mote_Psi.label>
-  <Mote_Psi_Grayscale.label>티끌</Mote_Psi_Grayscale.label>
-  <Mote_Chi_Grayscale.label>티끌</Mote_Chi_Grayscale.label>
-  <Mote_PsiBlastStart.label>티끌</Mote_PsiBlastStart.label>
-  <Mote_PsiBlastEnd.label>티끌</Mote_PsiBlastEnd.label>
-  <Mote_Demon_Flame.label>티끌</Mote_Demon_Flame.label>
-  <Mote_SummoningCircle.label>티끌</Mote_SummoningCircle.label>
-  <Mote_BloodCircle.label>티끌</Mote_BloodCircle.label>
-  <Mote_BloodWolfNorth.label>티끌</Mote_BloodWolfNorth.label>
-  <Mote_BloodWolfEast.label>티끌</Mote_BloodWolfEast.label>
-  <Mote_BloodWolfWest.label>티끌</Mote_BloodWolfWest.label>
-  <Mote_BloodWolfSouth.label>티끌</Mote_BloodWolfSouth.label>
-  <Mote_ArcaneWaves.label>티끌</Mote_ArcaneWaves.label>
-  <Mote_DWPhase_North.label>티끌</Mote_DWPhase_North.label>
-  <Mote_DWPhase_East.label>티끌</Mote_DWPhase_East.label>
-  <Mote_DWPhase_West.label>티끌</Mote_DWPhase_West.label>
-  <Mote_DWPhase_South.label>티끌</Mote_DWPhase_South.label>
-  <Mote_Note.label>티끌</Mote_Note.label>
-  <Mote_Twinkle.label>티끌</Mote_Twinkle.label>
-  <Mote_Flame.label>티끌</Mote_Flame.label>
-  <Mote_SpiritFlame.label>티끌</Mote_SpiritFlame.label>
-  <Mote_ArcaneFlame.label>티끌</Mote_ArcaneFlame.label>
-  <Mote_Exclamation.label>티끌</Mote_Exclamation.label>
-  <Mote_Barrier.label>티끌</Mote_Barrier.label>
-  <Mote_Enchanting.label>티끌</Mote_Enchanting.label>
-  <Mote_Casting.label>티끌</Mote_Casting.label>
+  <Mote_EarthCrack.label>Mote</Mote_EarthCrack.label>
+  <Mote_BracerBlock.label>Mote</Mote_BracerBlock.label>
+  <Mote_BracerBlock_NoFlash.label>Mote</Mote_BracerBlock_NoFlash.label>
+  <Mote_Strike.label>Mote</Mote_Strike.label>
+  <Mote_TigerStrike.label>Mote</Mote_TigerStrike.label>
+  <Mote_BladeSweep.label>Mote</Mote_BladeSweep.label>
+  <Mote_DragonStrike.label>Mote</Mote_DragonStrike.label>
+  <Mote_Cleave.label>Mote</Mote_Cleave.label>
+  <Mote_DirectionalDirt.label>Mote</Mote_DirectionalDirt.label>
+  <Mote_Heat.label>Mote</Mote_Heat.label>
+  <Mote_Ice.label>Mote</Mote_Ice.label>
+  <Mote_TechnoShield.label>Mote</Mote_TechnoShield.label>
+  <Mote_AlterFate.label>Mote</Mote_AlterFate.label>
+  <Mote_Scan.label>Mote</Mote_Scan.label>
+  <Mote_SpiritRetaliation.label>Mote</Mote_SpiritRetaliation.label>
+  <Mote_GraveBlade.label>Mote</Mote_GraveBlade.label>
+  <Mote_Rubble.label>Mote</Mote_Rubble.label>
+  <Mote_ArcaneFabricationA.label>Mote</Mote_ArcaneFabricationA.label>
+  <Mote_ArcaneFabricationB.label>Mote</Mote_ArcaneFabricationB.label>
+  <Mote_ArcaneFabricationC.label>Mote</Mote_ArcaneFabricationC.label>
+  <Mote_ArcaneFabricationD.label>Mote</Mote_ArcaneFabricationD.label>
+  <Mote_ThickDust.label>Mote</Mote_ThickDust.label>
+  <Mote_Ghost.label>Mote</Mote_Ghost.label>
+  <Mote_Holy.label>Mote</Mote_Holy.label>
+  <Mote_ManaPuff.label>Mote</Mote_ManaPuff.label>
+  <Mote_PsiCurrent.label>Mote</Mote_PsiCurrent.label>
+  <Mote_Psi_Arcane.label>Mote</Mote_Psi_Arcane.label>
+  <Mote_ArcaneStream.label>Mote</Mote_ArcaneStream.label>
+  <Mote_Psi.label>Mote</Mote_Psi.label>
+  <Mote_Psi_Grayscale.label>Mote</Mote_Psi_Grayscale.label>
+  <Mote_Psi_Yellow.label>Mote</Mote_Psi_Yellow.label>
+  <Mote_Chi_Grayscale.label>Mote</Mote_Chi_Grayscale.label>
+  <Mote_PsiBlastStart.label>Mote</Mote_PsiBlastStart.label>
+  <Mote_PsiBlastEnd.label>Mote</Mote_PsiBlastEnd.label>
+  <Mote_Demon_Flame.label>Mote</Mote_Demon_Flame.label>
+  <Mote_SummoningCircle.label>Mote</Mote_SummoningCircle.label>
+  <Mote_BloodCircle.label>Mote</Mote_BloodCircle.label>
+  <Mote_BloodWolfNorth.label>Mote</Mote_BloodWolfNorth.label>
+  <Mote_BloodWolfEast.label>Mote</Mote_BloodWolfEast.label>
+  <Mote_BloodWolfWest.label>Mote</Mote_BloodWolfWest.label>
+  <Mote_BloodWolfSouth.label>Mote</Mote_BloodWolfSouth.label>
+  <Mote_ArcaneWaves.label>Mote</Mote_ArcaneWaves.label>
+  <Mote_DWPhase_North.label>Mote</Mote_DWPhase_North.label>
+  <Mote_DWPhase_East.label>Mote</Mote_DWPhase_East.label>
+  <Mote_DWPhase_West.label>Mote</Mote_DWPhase_West.label>
+  <Mote_DWPhase_South.label>Mote</Mote_DWPhase_South.label>
+  <Mote_Note.label>Mote</Mote_Note.label>
+  <Mote_Twinkle.label>Mote</Mote_Twinkle.label>
+  <Mote_Flame.label>Mote</Mote_Flame.label>
+  <Mote_SpiritFlame.label>Mote</Mote_SpiritFlame.label>
+  <Mote_ArcaneFlame.label>Mote</Mote_ArcaneFlame.label>
+  <Mote_Exclamation.label>Mote</Mote_Exclamation.label>
+  <Mote_Barrier.label>Mote</Mote_Barrier.label>
+  <Mote_Enchanting.label>Mote</Mote_Enchanting.label>
+  <Mote_Casting.label>Mote</Mote_Casting.label>
   <Mote_AntiCasting.label>Mote</Mote_AntiCasting.label>
-  <Mote_PowerWave.label>티끌</Mote_PowerWave.label>
-  <Mote_Siphon.label>티끌</Mote_Siphon.label>
-  <Mote_ArcaneCircle.label>티끌</Mote_ArcaneCircle.label>
-  <Mote_Poison.label>티끌</Mote_Poison.label>
-  <Mote_ArcaneBlast.label>티끌</Mote_ArcaneBlast.label>
-  <Mote_Disease.label>티끌</Mote_Disease.label>
-  <Mote_Bolt.label>티끌</Mote_Bolt.label>
-  <Mote_DiseaseExplosion.label>티끌</Mote_DiseaseExplosion.label>
-  <Mote_Regen.label>티끌</Mote_Regen.label>
-  <Mote_Arcane.label>티끌</Mote_Arcane.label>
-  <Mote_BloodSquirt.label>티끌</Mote_BloodSquirt.label>
-  <Mote_BloodFlame.label>티끌</Mote_BloodFlame.label>
-  <Mote_BloodMist.label>티끌</Mote_BloodMist.label>
-  <Mote_Shadow.label>티끌</Mote_Shadow.label>
-  <Mote_CrossStrike.label>티끌</Mote_CrossStrike.label>
-  <Mote_ClawSweep.label>티끌</Mote_ClawSweep.label>
-  <Mote_MultiStrike.label>티끌</Mote_MultiStrike.label>
-  <Mote_ShadowCleave.label>티끌</Mote_ShadowCleave.label>
-  <Mote_ScreamMote.label>티끌</Mote_ScreamMote.label>
-  <Mote_ArcaneDaggers.label>티끌</Mote_ArcaneDaggers.label>
-  <Mote_PowerBeamBlue.label>티끌</Mote_PowerBeamBlue.label>
-  <Mote_PowerBeamPsionic.label>티끌</Mote_PowerBeamPsionic.label>
-  <Mote_PowerBeamGold.label>티끌</Mote_PowerBeamGold.label>
-  <Mote_1sText.label>티끌</Mote_1sText.label>
-  <Mote_DeceptionMask.label>티끌</Mote_DeceptionMask.label>
-  <Mote_Possess.label>티끌</Mote_Possess.label>
+  <Mote_PowerWave.label>Mote</Mote_PowerWave.label>
+  <Mote_Siphon.label>Mote</Mote_Siphon.label>
+  <Mote_ArcaneCircle.label>Mote</Mote_ArcaneCircle.label>
+  <Mote_Poison.label>Mote</Mote_Poison.label>
+  <Mote_ArcaneBlast.label>Mote</Mote_ArcaneBlast.label>
+  <Mote_Disease.label>Mote</Mote_Disease.label>
+  <Mote_Bolt.label>Mote</Mote_Bolt.label>
+  <Mote_DiseaseExplosion.label>Mote</Mote_DiseaseExplosion.label>
+  <Mote_Regen.label>Mote</Mote_Regen.label>
+  <Mote_Arcane.label>Mote</Mote_Arcane.label>
+  <Mote_BloodSquirt.label>Mote</Mote_BloodSquirt.label>
+  <Mote_BloodFlame.label>Mote</Mote_BloodFlame.label>
+  <Mote_BloodMist.label>Mote</Mote_BloodMist.label>
+  <Mote_Shadow.label>Mote</Mote_Shadow.label>
+  <Mote_CrossStrike.label>Mote</Mote_CrossStrike.label>
+  <Mote_ClawSweep.label>Mote</Mote_ClawSweep.label>
+  <Mote_MultiStrike.label>Mote</Mote_MultiStrike.label>
+  <Mote_ShadowCleave.label>Mote</Mote_ShadowCleave.label>
+  <Mote_ScreamMote.label>Mote</Mote_ScreamMote.label>
+  <Mote_ArcaneDaggers.label>Mote</Mote_ArcaneDaggers.label>
+  <Mote_PowerBeamBlue.label>Mote</Mote_PowerBeamBlue.label>
+  <Mote_PowerBeamPsionic.label>Mote</Mote_PowerBeamPsionic.label>
+  <Mote_PowerBeamGold.label>Mote</Mote_PowerBeamGold.label>
+  <Mote_1sText.label>Mote</Mote_1sText.label>
+  <Mote_DeceptionMask.label>Mote</Mote_DeceptionMask.label>
+  <Mote_Possess.label>Mote</Mote_Possess.label>
 
 </LanguageData>

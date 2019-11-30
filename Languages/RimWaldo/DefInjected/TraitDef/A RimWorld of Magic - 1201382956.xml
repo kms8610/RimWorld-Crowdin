@@ -7,6 +7,8 @@
   <Undead.degreeDatas.0.description>[PAWN_nameDef](은)는 되살아난 망자입니다.</Undead.degreeDatas.0.description>
   <Gifted.degreeDatas.0.label>마법의 재능</Gifted.degreeDatas.0.label>
   <Gifted.degreeDatas.0.description>[PAWN_nameDef](은)는 마법에 재능이 있습니다. [PAWN_pronoun](은)는 마법서 안에 있는 신비한 비밀들을 연구함으로써 이 재능을 마법사로 활용할 수 있습니다.</Gifted.degreeDatas.0.description>
+  <TM_Wanderer.degreeDatas.0.label>방랑자</TM_Wanderer.degreeDatas.0.label>
+  <TM_Wanderer.degreeDatas.0.description>[PAWN_nameDef](은)는 방랑자입니다. 이들 버림받은 반쪽자리 마법사는 종종 '병신 마법사' 라고 불리웠습니다. [PAWN_possessive]는 목가적인 성격으로 인해 자신의 직업 능력을 발달시키지 못했습니다. 대신, [PAWN_possessive]는 자신이 어떤 상황에도 적응할 수 있도록 수 많은 효용성있는 능력들을 향상시키는 방법을 배웠습니다. 방랑자는 열린 길을 선호하고, 캐러밴에 있을 때 기분이 좋아집니다. 방랑자가 있는 캐러밴은 모든 세계 타일의 이동 페널티를 무시합니다. 하지만 이들의 역마살 때문에 이들은 정착지에 너무 오래 머무르면 기분이 매우 나빠질 것입니다.</TM_Wanderer.degreeDatas.0.description>
   <InnerFire.degreeDatas.0.label>화염 마법사</InnerFire.degreeDatas.0.label>
   <InnerFire.degreeDatas.0.description>[PAWN_nameDef](은)는 불의 원소와 조화를 이루었습니다.</InnerFire.degreeDatas.0.description>
   <HeartOfFrost.degreeDatas.0.label>얼음 마법사</HeartOfFrost.degreeDatas.0.label>
@@ -49,8 +51,12 @@
   <Enchanter.degreeDatas.0.description>[PAWN_nameDef]는 물질과 재료를 구성하는데 재능있는 인챈터입니다. [PAWN_pronoun]는 [PAWN_possessive]의 의지에 따라서 물질을 조작할 수 있으며, [PAWN_possessive]가 충분한 노력을 한다면 영구적으로 변형을 적용시킬 수 있습니다.</Enchanter.degreeDatas.0.description>
   <Chronomancer.degreeDatas.0.label>크로노멘서</Chronomancer.degreeDatas.0.label>
   <Chronomancer.degreeDatas.0.description>[PAWN_nameDef](은)는 크로노멘서입니다. [PAWN_pronoun]는 불가사의한 시야를 통해 현실을 과거처럼, 그리고 미래처럼 볼 수 있으며, 그러한 현실들 사이에서 시간의 영향을 받는 대상을 조작할 수 있습니다.</Chronomancer.degreeDatas.0.description>
+  <ChaosMage.degreeDatas.0.label>카오스 메이지</ChaosMage.degreeDatas.0.label>
+  <ChaosMage.degreeDatas.0.description>[PAWN_nameDef](은)는 기존에 정의된 모든 마법의 경로를 거부하였습니다. 또한 자신이 힘을 찾아내는 길을 객관적인 현실에 귀속시키는 것을 거부합니다. 절대적인 진리는 없으며, 모든 마법이 허용됩니다. 이 전통은 [PAWN_nameDef](이)가 어떤 종류의 마법도 배울 수 있게 해주었지만, 그 대가로 [PAWN_possessive]는 이것을 결코 마스터하지 못할 것입니다.</ChaosMage.degreeDatas.0.description>
   <PhysicalProdigy.degreeDatas.0.label>육체적 잠재력</PhysicalProdigy.degreeDatas.0.label>
   <PhysicalProdigy.degreeDatas.0.description>[PAWN_nameDef]의 신체는 숙련되어 있으며, 특별한 전투 방식을 배울 수 있습니다.</PhysicalProdigy.degreeDatas.0.description>
+  <TM_Wayfarer.degreeDatas.0.label>나그네</TM_Wayfarer.degreeDatas.0.label>
+  <TM_Wayfarer.degreeDatas.0.description>[PAWN_nameDef](은)는 나그네로, 속임수와 더러운 싸움에 탁월한 싸움꾼입니다. [PAWN_possessive]는 목가적인 성격으로 인해 자신의 직업 능력을 발달시키지 못했습니다. 대신, [PAWN_possessive]는 자신이 어떤 상황에도 적응할 수 있도록 수 많은 효용성있는 능력들을 향상시키는 방법을 배웠습니다. 나그네는 열린 길을 선호하고, 캐러밴에 있을 때 기분이 좋아지며, 나그네가 있는 캐러밴은 25% 더 빠르게 이동할 수 있습니다. 그러나 이들의 역마살 때문에 너무 오랬동안 정착지에 머무른다면 기분이 매우 나빠질 것입니다.</TM_Wayfarer.degreeDatas.0.description>
   <Gladiator.degreeDatas.0.label>검투사</Gladiator.degreeDatas.0.label>
   <Gladiator.degreeDatas.0.description>[PAWN_nameDef](은)는 검투사의 전투 스타일을 훈련시키는 법을 배웠습니다.</Gladiator.degreeDatas.0.description>
   <Ranger.degreeDatas.0.label>숲지기</Ranger.degreeDatas.0.label>

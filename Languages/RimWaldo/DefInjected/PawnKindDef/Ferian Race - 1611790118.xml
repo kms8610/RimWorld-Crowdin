@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <FerianRefugee.label>페리안 조난자</FerianRefugee.label>
+  <FerianRefugee.labelPlural>페리안 조난자들</FerianRefugee.labelPlural>
+  <FerianColonist.label>페리안 정착민</FerianColonist.label>
+  <FerianColonist.labelPlural>페리안 정착민들</FerianColonist.labelPlural>
+  <Ferian.label>페리안 정착민</Ferian.label>
+  <Ferian.labelPlural>페리안 정착민들</Ferian.labelPlural>
+
+</LanguageData>

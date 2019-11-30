@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <FerianScenario.label>탈출, 그리고 탐색</FerianScenario.label>
+  <FerianScenario.description>당신의 함선은 해적에게 공격을 받았습니다. 긴급 FTL로 도망치는데는 성공했지만 우주선은 더 이상 제기능을 하지 못하게 되었고 어쩔수 없이 생명체가 있는, 가장 가까운 행성에 착륙하게 되었습니다.</FerianScenario.description>
+  <FerianScenario.scenario.name>탈출, 그리고 탐색</FerianScenario.scenario.name>
+  <FerianScenario.scenario.summary>Your ride in the universe has become a space junk, and you have to restart it on this planet.</FerianScenario.scenario.summary>
+  <FerianScenario.scenario.description>Your ship was damaged by pirates ' attack. Emergency FTL has succeeded, but the spacecraft has landed on the closest planet because it has failed to function properly.</FerianScenario.scenario.description>
+
+</LanguageData>

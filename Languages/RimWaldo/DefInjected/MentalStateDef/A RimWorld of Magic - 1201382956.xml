@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <TM_Berserk.label>광폭</TM_Berserk.label>
-  <TM_Berserk.recoveryMessage>{0}의 광포한 분노가 끝났습니다.</TM_Berserk.recoveryMessage>
-  <TM_Berserk.baseInspectLine>정신이상: 광폭</TM_Berserk.baseInspectLine>
+  <TM_Berserk.label>광란</TM_Berserk.label>
+  <TM_Berserk.recoveryMessage>{0}의 광란이 끝을 고했습니다.</TM_Berserk.recoveryMessage>
+  <TM_Berserk.baseInspectLine>정신이상: 광란</TM_Berserk.baseInspectLine>
   <TM_PanicFlee.label>공황상태</TM_PanicFlee.label>
   <TM_PanicFlee.baseInspectLine>정신이상: 공황상태</TM_PanicFlee.baseInspectLine>
   <TM_WanderPsychotic.label>정신방황</TM_WanderPsychotic.label>

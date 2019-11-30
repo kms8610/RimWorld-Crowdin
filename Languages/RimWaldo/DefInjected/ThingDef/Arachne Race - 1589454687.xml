@@ -21,5 +21,9 @@
   <Arachne_Sword.description>전통적인 아라크네 검은 뛰어난 절단 능력을 가지고 있습니다.</Arachne_Sword.description>
   <Arachne_Sword.tools.0.label>검 끝</Arachne_Sword.tools.0.label>
   <Arachne_Sword.tools.1.label>검 날</Arachne_Sword.tools.1.label>
+  <Arachne_Scythe.label>아라크네 대낫</Arachne_Scythe.label>
+  <Arachne_Scythe.description>전통적인 아라크네의 대낫. 강력하지만 무겁고 느린 근접용 무기입니다.</Arachne_Scythe.description>
+  <Arachne_Scythe.tools.0.label>손잡이</Arachne_Scythe.tools.0.label>
+  <Arachne_Scythe.tools.1.label>날</Arachne_Scythe.tools.1.label>
 
 </LanguageData>

@@ -26,29 +26,6 @@
   <AEXP_Gorilla.labelFemale>암컷 고릴라</AEXP_Gorilla.labelFemale>
   <AEXP_Gorilla.labelFemalePlural>암컷 고릴라들</AEXP_Gorilla.labelFemalePlural>
   <AEXP_Jaguar.label>재규어</AEXP_Jaguar.label>
-  <AEXP_Jaguar.labelPlural>재규어들</AEXP_Jaguar.labelPlural>
-  <AEXP_Jaguar.lifeStages.0.label>재규어</AEXP_Jaguar.lifeStages.0.label>
-  <AEXP_Jaguar.lifeStages.0.labelPlural>재규어</AEXP_Jaguar.lifeStages.0.labelPlural>
-  <AEXP_Jaguar.lifeStages.0.labelMale>수컷 재규어</AEXP_Jaguar.lifeStages.0.labelMale>
-  <AEXP_Jaguar.lifeStages.0.labelMalePlural>수컷 재규어들</AEXP_Jaguar.lifeStages.0.labelMalePlural>
-  <AEXP_Jaguar.lifeStages.0.labelFemale>암컷 재규어</AEXP_Jaguar.lifeStages.0.labelFemale>
-  <AEXP_Jaguar.lifeStages.0.labelFemalePlural>암컷 재규어들</AEXP_Jaguar.lifeStages.0.labelFemalePlural>
-  <AEXP_Jaguar.lifeStages.1.label>재규어</AEXP_Jaguar.lifeStages.1.label>
-  <AEXP_Jaguar.lifeStages.1.labelPlural>재규어</AEXP_Jaguar.lifeStages.1.labelPlural>
-  <AEXP_Jaguar.lifeStages.1.labelMale>수컷 재규어</AEXP_Jaguar.lifeStages.1.labelMale>
-  <AEXP_Jaguar.lifeStages.1.labelMalePlural>수컷 재규어들</AEXP_Jaguar.lifeStages.1.labelMalePlural>
-  <AEXP_Jaguar.lifeStages.1.labelFemale>암컷 재규어</AEXP_Jaguar.lifeStages.1.labelFemale>
-  <AEXP_Jaguar.lifeStages.1.labelFemalePlural>암컷 재규어들</AEXP_Jaguar.lifeStages.1.labelFemalePlural>
-  <AEXP_Jaguar.lifeStages.2.label>재규어</AEXP_Jaguar.lifeStages.2.label>
-  <AEXP_Jaguar.lifeStages.2.labelPlural>재규어</AEXP_Jaguar.lifeStages.2.labelPlural>
-  <AEXP_Jaguar.lifeStages.2.labelMale>수컷 재규어</AEXP_Jaguar.lifeStages.2.labelMale>
-  <AEXP_Jaguar.lifeStages.2.labelMalePlural>수컷 재규어들</AEXP_Jaguar.lifeStages.2.labelMalePlural>
-  <AEXP_Jaguar.lifeStages.2.labelFemale>암컷 재규어</AEXP_Jaguar.lifeStages.2.labelFemale>
-  <AEXP_Jaguar.lifeStages.2.labelFemalePlural>암컷 재규어들</AEXP_Jaguar.lifeStages.2.labelFemalePlural>
-  <AEXP_Jaguar.labelMale>수컷 재규어</AEXP_Jaguar.labelMale>
-  <AEXP_Jaguar.labelMalePlural>수컷 재규어들</AEXP_Jaguar.labelMalePlural>
-  <AEXP_Jaguar.labelFemale>암컷 재규어</AEXP_Jaguar.labelFemale>
-  <AEXP_Jaguar.labelFemalePlural>암컷 재규어들</AEXP_Jaguar.labelFemalePlural>
   <AEXP_Lemur.label>여우원숭이</AEXP_Lemur.label>
   <AEXP_Lemur.labelPlural>여우원숭이들</AEXP_Lemur.labelPlural>
   <AEXP_Lemur.lifeStages.0.label>여우원숭이</AEXP_Lemur.lifeStages.0.label>

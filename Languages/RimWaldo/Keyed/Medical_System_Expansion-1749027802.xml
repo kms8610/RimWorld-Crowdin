@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-
-  <RemovePartModule>해당 부위 모듈 제거</RemovePartModule>
-  <RemovePartSystem>해당 부위 시스템 제거</RemovePartSystem>
-  <MessageSuccessfullyRemovedImplant>{SURGEON_labelShort}(이)가 {PATIENT_labelShort}의 {HEDIFF} 이식물을 성공적으로 제거했습니다.</MessageSuccessfullyRemovedImplant>
-
-</LanguageData>

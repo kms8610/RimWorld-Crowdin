@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <IntheHotSpring.label>온천에서 쉬는 중</IntheHotSpring.label>
+  <IntheHotSpring.labelNoun>온천에서 쉬는 중</IntheHotSpring.labelNoun>
+  <BathedInHotspring.label>온천에서 쉼</BathedInHotspring.label>
+  <BathedInHotspring.labelNoun>온천에서 쉼</BathedInHotspring.labelNoun>
+  <BathedInHotspring2.label>온천에서 쉼</BathedInHotspring2.label>
+  <BathedInHotspring2.labelNoun>온천에서 쉼</BathedInHotspring2.labelNoun>
+  <Kijin_hediff_DarkMatter.label>끔찍하게 맛없음</Kijin_hediff_DarkMatter.label>
+  <Kijin_hediff_DarkMatter.stages.0.label>초기</Kijin_hediff_DarkMatter.stages.0.label>
+  <Kijin_hediff_DarkMatter.stages.1.label>가벼움</Kijin_hediff_DarkMatter.stages.1.label>
+  <Kijin_hediff_DarkMatter.stages.2.label>가벼움</Kijin_hediff_DarkMatter.stages.2.label>
+  <Kijin_hediff_DarkMatter.stages.3.label>심각함</Kijin_hediff_DarkMatter.stages.3.label>
+  <Kijin_hediff_DarkMatter.stages.4.label>극심함</Kijin_hediff_DarkMatter.stages.4.label>
+  <Kijin_ThrumboHorn.label>트럼보 키진 뿔</Kijin_ThrumboHorn.label>
+  <Kijin_ThrumboHorn.labelNoun>트럼보 키진 뿔</Kijin_ThrumboHorn.labelNoun>
+  <Kijin_BionicHorn.label>생체공학 키진 뿔</Kijin_BionicHorn.label>
+  <Kijin_BionicHorn.labelNoun>생체공학 키진 뿔</Kijin_BionicHorn.labelNoun>
+  <Kijin_hediff_PosionArrow.label>독</Kijin_hediff_PosionArrow.label>
+  <Kijin_hediff_PosionArrow.stages.0.label>초기</Kijin_hediff_PosionArrow.stages.0.label>
+  <Kijin_hediff_PosionArrow.stages.1.label>가벼움</Kijin_hediff_PosionArrow.stages.1.label>
+  <Kijin_hediff_PosionArrow.stages.2.label>가벼움</Kijin_hediff_PosionArrow.stages.2.label>
+  <Kijin_hediff_PosionArrow.stages.3.label>심각함</Kijin_hediff_PosionArrow.stages.3.label>
+  <Kijin_hediff_PosionArrow.stages.4.label>극심함</Kijin_hediff_PosionArrow.stages.4.label>
+
+</LanguageData>

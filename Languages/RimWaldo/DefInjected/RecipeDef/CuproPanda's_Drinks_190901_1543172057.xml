@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+
   <Administer_CPD_Syrup.label>당밀 투여</Administer_CPD_Syrup.label>
   <Administer_CPD_Syrup.jobString>당밀을 투여하는 중.</Administer_CPD_Syrup.jobString>
   <Administer_CPD_Nigori.label>니고리자케 투여</Administer_CPD_Nigori.label>
@@ -28,8 +29,8 @@
   <Administer_CPD_Peppi.jobString>페피콜라를 투여하는 중.</Administer_CPD_Peppi.jobString>
   <Administer_CPD_Chocolate.label>초콜렛 탄산음료 투여</Administer_CPD_Chocolate.label>
   <Administer_CPD_Chocolate.jobString>초콜렛 탄산음료를 투여하는 중.</Administer_CPD_Chocolate.jobString>
-  <Administer_CPD_RootBeer.label>홉맥주 투여</Administer_CPD_RootBeer.label>
-  <Administer_CPD_RootBeer.jobString>홉맥주를 투여하는 중.</Administer_CPD_RootBeer.jobString>
+  <Administer_CPD_RootBeer.label>루트비어 투여</Administer_CPD_RootBeer.label>
+  <Administer_CPD_RootBeer.jobString>루트비어 투여 중.</Administer_CPD_RootBeer.jobString>
   <Administer_CPD_Berry.label>딸기 탄산음료 투여</Administer_CPD_Berry.label>
   <Administer_CPD_Berry.jobString>딸기 탄산음료를 투여하는 중.</Administer_CPD_Berry.jobString>
   <Administer_CPD_Agave.label>용설란 탄산음료 투여</Administer_CPD_Agave.label>
