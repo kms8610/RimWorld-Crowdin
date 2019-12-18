@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakeKibbleBulk.label>대량 사료 만들기</MakeKibbleBulk.label>
+  <MakeKibbleBulk.description>생고기와 식물을 조합하여 다량의 동물 사료를 만듭니다.</MakeKibbleBulk.description>
+  <MakeKibbleBulk.jobString>사료를 만드는 중입니다.</MakeKibbleBulk.jobString>
+  <MakePemmicanBulk.label>대량 페미컨 만들기</MakePemmicanBulk.label>
+  <MakePemmicanBulk.description>생고기와 식물을 조합하여 보존한, 다량의 페미컨을 만듭니다. 맛이 놀랍지는 않지만 냉장보관 없이 오래 지속됩니다.</MakePemmicanBulk.description>
+  <MakePemmicanBulk.jobString>페미컨을 만드는 중입니다.</MakePemmicanBulk.jobString>
+  <CookMealSimpleBulk.label>간단한 식사 4인분 조리</CookMealSimpleBulk.label>
+  <CookMealSimpleBulk.description>한 재료에서 간단한 식사를 4인분을 조리합니다.</CookMealSimpleBulk.description>
+  <CookMealSimpleBulk.jobString>간단한 식사를 조리 중 입니다.</CookMealSimpleBulk.jobString>
+  <CookMealFineBulk.label>좋은 식사 4인분 조리</CookMealFineBulk.label>
+  <CookMealFineBulk.description>생고기와 식물성 재료의 조합으로 다소 복잡한 식사 4인분을 조리합니다.</CookMealFineBulk.description>
+  <CookMealFineBulk.jobString>좋은 식사를 조리 중 입니다.</CookMealFineBulk.jobString>
+  <CookMealLavishBulk.label>호화로운 식사 4인분 조리</CookMealLavishBulk.label>
+  <CookMealLavishBulk.description>생고기와 식물성 재료의 조합으로 매우 복잡한 식사 4인분을 조리합니다. 많은 재료들이 낭비됩니다.</CookMealLavishBulk.description>
+  <CookMealLavishBulk.jobString>호화로운 식사를 조리 중 입니다.</CookMealLavishBulk.jobString>
+  <CookMealSurvivalBulk.label>보존 식품 4인분 조리</CookMealSurvivalBulk.label>
+  <CookMealSurvivalBulk.description>생고기와 식물성 재료의 조합으로 포장된 생존용 식사 4인분을 조리합니다. 많은 재료들이 낭비됩니다.</CookMealSurvivalBulk.description>
+  <CookMealSurvivalBulk.jobString>보존 식품을 조리 중 입니다.</CookMealSurvivalBulk.jobString>
+
+</LanguageData>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RimFridge.FrostyBeer>시원할까 얼었을까1</RimFridge.FrostyBeer>
+  <RimFridge.CompProperties_Frosty>시원할까 얼었을까2</RimFridge.CompProperties_Frosty>
+  <RimFridge.CompFrosty.CompInspectStringExtra>시원할까 얼었을까3</RimFridge.CompFrosty.CompInspectStringExtra>
+  <RimFridge.CompFrosty>시원할까 얼었을까4</RimFridge.CompFrosty>
+  <RimFridge.RotStateFresh>시원할까 얼었을까5</RimFridge.RotStateFresh>
+  <RimFridge.RotStateRotting>시원할까 얼었을까6</RimFridge.RotStateRotting>
+  <RimFridge.RotStateDessicated>시원할까 얼었을까7</RimFridge.RotStateDessicated>
+  <RimFridge.CurrentlyFrozen>시원할까 얼었을까8</RimFridge.CurrentlyFrozen>
+  <RimFridge.Frosty>시원할까 얼었을까9</RimFridge.Frosty>
+  <RimFridge.CompProperties_Frosty.Beer>시원할까 얼었을까10</RimFridge.CompProperties_Frosty.Beer>
+  
+  <RimFridge.Beer>흐엉</RimFridge.Beer>
+  <RimFridge.CompFrosty.PostIngested>호</RimFridge.CompFrosty.PostIngested>
+
+  <FrostyBeer>시원할까 얼었을까11</FrostyBeer>
+  <CompProperties_Frosty>시원할까 얼었을까22</CompProperties_Frosty>
+  <CompFrosty.CompInspectStringExtra>시원할까 얼었을까33</CompFrosty.CompInspectStringExtra>
+  <CompFrosty>시원할까 얼었을까44</CompFrosty>
+  <RotStateFresh>시원할까 얼었을까55</RotStateFresh>
+  <RotStateRotting>시원할까 얼었을까66</RotStateRotting>
+  <RotStateDessicated>시원할까 얼었을까77</RotStateDessicated>
+  <CurrentlyFrozen>시원할까 얼었을까88</CurrentlyFrozen>
+  <Frosty>시원할까 얼었을까99</Frosty>
+  <CompProperties_Frosty.Beer>시원할까 얼었을까10</CompProperties_Frosty.Beer>
+  
+  <F0>시원할까</F0>
+
+</LanguageData>

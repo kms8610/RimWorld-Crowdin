@@ -76,5 +76,9 @@
   <VCEF_RawTuna.label>참치</VCEF_RawTuna.label>
   <VCEF_RawTuna.description>살아있는 참치입니다. 참치는 큰 바닷물고기입니다. 활동적이고 민첩한 포식자인 참치는 몸이 날렵하고 능률적이며 가장 빨리 헤엄치는 원양과 물고기에 속합니다. 또한, 참치는 식량으로도 높이 평가됐습니다. 음식으로서의 상업적 가치 외에도, 그들이 정점 포식자로서 보여주는 엄청난 크기, 속도, 그리고 힘은 어부, 작가, 그리고 과학자들의 감탄을 자아냈습니다.</VCEF_RawTuna.description>
   <VCEF_RawTuna.tools.0.label>참치</VCEF_RawTuna.tools.0.label>
+  <VCEF_Mote_Fishing_east.label>Mote</VCEF_Mote_Fishing_east.label>
+  <VCEF_Mote_Fishing_west.label>Mote</VCEF_Mote_Fishing_west.label>
+  <VCEF_Mote_Fishing_south.label>Mote</VCEF_Mote_Fishing_south.label>
+  <VCEF_Mote_Fishing_north.label>Mote</VCEF_Mote_Fishing_north.label>
 
 </LanguageData>

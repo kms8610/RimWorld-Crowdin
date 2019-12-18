@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<LanguageData> 
+<LanguageData>
 
   <!--1535875857_190622_Extended_Storage_Extended-->
   <ExtendedStorageExtended_FurnitureStorage.label>저장소</ExtendedStorageExtended_FurnitureStorage.label>
@@ -45,12 +45,6 @@
   <!--1554147049_190818_Zen Garden-->
   <ZEN_Decoration.label>장식</ZEN_Decoration.label>
   <ZEN_Decoration.description>젠 정원 장식들</ZEN_Decoration.description>
-
-  <!--836308268_190824_Dubs Bad Hygiene-->
-  <Hygiene.label>위생</Hygiene.label>
-  <Hygiene.description>정착지의 위생을 관리하기 위한 것들.</Hygiene.description>
-  <HygieneMisc.label>위생/기타</HygieneMisc.label>
-  <HygieneMisc.description>정착지의 위생을 관리하기 위한 것들.</HygieneMisc.description>
 
   <!--1585057683_190824_Vee's decorating-->
   <VeeDecoCategory.label>Vee데코</VeeDecoCategory.label>

@@ -2,7 +2,7 @@
 <Manifest>
 
   <identifier>RKTM</identifier>
-  <version>19.11.30</version>
+  <version>19.12.11</version>
   <dependencies>
   </dependencies>
   <loadAfter>

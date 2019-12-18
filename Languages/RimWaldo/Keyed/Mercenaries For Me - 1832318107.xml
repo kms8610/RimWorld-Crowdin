@@ -18,7 +18,7 @@
   <MFM_MedievalHireRentDesc>강철 연맹에게 용병 고용 또는 파견</MFM_MedievalHireRentDesc>
   <MFM_GuardMode>경비 태세</MFM_GuardMode>
   <MFM_GuardModeDesc>경비지점에서 자동으로 할당받을 수 있도록 허용합니다.</MFM_GuardModeDesc>
-  <MFM_GuardSpotAffectedPawn>영향받는 경비 : {0}</MFM_GuardSpotAffectedPawn>
+  <MFM_GuardSpotAffectedPawn>근무 경비원: {0}</MFM_GuardSpotAffectedPawn>
   <MFM_GuardSpotClearAffectedPawn>보호 취소</MFM_GuardSpotClearAffectedPawn>
   <MFM_GuardSpotAffectGuard>강제 경비</MFM_GuardSpotAffectGuard>
   <MFM_GuardSpotAffectGuardDesc>경비 지점에 경비원을 배치합니다.</MFM_GuardSpotAffectGuardDesc>
@@ -36,11 +36,11 @@
   <MFM_DialogConfirmFired>계약 조기 해지</MFM_DialogConfirmFired>
   <MFM_DialogConfirmFiredDesc>정말 이 용병을 해고 하시겠습니까? 이 용병의 보증서는 {0}에 의해 유지됩니다.</MFM_DialogConfirmFiredDesc>
   <MFM_DialogConfirmPowerBeam>궤도 빔 발사</MFM_DialogConfirmPowerBeam>
-  <MFM_DialogConfirmPowerBeamDesc>선택한 좌표를 향해 행성에서 공전하고 있는 USFM 위성이 궤도 빔을 발사하는데 {0}의 비용이 들고 목표물에 도달하는 데 10초가 소요됩니다, 작동을 요청하시겠습니까?</MFM_DialogConfirmPowerBeamDesc>
+  <MFM_DialogConfirmPowerBeamDesc>선택한 좌표를 향해 행성에서 공전하고 있는 USFM 위성이 궤도 빔을 발사하는데 {0}은의 비용이 들고 목표물에 도달하는 데 10초가 소요됩니다, 작동을 요청하시겠습니까?</MFM_DialogConfirmPowerBeamDesc>
   <MFM_DialogConfirmCancelBill>청구서 폐기</MFM_DialogConfirmCancelBill>
   <MFM_DialogConfirmCancelBillDesc>경고! 비용 지불을 거절하면 현재 고용된 용병과 파견한 용병들을 포함해 {0}(와)과의 계약은 모두 취소됩니다. 계속 진행하시겠습니까?</MFM_DialogConfirmCancelBillDesc>
   <MFM_ChoiceLetterCounterOfferTitle>수정 제안</MFM_ChoiceLetterCounterOfferTitle>
-  <MFM_ChoiceLetterCounterOffer>한 세력이 당신을 공격하기 위해 용병들에게 {0}은의 유리한 급료를 제안했습니다. 용병들 중 일부는 이 제안을 받아들여 당신에게 대적할 수 있습니다. 용병들이 당신의 편에 계속 머물기를 원한다면, {1}은을 지불해야 합니다. (USFM 계좌로 직접 이체됨) {2} 시간 내에 지불해야 합니다.</MFM_ChoiceLetterCounterOffer>
+  <MFM_ChoiceLetterCounterOffer>한 세력이 당신을 공격하기 위해 {0} 용병들에게 유리한 급료를 제안했습니다. 용병 중 일부는 이 제안을 받아들여 당신에게 대적할 수 있습니다. 용병들이 당신의 편에 계속 머물기를 원한다면, {1}은을 지급해야 하며, {2}시간 내에 지급해야 합니다. (USFM 계좌로 직접 이체됨)</MFM_ChoiceLetterCounterOffer>
   <MFM_AddPawnRecall>복귀할 정착민 추가</MFM_AddPawnRecall>
   <MFM_AddPawn>정착민 추가</MFM_AddPawn>
   <MFM_RemovePawn>정착민 제거</MFM_RemovePawn>
@@ -59,9 +59,9 @@
   <MFM_ColorWhite>백색</MFM_ColorWhite>
   <MFM_ColorCyan>남색</MFM_ColorCyan>
   <MFM_AlertPlannedMercDelivery>{0} 후에 용병 도착</MFM_AlertPlannedMercDelivery>
-  <MFM_AlertPlannedMercDeliveryDesc>주문한 용병은 기간 내에 도착합니다.</MFM_AlertPlannedMercDeliveryDesc>
+  <MFM_AlertPlannedMercDeliveryDesc>주문한 용병이 기간 내에 도착합니다.</MFM_AlertPlannedMercDeliveryDesc>
   <MFM_AlertPlannedMercReturn>{0} 후에 파견한 정착민 복귀</MFM_AlertPlannedMercReturn>
-  <MFM_AlertPlannedMercReturnDesc>용병들 중 일부의 계약이 끝났으며, 정해진 시간이 지나면 정착지로 복귀합니다.</MFM_AlertPlannedMercReturnDesc>
+  <MFM_AlertPlannedMercReturnDesc>용병 중 일부의 계약이 끝났으며, 정해진 시간이 지나면 정착지로 복귀합니다.</MFM_AlertPlannedMercReturnDesc>
   <MFM_AlertPlannedDeliveryStuffAndGuarantee>{0} 후에 보증서 및 용병 장비 도착</MFM_AlertPlannedDeliveryStuffAndGuarantee>
   <MFM_AlertPlannedDeliveryStuffAndGuaranteeDesc>계약이 종료된 후 용병이 떠나기 전에 {0} 용병이 우리 소유의 착용한 장비와 용병에 의해 해진 장비들을 복구 해줍니다.</MFM_AlertPlannedDeliveryStuffAndGuaranteeDesc>
   <MFM_AlertPlannedPowerBeamAt>{0} 후에 USFM 궤도 빔 발사</MFM_AlertPlannedPowerBeamAt>
@@ -74,7 +74,9 @@
   <MFM_LetterUSFMRenewStock>{0} 부대 갱신</MFM_LetterUSFMRenewStock>
   <MFM_LetterUSFMRenewStockDesc>{0}에서 방금 용병 부대를 새로 갱신했으니, 새로운 제안을 한번 확인해보세요.</MFM_LetterUSFMRenewStockDesc>
   <MFM_LetterDepositRecovery>보증서 및 물품 복구</MFM_LetterDepositRecovery>
-  <MFM_LetterDepositRecoveryDesc>{1} 용병의 계약이 끝난 후 {0} 물품 및 장비 반환과 함께 다음 보증서를 제공: {2}\n\n총계: {3}</MFM_LetterDepositRecoveryDesc>
+  <MFM_LetterDepositRecoveryDesc>{1} 용병의 계약이 끝난 후 {0} 물품 및 장비 반환과 함께 다음 보증서를 제공: {2}
+
+총계: {3}</MFM_LetterDepositRecoveryDesc>
   <MFM_LetterRentedMercInjured>부상당한 용병</MFM_LetterRentedMercInjured>
   <MFM_LetterRentedMercInjuredDesc>부상으로 인해 {0}의 계약이 취소되었습니다. ({1} 손상)</MFM_LetterRentedMercInjuredDesc>
   <MFM_LetterRentedMercDeath>용병 사망</MFM_LetterRentedMercDeath>
@@ -83,9 +85,9 @@
   <MFM_LetterRentedMercEarnMoney>임무 전리품</MFM_LetterRentedMercEarnMoney>
   <MFM_LetterRentedMercEarnMoneyDesc>{0}(은)는 기지를 성공적으로 급습한 후 {2}(을)를 통해 성과금 ({1})을 받았습니다.</MFM_LetterRentedMercEarnMoneyDesc>
   <MFM_LetterMercRaid>용병대 습격</MFM_LetterMercRaid>
-  <MFM_LetterMercRaidDesc>당신을 없애기 위해 {0}(이)가 {1} 용병대에게 높은 가격을 지불했습니다.{2}</MFM_LetterMercRaidDesc>
+  <MFM_LetterMercRaidDesc>당신을 전멸시키기 위해 {1} 용병 부대에게 {0}(이)가 높은 가격을 지불했습니다. {2}</MFM_LetterMercRaidDesc>
   <MFM_LetterRentedMercPaid>{0}: 용병 납입금</MFM_LetterRentedMercPaid>
-  <MFM_LetterRentedMercPaidDesc>고용된 용병의 활동 수입에 해당하는 {0}은을 {1}(으)로부터 수령합니다.</MFM_LetterRentedMercPaidDesc>
+  <MFM_LetterRentedMercPaidDesc>고용된 용병의 활동 수입에 해당하는 {1}(으)로부터 {0}은을 수령합니다.</MFM_LetterRentedMercPaidDesc>
   <MFM_LetterMercFired>용병 해고</MFM_LetterMercFired>
   <MFM_LetterMercFiredDesc>{0}(은)는 {1} 고객과의 임무 중 동료에게 무례하고 부적절한 행동을 보이는 만행을 저질러 해고되었고, 당분간 용병으로 다시 고용될 수 없습니다.</MFM_LetterMercFiredDesc>
   <MFM_LetterMercSalaryIncreaseRejected>악랄한 용병</MFM_LetterMercSalaryIncreaseRejected>
@@ -111,7 +113,7 @@
   <MFM_MsgCannotBeRentedAsMercBecauseFired>악행으로 인해 {0}(이)가 {1}에서 해고당했으며, {2} 지난 후에 다시 고용될 수 있습니다.</MFM_MsgCannotBeRentedAsMercBecauseFired>
   <MFM_MsgNotEnoughtSilverPowerBeam>궤도 빔 발사를 위한 돈이 충분하지 않기 때문에 작동이 취소됐습니다.</MFM_MsgNotEnoughtSilverPowerBeam>
   <MFM_MsgCannotBannishMercenary>용병을 추방할 수 없습니다.</MFM_MsgCannotBannishMercenary>
-  <MFM_MsgCannotDropWeaponDuringCounterOffer>{0}(은)는 무장/장비를 떨구거나 장착하길 원하지 않습니다. (수정 제안 사건 진행 중)</MFM_MsgCannotDropWeaponDuringCounterOffer>
+  <MFM_MsgCannotDropWeaponDuringCounterOffer>{0}(은)는 무기/복장을 떨구거나 장착하길 원하지 않습니다. (수정 제안 사건 진행 중) </MFM_MsgCannotDropWeaponDuringCounterOffer>
   <MFM_MsgPawnCannotBeRentedAsMerc2>{0}(은)는 이 직업과 양립 할 수없는 특성을 가지고 있기 때문에 용병으로 파견 할 수 없습니다. (방화광, 나체주의자, 등..)</MFM_MsgPawnCannotBeRentedAsMerc2>
   <MFM_MsgMissingJobOnSomeColonistToRent>선택된 정착민 중 일부가 실직했습니다.</MFM_MsgMissingJobOnSomeColonistToRent>
   <MFM_MsgToPayBillNeedCaravanOnSiteOfPayment>지불금을 내기 위해 지불 장소에 필요한 돈과 상단을 같이 배치시켜야 합니다.</MFM_MsgToPayBillNeedCaravanOnSiteOfPayment>
@@ -144,19 +146,19 @@
   <MFM_WantedVeteran>고참병 ({0}/{1})</MFM_WantedVeteran>
   <MFM_WantedElite>정예병 ({0}/{1})</MFM_WantedElite>
   <MFM_WantedCyborg>인조인간 ({0}/{1})</MFM_WantedCyborg>
-  <MFM_Gear0>장비 없음 (자유, 기본 USFM 셔츠 + 간단한 바지)</MFM_Gear0>
-  <MFM_Gear1>기본 (비용 {0}: 방탄 조끼 + 간단한 헬멧)</MFM_Gear1>
-  <MFM_Gear2>표준 (비용 {0}: 판금 갑옷 + 고급 헬멧)</MFM_Gear2>
-  <MFM_Gear3>고급 (비용 {0}: 해병 갑옷 + 파워 갑옷 헬멧)</MFM_Gear3>
+  <MFM_Gear0>복장 없음 (자유, 기본 USFM 셔츠 + 간단한 바지)</MFM_Gear0>
+  <MFM_Gear1>기본 (비용 {0}: 방탄조끼 + 방탄모)</MFM_Gear1>
+  <MFM_Gear2>표준 (비용 {0}: 판금갑옷 + 강화 방탄모)</MFM_Gear2>
+  <MFM_Gear3>고급 (비용 {0}: 강화갑옷 + 강화장갑 방탄모)</MFM_Gear3>
   <MFM_Weapon0>무기 없음</MFM_Weapon0>
   <MFM_Weapon1>기본 (비용 {0}: 권총/기관권총 또는 단검/곤봉/단창)</MFM_Weapon1>
-  <MFM_Weapon2>표준 (비용 {0}: 기관단총/산탄총 또는 검)</MFM_Weapon2>
-  <MFM_Weapon3>고급 (비용 {0}: 돌격 소총/전자기 소총/저격 소총 또는 장검)</MFM_Weapon3>
-  <MFM_Weapon4>종말 (비용 {0}: 삼단 로켓/둠스데이 또는 트럼보 뿔)</MFM_Weapon4>
-  <MFM_Gear0Medieval>장비 없음 (자유, 부족민 복장)</MFM_Gear0Medieval>
+  <MFM_Weapon2>표준 (비용 {0}: 기관단총/전투 산탄총 또는 검)</MFM_Weapon2>
+  <MFM_Weapon3>고급 (비용 {0}: 돌격소총/전자기 소총/저격소총 또는 장검)</MFM_Weapon3>
+  <MFM_Weapon4>종말 (비용 {0}: 삼단 로켓/최후의 심판 또는 트럼보 뿔)</MFM_Weapon4>
+  <MFM_Gear0Medieval>복장 없음 (자유, 부족민 복장)</MFM_Gear0Medieval>
   <MFM_Gear1Medieval>기본 (비용 {0}: 셔츠 + 간단한 바지 + 전쟁 가면)</MFM_Gear1Medieval>
-  <MFM_Gear2Medieval>표준 (비용 {0}: 파카 + 간단한 바지 + 간단한 헬멧)</MFM_Gear2Medieval>
-  <MFM_Gear3Medieval>고급 (비용 {0}: 판금 갑옷 + 고급 헬멧)</MFM_Gear3Medieval>
+  <MFM_Gear2Medieval>표준 (비용 {0}: 파카 + 간단한 바지 + 방탄모)</MFM_Gear2Medieval>
+  <MFM_Gear3Medieval>고급 (비용 {0}: 판금갑옷 + 강화 방탄모)</MFM_Gear3Medieval>
   <MFM_Weapon1Medieval>기본 (비용 {0} : 단궁 또는 단검/곤봉/단창)</MFM_Weapon1Medieval>
   <MFM_Weapon2Medieval>표준 (비용 {0}: 장궁 또는 검)</MFM_Weapon2Medieval>
   <MFM_Weapon3Medieval>고급 (비용 {0}: 곡궁 또는 장검)</MFM_Weapon3Medieval>
@@ -213,13 +215,13 @@
   <MFM_SettingsSectionNbMercenaries>레벨에 의한 용병 능력</MFM_SettingsSectionNbMercenaries>
   <MFM_SettingsSectionMercPrice>용병대 가격</MFM_SettingsSectionMercPrice>
   <MFM_SettingsSectionTransport>운송 설정</MFM_SettingsSectionTransport>
-  <MFM_SettingsSectionBlacklistedTraits>블랙리스트 용병 특성 (defName)</MFM_SettingsSectionBlacklistedTraits>
+  <MFM_SettingsSectionBlacklistedTraits>블랙리스트 용병 특징 (defName)</MFM_SettingsSectionBlacklistedTraits>
   <MFM_SettingsSectionIncidents>사건</MFM_SettingsSectionIncidents>
   <MFM_SettingsSectionBlacklistedPawnKind>사용할 수 없는 PawnKind (DefName) 용병 생성</MFM_SettingsSectionBlacklistedPawnKind>
   <MFM_SettingsSectionHediffToKeepOnMercGen>Hediff (defName)을 통해 용병 생성 유지</MFM_SettingsSectionHediffToKeepOnMercGen>
   <MFM_SettingsSectionBlacklistedWeapons>용병 생성에 사용할 수 없는 무기 (defName)</MFM_SettingsSectionBlacklistedWeapons>
   <MFM_SettingsSectionMedievalMode>중세 방식</MFM_SettingsSectionMedievalMode>
-  <MFM_SettingsSectionMustHaveTraits>지니고 있는 특성 (특성 레이블)</MFM_SettingsSectionMustHaveTraits>
+  <MFM_SettingsSectionMustHaveTraits>지니고 있는 특징 (특징 레이블)</MFM_SettingsSectionMustHaveTraits>
   <MFM_SettingsDisableNotifWhenDisusedMercDie>사용되지 않는 용병이 사망했을 때 알림 비활성하기</MFM_SettingsDisableNotifWhenDisusedMercDie>
   <MFM_SettingsPercentDisusedMercCanDiePerQuad>분기 시작 시 마다 사용할 수 없는 용병의 백분율 ({0}%)</MFM_SettingsPercentDisusedMercCanDiePerQuad>
   <MFM_SettingsTimeBeforeRenewOffers>USFM이 제안을 갱신하기까지 시간 ({0})</MFM_SettingsTimeBeforeRenewOffers>
@@ -257,15 +259,15 @@
   <MFM_SettingsGoodMoodCoefDecCost>좋은 기분이 최대치에 도달 했을 때 봉급 감소율 ({0}%)</MFM_SettingsGoodMoodCoefDecCost>
   <MFM_SettingsStuffAndGuaranteeDeliveryTimeMin>물품 및 보증 배송 최소 시간 ({0}h)</MFM_SettingsStuffAndGuaranteeDeliveryTimeMin>
   <MFM_SettingsStuffAndGuaranteeDeliveryTimeMax>물품 및 보증 배송 최대 시간 ({0}h)</MFM_SettingsStuffAndGuaranteeDeliveryTimeMax>
-  <MFM_SettingsPriceGear1>기본 장비 묶음 가격</MFM_SettingsPriceGear1>
-  <MFM_SettingsPriceGear2>표준 장비 묶음 가격</MFM_SettingsPriceGear2>
-  <MFM_SettingsPriceGear3>고급 장비 묶음 가격</MFM_SettingsPriceGear3>
-  <MFM_SettingsPriceWeapon1>기본 무장 가격</MFM_SettingsPriceWeapon1>
-  <MFM_SettingsPriceWeapon2>표준 무장 가격</MFM_SettingsPriceWeapon2>
-  <MFM_SettingsPriceWeapon3>고급 무장 가격</MFM_SettingsPriceWeapon3>
-  <MFM_SettingsPriceWeapon4>종말 무장 가격</MFM_SettingsPriceWeapon4>
-  <MFM_SettingsUseOnlyVanillaForWeapon>용병이 바닐라 무장만 사용</MFM_SettingsUseOnlyVanillaForWeapon>
-  <MFM_SettingsUseOnlyVanillaForGear>용병이 바닐라 장비만 사용</MFM_SettingsUseOnlyVanillaForGear>
+  <MFM_SettingsPriceGear1>기본 복장 묶음 가격</MFM_SettingsPriceGear1>
+  <MFM_SettingsPriceGear2>표준 복장 묶음 가격</MFM_SettingsPriceGear2>
+  <MFM_SettingsPriceGear3>고급 복장 묶음 가격</MFM_SettingsPriceGear3>
+  <MFM_SettingsPriceWeapon1>기본 무기 가격</MFM_SettingsPriceWeapon1>
+  <MFM_SettingsPriceWeapon2>표준 무기 가격</MFM_SettingsPriceWeapon2>
+  <MFM_SettingsPriceWeapon3>고급 무기 가격</MFM_SettingsPriceWeapon3>
+  <MFM_SettingsPriceWeapon4>종말 무기 가격</MFM_SettingsPriceWeapon4>
+  <MFM_SettingsUseOnlyVanillaForWeapon>용병이 바닐라 무기만 사용</MFM_SettingsUseOnlyVanillaForWeapon>
+  <MFM_SettingsUseOnlyVanillaForGear>용병이 바닐라 복장만 사용</MFM_SettingsUseOnlyVanillaForGear>
   <MFM_SettingsUSFMSuspendedMinTime>USFM의 최소 지연 시간 ({0})</MFM_SettingsUSFMSuspendedMinTime>
   <MFM_SettingsUSFMSuspendedMaxTime>USFM의 최대 지연 시간 ({0})</MFM_SettingsUSFMSuspendedMaxTime>
   <MFM_SettingsPowerBeamCost>궤도 빔 발사 비용</MFM_SettingsPowerBeamCost>

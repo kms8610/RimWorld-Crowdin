@@ -561,16 +561,6 @@
   <PruneAndRepair.gerund>가지 치기 및 수리 중</PruneAndRepair.gerund>
   <PruneAndRepair.label>손상된 물건 수리</PruneAndRepair.label>
 
-  <!--826153738_181025_Glass+Light-->
-  <DoBillsMakeGlass.verb>유리 만들기</DoBillsMakeGlass.verb>
-  <DoBillsMakeLargeCircularGlass.verb>대형 원형유리 만들기</DoBillsMakeLargeCircularGlass.verb>
-  <DoBillsMakeMolotov.verb>액정 TV 만들기</DoBillsMakeMolotov.verb>
-  <DoBillsMakeReinforcedGlass.verb>강화유리 만들기</DoBillsMakeReinforcedGlass.verb>
-  <DoBillsMakeGlass.gerund>유리 만드는 중.</DoBillsMakeGlass.gerund>
-  <DoBillsMakeLargeCircularGlass.gerund>대형 원형유리 만드는 중.</DoBillsMakeLargeCircularGlass.gerund>
-  <DoBillsMakeMolotov.gerund>액정 TV 만드는 중.</DoBillsMakeMolotov.gerund>
-  <DoBillsMakeReinforcedGlass.gerund>강화유리 만드는 중.</DoBillsMakeReinforcedGlass.gerund>
-
   <!--83233353_190626_Dubs Rimkit-->
   <FixBrokenDownBuildingWithKit.label>고장난 건물을 수리용품으로 수리</FixBrokenDownBuildingWithKit.label>
   <FixBrokenDownBuildingWithKit.verb>망가진 부품을 수리용품으로 대체</FixBrokenDownBuildingWithKit.verb>

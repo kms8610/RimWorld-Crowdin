@@ -56,7 +56,7 @@
   <PhysicalProdigy.degreeDatas.0.label>육체적 잠재력</PhysicalProdigy.degreeDatas.0.label>
   <PhysicalProdigy.degreeDatas.0.description>[PAWN_nameDef]의 신체는 숙련되어 있으며, 특별한 전투 방식을 배울 수 있습니다.</PhysicalProdigy.degreeDatas.0.description>
   <TM_Wayfarer.degreeDatas.0.label>나그네</TM_Wayfarer.degreeDatas.0.label>
-  <TM_Wayfarer.degreeDatas.0.description>[PAWN_nameDef](은)는 나그네로, 속임수와 더러운 싸움에 탁월한 싸움꾼입니다. [PAWN_possessive]는 목가적인 성격으로 인해 자신의 직업 능력을 발달시키지 못했습니다. 대신, [PAWN_possessive]는 자신이 어떤 상황에도 적응할 수 있도록 수 많은 효용성있는 능력들을 향상시키는 방법을 배웠습니다. 나그네는 열린 길을 선호하고, 캐러밴에 있을 때 기분이 좋아지며, 나그네가 있는 캐러밴은 25% 더 빠르게 이동할 수 있습니다. 그러나 이들의 역마살 때문에 너무 오랬동안 정착지에 머무른다면 기분이 매우 나빠질 것입니다.</TM_Wayfarer.degreeDatas.0.description>
+  <TM_Wayfarer.degreeDatas.0.description>[PAWN_nameDef](은)는 나그네로, 속임수와 더러운 싸움에 탁월한 싸움꾼입니다. [PAWN_possessive] 목가적인 성격으로 인해 직업 능력을 발달시키지 못했습니다. 대신, [PAWN_pronoun]는 자신이 어떤 상황에도 적응할 수 있도록 수 많은 효용성있는 능력들을 향상시키는 방법을 배웠습니다. 나그네는 열린 길을 선호하고, 상단에 있을 때 기분이 좋아지며, 나그네가 있는 상단은 25% 더 빠르게 이동할 수 있습니다. 그러나 이들의 역마살 때문에 너무 오랫동안 정착지에 머무른다면 기분이 매우 나빠질 것입니다.</TM_Wayfarer.degreeDatas.0.description>
   <Gladiator.degreeDatas.0.label>검투사</Gladiator.degreeDatas.0.label>
   <Gladiator.degreeDatas.0.description>[PAWN_nameDef](은)는 검투사의 전투 스타일을 훈련시키는 법을 배웠습니다.</Gladiator.degreeDatas.0.description>
   <Ranger.degreeDatas.0.label>숲지기</Ranger.degreeDatas.0.label>
@@ -86,9 +86,9 @@
   <Faceless.degreeDatas.0.label>얼굴없는 자</Faceless.degreeDatas.0.label>
   <Faceless.degreeDatas.0.description>[PAWN_nameDef](은)는 변장과 모방의 달인으로, 다른 사람들의 근육이나 정신적인 행동을 조작하고 포착하여 자신의 것으로 만듭니다.</Faceless.degreeDatas.0.description>
   <TM_Psionic.degreeDatas.0.label>사이오닉</TM_Psionic.degreeDatas.0.label>
-  <TM_Psionic.degreeDatas.0.description>[PAWN_nameDef](은)는 생각으로 원시 에너지를 활용할 수 있는 사이오닉 사용자다. [PAWN_pronoun] 사이오닉 에너지를 투사 할 수 있지만 [PAWN_possessive] 몸의 확장 및 기능 보강으로 적용하는 것이 더 쉽고 효율적이라는 것을 알게되었습니다. 이런 이유로 [PAWN_pronoun] 거추장스러운 무기가 없는 것을 더 선호합니다.\n \n [PAWN_nameDef](은)는 사이오닉 파워를 개발한 이후로 [PAWN_objective] [PAWN_possessive] 어떤 작업이든 수행 할 수 있고 다른 사람들의 질투없이 할 수 있기 때문에 덜 사교적이게 되었습니다.</TM_Psionic.degreeDatas.0.description>
+  <TM_Psionic.degreeDatas.0.description>[PAWN_nameDef](은)는 생각으로 원시 에너지를 활용할 수 있는 사이오닉 사용자입니다. [PAWN_pronoun]는 사이오닉 에너지를 투사 할 수 있지만 [PAWN_possessive] 몸의 확장 및 기능 보강으로 적용하는 것이 더 쉽고 효율적이라는 것을 알게되었습니다. 이런 이유로 [PAWN_pronoun] 거추장스러운 무기가 없는 것을 더 선호합니다.\n\n[PAWN_nameDef](은)는 사이오닉 파워를 개발한 이후로 [PAWN_objective] [PAWN_possessive] 어떤 작업이든 수행 할 수 있고 다른 사람들의 질투없이 할 수 있기 때문에 덜 사교적이게 되었습니다.</TM_Psionic.degreeDatas.0.description>
   <DeathKnight.degreeDatas.0.label>죽음의 기사</DeathKnight.degreeDatas.0.label>
-  <DeathKnight.degreeDatas.0.description>[PAWN_nameDef]는 죽음의 전조로써, 끊임없이 다가오고 피할 수 없는 죽음과 부패의 대표자인 죽음의 기사입니다. [PAWN_possessive]의 엄숙한 태도는 대부분의 정착민들을 불편하게 만들고, 심지어 [PAWN_possessive]의 의견을 수용하는 사람도 거의 없습니다.</DeathKnight.degreeDatas.0.description>
+  <DeathKnight.degreeDatas.0.description>[PAWN_nameDef](은)는 죽음의 전조로써, 끊임없이 다가오고 피할 수 없는 죽음과 부패의 대표자인 죽음의 기사입니다. [PAWN_possessive] 엄숙한 태도는 대부분의 정착민들을 불편하게 만들고, 심지어 [PAWN_possessive] 의견을 수용하는 사람도 거의 없습니다.</DeathKnight.degreeDatas.0.description>
   <TM_Monk.degreeDatas.0.label>승려</TM_Monk.degreeDatas.0.label>
   <TM_Monk.degreeDatas.0.description>[PAWN_nameDef](은)는 승려로, 우주의 모든 생명체를 연결하는 에너지인 '기'를 단련하는데 전념합니다. [PAWN_pronoun]는 기를 활용해 마법적인 효과를 만들어내며, 자신의 물리적 능력을 초과할 수 있도록 만들 수 있습니다. [PAWN_nameDef](은)는 또한 다른 사람의 기를 교란시켜 주문과 능력에 영향을 끼칠 수 있습니다.</TM_Monk.degreeDatas.0.description>
 

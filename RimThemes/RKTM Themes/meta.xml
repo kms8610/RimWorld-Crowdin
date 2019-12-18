@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <RimThemes>
-  <customFontTinyDefault>BaskinrobbinsB</customFontTinyDefault>
+  <customFontTinyDefault>JejuGothicM</customFontTinyDefault>
   <customFontSizeTinyDefault>12</customFontSizeTinyDefault>
-  <customFontSmallDefault>BaskinrobbinsB</customFontSmallDefault>
-  <customFontMediumDefault>BaskinrobbinsB</customFontMediumDefault>
+  <customFontSmallDefault>JejuGothicM</customFontSmallDefault>
+  <customFontMediumDefault>JejuGothicM</customFontMediumDefault>
   <customFontSizeSmallDefault>14</customFontSizeSmallDefault>
   <customFontSizeMediumDefault>18</customFontSizeMediumDefault>
 
@@ -14,5 +14,14 @@
   <dialogStacking>true</dialogStacking>
   
   <tapestryScaleMode>ScaleAndCrop</tapestryScaleMode>
+
+  <!-- 참고 : 내장된 폰트 목록
+
+  - GoyangL (고양체)
+  - JejuGothicM (제주고딕체)
+  - NanumGothicB (나눔고딕체)
+  - NanumGothicEB
+  - SeoulNamsanB (서울남산체)
+  - SeoulNamsanEB -->
 
 </RimThemes>

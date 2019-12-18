@@ -5,7 +5,7 @@
   <MechaTentacleME.label>기계 촉수</MechaTentacleME.label>
   <MechaTentacleME.description>망가진 크라켄 메카노이드의 잔해에서 꺼내진 기계 촉수로 대체된 팔입니다. 적당한 조작능력을 가지고 있지만, 근접 무기로 사용하기에는 무리가 있습니다.</MechaTentacleME.description>
   <Mechanoid_Vespa.label>베스파</Mechanoid_Vespa.label>
-  <Mechanoid_Vespa.description>아름다운 형태와 더불어 믿을 수 없을 만큼 신속한 움직임을 보이는 메카노이드 입니다. 몸의 절반 이상이 순금으로 뒤덮혀 있습니다.\n다른 종류의 메카노이드들과는 달리 베스파는 가능한한 덮개를 사용하려는 경향이 있습니다.</Mechanoid_Vespa.description>
+  <Mechanoid_Vespa.description>아름다운 형태와 더불어 믿을 수 없을 만큼 신속한 움직임을 보이는 메카노이드 입니다. 몸의 절반 이상이 순금으로 뒤덮혀 있습니다.\n다른 종류의 메카노이드들과는 달리 베스파는 가능한한 엄폐물을 사용하려는 경향이 있습니다.</Mechanoid_Vespa.description>
   <Mechanoid_Vespa.tools.0.label>왼쪽 주먹</Mechanoid_Vespa.tools.0.label>
   <Mechanoid_Vespa.tools.1.label>오른쪽 주먹</Mechanoid_Vespa.tools.1.label>
   <Mechanoid_Vespa_Corpse.label>베스파 잔해</Mechanoid_Vespa_Corpse.label>
@@ -48,8 +48,8 @@
   <!--1113137502_190707_Genetic Rim-->
   <GR_AgePills.label>연령 약</GR_AgePills.label>
   <GR_AgePills.description>이 캡슐들은 화학 물질과 나노 기계의 혼합물로 채워져있는데, 이것은 DNA를 조작하여 유기체의 나이를 바꿀 수 있습니다. 알약을 먹을 때 마다 대략 1년 씩 나이가 듭니다. 동물들이 빨리 성숙할 수 있도록 하는데 유용합니다.\n\n일단 섭취되면, 동물은 적어도 하루 동안 심하게 현기증을 느낄 것이고, 그 기간 동안 투여된 추가적인 알약은 효과가 없을 것입니다.\n\n아, 그리고 개척자들도 물론 먹을 수 있습니다...</GR_AgePills.description>
-  <GR_AgePills.ingestible.ingestCommandString>투여 {0}</GR_AgePills.ingestible.ingestCommandString>
-  <GR_AgePills.ingestible.ingestReportString>투여 {0}.</GR_AgePills.ingestible.ingestReportString>
+  <GR_AgePills.ingestible.ingestCommandString>{0} 투여</GR_AgePills.ingestible.ingestCommandString>
+  <GR_AgePills.ingestible.ingestReportString>{0} 투여 중.</GR_AgePills.ingestible.ingestReportString>
   <GR_Proj_ThrownSac.label>던진 주머니</GR_Proj_ThrownSac.label>
   <GR_PlasmaBurst.label>플라즈마 버스터</GR_PlasmaBurst.label>
   <GR_SmokeBomb.label>연막 포탄</GR_SmokeBomb.label>

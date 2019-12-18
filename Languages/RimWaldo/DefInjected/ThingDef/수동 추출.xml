@@ -25,4 +25,9 @@
   <RB_SpunHyperweaveSilk.label>초경조직 명주</RB_SpunHyperweaveSilk.label>
   <RB_SpunHyperweaveSilk.description>블리자리스크로부터 뽑아낸 명주실입니다. 베틀에서 초경조직으로 만들 수 있습니다.</RB_SpunHyperweaveSilk.description>
 
+  <!-- Dubs Bad Hygiene - 836308268 -->
+  <DBH_WaterBottle.label>물</DBH_WaterBottle.label>
+  <DBH_WaterBottle.description>물병입니다.</DBH_WaterBottle.description>
+  <DBH_WaterBottle.ingestible.ingestReportString>{0} 마시는 중.</DBH_WaterBottle.ingestible.ingestReportString>
+
 </LanguageData>

@@ -120,7 +120,7 @@
   <RCT_PainThreshold.degreeDatas.1.description>[PAWN_nameDef](은)는 통증에 대해 익숙한 편입니다.</RCT_PainThreshold.degreeDatas.1.description>
   <RCT_Eyesight.degreeDatas.1.description>[PAWN_nameDef](은)는 예리한 시선을 가지고 있으며, 목표물을 빠르게 발견할 수 있습니다.</RCT_Eyesight.degreeDatas.1.description>
   <RCT_Medic.degreeDatas.2.description>[PAWN_nameDef](은)는 의료 업무에 대해서 완벽한 적성을 가지고 있습니다. [PAWN_pronoun]의 꾸준하게 숙련된 손과 머릿 속 영감에 대해서 그에게 치료받는 환자는 전혀 걱정할 필요가 없을 것입니다.</RCT_Medic.degreeDatas.2.description>
-  <RCT_Gourmet.degreeDatas.0.description>[PAWN_nameDef](은)는 요리에 대해 지대한 열정을 가지고 있씁니다. [PAWN_pronoun]가 한 요리는 아주 맛있지만, 그는 되도록이면 '만든 그 즉시'먹도록 하는 경향이 있습니다.</RCT_Gourmet.degreeDatas.0.description>
+  <RCT_Gourmet.degreeDatas.0.description>[PAWN_nameDef](은)는 요리에 대해 지대한 열정을 가지고 있습니다. [PAWN_pronoun]가 한 요리는 아주 맛있지만, 되도록이면 '만든 즉시' 먹는 경향이 있습니다.</RCT_Gourmet.degreeDatas.0.description>
   <RCT_PainThreshold.degreeDatas.0.description>[PAWN_nameDef](은)는 통증에 대해 매우 익숙합니다. [PAWN_pronoun]는 통증에 의해 드러누울 일이 없습니다.</RCT_PainThreshold.degreeDatas.0.description>
   <RCT_Diplomat.degreeDatas.2.description>[PAWN_nameDef](은)는 단어를 활용함에 있어 뛰어난 능력을 가지고 있으며, 언제나 긴장된 상황을 쉽게 가라앉힙니다. [PAWN_pronoun]는 며칠동안이나 말할 수도 있으며, 사람들은 여전히 그 말을 듣고있을 것입니다.</RCT_Diplomat.degreeDatas.2.description>
   <RCT_Dunce.degreeDatas.0.description>[PAWN_nameDef](은)는 열등생입니다. 남들보다 느리게 학습합니다.</RCT_Dunce.degreeDatas.0.description>

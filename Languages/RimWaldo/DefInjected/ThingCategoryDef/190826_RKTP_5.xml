@@ -147,10 +147,6 @@
   <RNApparel_Handwear.label>장갑</RNApparel_Handwear.label>
   <RNApparel_Footwear.label>신발</RNApparel_Footwear.label>
 
-  <!--836308268_190824_Dubs Bad Hygiene-->
-  <Waste.label>하수</Waste.label>
-  <BuildingsHygiene.label>위생</BuildingsHygiene.label>
-
   <!--1321849735_190826_Rimefeller-->
   <Synthylene.label>신틸렌</Synthylene.label>
   <FiberComposite.label>신타마이드</FiberComposite.label>

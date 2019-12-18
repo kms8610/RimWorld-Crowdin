@@ -2761,7 +2761,7 @@
   <RC_CookDriedMeat.label>육포 만들기</RC_CookDriedMeat.label>
   <RC_CookDriedMeatBulk.label>육포 5개 만들기</RC_CookDriedMeatBulk.label>
   <ProcessGrain.label>곡물로 밀가루 만들기</ProcessGrain.label>
-  <ProcessGrainBulk.label>곡물로 밀가루 10개 만들기</ProcessGrainBulk.label>
+  <ProcessGrainBulk.label>곡물로 밀가루 만들기 (x5)</ProcessGrainBulk.label>
   <RC_CookFruitPreserves.label>과일 보존식량 만들기</RC_CookFruitPreserves.label>
   <RC_CookFruitPreservesBulk.label>과일 보존식량 10개 만들기</RC_CookFruitPreservesBulk.label>
   <MakeHardtack.label>건빵 만들기</MakeHardtack.label>
@@ -4048,8 +4048,8 @@
   <Make_SF_HazardOperationsArmorHelmet.label>특무대 방탄모 만들기</Make_SF_HazardOperationsArmorHelmet.label>
   <Make_SF_HazardOperationsArmorHelmet.description>특무대 방탄모를 만듭니다.</Make_SF_HazardOperationsArmorHelmet.description>
   <Make_SF_PoweredAssaultArmor.label>돌격대 강화갑옷 만들기</Make_SF_PoweredAssaultArmor.label>
-  <Make_SF_PoweredAssaultArmorHelmet.label>돌격병 강화갑옷 방탄모 만들기</Make_SF_PoweredAssaultArmorHelmet.label>
-  <Make_SF_PoweredAssaultArmorHelmet.description>돌격병 강화갑옷 방탄모를 만듭니다.</Make_SF_PoweredAssaultArmorHelmet.description>
+  <Make_SF_PoweredAssaultArmorHelmet.label>돌격대 강화갑옷 방탄모 만들기</Make_SF_PoweredAssaultArmorHelmet.label>
+  <Make_SF_PoweredAssaultArmorHelmet.description>돌격대 강화갑옷 방탄모를 만듭니다.</Make_SF_PoweredAssaultArmorHelmet.description>
   <Make_SF_PoweredAssaultArmor.description>돌격대 강화갑옷을 만듭니다.</Make_SF_PoweredAssaultArmor.description>
   <Make_SF_ReconPowerArmor.label>수색대 강화갑옷 만들기</Make_SF_ReconPowerArmor.label>
   <Make_SF_ReconPowerArmorHelmet.label>수색대 강화갑옷 방탄모 만들기</Make_SF_ReconPowerArmorHelmet.label>
@@ -4081,7 +4081,7 @@
   <Make_SF_GrenadierPowerArmor.jobString>근위대 강화갑옷 만드는 중.</Make_SF_GrenadierPowerArmor.jobString>
   <Make_SF_HazardOperationsArmor.jobString>특무대 강화갑옷 만드는 중.</Make_SF_HazardOperationsArmor.jobString>
   <Make_SF_HazardOperationsArmorHelmet.jobString>특무대 방탄모 만드는 중.</Make_SF_HazardOperationsArmorHelmet.jobString>
-  <Make_SF_PoweredAssaultArmorHelmet.jobString>돌격병 강화갑옷 방탄모 만드는 중.</Make_SF_PoweredAssaultArmorHelmet.jobString>
+  <Make_SF_PoweredAssaultArmorHelmet.jobString>돌격대 강화갑옷 방탄모 만드는 중.</Make_SF_PoweredAssaultArmorHelmet.jobString>
   <Make_SF_PoweredAssaultArmor.jobString>돌격대 강화갑옷 만드는 중.</Make_SF_PoweredAssaultArmor.jobString>
   <Make_SF_ReconPowerArmorHelmet.jobString>수색대 강화갑옷 방탄모 만드는 중.</Make_SF_ReconPowerArmorHelmet.jobString>
   <Make_SF_ReconPowerArmor.jobString>수색대 강화갑옷 만드는 중.</Make_SF_ReconPowerArmor.jobString>
@@ -5774,20 +5774,6 @@
   <OfferingOfMeals_Sizable.jobString>제물을 바침.</OfferingOfMeals_Sizable.jobString>
   <OfferingOfMeals_Worthy.jobString>제물을 바침.</OfferingOfMeals_Worthy.jobString>
   <OfferingOfMeals_Impressive.jobString>제물을 바침.</OfferingOfMeals_Impressive.jobString>
-
-  <!--826153738_181025_Glass+Light-->
-  <MakeCircularGlass.label>원형 유리 만들기</MakeCircularGlass.label>
-  <MakeGlass.label>유리 만들기</MakeGlass.label>
-  <MakeMolotov.label>화염병 만들기</MakeMolotov.label>
-  <MakeReinforcedGlass.label>강화 유리 만들기</MakeReinforcedGlass.label>
-  <MakeMolotov.description>적들을 불태워 재로 만들 무기를 만듭니다.</MakeMolotov.description>
-  <MakeCircularGlass.jobString>원형 유리 만드는 중.</MakeCircularGlass.jobString>
-  <MakeGlass.jobString>유리 만드는 중.</MakeGlass.jobString>
-  <MakeMolotov.jobString>화염병 만드는 중.</MakeMolotov.jobString>
-  <MakeReinforcedGlass.jobString>강화 유리 만드는 중.</MakeReinforcedGlass.jobString>
-  <MakeCircularGlass.description>바위 덩어리를 원형 유리로 가공합니다.</MakeCircularGlass.description>
-  <MakeGlass.description>바위 덩어리를 유리로 가공합니다.</MakeGlass.description>
-  <MakeReinforcedGlass.description>유리를 강화 유리로 가공합니다.</MakeReinforcedGlass.description>
 
   <!--83233353_190626_Dubs Rimkit-->
   <RepairComponent.description>망가진 부품을 수리합니다.</RepairComponent.description>

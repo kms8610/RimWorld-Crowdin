@@ -17,14 +17,14 @@
   <PFBighorner_Leather.label>빅호너 가죽</PFBighorner_Leather.label>
   <PFBighorner_Leather.description>빅호너의 가죽입니다.</PFBighorner_Leather.description>
   <PFBighorner.race.meatLabel>빅호너의 고기</PFBighorner.race.meatLabel>
-  <PFGiantGecko.label>자이언트 겍코</PFGiantGecko.label>
+  <PFGiantGecko.label>자이언트 게코</PFGiantGecko.label>
   <PFGiantGecko.description>강하지는 않지만 조용하고 빠르게 움직이며 쉽게 죽일 수 있는 커다란 돌연변이 도마뱀입니다.</PFGiantGecko.description>
   <PFGiantGecko.tools.0.label>왼쪽 발톱</PFGiantGecko.tools.0.label>
   <PFGiantGecko.tools.1.label>오른쪽 발톱</PFGiantGecko.tools.1.label>
   <PFGiantGecko.tools.3.label>머리</PFGiantGecko.tools.3.label>
-  <PFGiantGecko_Leather.label>자이언트 겍코 가죽</PFGiantGecko_Leather.label>
-  <PFGiantGecko_Leather.description>자이언트 겍코의 가죽입니다.</PFGiantGecko_Leather.description>
-  <PFGiantGecko.race.meatLabel>자이언트 겍코의 고기</PFGiantGecko.race.meatLabel>
+  <PFGiantGecko_Leather.label>자이언트 게코 가죽</PFGiantGecko_Leather.label>
+  <PFGiantGecko_Leather.description>자이언트 게코의 가죽입니다.</PFGiantGecko_Leather.description>
+  <PFGiantGecko.race.meatLabel>자이언트 게코의 고기</PFGiantGecko.race.meatLabel>
   <PFRadscorpion.label>방사능 전갈</PFRadscorpion.label>
   <PFRadscorpion.description>크기에 비해 놀랍게도 민첩하며, 거대한 집게로 사람들을 찢어버릴 수 있는 돌연변이 거대한 전갈입니다.</PFRadscorpion.description>
   <PFRadscorpion.tools.0.label>독침</PFRadscorpion.tools.0.label>
@@ -42,7 +42,6 @@
   <PFMoleRat_Leather.label>땅두더지 가죽</PFMoleRat_Leather.label>
   <PFMoleRat_Leather.description>땅두더지의 가죽입니다.</PFMoleRat_Leather.description>
   <PFMoleRat.race.meatLabel>땅두더지의 고기</PFMoleRat.race.meatLabel>
-
   <PFBuffout.label>버프아웃</PFBuffout.label>
   <PFBuffout.description>육체적인 작업을 도와주는 전쟁전의 고급 스테로이드로, 꽤나 중독성이 있습니다.</PFBuffout.description>
   <PFBuffout.ingestible.ingestCommandString>{0} 마시기</PFBuffout.ingestible.ingestCommandString>
@@ -177,8 +176,8 @@
   <PFXanderRootItem.description>가벼운 치유력 성분을 가진 거대한 순무와 닮은 뿌리입니다. 브록 꽃과 같이 혼합하여 생약이나 스팀팩을 만들 수 있습니다.</PFXanderRootItem.description>
   <PFBrocFlowerItem.label>브록 꽃</PFBrocFlowerItem.label>
   <PFBrocFlowerItem.description>약간의 의약 성분을 가진 오렌지색의 작은 꽃입니다. 젠더 뿌리와 같이 혼합하여 생약이나 스팀팩을 만들 수 있습니다.</PFBrocFlowerItem.description>
-  <PFGiantGeckoEgg.label>자이언트 겍코 알</PFGiantGeckoEgg.label>
-  <PFGiantGeckoEgg.description>수정된 자이언트 겍코 알이며 조건만 잘 맞으면 새끼가 태어날 수도 있습니다. 날것으로 먹을 수도 있지만 요리해 먹으면 더 좋습니다.</PFGiantGeckoEgg.description>
+  <PFGiantGeckoEgg.label>자이언트 게코 알</PFGiantGeckoEgg.label>
+  <PFGiantGeckoEgg.description>수정된 자이언트 게코 알이며 조건만 잘 맞으면 새끼가 태어날 수도 있습니다. 날것으로 먹을 수도 있지만 요리해 먹으면 더 좋습니다.</PFGiantGeckoEgg.description>
   <Apparel_VaultJumpsuit.label>볼트 점프슈트</Apparel_VaultJumpsuit.label>
   <Apparel_VaultJumpsuit.description>볼트 거주민이 착용하는 볼트-텍의 점프슈트 입니다.</Apparel_VaultJumpsuit.description>
   <Apparel_ArmVaultJumpsuit.label>강화된 볼트 점프슈트</Apparel_ArmVaultJumpsuit.label>

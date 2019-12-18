@@ -3557,11 +3557,6 @@
   <VAbyss_CookHumandimsum.description>고기를 많이 사용하여 만든 럭셔리한 요리입니다.</VAbyss_CookHumandimsum.description>
   <VAbyss_CookHumandimsum.jobString>인육 딤섬 만들기.</VAbyss_CookHumandimsum.jobString>
 
-  <!--836308268_190824_Dubs Bad Hygiene-->
-  <Make_ChemfuelFromFecalSludge.label>오물로 화학연료 생산</Make_ChemfuelFromFecalSludge.label>
-  <Make_ChemfuelFromFecalSludge.description>오물로부터 화학연료 무더기를 생산합니다.</Make_ChemfuelFromFecalSludge.description>
-  <Make_ChemfuelFromFecalSludge.jobString>오물로부터 화학연료를 생산 중.</Make_ChemfuelFromFecalSludge.jobString>
-
   <!--1321849735_190826_Rimefeller-->
   <Make_Shell_Napalm.label>네이팜 탄 제작</Make_Shell_Napalm.label>
   <Make_Shell_Napalm.description>네이팜 탄을 제작합니다.</Make_Shell_Napalm.description>

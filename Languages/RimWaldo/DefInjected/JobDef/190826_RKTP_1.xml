@@ -341,9 +341,6 @@
   <CastAbilitySelf.reportString>능력 사용</CastAbilitySelf.reportString>
   <Cults_WriteTheBook.reportString>착란에 빠짐.</Cults_WriteTheBook.reportString>
 
-  <!--826153738_181025_Glass+Light-->
-  <WatchGlassTelevision.reportString>영화를 보는 중.</WatchGlassTelevision.reportString>
-
   <!--83233353_190626_Dubs Rimkit-->
   <BandageOthers.reportString>TargetA에게 붕대 감아주는 중.</BandageOthers.reportString>
   <Bandage.reportString>붕대감는 중.</Bandage.reportString>

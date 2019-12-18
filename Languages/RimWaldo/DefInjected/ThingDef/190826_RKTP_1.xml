@@ -945,34 +945,14 @@
   <!--1180721235_190627_[KV] RimFridge-->
   <RimFridge_Refrigerator.label>냉장고</RimFridge_Refrigerator.label>
   <RimFridge_Refrigerator.description>부패할 수 있는 것들이 이 안에 보관되면 썩지 않을 것입니다.</RimFridge_Refrigerator.description>
-  <RimFridge_Refrigerator_Blueprint.label>냉장고 (청사진)</RimFridge_Refrigerator_Blueprint.label>
-  <RimFridge_Refrigerator_Blueprint_Install.label>냉장고 (청사진)</RimFridge_Refrigerator_Blueprint_Install.label>
-  <RimFridge_Refrigerator_Frame.label>냉장고 (건설 중)</RimFridge_Refrigerator_Frame.label>
-  <RimFridge_Refrigerator_Frame.description>부패할 수 있는 것들이 이 안에 보관되면 썩지 않을 것입니다.</RimFridge_Refrigerator_Frame.description>
   <RimFridge_SingleRefrigerator.label>한칸 냉장고</RimFridge_SingleRefrigerator.label>
   <RimFridge_SingleRefrigerator.description>부패할 수 있는 것들이 이 안에 보관되면 썩지 않을 것입니다.</RimFridge_SingleRefrigerator.description>
-  <RimFridge_SingleRefrigerator_Blueprint.label>한칸 냉장고 (청사진)</RimFridge_SingleRefrigerator_Blueprint.label>
-  <RimFridge_SingleRefrigerator_Blueprint_Install.label>한칸 냉장고 (청사진)</RimFridge_SingleRefrigerator_Blueprint_Install.label>
-  <RimFridge_SingleRefrigerator_Frame.label>한칸 냉장고 (건설 중)</RimFridge_SingleRefrigerator_Frame.label>
-  <RimFridge_SingleRefrigerator_Frame.description>부패할 수 있는 것들이 이 안에 보관되면 썩지 않을 것입니다.</RimFridge_SingleRefrigerator_Frame.description>
   <RimFridge_QuadRefrigerator.label>네칸 냉장고</RimFridge_QuadRefrigerator.label>
   <RimFridge_QuadRefrigerator.description>부패할 수 있는 것들이 이 안에 보관되면 썩지 않을 것입니다.</RimFridge_QuadRefrigerator.description>
-  <RimFridge_QuadRefrigerator_Blueprint.label>네칸 냉장고 (청사진)</RimFridge_QuadRefrigerator_Blueprint.label>
-  <RimFridge_QuadRefrigerator_Blueprint_Install.label>네칸 냉장고 (청사진)</RimFridge_QuadRefrigerator_Blueprint_Install.label>
-  <RimFridge_QuadRefrigerator_Frame.label>네칸 냉장고 (건설 중)</RimFridge_QuadRefrigerator_Frame.label>
-  <RimFridge_QuadRefrigerator_Frame.description>부패할 수 있는 것들이 이 안에 보관되면 썩지 않을 것입니다.</RimFridge_QuadRefrigerator_Frame.description>
   <RimFridge_WallRefrigerator.label>내벽형 냉장고</RimFridge_WallRefrigerator.label>
   <RimFridge_WallRefrigerator.description>부패할 수 있는 것들이 이 안에 보관되면 썩지 않을 것입니다.</RimFridge_WallRefrigerator.description>
-  <RimFridge_WallRefrigerator_Blueprint.label>내벽형 냉장고 (청사진)</RimFridge_WallRefrigerator_Blueprint.label>
-  <RimFridge_WallRefrigerator_Blueprint_Install.label>내벽형 냉장고 (청사진)</RimFridge_WallRefrigerator_Blueprint_Install.label>
-  <RimFridge_WallRefrigerator_Frame.label>내벽형 냉장고 (건설 중)</RimFridge_WallRefrigerator_Frame.label>
-  <RimFridge_WallRefrigerator_Frame.description>부패할 수 있는 것들이 이 안에 보관되면 썩지 않을 것입니다.</RimFridge_WallRefrigerator_Frame.description>
   <RimFridge_SingleWallRefrigerator.label>내벽형 한칸 냉장고</RimFridge_SingleWallRefrigerator.label>
   <RimFridge_SingleWallRefrigerator.description>부패할 수 있는 것들이 이 안에 보관되면 썩지 않을 것입니다.</RimFridge_SingleWallRefrigerator.description>
-  <RimFridge_SingleWallRefrigerator_Blueprint.label>내벽형 한칸 냉장고 (청사진)</RimFridge_SingleWallRefrigerator_Blueprint.label>
-  <RimFridge_SingleWallRefrigerator_Blueprint_Install.label>내벽형 한칸 냉장고 (청사진)</RimFridge_SingleWallRefrigerator_Blueprint_Install.label>
-  <RimFridge_SingleWallRefrigerator_Frame.label>내벽형 한칸 냉장고 (건설 중)</RimFridge_SingleWallRefrigerator_Frame.label>
-  <RimFridge_SingleWallRefrigerator_Frame.description>부패할 수 있는 것들이 이 안에 보관되면 썩지 않을 것입니다.</RimFridge_SingleWallRefrigerator_Frame.description>
 
   <!--1185265132_190818_VGP Vegetable Garden-->
   <PlantPlumeria.description>아름다운 색깔이 섞인 무성한 꽃이 피어납니다.</PlantPlumeria.description>
@@ -1118,8 +1098,8 @@
   <RawRedLentil.description>단백질이 풍부한 렌틸콩. 조리할때 육류대신 사용할 수 있습니다.</RawRedLentil.description>
   <Rawmushroom.description>단백질이 풍부한 버섯입니다. 그대로 먹어도 맛있습니다.</Rawmushroom.description>
   <Rawsnowbeet.description>사탕무 입니다.</Rawsnowbeet.description>
-  <RawRedLentil.label>빨강 렌틸콩</RawRedLentil.label>
-  <Plant_redlentil.label>빨강 렌즈콩</Plant_redlentil.label>
+  <RawRedLentil.label>빨간 렌틸콩</RawRedLentil.label>
+  <Plant_redlentil.label>빨간 렌틸콩</Plant_redlentil.label>
   <Silage.label>사일리지</Silage.label>
   <Rawsnowbeet.label>사탕무</Rawsnowbeet.label>
   <Plant_Snowbeet.label>사탕무</Plant_Snowbeet.label>
@@ -6275,7 +6255,7 @@
   <RawGrapes.description>포도 모듬입니다. 생으로 먹을 수 있지만 와인으로 만들어 먹는게 가장 좋습니다.</RawGrapes.description>
   <RawBarley.label>보리</RawBarley.label>
   <RC_PlantBarley.label>보리</RC_PlantBarley.label>
-  <PlantBeeTree.label>벌집이 있는 나무</PlantBeeTree.label>
+  <PlantBeeTree.label>수유나무</PlantBeeTree.label>
   <RawCactusFruit.label>선인장 열매</RawCactusFruit.label>
   <MealCandy.label>사탕</MealCandy.label>
   <CannedFruit.label>과일 통조림</CannedFruit.label>
@@ -8697,7 +8677,7 @@
   <Turret_Mk19MGLs.comps.CompRefuelable.outOfFuelMessage>재장전 필요</Turret_Mk19MGLs.comps.CompRefuelable.outOfFuelMessage>
 
   <!--1695609511_190526_Rimworld Spartan Foundry-->
-  <SF_DiplomatPowerArmor.description>무거운 강화갑옷 한 벌입니다. 돌격병 강화갑옷 프로그램과 함께 제작된 외교관용 갑옷은 이전의 강화 외골격을 급격히 재설계한 것입니다. 부유한 번화계 두뇌집단의 발명품인 이 강력한 갑옷은 번방계 야만족들로부터 문명화된 사회를 만들겠다는 비전을 품고 있습니다.</SF_DiplomatPowerArmor.description>
+  <SF_DiplomatPowerArmor.description>무거운 강화갑옷 한 벌입니다. 돌격대 강화갑옷 프로그램과 함께 제작된 외교관용 갑옷은 이전의 강화 외골격을 급격히 재설계한 것입니다. 부유한 번화계 두뇌집단의 발명품인 이 강력한 갑옷은 번방계 야만족들로부터 문명화된 사회를 만들겠다는 비전을 품고 있습니다.</SF_DiplomatPowerArmor.description>
   <SF_CommandoArmor.description>무거운 강화갑옷 한 벌입니다. 갑옷 착용자에게 방어 벨트의 완벽한 기능을 제공하기 위해 동기식 최적화를 사용합니다. 그 효과로 근접전에서 착용자의 생존성을 향상시킵니다. 번화계 특공대에서는 광학 비디오의 향상된 지원 기능 때문에 무기탑재 여부를 고려하지 않고 이 갑옷을 채택했습니다.</SF_CommandoArmor.description>
   <SF_GrenadierPowerArmor.description>무거운 강화갑옷 한 벌입니다. 강화갑옷의 첫 번째 시험작 디자인을 바탕으로 격렬한 충격을 견디도록 제작되었습니다. 주로 번화계의 중무장 대원들이 입고 있는 이 갑옷은 사용자들에게 폭발 장치로부터 추가적인 보호를 제공합니다.</SF_GrenadierPowerArmor.description>
   <SF_DefenderPowerArmor.description>무거운 강화갑옷 한 벌입니다. 수호대 강화갑옷은 해병 갑옷으로 쓰이는 가벼운 장갑판이 사용됩니다. 뿐만 아니라 다양한 상황에서 착용자를 보조하는 인공지능을 갖추고 있습니다. 다양한 전투 시나리오에서 작동하도록 설계된 가슴의 부품은 최대한 자유롭게 움직일 수 있도록 보조하는 동시에 추가적인 보호 기능을 제공하도록 설계되었습니다.</SF_DefenderPowerArmor.description>
@@ -8723,7 +8703,7 @@
   <SF_HazardOperationsArmor.label>특무대 강화갑옷</SF_HazardOperationsArmor.label>
   <SF_HazardOperationsArmorHelmet.label>특무대 방탄모</SF_HazardOperationsArmorHelmet.label>
   <SF_PoweredAssaultArmor.label>돌격대 강화갑옷</SF_PoweredAssaultArmor.label>
-  <SF_PoweredAssaultArmorHelmet.label>돌격병 강화갑옷 방탄모</SF_PoweredAssaultArmorHelmet.label>
+  <SF_PoweredAssaultArmorHelmet.label>돌격대 강화갑옷 방탄모</SF_PoweredAssaultArmorHelmet.label>
   <SF_ReconPowerArmor.label>수색대 강화갑옷</SF_ReconPowerArmor.label>
   <SF_ReconPowerArmorHelmet.label>수색대 강화갑옷 방탄모</SF_ReconPowerArmorHelmet.label>
   <SF_SamuraiPowerArmor.label>사무라이 강화갑옷</SF_SamuraiPowerArmor.label>
@@ -8732,7 +8712,7 @@
   <SF_ScoutPowerArmorHelmet.label>정찰대 강화갑옷 방탄모</SF_ScoutPowerArmorHelmet.label>
   <SF_ShockTrooperArmor.label>돌격대 강화갑옷</SF_ShockTrooperArmor.label>
   <SF_ShockTrooperArmorHelmet.label>돌격대 강화갑옷 방탄모</SF_ShockTrooperArmorHelmet.label>
-  <SF_PoweredAssaultArmor.description>2548년에 처음 생산된 최초의 강화갑옷을 돌격대 용으로 변형시킨 이 갑옷은 변방계 원정에서 수집된 피드백을 통합하여 번화계 시설에서 개발 및 시험되었습니다. 돌격대 강화갑옷으로 변형시킨 목적은 근접전에서 생존성을 향상시키기 위한 것입니다.\n</SF_PoweredAssaultArmor.description>
+  <SF_PoweredAssaultArmor.description>2548년에 처음 생산된 최초의 강화갑옷을 돌격대용으로 변형시킨 이 갑옷은 변경계 원정에서 수집된 조사결과를 통합하여 번화계 시설에서 개발 및 시험 되었습니다. 돌격대 강화갑옷으로 변형시킨 목적은 근접전에서 생존확률을 향상하기 위한 것입니다.</SF_PoweredAssaultArmor.description>
   <SF_CommandoArmorHelmet.description>특공대 방탄모의 목표물 탐지 및 추적 시스템은 여러 번화계 우주선 무기 시스템을 이용해 개조되었습니다. 독립적인 카메라의 자료는 특히 움직이는 동안 착용자의 목표 인식과 사격 효과를 향상시킵니다.</SF_CommandoArmorHelmet.description>
   <SF_DefenderPowerArmorHelmet.description>수호대 강화갑옷 방탄모는 착용자에게 인체 해부학의 기술지식을 제공하여 착용자가 전투 중에 정밀하고 안전하게 수술을 할 수 있도록 하는 변방계의 귀중한 자산입니다.</SF_DefenderPowerArmorHelmet.description>
   <SF_DiplomatPowerArmorHelmet.description>외교관 방탄모는 여러 번역 모듈 및 사회적 상황을 평가하고 착용자에게 현재 대화에 대한 몇 가지 해결책을 제공하는 인공지능 핵을 사용합니다.</SF_DiplomatPowerArmorHelmet.description>
@@ -8989,8 +8969,8 @@
   <Seat_Bench_Blueprint.label>긴 의자 (청사진)</Seat_Bench_Blueprint.label>
   <Seat_Bench_Blueprint_Install.label>긴 의자 (청사진)</Seat_Bench_Blueprint_Install.label>
   <Seat_Bench_Frame.label>긴 의자 (건설 중)</Seat_Bench_Frame.label>
-  <Stone_Campfire.description>전열기와 횃불의 중간 정도 열기를 내뿜습니다. 조리에도 쓸 수 있습니다. 일반 모닥불보다 오래 갑니다. 모든 열 자원이 그렇듯, 돌 주면 모닥불도 난방에 이용하려면 사방이 닫힌 실내에 설치해야 합니다. 연료를 채우면 불을 다시 지필 수 있습니다.</Stone_Campfire.description>
-  <Stone_Campfire_Frame.description>전열기와 횃불의 중간 정도 열기를 내뿜습니다. 조리에도 쓸 수 있습니다. 일반 모닥불보다 오래 갑니다. 모든 열 자원이 그렇듯, 돌 주면 모닥불도 난방에 이용하려면 사방이 닫힌 실내에 설치해야 합니다. 연료를 채우면 불을 다시 지필 수 있습니다.</Stone_Campfire_Frame.description>
+  <Stone_Campfire.description>전열기와 횃불의 중간 정도 열기를 내뿜습니다. 조리에도 쓸 수 있습니다. 일반 모닥불보다 오래 갑니다. 모든 열 자원이 그렇듯, 돌 주변 모닥불도 난방에 이용하려면 사방이 닫힌 실내에 설치해야 합니다. 연료를 채우면 불을 다시 지필 수 있습니다.</Stone_Campfire.description>
+  <Stone_Campfire_Frame.description>전열기와 횃불의 중간 정도 열기를 내뿜습니다. 조리에도 쓸 수 있습니다. 일반 모닥불보다 오래 갑니다. 모든 열 자원이 그렇듯, 돌 주변 모닥불도 난방에 이용하려면 사방이 닫힌 실내에 설치해야 합니다. 연료를 채우면 불을 다시 지필 수 있습니다.</Stone_Campfire_Frame.description>
   <Table_Counter.label>식사대</Table_Counter.label>
   <Table_Counter_Blueprint.label>식사대 (청사진)</Table_Counter_Blueprint.label>
   <Table_Counter_Blueprint_Install.label>식사대 (청사진)</Table_Counter_Blueprint_Install.label>
@@ -11424,7 +11404,7 @@
   <UnfinishedAnimalPart.label>미완성 동물 보철물</UnfinishedAnimalPart.label>
 
   <!--747397788_190814_More Batteries-->
-  <PowerCellCreator.description>포월 파워 셀을 제작하기 위한 첨단 기계입니다.</PowerCellCreator.description>
+  <PowerCellCreator.description>모어 파워 셀을 제작하기 위한 첨단 기계입니다.</PowerCellCreator.description>
   <PowerCellCreator_Frame.description>초고속 파워 셀을 제작하기 위한 첨단 기계입니다.</PowerCellCreator_Frame.description>
   <MidTierBattery.label>고급 축전지</MidTierBattery.label>
   <MidTierBattery_Blueprint.label>고급 축전지 (청사진)</MidTierBattery_Blueprint.label>
@@ -12911,120 +12891,6 @@
   <UltraSoil_Frame.description>작업이 진행중 입니다.</UltraSoil_Frame.description>
   <UltraSoil_Blueprint.label>극단적인 토양 (청사진)</UltraSoil_Blueprint.label>
   <UltraSoil_Frame.label>극단적인 토양 (건설 중)</UltraSoil_Frame.label>
-
-  <!--826153738_181025_Glass+Light-->
-  <FueledGlassworkTable.description>대부분의 유리 제품을 만드는 데 필요한 연료로 작동하는 작업대입니다. 연료의 불안정한 화력으로 인해 원형 유리는 전기 유리 작업대에서만 만들 수 있습니다.</FueledGlassworkTable.description>
-  <FueledGlassworkTable_Frame.description>대부분의 유리 제품을 만드는 데 필요한 연료로 작동하는 작업대입니다. 연료의 불안정한 화력으로 인해 원형 유리는 전기 유리 작업대에서만 만들 수 있습니다.</FueledGlassworkTable_Frame.description>
-  <GlassMonitorLarge.description>맑선명한 이미지와 풍부한 색상을 가진 첨단 유리 텔레비전입니다. 선명하지 못한 TV보다 더 재미있습니다.</GlassMonitorLarge.description>
-  <GlassMonitorLarge_Frame.description>맑선명한 이미지와 풍부한 색상을 가진 첨단 유리 텔레비전입니다. 선명하지 못한 TV보다 더 재미있습니다.</GlassMonitorLarge_Frame.description>
-  <WallLamp.description>벽에만 설치할 수 있는 전등입니다. 일반 조명보다 밝습니다.</WallLamp.description>
-  <WallLamp_Frame.description>벽에만 설치할 수 있는 전등입니다. 일반 조명보다 밝습니다.</WallLamp_Frame.description>
-  <OutdoorGroundLamp.description>실외에만 설치할 수 있는 전등입니다. 전력이 필요하지 않습니다.</OutdoorGroundLamp.description>
-  <OutdoorGroundLamp_Frame.description>실외에만 설치할 수 있는 전등입니다. 전력이 필요하지 않습니다.</OutdoorGroundLamp_Frame.description>
-  <LargeCircularGlass.description>천장 조명에서 예술 작품에 이르기까지 무엇이든 만들 수 있는 대형 원형 유리입니다...</LargeCircularGlass.description>
-  <ReinforcedGlassworkTable.description>일반 유리를 안전한 유리로 바꾸는 데 사용되는 작업대입니다.</ReinforcedGlassworkTable.description>
-  <ReinforcedGlassworkTable_Frame.description>일반 유리를 안전한 유리로 바꾸는 데 사용되는 작업대입니다.</ReinforcedGlassworkTable_Frame.description>
-  <GlassworkTable.description>유리를 만드는 데 필요한 모든 도구가 있는 작업대입니다. 전기 없이도 작동합니다.</GlassworkTable.description>
-  <GlassworkTable_Frame.description>일반 유리를 안전한 유리로 바꾸는 데 사용되는 작업대입니다. 전기 없이도 작동합니다.</GlassworkTable_Frame.description>
-  <AutoDoorGlass.label>자동 유리문</AutoDoorGlass.label>
-  <AutoDoorGlass_Blueprint.label>자동 유리문 (청사진)</AutoDoorGlass_Blueprint.label>
-  <AutoDoorGlass_Blueprint_Install.label>자동 유리문 (청사진)</AutoDoorGlass_Blueprint_Install.label>
-  <AutoDoorGlass_Frame.label>자동 유리문 (건설 중)</AutoDoorGlass_Frame.label>
-  <BrokenGlass.label>깨진 유리</BrokenGlass.label>
-  <CeilingLamp.label>천장 조명</CeilingLamp.label>
-  <CeilingLamp_Blue.label>천장 조명 (파랑)</CeilingLamp_Blue.label>
-  <CeilingLamp_Blue_Blueprint.label>천장 조명 (파랑) (청사진)</CeilingLamp_Blue_Blueprint.label>
-  <CeilingLamp_Blue_Blueprint_Install.label>천장 조명 (파랑) (청사진)</CeilingLamp_Blue_Blueprint_Install.label>
-  <CeilingLamp_Blue_Frame.label>천장 조명 (파랑) (건설 중)</CeilingLamp_Blue_Frame.label>
-  <CeilingLamp_Blueprint.label>천장 조명 (청사진)</CeilingLamp_Blueprint.label>
-  <CeilingLamp_Blueprint_Install.label>천장 조명 (청사진)</CeilingLamp_Blueprint_Install.label>
-  <CeilingLamp_Frame.label>천장 조명 (건설 중)</CeilingLamp_Frame.label>
-  <CeilingLamp_Green.label>천장 조명 (초록)</CeilingLamp_Green.label>
-  <CeilingLamp_Green_Blueprint.label>천장 조명 (초록) (청사진)</CeilingLamp_Green_Blueprint.label>
-  <CeilingLamp_Green_Blueprint_Install.label>천장 조명 (초록) (청사진)</CeilingLamp_Green_Blueprint_Install.label>
-  <CeilingLamp_Green_Frame.label>천장 조명 (초록) (건설 중)</CeilingLamp_Green_Frame.label>
-  <CeilingLamp_Orange.label>천장 조명 (주황)</CeilingLamp_Orange.label>
-  <CeilingLamp_Orange_Blueprint.label>천장 조명 (주황) (청사진)</CeilingLamp_Orange_Blueprint.label>
-  <CeilingLamp_Orange_Blueprint_Install.label>천장 조명 (주황) (청사진)</CeilingLamp_Orange_Blueprint_Install.label>
-  <CeilingLamp_Orange_Frame.label>천장 조명 (주황) (건설 중)</CeilingLamp_Orange_Frame.label>
-  <CeilingLamp_Red.label>천장 조명 (빨강)</CeilingLamp_Red.label>
-  <CeilingLamp_Red_Blueprint.label>천장 조명 (빨강) (청사진)</CeilingLamp_Red_Blueprint.label>
-  <CeilingLamp_Red_Blueprint_Install.label>천장 조명 (빨강) (청사진)</CeilingLamp_Red_Blueprint_Install.label>
-  <CeilingLamp_Red_Frame.label>천장 조명 (빨강) (건설 중)</CeilingLamp_Red_Frame.label>
-  <CeilingLamp_Violet.label>천장 조명 (보라)</CeilingLamp_Violet.label>
-  <CeilingLamp_Violet_Blueprint.label>천장 조명 (보라) (청사진)</CeilingLamp_Violet_Blueprint.label>
-  <CeilingLamp_Violet_Blueprint_Install.label>천장 조명 (보라) (청사진)</CeilingLamp_Violet_Blueprint_Install.label>
-  <CeilingLamp_Violet_Frame.label>천장 조명 (보라) (건설 중)</CeilingLamp_Violet_Frame.label>
-  <CeilingLamp_Yellow.label>천장 조명 (노랑)</CeilingLamp_Yellow.label>
-  <CeilingLamp_Yellow_Blueprint.label>천장 조명 (노랑) (청사진)</CeilingLamp_Yellow_Blueprint.label>
-  <CeilingLamp_Yellow_Blueprint_Install.label>천장 조명 (노랑) (청사진)</CeilingLamp_Yellow_Blueprint_Install.label>
-  <CeilingLamp_Yellow_Frame.label>천장 조명 (노랑) (건설 중)</CeilingLamp_Yellow_Frame.label>
-  <CeilingLamp_Blue.description>주변을 밝게 비추는 은은한 파란색 전등입니다. 진정 효과도 있습니다.</CeilingLamp_Blue.description>
-  <CeilingLamp_Blue_Frame.description>주변을 밝게 비추는 은은한 파란색 전등입니다. 진정 효과도 있습니다.</CeilingLamp_Blue_Frame.description>
-  <CeilingLamp_Green.description>주변을 밝게 비추는 은은한 초록색 전등입니다.</CeilingLamp_Green.description>
-  <CeilingLamp_Green_Frame.description>주변을 밝게 비추는 은은한 초록색 전등입니다.</CeilingLamp_Green_Frame.description>
-  <CeilingLamp_Orange.description>주변을 밝게 비추는 은은한 주황색 전등입니다.</CeilingLamp_Orange.description>
-  <CeilingLamp_Orange_Frame.description>주변을 밝게 비추는 은은한 주황색 전등입니다.</CeilingLamp_Orange_Frame.description>
-  <CeilingLamp_Red.description>주변을 밝게 비추는 은은한 빨간색 전등입니다.</CeilingLamp_Red.description>
-  <CeilingLamp_Red_Frame.description>주변을 밝게 비추는 은은한 빨간색 전등입니다.</CeilingLamp_Red_Frame.description>
-  <CeilingLamp_Yellow.description>주변을 밝게 비추는 은은한 노란색 전등입니다.</CeilingLamp_Yellow.description>
-  <CeilingLamp_Yellow_Frame.description>주변을 밝게 비추는 은은한 노란색 전등입니다.</CeilingLamp_Yellow_Frame.description>
-  <CeilingLamp_Violet.description>주변을 밝게 비추는 보라색 전등입니다.</CeilingLamp_Violet.description>
-  <CeilingLamp_Violet_Frame.description>주변을 밝게 비추는 보라색 전등입니다.</CeilingLamp_Violet_Frame.description>
-  <CeilingLamp.description>주변을 밝게 비추는 일반적인 전등입니다.</CeilingLamp.description>
-  <CeilingLamp_Frame.description>주변을 밝게 비추는 일반적인 전등입니다.</CeilingLamp_Frame.description>
-  <DoorGlass.description>방을 나눕니다. 빛이 통과합니다.</DoorGlass.description>
-  <DoorGlass_Frame.description>방을 나눕니다. 빛이 통과합니다.</DoorGlass_Frame.description>
-  <AutoDoorGlass.description>방을 나눕니다. 전기로 작동하며 문 통과 시 이동속도 감소가 적거나 없습니다. 빛이 통과합니다.</AutoDoorGlass.description>
-  <AutoDoorGlass_Frame.description>방을 나눕니다. 전기로 작동하며 문 통과 시 이동속도 감소가 적거나 없습니다. 빛이 통과합니다.</AutoDoorGlass_Frame.description>
-  <GlassworkTable.label>전기 유리작업대</GlassworkTable.label>
-  <GlassworkTable_Blueprint.label>전기 유리작업대 (청사진)</GlassworkTable_Blueprint.label>
-  <GlassworkTable_Blueprint_Install.label>전기 유리작업대 (청사진)</GlassworkTable_Blueprint_Install.label>
-  <GlassworkTable_Frame.label>전기 유리작업대 (건설 중)</GlassworkTable_Frame.label>
-  <FueledGlassworkTable.label>연료형 유리작업대</FueledGlassworkTable.label>
-  <FueledGlassworkTable_Blueprint.label>연료형 유리작업대 (청사진)</FueledGlassworkTable_Blueprint.label>
-  <FueledGlassworkTable_Blueprint_Install.label>연료형 유리작업대 (청사진)</FueledGlassworkTable_Blueprint_Install.label>
-  <FueledGlassworkTable_Frame.label>연료형 유리작업대 (건설 중)</FueledGlassworkTable_Frame.label>
-  <Glass.label>유리</Glass.label>
-  <Glass.stuffProps.stuffAdjective>유리</Glass.stuffProps.stuffAdjective>
-  <DoorGlass.label>유리문</DoorGlass.label>
-  <DoorGlass_Blueprint.label>유리문 (청사진)</DoorGlass_Blueprint.label>
-  <DoorGlass_Blueprint_Install.label>유리문 (청사진)</DoorGlass_Blueprint_Install.label>
-  <DoorGlass_Frame.label>유리문 (건설 중)</DoorGlass_Frame.label>
-  <GlassMonitorLarge.label>액정 TV</GlassMonitorLarge.label>
-  <GlassMonitorLarge_Blueprint.label>액정 TV (청사진)</GlassMonitorLarge_Blueprint.label>
-  <GlassMonitorLarge_Blueprint_Install.label>액정 TV (청사진)</GlassMonitorLarge_Blueprint_Install.label>
-  <GlassMonitorLarge_Frame.label>액정 TV (building)</GlassMonitorLarge_Frame.label>
-  <Window.description>벽과 같지만 빛이 통과합니다.</Window.description>
-  <Window_Frame.description>벽과 같지만 빛이 통과합니다.</Window_Frame.description>
-  <LargeCircularGlass.label>대형 원형 유리</LargeCircularGlass.label>
-  <LargeCircularGlass.stuffProps.stuffAdjective>대형 원형 유리</LargeCircularGlass.stuffProps.stuffAdjective>
-  <OutdoorGroundLamp.label>실외 조명</OutdoorGroundLamp.label>
-  <OutdoorGroundLamp_Blueprint.label>실외 조명 (청사진)</OutdoorGroundLamp_Blueprint.label>
-  <OutdoorGroundLamp_Blueprint_Install.label>실외 조명 (청사진)</OutdoorGroundLamp_Blueprint_Install.label>
-  <OutdoorGroundLamp_Frame.label>실외 조명 (건설 중)</OutdoorGroundLamp_Frame.label>
-  <GlassTableShort.description>의자가 있으면 여기서 밥을 먹습니다.</GlassTableShort.description>
-  <GlassTableShort_Frame.description>의자가 있으면 여기서 밥을 먹습니다.</GlassTableShort_Frame.description>
-  <ReinforcedGlass.label>강화 유리</ReinforcedGlass.label>
-  <ReinforcedGlass.stuffProps.stuffAdjective>강화 유리</ReinforcedGlass.stuffProps.stuffAdjective>
-  <ReinforcedGlassworkTable.label>강화 유리작업대</ReinforcedGlassworkTable.label>
-  <ReinforcedGlassworkTable_Blueprint.label>강화 유리작업대 (청사진)</ReinforcedGlassworkTable_Blueprint.label>
-  <ReinforcedGlassworkTable_Blueprint_Install.label>강화 유리작업대 (청사진)</ReinforcedGlassworkTable_Blueprint_Install.label>
-  <ReinforcedGlassworkTable_Frame.label>강화 유리작업대 (건설 중)</ReinforcedGlassworkTable_Frame.label>
-  <ReinforcedGlass.description>일반 유리보다 강하지만 작업하기 어렵습니다.</ReinforcedGlass.description>
-  <GlassTableShort.label>식탁</GlassTableShort.label>
-  <GlassTableShort_Blueprint.label>식탁 (청사진)</GlassTableShort_Blueprint.label>
-  <GlassTableShort_Blueprint_Install.label>table (청사진)</GlassTableShort_Blueprint_Install.label>
-  <GlassTableShort_Frame.label>식탁 (건설 중)</GlassTableShort_Frame.label>
-  <Glass.description>깨지기 쉬움에도 꽤 인기 있는 투명한 소재입니다.</Glass.description>
-  <WallLamp.label>벽면 조명</WallLamp.label>
-  <WallLamp_Blueprint.label>벽면 조명 (청사진)</WallLamp_Blueprint.label>
-  <WallLamp_Blueprint_Install.label>벽면 조명 (청사진)</WallLamp_Blueprint_Install.label>
-  <WallLamp_Frame.label>벽면 조명 (건설 중)</WallLamp_Frame.label>
-  <Window.label>창문</Window.label>
-  <Window_Blueprint.label>창문 (청사진)</Window_Blueprint.label>
-  <Window_Blueprint_Install.label>창문 (청사진)</Window_Blueprint_Install.label>
-  <Window_Frame.label>창문 (건설 중)</Window_Frame.label>
 
   <!--83233353_190626_Dubs Rimkit-->
   <DubsRepairKit.description>착용자가 고장난 건물을 수리할 때 부품을 회수할 수 있게 해줍니다. 성공율은 능력치에 기반하며, 건설 능력치도 올려줍니다.</DubsRepairKit.description>

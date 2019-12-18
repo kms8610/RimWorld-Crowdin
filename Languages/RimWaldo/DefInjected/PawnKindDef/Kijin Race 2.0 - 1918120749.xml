@@ -2,100 +2,36 @@
 <LanguageData>
 
   <Kijin_Colonist.label>키진 정착민</Kijin_Colonist.label>
-  <Kijin_Colonist.labelPlural>키진 정착민들</Kijin_Colonist.labelPlural>
-  <Kijin_Colonist.labelMale>남성 키진 정착민</Kijin_Colonist.labelMale>
-  <Kijin_Colonist.labelMalePlural>남성 키진 정착민들</Kijin_Colonist.labelMalePlural>
-  <Kijin_Colonist.labelFemale>여성 키진 정착민</Kijin_Colonist.labelFemale>
-  <Kijin_Colonist.labelFemalePlural>여성 키진 정착민들</Kijin_Colonist.labelFemalePlural>
+  <Kijin_Colonist.labelPlural>키진 정착민</Kijin_Colonist.labelPlural>
   <Kijin_Villager.label>키진 마을사람</Kijin_Villager.label>
-  <Kijin_Villager.labelPlural>키진 마을사람들</Kijin_Villager.labelPlural>
-  <Kijin_Villager.labelMale>남성 키진 마을사람</Kijin_Villager.labelMale>
-  <Kijin_Villager.labelMalePlural>남성 키진 마을사람들</Kijin_Villager.labelMalePlural>
-  <Kijin_Villager.labelFemale>여성 키진 마을사람</Kijin_Villager.labelFemale>
-  <Kijin_Villager.labelFemalePlural>여성 키진 마을사람들</Kijin_Villager.labelFemalePlural>
+  <Kijin_Villager.labelPlural>키진 마을사람</Kijin_Villager.labelPlural>
   <Kijin_Town_Guard.label>키진 경비병</Kijin_Town_Guard.label>
-  <Kijin_Town_Guard.labelPlural>키진 경비병들</Kijin_Town_Guard.labelPlural>
-  <Kijin_Town_Guard.labelMale>남성 키진 경비병</Kijin_Town_Guard.labelMale>
-  <Kijin_Town_Guard.labelMalePlural>남성 키진 경비병들</Kijin_Town_Guard.labelMalePlural>
-  <Kijin_Town_Guard.labelFemale>여성 키진 경비병</Kijin_Town_Guard.labelFemale>
-  <Kijin_Town_Guard.labelFemalePlural>여성 키진 경비병들</Kijin_Town_Guard.labelFemalePlural>
+  <Kijin_Town_Guard.labelPlural>키진 경비병</Kijin_Town_Guard.labelPlural>
   <Kijin_Town_Trader.label>키진 상인</Kijin_Town_Trader.label>
-  <Kijin_Town_Trader.labelPlural>키진 상인들</Kijin_Town_Trader.labelPlural>
-  <Kijin_Town_Trader.labelMale>남성 키진 상인</Kijin_Town_Trader.labelMale>
-  <Kijin_Town_Trader.labelMalePlural>남성 키진 상인들</Kijin_Town_Trader.labelMalePlural>
-  <Kijin_Town_Trader.labelFemale>여성 키진 상인</Kijin_Town_Trader.labelFemale>
-  <Kijin_Town_Trader.labelFemalePlural>여성 키진 상인들</Kijin_Town_Trader.labelFemalePlural>
+  <Kijin_Town_Trader.labelPlural>키진 상인</Kijin_Town_Trader.labelPlural>
   <Kijin_Town_Councilman.label>키진 마을 의원</Kijin_Town_Councilman.label>
-  <Kijin_Town_Councilman.labelPlural>키진 마을 의원들</Kijin_Town_Councilman.labelPlural>
-  <Kijin_Town_Councilman.labelMale>남성 키진 마을 의원</Kijin_Town_Councilman.labelMale>
-  <Kijin_Town_Councilman.labelMalePlural>남성 키진 마을 의원들</Kijin_Town_Councilman.labelMalePlural>
-  <Kijin_Town_Councilman.labelFemale>여성 키진 마을 의원</Kijin_Town_Councilman.labelFemale>
-  <Kijin_Town_Councilman.labelFemalePlural>여성 키진 마을 의원들</Kijin_Town_Councilman.labelFemalePlural>
+  <Kijin_Town_Councilman.labelPlural>키진 마을 의원</Kijin_Town_Councilman.labelPlural>
   <Kijin_Grenadier_Destructive.label>키진 불의 주술사</Kijin_Grenadier_Destructive.label>
-  <Kijin_Grenadier_Destructive.labelPlural>키진 불의 주술사들</Kijin_Grenadier_Destructive.labelPlural>
-  <Kijin_Grenadier_Destructive.labelMale>남성 키진 불의 주술사</Kijin_Grenadier_Destructive.labelMale>
-  <Kijin_Grenadier_Destructive.labelMalePlural>남성 키진 불의 주술사들</Kijin_Grenadier_Destructive.labelMalePlural>
-  <Kijin_Grenadier_Destructive.labelFemale>여성 키진 불의 주술사</Kijin_Grenadier_Destructive.labelFemale>
-  <Kijin_Grenadier_Destructive.labelFemalePlural>여성 키진 불의 주술사들</Kijin_Grenadier_Destructive.labelFemalePlural>
+  <Kijin_Grenadier_Destructive.labelPlural>키진 불의 주술사</Kijin_Grenadier_Destructive.labelPlural>
   <Kijin_Grenadier_Smoke.label>키진 연막 주술사</Kijin_Grenadier_Smoke.label>
-  <Kijin_Grenadier_Smoke.labelPlural>키진 연막 주술사들</Kijin_Grenadier_Smoke.labelPlural>
-  <Kijin_Grenadier_Smoke.labelMale>남성 키진 연막 주술사</Kijin_Grenadier_Smoke.labelMale>
-  <Kijin_Grenadier_Smoke.labelMalePlural>남성 키진 연막 주술사들</Kijin_Grenadier_Smoke.labelMalePlural>
-  <Kijin_Grenadier_Smoke.labelFemale>여성 키진 연막 주술사</Kijin_Grenadier_Smoke.labelFemale>
-  <Kijin_Grenadier_Smoke.labelFemalePlural>여성 키진 연막 주술사들</Kijin_Grenadier_Smoke.labelFemalePlural>
+  <Kijin_Grenadier_Smoke.labelPlural>키진 연막 주술사</Kijin_Grenadier_Smoke.labelPlural>
   <Kijin_Mercenary_Archer.label>키진 궁수</Kijin_Mercenary_Archer.label>
-  <Kijin_Mercenary_Archer.labelPlural>키진 궁수들</Kijin_Mercenary_Archer.labelPlural>
-  <Kijin_Mercenary_Archer.labelMale>남성 키진 궁수</Kijin_Mercenary_Archer.labelMale>
-  <Kijin_Mercenary_Archer.labelMalePlural>남성 키진 궁수들</Kijin_Mercenary_Archer.labelMalePlural>
-  <Kijin_Mercenary_Archer.labelFemale>여성 키진 궁수</Kijin_Mercenary_Archer.labelFemale>
-  <Kijin_Mercenary_Archer.labelFemalePlural>여성 키진 궁수들</Kijin_Mercenary_Archer.labelFemalePlural>
+  <Kijin_Mercenary_Archer.labelPlural>키진 궁수</Kijin_Mercenary_Archer.labelPlural>
   <Kijin_Mercenary_Infantry.label>키진 보병</Kijin_Mercenary_Infantry.label>
-  <Kijin_Mercenary_Infantry.labelPlural>키진 보병들</Kijin_Mercenary_Infantry.labelPlural>
-  <Kijin_Mercenary_Infantry.labelMale>남성 키진 보병</Kijin_Mercenary_Infantry.labelMale>
-  <Kijin_Mercenary_Infantry.labelMalePlural>남성 키진 보병들</Kijin_Mercenary_Infantry.labelMalePlural>
-  <Kijin_Mercenary_Infantry.labelFemale>여성 키진 보병</Kijin_Mercenary_Infantry.labelFemale>
-  <Kijin_Mercenary_Infantry.labelFemalePlural>여성 키진 보병들</Kijin_Mercenary_Infantry.labelFemalePlural>
+  <Kijin_Mercenary_Infantry.labelPlural>키진 보병</Kijin_Mercenary_Infantry.labelPlural>
   <Kijin_Mercenary_Assasin.label>키진 암살자</Kijin_Mercenary_Assasin.label>
-  <Kijin_Mercenary_Assasin.labelPlural>키진 암살자들</Kijin_Mercenary_Assasin.labelPlural>
-  <Kijin_Mercenary_Assasin.labelMale>남성 키진 암살자</Kijin_Mercenary_Assasin.labelMale>
-  <Kijin_Mercenary_Assasin.labelMalePlural>남성 키진 암살자들</Kijin_Mercenary_Assasin.labelMalePlural>
-  <Kijin_Mercenary_Assasin.labelFemale>여성 키진 암살자</Kijin_Mercenary_Assasin.labelFemale>
-  <Kijin_Mercenary_Assasin.labelFemalePlural>여성 키진 암살자들</Kijin_Mercenary_Assasin.labelFemalePlural>
+  <Kijin_Mercenary_Assasin.labelPlural>키진 암살자</Kijin_Mercenary_Assasin.labelPlural>
   <Kijin_Mercenary_Knight.label>키진 기사</Kijin_Mercenary_Knight.label>
-  <Kijin_Mercenary_Knight.labelPlural>기사들</Kijin_Mercenary_Knight.labelPlural>
-  <Kijin_Mercenary_Knight.labelMale>남성 키진 기사</Kijin_Mercenary_Knight.labelMale>
-  <Kijin_Mercenary_Knight.labelMalePlural>남성 기사들</Kijin_Mercenary_Knight.labelMalePlural>
-  <Kijin_Mercenary_Knight.labelFemale>여성 키진 기사</Kijin_Mercenary_Knight.labelFemale>
-  <Kijin_Mercenary_Knight.labelFemalePlural>여성 기사들</Kijin_Mercenary_Knight.labelFemalePlural>
+  <Kijin_Mercenary_Knight.labelPlural>키진 기사</Kijin_Mercenary_Knight.labelPlural>
   <Kijin_Boss.label>키진 세력 지도자</Kijin_Boss.label>
-  <Kijin_Boss.labelPlural>세력 지도자들</Kijin_Boss.labelPlural>
-  <Kijin_Boss.labelMale>남성 키진 세력 지도자</Kijin_Boss.labelMale>
-  <Kijin_Boss.labelMalePlural>남성 세력 지도자들</Kijin_Boss.labelMalePlural>
-  <Kijin_Boss.labelFemale>여성 키진 세력 지도자</Kijin_Boss.labelFemale>
-  <Kijin_Boss.labelFemalePlural>여성 세력 지도자들</Kijin_Boss.labelFemalePlural>
+  <Kijin_Boss.labelPlural>키진 세력 지도자</Kijin_Boss.labelPlural>
   <Kijin_Mercenary_Elite.label>키진 근위 기사</Kijin_Mercenary_Elite.label>
-  <Kijin_Mercenary_Elite.labelPlural>근위 기사들</Kijin_Mercenary_Elite.labelPlural>
-  <Kijin_Mercenary_Elite.labelMale>남성 키진 근위 기사</Kijin_Mercenary_Elite.labelMale>
-  <Kijin_Mercenary_Elite.labelMalePlural>남성 근위 기사들</Kijin_Mercenary_Elite.labelMalePlural>
-  <Kijin_Mercenary_Elite.labelFemale>여성 키진 근위 기사</Kijin_Mercenary_Elite.labelFemale>
-  <Kijin_Mercenary_Elite.labelFemalePlural>여성 근위 기사들</Kijin_Mercenary_Elite.labelFemalePlural>
+  <Kijin_Mercenary_Elite.labelPlural>키진 근위 기사</Kijin_Mercenary_Elite.labelPlural>
   <Kijin_Slave.label>키진 노예</Kijin_Slave.label>
-  <Kijin_Slave.labelPlural>키진 노예들</Kijin_Slave.labelPlural>
-  <Kijin_Slave.labelMale>남성 키진 노예</Kijin_Slave.labelMale>
-  <Kijin_Slave.labelMalePlural>남성 키진 노예들</Kijin_Slave.labelMalePlural>
-  <Kijin_Slave.labelFemale>여성 키진 노예</Kijin_Slave.labelFemale>
-  <Kijin_Slave.labelFemalePlural>여성 키진 노예들</Kijin_Slave.labelFemalePlural>
+  <Kijin_Slave.labelPlural>키진 노예</Kijin_Slave.labelPlural>
   <KijinWildMan.label>키진 야인</KijinWildMan.label>
-  <KijinWildMan.labelPlural>야인들</KijinWildMan.labelPlural>
-  <KijinWildMan.labelMale>남성 키진 야인</KijinWildMan.labelMale>
-  <KijinWildMan.labelMalePlural>남성 야인들</KijinWildMan.labelMalePlural>
-  <KijinWildMan.labelFemale>야인</KijinWildMan.labelFemale>
-  <KijinWildMan.labelFemalePlural>야인들</KijinWildMan.labelFemalePlural>
-  <KijinStrangerInBlack.label>흑기사</KijinStrangerInBlack.label>
-  <KijinStrangerInBlack.labelPlural>흑기사들</KijinStrangerInBlack.labelPlural>
-  <KijinStrangerInBlack.labelMale>흑기사</KijinStrangerInBlack.labelMale>
-  <KijinStrangerInBlack.labelMalePlural>남성 흑기사들</KijinStrangerInBlack.labelMalePlural>
-  <KijinStrangerInBlack.labelFemale>흑기사</KijinStrangerInBlack.labelFemale>
-  <KijinStrangerInBlack.labelFemalePlural>여성 흑기사들</KijinStrangerInBlack.labelFemalePlural>
+  <KijinWildMan.labelPlural>키진 야인</KijinWildMan.labelPlural>
+  <KijinStrangerInBlack.label>키진 흑기사</KijinStrangerInBlack.label>
+  <KijinStrangerInBlack.labelPlural>키진 흑기사</KijinStrangerInBlack.labelPlural>
 
 </LanguageData>

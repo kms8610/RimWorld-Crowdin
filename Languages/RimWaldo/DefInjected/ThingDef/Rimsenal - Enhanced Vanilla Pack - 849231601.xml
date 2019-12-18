@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Apparel_TacVest.label>전술 조끼</Apparel_TacVest.label>
+  <Apparel_TacVest.label>전술 방탄복</Apparel_TacVest.label>
   <Apparel_TacVest.description>인체 공학적으로 설계된 전술 조끼입니다. 착용자의 전투 효율성을 향상시킵니다.</Apparel_TacVest.description>
   <Apparel_TacHelmet.label>전술 헬멧</Apparel_TacHelmet.label>
   <Apparel_TacHelmet.description>전투중 착용자의 머리를 보호할 수 있도록 특수 설계된 첨단 헬멧입니다.</Apparel_TacHelmet.description>
-  <Apparel_Exoframe.label>동력 외골격</Apparel_Exoframe.label>
-  <Apparel_Exoframe.description>동력 외골격은 유압 장치, 모터, 피스톤 등으로 움직이는 기동장비입니다. 사지의 움직임을 증강하여 착용자의 기동성이 향상됩니다.</Apparel_Exoframe.description>
-  <Apparel_ProtectiveGear.label>방호복</Apparel_ProtectiveGear.label>
-  <Apparel_ProtectiveGear.description>육중한 비동력 방호구입니다. 동력강화복 만큼 방어력이 뛰어나지는 않지만 전신을 방호합니다.</Apparel_ProtectiveGear.description>
-  <Apparel_ProtectiveHelmet.label>방호헬멧</Apparel_ProtectiveHelmet.label>
-  <Apparel_ProtectiveHelmet.description>무거운 보호 헬멧입니다. 머리 전체를 보호합니다.</Apparel_ProtectiveHelmet.description>
+  <Apparel_Exoframe.label>산업용 외골격</Apparel_Exoframe.label>
+  <Apparel_Exoframe.description>산업용 외골격은 유압 장치, 모터, 피스톤 등으로 움직이는 기동장비입니다. 사지의 움직임을 증강하여 착용자의 기동성이 향상됩니다.</Apparel_Exoframe.description>
+  <Apparel_ProtectiveGear.label>중방탄복</Apparel_ProtectiveGear.label>
+  <Apparel_ProtectiveGear.description>육중한 비동력 방호구입니다. 동력보조가 없어 무겁고 거치적 거리지만 튼튼하고 전신을 보호합니다.</Apparel_ProtectiveGear.description>
+  <Apparel_ProtectiveHelmet.label>중방탄복 헬멧</Apparel_ProtectiveHelmet.label>
+  <Apparel_ProtectiveHelmet.description>무겁고 튼튼한 방탄 헬멧입니다.</Apparel_ProtectiveHelmet.description>
   <Bullet_ChargeSidearm.label>전자기탄</Bullet_ChargeSidearm.label>
   <Gun_ChargeSidearm.label>전자기 권총</Gun_ChargeSidearm.label>
   <Gun_ChargeSidearm.description>지근거리 총격전에 맞춰 설계된 전자기 총기입니다.</Gun_ChargeSidearm.description>

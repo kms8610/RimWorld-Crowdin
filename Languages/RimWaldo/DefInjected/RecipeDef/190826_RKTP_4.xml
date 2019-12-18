@@ -167,8 +167,8 @@
   <CureInjurySurgicalCut.jobString>외상 치료 중.</CureInjurySurgicalCut.jobString>
   <CureInjurySurgicalCut.successfullyRemovedHediffMessage>{0}(이)가 성공적으로 {1}의 외상을 치료했습니다.</CureInjurySurgicalCut.successfullyRemovedHediffMessage>
   <CureInjuryScratch.label>긁힘 치료 (2 약품)</CureInjuryScratch.label>
-  <CureInjuryScratch.description>긇힘을 치료합니다.</CureInjuryScratch.description>
-  <CureInjuryScratch.jobString>긇힘 치료 중.</CureInjuryScratch.jobString>
+  <CureInjuryScratch.description>긁힘을 치료합니다.</CureInjuryScratch.description>
+  <CureInjuryScratch.jobString>긁힘 치료 중.</CureInjuryScratch.jobString>
   <CureInjuryScratch.successfullyRemovedHediffMessage>{0}(이)가 성공적으로 {1}의 긁힘을 치료했습니다.</CureInjuryScratch.successfullyRemovedHediffMessage>
   <CureInjuryBite.label>물림 치료 (2 약품)</CureInjuryBite.label>
   <CureInjuryBite.description>물림을 치료합니다.</CureInjuryBite.description>

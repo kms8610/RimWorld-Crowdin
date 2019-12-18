@@ -145,19 +145,19 @@
   <Proj_BaegYa.label>극초단파 수류탄</Proj_BaegYa.label>
   <YP_BaegYa.label>YP 극초단파 수류탄</YP_BaegYa.label>
   <YP_BaegYa.description>연화 정밀사의 "백야" 극초단파 수류탄. 짧은 시간동안 고통스러운 극초단파를 방출합니다. 아주 효과적인 군중 통제 무기입니다.</YP_BaegYa.description>
-  <YP_BaegYa.verbs.0.label>극초단파 수류탄 투척</YP_BaegYa.verbs.0.label>
+  <YP_BaegYa.verbs.throw_microwave_grenade.label>극초단파 수류탄 투척</YP_BaegYa.verbs.throw_microwave_grenade.label>
   <Proj_Dunder.label>가방 폭탄</Proj_Dunder.label>
   <JI_Dunder.label>JI 가방 폭탄</JI_Dunder.label>
   <JI_Dunder.description>요툰 인터스텔라의 가방 폭탄 "둔데르". 전투 공병들의 최고의 친구입니다.</JI_Dunder.description>
-  <JI_Dunder.verbs.0.label>가방폭탄 투척</JI_Dunder.verbs.0.label>
+  <JI_Dunder.verbs.throw_satchel_charge.label>가방 폭탄 투척</JI_Dunder.verbs.throw_satchel_charge.label>
   <Proj_Bobcat.label>소형 수류탄</Proj_Bobcat.label>
   <GD_Bobcat.label>GD 소형 수류탄</GD_Bobcat.label>
-  <GD_Bobcat.description>그레이데일 디펜스의 "밥캣" 수류탄은 크기가 작아 여러 발을 동시에 소지할 수 있습니다.</GD_Bobcat.description>
-  <GD_Bobcat.verbs.0.label>수류탄 투척</GD_Bobcat.verbs.0.label>
-  <Proj_Grief.label>충격 수류탄</Proj_Grief.label>
-  <TE_Grief.label>TE 충격 수류탄</TE_Grief.label>
-  <TE_Grief.description>폭발시 일종의 충격파를 방출하는 "그리프" 충격 수류탄. 비록 통상 수류탄보다 화력은 낮으나 피해 반경이 넓습니다.</TE_Grief.description>
-  <TE_Grief.verbs.0.label>충격 수류탄 투척</TE_Grief.verbs.0.label>
+  <GD_Bobcat.description>그레이데일 디펜스의 "밥캣" 수류탄은 크기가 작아 여러 발을 동시에 투척할 수 있습니다.</GD_Bobcat.description>
+  <GD_Bobcat.verbs.throw_grenades.label>수류탄 투척</GD_Bobcat.verbs.throw_grenades.label>
+  <Proj_Grief.label>특이점 수류탄</Proj_Grief.label>
+  <TE_Grief.label>TE 특이점 수류탄</TE_Grief.label>
+  <TE_Grief.description>폭발시 중력파를 방출하는 "그리프" 특이점 수류탄. 비록 통상 수류탄보다 화력은 떨어지나 적들의 움직임을 느리게 만듭니다.</TE_Grief.description>
+  <TE_Grief.verbs.throw_grenades.label>특이점 수류탄 투척</TE_Grief.verbs.throw_grenades.label>
   <GD_Sabertooth.label>GD 전투용 검</GD_Sabertooth.label>
   <GD_Sabertooth.description>"세이버투스"는 그레이데일 디펜스가 제작한 전투용 검으로, 나무나 적의 사지를 잘라내는데 적절한 도구입니다.</GD_Sabertooth.description>
   <GD_Sabertooth.tools.0.label>칼날</GD_Sabertooth.tools.0.label>
@@ -194,9 +194,9 @@
   <Bullet_Wailer.label>충격탄</Bullet_Wailer.label>
   <TE_KineticLongRifle.label>TE 키네틱 장총</TE_KineticLongRifle.label>
   <TE_KineticLongRifle.description>연방 저격수에 맞서 신속히 대저격을 수행하기 위해 제작된 "웨일러"입니다. 저격소총 치고 놀라우리만치 빠른 목표 획득 능력이 강점입니다.</TE_KineticLongRifle.description>
-  <Bullet_Atrocity.label>충격탄</Bullet_Atrocity.label>
-  <TE_StormCannon.label>TE 강습포</TE_StormCannon.label>
-  <TE_StormCannon.description>아트로시티" 광역 제압 체계는 다수의 목표물을 멀리서 제압하기 위해 제작됐습니다. 뛰어난 조작성으로 유명합니다.</TE_StormCannon.description>
+  <Bullet_Atrocity.label>특이점 구체</Bullet_Atrocity.label>
+  <TE_StormCannon.label>TE 특이점 투사기</TE_StormCannon.label>
+  <TE_StormCannon.description>"아트로시티" 광역 제압 체계는 다수의 목표물을 멀리서 제압하기 위해 제작됐습니다. 폭파 범위 내에서는 이동이 크게 제한됩니다.</TE_StormCannon.description>
   <Bullet_Harrower.label>충격장</Bullet_Harrower.label>
   <TE_KineticLance.label>TE 키네틱 랜스</TE_KineticLance.label>
   <TE_KineticLance.description>연방의 메크슈트에 대항하기 위해 만들어진 "해로워" 키네틱 랜스는 운동 에너지 집속장을 지속사격합니다. 문자 그대로 적의 뼈와 살을 발라냅니다.</TE_KineticLance.description>

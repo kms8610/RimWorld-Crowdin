@@ -2,9 +2,9 @@
 <LanguageData>
 
   <DirectedEMP.label>지향성 전자기 펄스</DirectedEMP.label>
-  <DirectedEMP.description>EMP 소총 제작에 필요한 기술입니다.</DirectedEMP.description>
-  <SmartWeapons.label>스마트 병기</SmartWeapons.label>
-  <SmartWeapons.description>첨단 스마트 병기 설계와 제작에 대해 연구합니다.</SmartWeapons.description>
+  <DirectedEMP.description>EMP 소총을 제작하기 위한 선행 연구 과제입니다.</DirectedEMP.description>
+  <SmartWeapons.label>스마트 총기</SmartWeapons.label>
+  <SmartWeapons.description>최첨단 스마트 병기 설계 및 제작 방법을 연구합니다.</SmartWeapons.description>
   <CompoundBows.label>컴파운드 활</CompoundBows.label>
   <CompoundBows.description>컴파운드 활 제작에 필요한 기술을 연구합니다.</CompoundBows.description>
 

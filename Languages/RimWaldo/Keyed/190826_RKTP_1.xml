@@ -3269,37 +3269,6 @@
   <DesignatorRearmTrap>함정 재장전</DesignatorRearmTrap>
   <CommandRearm>함정 재장전</CommandRearm>
 
-  <!--1684944322_190519_Startup impact-->
-  <StartupImpactFailedMeasuringLoadingTime>(Warning: failed to measure loading time)</StartupImpactFailedMeasuringLoadingTime>
-  <StartupImpactMilliseconds>{0}밀리초</StartupImpactMilliseconds>
-  <StartupImpactSeconds>{0}초</StartupImpactSeconds>
-  <StartupImpact-patch>XML 패치 적용</StartupImpact-patch>
-  <StartupImpactResolveReferencesLabel>Attribute "Resolve References" times to mods.</StartupImpactResolveReferencesLabel>
-  <StartupImpact-defs-1-create>defs 생성</StartupImpact-defs-1-create>
-  <StartupImpact-total-mods-hidden>사용하지 않는 MOD</StartupImpact-total-mods-hidden>
-  <StartupImpactProfilerStopwatchTooltip>High precision, doesn't work properly on many systems (reports timings that are multiple times smaller than the amount of time actually passed).</StartupImpactProfilerStopwatchTooltip>
-  <StartupImpactProfilerDateTooltip>High precision, doesn't work properly on many systems.</StartupImpactProfilerDateTooltip>
-  <StartupImpact-defs-0-load>XML에서 defs 불러오기</StartupImpact-defs-0-load>
-  <StartupImpact-audioclips>사운드 불러오기</StartupImpact-audioclips>
-  <StartupImpact-strings>텍스트 불러오기</StartupImpact-strings>
-  <StartupImpact-textures>텍스처 불러오기</StartupImpact-textures>
-  <StartupImpact-load-patches>XML 배치 불러오기</StartupImpact-load-patches>
-  <StartupImpactProfilerTicksTooltip>Low precision, high reliability. Using other options is not recommended.</StartupImpactProfilerTicksTooltip>
-  <StartupImpactResolveReferencesTooltip>May cause issues on some systems.</StartupImpactResolveReferencesTooltip>
-  <StartupImpact-total-mods>모든 MOD 불러오기</StartupImpact-total-mods>
-  <StartupImpactStartupMods>MOD 영향: {0}</StartupImpactStartupMods>
-  <StartupImpact-total-basegame>Not directly related to mods</StartupImpact-total-basegame>
-  <StartupImpactStartupNonmods>Not directly related to mods: {0}</StartupImpactStartupNonmods>
-  <StartupImpact-total-others>Not directly related to mods</StartupImpact-total-others>
-  <StartupImpact-resolve-references>Resolve references</StartupImpact-resolve-references>
-  <StartupImpact-constructor>C# 컨스트럭터 실행</StartupImpact-constructor>
-  <StartupImpact>Startup impact</StartupImpact>
-  <StartupImpactStartupTime>실행 시간: {0}</StartupImpactStartupTime>
-  <StartupImpactProfilerDateLabel>Use DateTime.Now profiler</StartupImpactProfilerDateLabel>
-  <StartupImpactProfilerTicksLabel>Use Environment.TickCount profiler</StartupImpactProfilerTicksLabel>
-  <StartupImpactProfilerStopwatchLabel>Use Stopwatch profiler</StartupImpactProfilerStopwatchLabel>
-  <StartupImpactVerinfo>v{0}; profiler: {1}</StartupImpactVerinfo>
-
   <!--1692393812_190602_Rebound-->
   <YourPawnGainProjectileInversionTraitMsg>{0}(이)가 특성을 얻었습니다. : {1}! 지금부터 발사체를 검으로 튕겨낼 수 있습니다.</YourPawnGainProjectileInversionTraitMsg>
   <ProjectileInversionSettingShowTextDesc>활성화 시키면 발사체를 반사시킬 때, 텍스트가 나타납니다.(기본값: 활성)</ProjectileInversionSettingShowTextDesc>
@@ -6197,8 +6166,8 @@
   <!--1366888108_190822_4M Mehni's Misc Modifications-->
   <M4_DamagePerBurst>폭발당 피해량</M4_DamagePerBurst>
   <M4_WeaponSingleUse>일회용</M4_WeaponSingleUse>
-  <M4_BurstShotDelay>폭발 범위</M4_BurstShotDelay>
-  <M4_ProjectileTravelTime>여행시간</M4_ProjectileTravelTime>
+  <M4_BurstShotDelay>사격 지속시간</M4_BurstShotDelay>
+  <M4_ProjectileTravelTime>도달시간</M4_ProjectileTravelTime>
   <M4_ProjectileExplosionDelay>폭발 지연</M4_ProjectileExplosionDelay>
   <M4_StatPart_TimeTable_ExplanationString>{0}의 시간을 설정하다.</M4_StatPart_TimeTable_ExplanationString>
   <M4_GreySettingsIgnored>회색으로 표시된 설정은 무시됩니다.</M4_GreySettingsIgnored>

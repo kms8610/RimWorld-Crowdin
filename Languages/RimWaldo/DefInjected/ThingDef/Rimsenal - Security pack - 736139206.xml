@@ -2,7 +2,7 @@
 <LanguageData>
 
   <ShardSentry.label>대형 파편포</ShardSentry.label>
-  <ShardSentry.description>극도로 연사속도가 빠른 배치식 자동 포탑입니다. 화력은 떨어지고 장갑 관통력도 떨어지기에 중무장한 적보다는 장갑을 두르지 못한 무리를상대하는 데 적합합니다.</ShardSentry.description>
+  <ShardSentry.description>극도로 연사속도가 빠른 배치식 자동 포탑입니다. 화력은 떨어지고 장갑 관통력도 떨어지기에 중무장한 적보다는 장갑을 두르지 못한 무리를 상대하는 데 적합합니다.</ShardSentry.description>
   <ShardSentry.comps.CompRefuelable.fuelLabel>총열 교체</ShardSentry.comps.CompRefuelable.fuelLabel>
   <ShardSentry.comps.CompRefuelable.fuelGizmoLabel>총열 내구도</ShardSentry.comps.CompRefuelable.fuelGizmoLabel>
   <ShardSentry.comps.CompRefuelable.outOfFuelMessage>발사 불가. 총열 교체 필요.</ShardSentry.comps.CompRefuelable.outOfFuelMessage>
@@ -36,7 +36,7 @@
   <SuvTurret.comps.CompRefuelable.fuelLabel>총열 교체</SuvTurret.comps.CompRefuelable.fuelLabel>
   <SuvTurret.comps.CompRefuelable.fuelGizmoLabel>총열 내구도</SuvTurret.comps.CompRefuelable.fuelGizmoLabel>
   <SuvTurret.comps.CompRefuelable.outOfFuelMessage>발사 불가. 총열 교체 필요.</SuvTurret.comps.CompRefuelable.outOfFuelMessage>
-  <ImpactMine.label>충격 지뢰</ImpactMine.label>
+  <ImpactMine.label>특이점 지뢰</ImpactMine.label>
   <ImpactMine.description>동작 감지기가 장착된 첨단 지뢰입니다. 적이 감지되면 바로 폭발합니다.</ImpactMine.description>
   <FuelBarrel.label>연료통</FuelBarrel.label>
   <FuelBarrel.description>화학연료가 든 크고 붉은 통입니다. 예상되는 바와 같이, 파괴되면 폭발합니다.</FuelBarrel.description>

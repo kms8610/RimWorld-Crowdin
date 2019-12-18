@@ -1008,14 +1008,6 @@
   <supersoil.label>우수한 토양</supersoil.label>
   <ultrasoil.label>극단적인 토양</ultrasoil.label>
 
-  <!--826153738_181025_Glass+Light-->
-  <DecorativeGlassResearch.label>장식용 유리</DecorativeGlassResearch.label>
-  <DecorativeGlassResearch.description>유리를 창문이나 조명 외의 용도로 사용할 수 있습니다.</DecorativeGlassResearch.description>
-  <ReinforcedGlassResearch.description>유리는 깨지기 쉽지만 적절한 수단으로 더 강하게 만들 수 있습니다.</ReinforcedGlassResearch.description>
-  <GlassworksResearch.label>유리</GlassworksResearch.label>
-  <GlassworksResearch.description>맑은 유리를 만드는 것은 어려울 것 같지만 노력하면 올바른 방식을 찾을 수 있습니다.</GlassworksResearch.description>
-  <ReinforcedGlassResearch.label>강화 유리</ReinforcedGlassResearch.label>
-
   <!--836245605_190607_Real Fog of War-->
   <SurveillanceCamera.description>감시 카메라를 만들 수 있습니다.</SurveillanceCamera.description>
   <SurveillanceCamera.label>감시 카메라</SurveillanceCamera.label>

@@ -53,12 +53,6 @@
   <Architect_ZEN_Decoration.label>장식</Architect_ZEN_Decoration.label>
   <Architect_ZEN_Decoration.description>구상 메뉴의 "장식"에 대한 단축키입니다</Architect_ZEN_Decoration.description>
 
-  <!--836308268_190824_Dubs Bad Hygiene-->
-  <Architect_Hygiene.label>위생 탭</Architect_Hygiene.label>
-  <Architect_Hygiene.description>구상 모드에서 위생 탭을 사용할 단축키 지정</Architect_Hygiene.description>
-  <Architect_HygieneMisc.label>위생/기타 탭</Architect_HygieneMisc.label>
-  <Architect_HygieneMisc.description>구상 모드에서 위생/기타 탭을 사용할 단축키 지정</Architect_HygieneMisc.description>
-
   <!--1585057683_190824_Vee's decorating-->
   <Architect_VeeDecoCategory.label>Vee데코</Architect_VeeDecoCategory.label>
   <Architect_VeeDecoCategory.description>구상 메뉴의 "Vee데코"에 대한 단축키입니다.</Architect_VeeDecoCategory.description>

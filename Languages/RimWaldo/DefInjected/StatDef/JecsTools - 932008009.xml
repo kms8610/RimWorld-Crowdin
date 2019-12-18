@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MeleeWeapon_DeflectionChance.label>빗나갈 확률</MeleeWeapon_DeflectionChance.label>
+  <MeleeWeapon_DeflectionChance.description>근접 무기로 원거리 발사체를 튕겨낼 확률입니다.</MeleeWeapon_DeflectionChance.description>
+  <Shield_BaseMeleeBlockChance.label>근접 차단 확률</Shield_BaseMeleeBlockChance.label>
+  <Shield_BaseMeleeBlockChance.description>보호막 사용자의 근접 차단 확률에 곱해지며 값이 높을수록 좋습니다.</Shield_BaseMeleeBlockChance.description>
+  <Shield_BaseRangedBlockChance.label>사격 차단 확률</Shield_BaseRangedBlockChance.label>
+  <Shield_BaseRangedBlockChance.description>보호막 사용자의 사격 차단 확률에 곱해지며 값이 높을수록 좋습니다.</Shield_BaseRangedBlockChance.description>
+  <Shield_DamageAbsorbed.label>피해 흡수</Shield_DamageAbsorbed.label>
+  <Shield_DamageAbsorbed.description>차단된 공격으로부터 보호막이 받는 피해량입니다.</Shield_DamageAbsorbed.description>
+  <MeleeShieldBlockChance.label>근접 차단 확률</MeleeShieldBlockChance.label>
+  <MeleeShieldBlockChance.description>근접 공격을 막을 확률입니다.</MeleeShieldBlockChance.description>
+  <RangedShieldBlockChance.label>사격 차단 확률</RangedShieldBlockChance.label>
+  <RangedShieldBlockChance.description>원거리 공격을 막을 확률입니다.</RangedShieldBlockChance.description>
+
+</LanguageData>

@@ -59,7 +59,7 @@
   <VG_PlaceSoil.label>인공 토양</VG_PlaceSoil.label>
   <VG_PlaceSoil.description>거친 돌바닥에 흙을 덮어 작물을 재배할 수있게 합니다.</VG_PlaceSoil.description>
   <VG_ReclaimSoil.label>개간된 토양</VG_ReclaimSoil.label>
-  <VG_ReclaimSoil.description>모래, 습지대, 진흙, 자갈, 얼음에 흙을 덮어 재배 공간을 확보 합니다.</VG_ReclaimSoil.description>
+  <VG_ReclaimSoil.description>모래, 습지대, 자갈, 얼음에 흙을 덮어 재배 공간을 확보 합니다.</VG_ReclaimSoil.description>
   <VG_ReclaimMud.label>개간된 진흙</VG_ReclaimMud.label>
   <VG_ReclaimMud.description>진흙에 흙을 덮어 작물을 재배할 수있게 합니다.</VG_ReclaimMud.description>
   <VG_ReclaimWater.label>매립지</VG_ReclaimWater.label>
