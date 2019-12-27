@@ -12,35 +12,37 @@
   <Apparel_ProtectiveHelmet.label>중방탄복 헬멧</Apparel_ProtectiveHelmet.label>
   <Apparel_ProtectiveHelmet.description>무겁고 튼튼한 방탄 헬멧입니다.</Apparel_ProtectiveHelmet.description>
   <Bullet_ChargeSidearm.label>전자기탄</Bullet_ChargeSidearm.label>
-  <Gun_ChargeSidearm.label>전자기 권총</Gun_ChargeSidearm.label>
-  <Gun_ChargeSidearm.description>지근거리 총격전에 맞춰 설계된 전자기 총기입니다.</Gun_ChargeSidearm.description>
-  <Gun_ChargeSidearm.tools.0.label>손잡이</Gun_ChargeSidearm.tools.0.label>
-  <Gun_ChargeSidearm.tools.1.label>총열</Gun_ChargeSidearm.tools.1.label>
+  <Gun_ChargeSidearm.label>전자기 부무장</Gun_ChargeSidearm.label>
+  <Gun_ChargeSidearm.description>한 손으로 들고 쏠 수 있는 이 소형 전자기 총기는 번화계 해병대의 주요 부무장입니다. 사거리가 짧지만 연사속도가 빠르고 화력도 뛰어납니다.</Gun_ChargeSidearm.description>
+  <Gun_ChargeSidearm.tools.grip.label>손잡이</Gun_ChargeSidearm.tools.grip.label>
+  <Gun_ChargeSidearm.tools.barrel.label>총열</Gun_ChargeSidearm.tools.barrel.label>
   <Bullet_ScatterCharger.label>전자기탄</Bullet_ScatterCharger.label>
   <Gun_ScatterCharger.label>전자기 확산총</Gun_ScatterCharger.label>
-  <Gun_ScatterCharger.description>지근거리 총격전에 맞춰 설계된 전자기 총기입니다.</Gun_ScatterCharger.description>
-  <Gun_ScatterCharger.tools.0.label>개머리판</Gun_ScatterCharger.tools.0.label>
-  <Gun_ScatterCharger.tools.1.label>총열</Gun_ScatterCharger.tools.1.label>
+  <Gun_ScatterCharger.description>근거리 총격전에 맞춰 설계된 전자기 기술 기반 화기로, 다수의 고에너지 볼트를 동시에 발사합니다. 보통 우주에서 벌어지는 함대함 도함 전투에서 쓰지만, 시가전 상황에서도 매우 유용하다는 것이 증명됐습니다.</Gun_ScatterCharger.description>
+  <Gun_ScatterCharger.tools.stock.label>개머리판</Gun_ScatterCharger.tools.stock.label>
+  <Gun_ScatterCharger.tools.barrel.label>총열</Gun_ScatterCharger.tools.barrel.label>
   <Bullet_ChargeDriver.label>전자기탄</Bullet_ChargeDriver.label>
   <Gun_ChargeDriver.label>전자기 가속총</Gun_ChargeDriver.label>
-  <Gun_ChargeDriver.description>장거리 정밀 사격을 위해 설계된 전자기 총기입니다.</Gun_ChargeDriver.description>
-  <Gun_ChargeDriver.tools.0.label>개머리판</Gun_ChargeDriver.tools.0.label>
-  <Gun_ChargeDriver.tools.1.label>총열</Gun_ChargeDriver.tools.1.label>
+  <Gun_ChargeDriver.description>장거리 정밀 사격을 위해 설계된 전자기 총기로 주요 용도는 장거리에서 장갑을 두른 목표물을 무력화시키는 것입니다. 연장형 레일-가속기 총열과 초고밀도 헥스셀은 뛰어난 장갑 관통 능력과 저지력을 보장합니다.</Gun_ChargeDriver.description>
+  <Gun_ChargeDriver.tools.stock.label>개머리판</Gun_ChargeDriver.tools.stock.label>
+  <Gun_ChargeDriver.tools.barrel.label>총열</Gun_ChargeDriver.tools.barrel.label>
   <Bullet_EMPRifle.label>EMP</Bullet_EMPRifle.label>
-  <Gun_EMPRifle.label>EMP 소총</Gun_EMPRifle.label>
-  <Gun_EMPRifle.description>지향성 전자기 펄스 방출장치입니다. 첨단 장비를 무력화 시킬 때 요긴합니다.</Gun_EMPRifle.description>
-  <Gun_EMPRifle.tools.0.label>개머리판</Gun_EMPRifle.tools.0.label>
-  <Gun_EMPRifle.tools.1.label>총열</Gun_EMPRifle.tools.1.label>
+  <Gun_EMPRifle.label>EMP 방출기</Gun_EMPRifle.label>
+  <Gun_EMPRifle.description>지향성 전자기 펄스 방출기로 보통 첨단 전자기기를 무력화하는데 사용합니다. 첨단 전투 환경에서는 잘 조준된 EMP 방출 한 방에 정교하게 짜인 전투 계획 전체가 완전히 박살날 수도 있습니다.</Gun_EMPRifle.description>
+  <Gun_EMPRifle.tools.stock.label>개머리판</Gun_EMPRifle.tools.stock.label>
+  <Gun_EMPRifle.tools.barrel.label>총열</Gun_EMPRifle.tools.barrel.label>
   <Bullet_AssaultCharger.label>전자기탄</Bullet_AssaultCharger.label>
   <Gun_AssaultCharger.label>전자기 돌격포</Gun_AssaultCharger.label>
-  <Gun_AssaultCharger.description>전자기 기술에 기반한 돌격용 대형 화기입니다.</Gun_AssaultCharger.description>
-  <Gun_AssaultCharger.tools.0.label>개머리판</Gun_AssaultCharger.tools.0.label>
-  <Gun_AssaultCharger.tools.1.label>총열</Gun_AssaultCharger.tools.1.label>
+  <Gun_AssaultCharger.description>인간이 들고 쏠 수 있는 전자기 화기 중 가장 무겁고 강력한 축에 드는 무기인 전자기 돌격포는 적진을 고에너지 볼트 포화로 익사시킵니다. 중량과 희소성, 압도적인 화력 등 여러가지 이유로 인해 오로지 정예 부대에게만 지급되곤 합니다.</Gun_AssaultCharger.description>
+  <Gun_AssaultCharger.tools.stock.label>개머리판</Gun_AssaultCharger.tools.stock.label>
+  <Gun_AssaultCharger.tools.barrel.label>총열</Gun_AssaultCharger.tools.barrel.label>
+  <Gun_AssaultCharger.verbs.Verb_Shoot.label>전자기 돌격포 사격</Gun_AssaultCharger.verbs.Verb_Shoot.label>
   <Bullet_BurstCharger.label>전자기탄</Bullet_BurstCharger.label>
-  <Gun_BurstCharger.label>전자기 속사총</Gun_BurstCharger.label>
-  <Gun_BurstCharger.description>보통 "2세대 전자기 소총"이나 "전자기 전투소총"으로 불리는 대형 전자기 소총입니다. 무거운 중량과 느린 연사속도를 대가로 사거리와 화력을 얻었습니다.</Gun_BurstCharger.description>
-  <Gun_BurstCharger.tools.0.label>개머리판</Gun_BurstCharger.tools.0.label>
-  <Gun_BurstCharger.tools.1.label>총열</Gun_BurstCharger.tools.1.label>
+  <Gun_BurstCharger.label>전자기 속사소총</Gun_BurstCharger.label>
+  <Gun_BurstCharger.description>표준 전자기 소총의 대형화 버전으로, 보통 "2세대 전자기 소총"이나 "전자기 전투소총"이라고 불립니다. 무거운 중량과 느린 연사속도를 대가로 사거리와 화력을 얻었습니다.</Gun_BurstCharger.description>
+  <Gun_BurstCharger.tools.stock.label>개머리판</Gun_BurstCharger.tools.stock.label>
+  <Gun_BurstCharger.tools.barrel.label>총열</Gun_BurstCharger.tools.barrel.label>
+  <Gun_BurstCharger.verbs.Verb_Shoot.label>전자기 속사소총 사격</Gun_BurstCharger.verbs.Verb_Shoot.label>
   <Weapon_GrenadeSmoke.label>연막 수류탄</Weapon_GrenadeSmoke.label>
   <Weapon_GrenadeSmoke.description>주로 신호용이나 병력의 시야를 차단하기 위해 사용하는 원통형 연막 수류탄입니다.</Weapon_GrenadeSmoke.description>
   <Weapon_GrenadeSmoke.verbs.throw_smoke_grenade.label>연막 수류탄 투척</Weapon_GrenadeSmoke.verbs.throw_smoke_grenade.label>

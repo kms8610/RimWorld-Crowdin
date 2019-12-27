@@ -41,7 +41,7 @@
   <Weapon_GrenadeLauncher_ME.description>고급 메카노이드제 수류탄 발사기.</Weapon_GrenadeLauncher_ME.description>
   <Weapon_GrenadeLauncher_ME.verbs.0.label>수류탄 발사기 사용</Weapon_GrenadeLauncher_ME.verbs.0.label>
   <Proj_GrenadeSpaceME.label>고급 수류탄</Proj_GrenadeSpaceME.label>
-  <Gun_InfernoCannonChimeraME.label>인페르노 포 (장착됨)</Gun_InfernoCannonChimeraME.label>
+  <Gun_InfernoCannonChimeraME.label>지옥화염 포</Gun_InfernoCannonChimeraME.label>
   <Gun_InfernoCannonChimeraME.description>인화성의 작은 포 장치. 메카노이드에 장착되어 있습니다.</Gun_InfernoCannonChimeraME.description>
   <Gun_InfernoCannonChimeraME.tools.0.label>총열</Gun_InfernoCannonChimeraME.tools.0.label>
 

@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+
   <MovingRail_MustPlaceNextToRail>다음과 같은 용도로 배출기를 배치해야 합니다: [백색 - 컨베이어 또는 저장구역], [푸른색 - 컨베이어]</MovingRail_MustPlaceNextToRail>
   <MovingRail_MustPlaceBetweenRailAndStockpile>다음과 같은 용도로 흡입기를 배치해야 합니다: [백색 - 컨베이어 또는 저장구역], [푸른색 - 컨베이어 또는 저장구역]</MovingRail_MustPlaceBetweenRailAndStockpile>
   <MovingRail_MustPlaceNextToGrowzoneAndRail>다음과 같은 용도로 재배용 흡입기를 배치해야 합니다: [백색 - 재배구역], [푸른색 - 컨베이어 또는 저장구역]</MovingRail_MustPlaceNextToGrowzoneAndRail>

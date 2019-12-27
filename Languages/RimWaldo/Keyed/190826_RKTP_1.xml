@@ -4604,10 +4604,6 @@
   <setting_extendedContextHotkey_desc>기능을 선택하지 않고 물품을 클릭 한 상태에서 '컨텍스트 기능' 단축키를 누를 경우 그 물품에 내릴 수 있는 가장 우선적인 '컨텍스트 명령'을 내립니다.</setting_extendedContextHotkey_desc>
   <setting_storageSpaceAlert_desc>우선 운반으로 표시되어있지만, 보관할 장소가 없는 경우 경고 메시지가 표시됩니다.</setting_storageSpaceAlert_desc>
 
-  <!--764375772_181016_Call of Cthulhu - Factions-->
-  <AgencyDiscoveredCult>종교 발견됨</AgencyDiscoveredCult>
-  <AgencyDiscoveredCultDesc>{0}(을)를 방문하는 동안, {1}(은)는 {2}(을)를 발견했으며 숭배의 존재에 대해 조직에 경보를 내렸습니다. 이 비밀조직은 이제 적대로 돌아섭니다.</AgencyDiscoveredCultDesc>
-
   <!--765890823_181117_Call of Cthulhu - Cosmic Horrors-->
   <CriesFromBelow>{0}(은)는 구덩이 아래로 들어간 인간의 외침을 들을 수 있었습니다.</CriesFromBelow>
   <ROM_TradedSanityLossForMadnessFailed>{0}(은)는 상태 이상에 실패했습니다. 다시 시도할까요?</ROM_TradedSanityLossForMadnessFailed>
@@ -4647,22 +4643,22 @@
 
   <!--815039373_181117_Call of Cthulhu - Cults-->
   <SacrificeFailMessage40>40</SacrificeFailMessage40>
-  <SacrificeFailMessage23>{0}(는)은 실수로 의식의 내용 일부를 건너뛰었니다.</SacrificeFailMessage23>
-  <SacrificeFailMessage22>{0}(는)은 식은 땀을 흘리며 울면서 이 행동을 저지르지 못한다고 말합니다.</SacrificeFailMessage22>
-  <SacrificeFailMessage16>{0}(는)은 통제할 수 없이 웃기 시작합니다.</SacrificeFailMessage16>
-  <SacrificeFailMessage10>{0}(는)은 다른 말로 방언하는 광린의 찬송가를 부릅니다.</SacrificeFailMessage10>
-  <RepeatableResearch>{0}(는)은 종교 신앙을 강화하기 위해 연구를 다시 할 수 있습니다.</RepeatableResearch>
-  <SacrificeFailMessage21>{0}(는)은 그둘 중 하나가 이 의식에 자격이 없다고 생각하고 멈춥니다.</SacrificeFailMessage21>
-  <SacrificeFailMessage25>{0}(는)은 그들은 자신들이 괴물에 의해 삼켜지는 환각을 느끼며 울부짖습니다.</SacrificeFailMessage25>
+  <SacrificeFailMessage23>{0}(은)는 실수로 의식의 내용 일부를 건너뛰었니다.</SacrificeFailMessage23>
+  <SacrificeFailMessage22>{0}(은)는 식은 땀을 흘리며 울면서 이 행동을 저지르지 못한다고 말합니다.</SacrificeFailMessage22>
+  <SacrificeFailMessage16>{0}(은)는 통제할 수 없이 웃기 시작합니다.</SacrificeFailMessage16>
+  <SacrificeFailMessage10>{0}(은)는 다른 말로 방언하는 광린의 찬송가를 부릅니다.</SacrificeFailMessage10>
+  <RepeatableResearch>{0}(은)는 종교 신앙을 강화하기 위해 연구를 다시 할 수 있습니다.</RepeatableResearch>
+  <SacrificeFailMessage21>{0}(은)는 그둘 중 하나가 이 의식에 자격이 없다고 생각하고 멈춥니다.</SacrificeFailMessage21>
+  <SacrificeFailMessage25>{0}(은)는 그들은 자신들이 괴물에 의해 삼켜지는 환각을 느끼며 울부짖습니다.</SacrificeFailMessage25>
   <HumanSacrificeWasFamily>{0} 실행 됨 {1} {2} {3}</HumanSacrificeWasFamily>
   <ROM_TradedSanityLossForMadnessFailed>{0}(은)는 상태 이상에 실패했습니다. 다시 시도할까요?</ROM_TradedSanityLossForMadnessFailed>
-  <SacrificeFailMessage37>{0}(는)은 배후의 공허로부터 그들의 영혼을 부르는 손짓을 느낍니다.</SacrificeFailMessage37>
-  <SacrificeFailMessage19>{0}(는)은 부자연스러운 굶주림을 느끼며 다른 신도들이 음식으로 보입니다.</SacrificeFailMessage19>
-  <SacrificeFailMessage39>{0}(는)은 미칠것 같지만 겨우 통제할 수준의 저주받은 힘을 느낍니다.</SacrificeFailMessage39>
-  <SacrificeFailMessage30>{0}(는)은 멀리 떨어져 있는 추종자들이 마치 가까이 있는 것처럼 느낍니다.</SacrificeFailMessage30>
-  <SacrificeFailMessage31>{0}(는)은 다른 사람들이 그들의 마음 안으로 들어가서 그들 자신을 잠시 멈추게 하는 것을 느낍니다.</SacrificeFailMessage31>
+  <SacrificeFailMessage37>{0}(은)는 배후의 공허로부터 그들의 영혼을 부르는 손짓을 느낍니다.</SacrificeFailMessage37>
+  <SacrificeFailMessage19>{0}(은)는 부자연스러운 굶주림을 느끼며 다른 신도들이 음식으로 보입니다.</SacrificeFailMessage19>
+  <SacrificeFailMessage39>{0}(은)는 미칠것 같지만 겨우 통제할 수준의 저주받은 힘을 느낍니다.</SacrificeFailMessage39>
+  <SacrificeFailMessage30>{0}(은)는 멀리 떨어져 있는 추종자들이 마치 가까이 있는 것처럼 느낍니다.</SacrificeFailMessage30>
+  <SacrificeFailMessage31>{0}(은)는 다른 사람들이 그들의 마음 안으로 들어가서 그들 자신을 잠시 멈추게 하는 것을 느낍니다.</SacrificeFailMessage31>
   <WorshipFinished>{0}의 예배가 끝났습니다.</WorshipFinished>
-  <SacrificeFailMessage2>{0}(는)은 단어의 일부를 잃어 버렸습니다.</SacrificeFailMessage2>
+  <SacrificeFailMessage2>{0}(은)는 단어의 일부를 잃어 버렸습니다.</SacrificeFailMessage2>
   <SacrificeGathering>{0}(은)는 신께 제물을 받치기 위해 신자들을 호출합니다.</SacrificeGathering>
   <WorshipGathering>{0}(은)는 설교를 위해 모입니다.</WorshipGathering>
   <AnimalSacrificeWasBonded>{0}(은)는 평생 {1}(와)과 유대를 공유하여, 희생 가치가 높습니다.</AnimalSacrificeWasBonded>
@@ -4675,38 +4671,38 @@
   <CultBookSummary>{0}(은)는 자신이 무슨 글을 썼는지 기억을 할 수 없습니다. 그것은 쉽게 이해할 수 없는 이상한 외계어로 가득한 무시무시한 책입니다.\n\n책안에 있는 희생자들과 불길한 코드의 주문과 도표는 신비로운 현상에 의해 변화되고, 변화하는 사람들이 있습니다. 다른 사람들은 이 현상에 대해 연구할 것을 제안했습니다. 그 안에 숨겨진 비밀을 연구하기 위해서요.</CultBookSummary>
   <Cults_LRAttendance>{0} 참석 중입니다.</Cults_LRAttendance>
   <Cults_BastGuardianTransformationLabel>{0}(은)는 바스트의 수호자</Cults_BastGuardianTransformationLabel>
-  <SacrificeFailMessage11>{0}(는)은 다른 신도들의 무가치함에 집중이 안됩니다.</SacrificeFailMessage11>
-  <SacrificeFailMessage8>{0}(는)은 죽은 사람은 움직이지 않아야 한다고 알고는 있지만, 움직입니다.</SacrificeFailMessage8>
-  <SacrificeFailMessage7>{0}(는)은 발 밑에서 뿜어져 나오는 환상에 집중할 수 없습니다.</SacrificeFailMessage7>
-  <SacrificeFailMessage6>{0}(는)은 고통, 불, 침묵에 대한 환상에 집중할 수 없습니다.</SacrificeFailMessage6>
-  <SacrificeFailMessage13>{0}(는)은 비상식적인 해저의 환상에 빠져 잠에 빠지듯이 수면 위로 빨려 들어갑니다.</SacrificeFailMessage13>
-  <SacrificeFailMessage18>{0}(는)은 무수한 구멍에 주름이 많은 괴이한 곰팡이 생물의 환상이 나타나 충격을 받았습니다.</SacrificeFailMessage18>
-  <SacrificeFailMessage12>{0}(는)은 일시적으로 다른 세계 색으로 문장의 일부가 눈에 들어오지 않습니다.</SacrificeFailMessage12>
-  <SacrificeFailMessage5>{0}(는)은 몸이 불에 타는 듯한 느낌을 받습니다.</SacrificeFailMessage5>
-  <SacrificeFailMessage34>{0}(는)은 희생자를 내려다 보다가, 갑자기 희생자의 얼굴에서 자신의 얼굴을 봅니다.</SacrificeFailMessage34>
-  <SacrificeFailMessage27>{0}(는)은 의식을 계속 진행하는 것을 갑자기 멈추었습니다.</SacrificeFailMessage27>
-  <SacrificeFailMessage4>{0}(는)은 그들의 청원이 다른 어떤 것에 의해 왜곡됨을 깨닫습니다.</SacrificeFailMessage4>
-  <SacrificeFailMessage32>{0}(는)은 권력과 진정한 호소력이 있지만, 이상하게 약해보이고 믿음이 가지 않습니다.</SacrificeFailMessage32>
-  <SacrificeFailMessage9>{0}(는)은 가려움을 참지 못하고 의식에 실패했습니다.</SacrificeFailMessage9>
-  <SacrificeFailMessage33>{0}(는)은 그림자가 인간의 형상을 이루고 있는 것처럼 보이고 마구 비틀립니다.</SacrificeFailMessage33>
-  <SacrificeFailMessage14>{0}(는)은 악몽의 물고기가 선원들을 먹어치우는 환상을 보았습니다.</SacrificeFailMessage14>
-  <SacrificeFailMessage17>{0}(는)은 의식 도중에 잠에 빠져, 어린 신의 번개같은 울음을 보았습니다.</SacrificeFailMessage17>
-  <SacrificeFailMessage1>{0}(는)은 코가 성가시게 민감해져 재채기를 했습니다.</SacrificeFailMessage1>
-  <SacrificeFailMessage3>{0}(는)은 누군가 다른 사람의 목소리를 통제하는 것처럼, 제어할 수 없는 소리를 지르기 시작합니다.</SacrificeFailMessage3>
-  <SacrificeFailMessage38>{0}(는)은 마치 지구가 떨리는 듯한, '크로니안'의 울음 소리에 기도를 멈추었습니다.</SacrificeFailMessage38>
+  <SacrificeFailMessage11>{0}(은)는 다른 신도들의 무가치함에 집중이 안됩니다.</SacrificeFailMessage11>
+  <SacrificeFailMessage8>{0}(은)는 죽은 사람은 움직이지 않아야 한다고 알고는 있지만, 움직입니다.</SacrificeFailMessage8>
+  <SacrificeFailMessage7>{0}(은)는 발 밑에서 뿜어져 나오는 환상에 집중할 수 없습니다.</SacrificeFailMessage7>
+  <SacrificeFailMessage6>{0}(은)는 고통, 불, 침묵에 대한 환상에 집중할 수 없습니다.</SacrificeFailMessage6>
+  <SacrificeFailMessage13>{0}(은)는 비상식적인 해저의 환상에 빠져 잠에 빠지듯이 수면 위로 빨려 들어갑니다.</SacrificeFailMessage13>
+  <SacrificeFailMessage18>{0}(은)는 무수한 구멍에 주름이 많은 괴이한 곰팡이 생물의 환상이 나타나 충격을 받았습니다.</SacrificeFailMessage18>
+  <SacrificeFailMessage12>{0}(은)는 일시적으로 다른 세계 색으로 문장의 일부가 눈에 들어오지 않습니다.</SacrificeFailMessage12>
+  <SacrificeFailMessage5>{0}(은)는 몸이 불에 타는 듯한 느낌을 받습니다.</SacrificeFailMessage5>
+  <SacrificeFailMessage34>{0}(은)는 희생자를 내려다 보다가, 갑자기 희생자의 얼굴에서 자신의 얼굴을 봅니다.</SacrificeFailMessage34>
+  <SacrificeFailMessage27>{0}(은)는 의식을 계속 진행하는 것을 갑자기 멈추었습니다.</SacrificeFailMessage27>
+  <SacrificeFailMessage4>{0}(은)는 그들의 청원이 다른 어떤 것에 의해 왜곡됨을 깨닫습니다.</SacrificeFailMessage4>
+  <SacrificeFailMessage32>{0}(은)는 권력과 진정한 호소력이 있지만, 이상하게 약해보이고 믿음이 가지 않습니다.</SacrificeFailMessage32>
+  <SacrificeFailMessage9>{0}(은)는 가려움을 참지 못하고 의식에 실패했습니다.</SacrificeFailMessage9>
+  <SacrificeFailMessage33>{0}(은)는 그림자가 인간의 형상을 이루고 있는 것처럼 보이고 마구 비틀립니다.</SacrificeFailMessage33>
+  <SacrificeFailMessage14>{0}(은)는 악몽의 물고기가 선원들을 먹어치우는 환상을 보았습니다.</SacrificeFailMessage14>
+  <SacrificeFailMessage17>{0}(은)는 의식 도중에 잠에 빠져, 어린 신의 번개같은 울음을 보았습니다.</SacrificeFailMessage17>
+  <SacrificeFailMessage1>{0}(은)는 코가 성가시게 민감해져 재채기를 했습니다.</SacrificeFailMessage1>
+  <SacrificeFailMessage3>{0}(은)는 누군가 다른 사람의 목소리를 통제하는 것처럼, 제어할 수 없는 소리를 지르기 시작합니다.</SacrificeFailMessage3>
+  <SacrificeFailMessage38>{0}(은)는 마치 지구가 떨리는 듯한, '크로니안'의 울음 소리에 기도를 멈추었습니다.</SacrificeFailMessage38>
   <ROM_TradedSanityLossForMadness>{0}(은)는 상태 이상으로 쓰러졌지만, 정신이 회복되었습니다.</ROM_TradedSanityLossForMadness>
-  <SacrificeFailMessage35>{0}(는)은 이 세상, 그들의 고향, 그들의 삶, 그것이 실제로 무엇인지, 통찰력을 엿볼 수 있습니다.</SacrificeFailMessage35>
-  <SacrificeFailMessage24>{0}(는)은 심장 발작의 증상이 나타납니다. 잠시 후 괜찮아졌습니다.</SacrificeFailMessage24>
-  <SacrificeFailMessage36>{0}(는)은 "세인트 키츠 네비스의 갈라진 틈을 조심해라!"라는 말을 정신나간 듯 반복해서 외칩니다.</SacrificeFailMessage36>
+  <SacrificeFailMessage35>{0}(은)는 이 세상, 그들의 고향, 그들의 삶, 그것이 실제로 무엇인지, 통찰력을 엿볼 수 있습니다.</SacrificeFailMessage35>
+  <SacrificeFailMessage24>{0}(은)는 심장 발작의 증상이 나타납니다. 잠시 후 괜찮아졌습니다.</SacrificeFailMessage24>
+  <SacrificeFailMessage36>{0}(은)는 "세인트 키츠 네비스의 갈라진 틈을 조심해라!"라는 말을 정신나간 듯 반복해서 외칩니다.</SacrificeFailMessage36>
   <Cults_LRExecBonus>{0}(은)는 진행되는 동안 매끄러운 모습을 보였습니다.</Cults_LRExecBonus>
-  <SacrificeFailMessage26>{0}(는)은 사정없이 속을 게워내고 있습니다.</SacrificeFailMessage26>
+  <SacrificeFailMessage26>{0}(은)는 사정없이 속을 게워내고 있습니다.</SacrificeFailMessage26>
   <CompTargetEffectCultMinded>{0}(이)가 종교의 광기에 빠져 세뇌되었습니다.</CompTargetEffectCultMinded>
   <Cults_DiscoveredDeityMessage>{0}(은)는 이상한 상징들 사이에서 발견되었습니다.</Cults_DiscoveredDeityMessage>
-  <SacrificeFailMessage15>{0}(는)은 스스로를 조롱거리로 만듭니다.</SacrificeFailMessage15>
+  <SacrificeFailMessage15>{0}(은)는 스스로를 조롱거리로 만듭니다.</SacrificeFailMessage15>
   <Cults_AspectOfCthulhuDesc>{0}의 {1}(은)는 이세계의 부속물로 대체되었습니다.</Cults_AspectOfCthulhuDesc>
-  <SacrificeFailMessage29>{0}(는)은 이상한 말을 중얼거리며 어색한 미소를 계속해서 짓습니다.</SacrificeFailMessage29>
+  <SacrificeFailMessage29>{0}(은)는 이상한 말을 중얼거리며 어색한 미소를 계속해서 짓습니다.</SacrificeFailMessage29>
   <Cults_TransmogrifyMessage>{0}의 형식이 개선되었습니다.</Cults_TransmogrifyMessage>
-  <SacrificeFailMessage28>{0}(는)은 배가 고파서 무의식적으로 먹을것을 찾아 자리를 떠납니다.</SacrificeFailMessage28>
+  <SacrificeFailMessage28>{0}(은)는 배가 고파서 무의식적으로 먹을것을 찾아 자리를 떠납니다.</SacrificeFailMessage28>
   <Box_Description>&lt;b>설명&lt;/b></Box_Description>
   <Box_Domains>&lt;b>영역&lt;/b></Box_Domains>
   <Box_Titles>&lt;b>제목&lt;/b></Box_Titles>
@@ -4843,7 +4839,7 @@
   <Meals>식사</Meals>
   <Meat>고기</Meat>
   <SacrificeLabelmixedsuccess>불안한 성공</SacrificeLabelmixedsuccess>
-  <Cults_ritualMixedSuccess>찝찝하지만 성공했습니다.</Cults_ritualMixedSuccess>
+  <Cults_ritualMixedSuccess> 찝찝하지만 성공했습니다.</Cults_ritualMixedSuccess>
   <Cults_Monstrous>괴물같은 {0}</Cults_Monstrous>
   <Cults_Morning>아침</Cults_Morning>
   <MorningSermons>아침 예배</MorningSermons>
@@ -4858,7 +4854,7 @@
   <CommandCultReportDisabled>최근 의식에 대한 기록이 없습니다.</CommandCultReportDisabled>
   <Cults_LRNoAstralEvents>특별한 천체 사건이 발생하지 않았습니다.</Cults_LRNoAstralEvents>
   <Cults_LRNoPerfectBonus>모든 예배자들이 적절한 의복을 입지 않았습니다.</Cults_LRNoPerfectBonus>
-  <Cults_AutoForbidWarning>참고 : 자동 연구를 통해 신앙을 강화할 수 있습니다.</Cults_AutoForbidWarning>
+  <Cults_AutoForbidWarning>참고: 자동 연구를 통해 신앙을 강화할 수 있습니다.</Cults_AutoForbidWarning>
   <Cults_InitialExposureLabel>신비로운 시작</Cults_InitialExposureLabel>
   <CommandOfferingDesc>다른 세계의 존재들에게 관심을 끌기 위해 소중한 보급품을 제공하세요.</CommandOfferingDesc>
   <Offerer>시주</Offerer>
@@ -5057,7 +5053,8 @@
 
   <!--881100382_190628_More Planning-->
   <MorePlanning.DefaultOpacity>(기본값)</MorePlanning.DefaultOpacity>
-  <MorePlanning.SettingShiftKeyForOverride.desc>기본적으로 계획을 추가하거나 제거할 때는 모든 색상이 재정의됩니다. [shift]를 누르면 다른 색상을 무시하고 계획을 지정할 수 있습니다. 반대로 하려면 이 옵션을 선택하십시오.</MorePlanning.SettingShiftKeyForOverride.desc>
+  <MorePlanning.SettingShiftKeyForOverride.label>Shift 키를 눌러 색상 덮어쓰기</MorePlanning.SettingShiftKeyForOverride.label>
+  <MorePlanning.SettingShiftKeyForOverride.desc>기본적으로 계획을 추가하거나 제거할 때는 모든 색상이 재정의됩니다. [shift]를 누르면 기존 색상은 영향받지 않고 계획을 지정할 수 있습니다. 반대로 하려면 이 항목을 선택하십시오.</MorePlanning.SettingShiftKeyForOverride.desc>
   <MorePlanning.ChangeColor>색 바꾸기</MorePlanning.ChangeColor>
   <MorePlanning.PlanVisibilityDesc>계획을 보거나 보이지 않게 할 수 있습니다.</MorePlanning.PlanVisibilityDesc>
   <MorePlanning.Opacity.desc>계획의 불투명도 변경</MorePlanning.Opacity.desc>
@@ -5077,7 +5074,6 @@
   <Planning.label>계획</Planning.label>
   <MorePlanning.PlanVisibility>계획 보기</MorePlanning.PlanVisibility>
   <MorePlanning.SettingRemoveIfBuildingDespawned.label>건설 후 계획 지우기</MorePlanning.SettingRemoveIfBuildingDespawned.label>
-  <MorePlanning.SettingShiftKeyForOverride.label>Shift 키를 누르면 색상이 무시됩니다.</MorePlanning.SettingShiftKeyForOverride.label>
 
   <!--88771613_190626_WM Smarter food selection100-->
   <FoodCategory.Tree>나무</FoodCategory.Tree>
@@ -5660,12 +5656,6 @@
   <ArachnidInfestation>사령관님! 아라크니드 둥지의 흔적이 마을 근처에서 발견되었습니다!\n\n둥지가 완벽히 성숙해지기 전에 찾아내서 부숴야 합니다! 그렇지 않으면 더 많은 둥지를 만들어내고 더 많은 아라크니드 놈들을 상대해야할 것입니다!\n\n아직 성숙하지 않은 둥지는 아라크니드 본대와 연락망이 구축되지 않았기 때문에 파괴가 쉬운 편입니다. 다만 놈들은 죽기를 두려워하지않고 둥지를 지킬 것입니다!</ArachnidInfestation>
   <LetterLabelArachnidUpdate>영원히 살고 싶기라도 한겁니까!?</LetterLabelArachnidUpdate>
   <ArachnidUpdate>아라크니드 모드 5.0\n\n"사령관님,\n\n최전방에서 통신이 들어왔습니다. 스콜피온 버그가 꼬리에서 플라즈마를 뿜어내며 건물을 공격하고, 탱커 버그의 외골격이 단단하여 죽이기 더 어려워졌으며, 플라즈마 버그가 쏘는 플라즈마는 더 큰 폭발이 일어났다고 합니다.\n\n알려진 정보는 이것이 끝입니다. Would you like to know more?"\n\nModding take a lot a lot of time, and I need your support in order for me to continue improving and producing more mods. \n\nDonate a meal for me at ko-fi.com/walkingproblem</ArachnidUpdate>
-
-  <!--935732834_181121_SeedsPlease-->
-  <SeedExtraChance>씨앗 추출 확률</SeedExtraChance>
-  <SeedBaseChance>씨앗 확률</SeedBaseChance>
-  <SeedMultiplier>씨앗 계수</SeedMultiplier>
-  <HarvestMultiplier>산출 계수</HarvestMultiplier>
 
   <!--935982361_181021_Better Workbench Management-->
   <IW.CountInventoryDesc>현재 정착민이나 애완동물들에 의해 장비, 소지 또는 운반되는 품목들까지 포함해서 계산합니다.</IW.CountInventoryDesc>

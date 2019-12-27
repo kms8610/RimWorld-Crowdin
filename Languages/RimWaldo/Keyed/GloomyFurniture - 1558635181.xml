@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+
   <playSong>재생</playSong>
   <playSongDesc>커스텀 곡을 재생합니다.</playSongDesc>
   <stopSong>정지</stopSong>

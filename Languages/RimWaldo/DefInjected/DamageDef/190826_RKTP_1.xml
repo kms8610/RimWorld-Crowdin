@@ -137,10 +137,6 @@
   <PacifierStab.label>찌르기</PacifierStab.label>
   <PacifierStab.deathMessage>{0}(은)는 찔려 죽었습니다.</PacifierStab.deathMessage>
 
-  <!--764375772_181016_Call of Cthulhu - Factions-->
-  <ROM_MeleeBurn.deathMessage>{0}(이)가 불에 타 죽었습니다.</ROM_MeleeBurn.deathMessage>
-  <ROM_MeleeBurn.label>화상</ROM_MeleeBurn.label>
-
   <!--765890823_181117_Call of Cthulhu - Cosmic Horrors-->
   <ROM_ConstrictMonstrous.deathMessage>{0}(은)는 일그러지며 사망했습니다.</ROM_ConstrictMonstrous.deathMessage>
   <ROM_ScratchMonstrous.deathMessage>{0}(은)는 발톱에 찢겨 사망했습니다.</ROM_ScratchMonstrous.deathMessage>

@@ -71,18 +71,10 @@
   <USCM_Caravan.label>USCM 통신 소대</USCM_Caravan.label>
   <USCM_Base_Trader.label>USCM 군납 상단</USCM_Base_Trader.label>
 
-  <!--764375772_181016_Call of Cthulhu - Factions-->
-  <ROM_Caravan_CFV_Smuggler.label>밀수업자</ROM_Caravan_CFV_Smuggler.label>
-  <ROM_Caravan_CFV_CombatSupplier.label>무기 암상인</ROM_Caravan_CFV_CombatSupplier.label>
-
   <!--918227266_181112_Star Wars - Factions-->
   <PJ_ImpTrader_BulkGoods.label>제국 벌크 물자 공급자</PJ_ImpTrader_BulkGoods.label>
   <PJ_ImpTrader_Slaver.label>제국의 노예</PJ_ImpTrader_Slaver.label>
   <PJ_ImpTrader_CombatSupplier.label>제국 무기 공급 업체</PJ_ImpTrader_CombatSupplier.label>
   <PJ_ImpTrader_Visitor.label>상인</PJ_ImpTrader_Visitor.label>
-
-  <!--935732834_181121_SeedsPlease-->
-  <GreenHouseTrader.label>씨앗 상인</GreenHouseTrader.label>
-  <Caravan_GreenHouseTrader.label>씨앗 상인</Caravan_GreenHouseTrader.label>
 
 </LanguageData>

@@ -53,17 +53,17 @@
 
   <!--1746084920_190526_RimSlave-->
   <Pleasure.label>쾌락</Pleasure.label>
-  <Pleasure.logRulesInitiator.rulesStrings.0>logentry->[other_nameShortIndef]에게 쾌락을 선사함.</Pleasure.logRulesInitiator.rulesStrings.0>
-  <Pleasure.logRulesRecipient.rulesStrings.0>logentry->[other_nameShortIndef]에 의해 오르가즘을 느낌.</Pleasure.logRulesRecipient.rulesStrings.0>
+  <Pleasure.logRulesInitiator.rulesStrings.0>r_logentry->[other_nameShortIndef]에게 쾌락을 선사함.</Pleasure.logRulesInitiator.rulesStrings.0>
+  <Pleasure.logRulesRecipient.rulesStrings.0>r_logentry->[other_nameShortIndef]에 의해 오르가즘을 느낌.</Pleasure.logRulesRecipient.rulesStrings.0>
   <Salute.label>인사를 받음</Salute.label>
-  <Salute.logRulesInitiator.rulesStrings.0>logentry->[other_nameShortIndef]에게 인사를 함.</Salute.logRulesInitiator.rulesStrings.0>
-  <Salute.logRulesRecipient.rulesStrings.0>logentry->[other_nameShortIndef]에게 인사를 받음.</Salute.logRulesRecipient.rulesStrings.0>
+  <Salute.logRulesInitiator.rulesStrings.0>r_logentry->[other_nameShortIndef]에게 인사를 함.</Salute.logRulesInitiator.rulesStrings.0>
+  <Salute.logRulesRecipient.rulesStrings.0>r_logentry->[other_nameShortIndef]에게 인사를 받음.</Salute.logRulesRecipient.rulesStrings.0>
   <Massage.label>마사지</Massage.label>
-  <Massage.logRulesInitiator.rulesStrings.0>logentry->[other_nameShortIndef](을)를 마사지 해줌.</Massage.logRulesInitiator.rulesStrings.0>
-  <Massage.logRulesRecipient.rulesStrings.0>logentry-> [other_nameShortIndef]에게 마사지를 받음.</Massage.logRulesRecipient.rulesStrings.0>
+  <Massage.logRulesInitiator.rulesStrings.0>r_logentry->[other_nameShortIndef](을)를 마사지 해줌.</Massage.logRulesInitiator.rulesStrings.0>
+  <Massage.logRulesRecipient.rulesStrings.0>r_logentry-> [other_nameShortIndef]에게 마사지를 받음.</Massage.logRulesRecipient.rulesStrings.0>
   <BeInsulted.label>작업 노예를 모욕함</BeInsulted.label>
-  <BeInsulted.logRulesInitiator.rulesStrings.0>logentry->[other_nameShortIndef]에게 모욕을 당함</BeInsulted.logRulesInitiator.rulesStrings.0>
-  <BeInsulted.logRulesRecipient.rulesStrings.0>logentry->[other_nameShortIndef]을 모욕함.</BeInsulted.logRulesRecipient.rulesStrings.0>
+  <BeInsulted.logRulesInitiator.rulesStrings.0>r_logentry->[other_nameShortIndef]에게 모욕을 당함</BeInsulted.logRulesInitiator.rulesStrings.0>
+  <BeInsulted.logRulesRecipient.rulesStrings.0>r_logentry->[other_nameShortIndef]을 모욕함.</BeInsulted.logRulesRecipient.rulesStrings.0>
 
   <!--815039373_181117_Call of Cthulhu - Cults-->
   <Cults_SafePreach.logRulesRecipient.rulesStrings.0>r_logentry->[other_nameShortIndef]에게 신념을 들음.</Cults_SafePreach.logRulesRecipient.rulesStrings.0>

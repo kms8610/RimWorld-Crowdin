@@ -82,7 +82,7 @@
   <Performance.description>예능인들에게 연극, 연주회, 코미디 무대를 제공합니다.</Performance.description>
   <Performance.labelShort>공연</Performance.labelShort>
   <Performance.pawnLabel>공연자</Performance.pawnLabel>
-  <Performance.gerundLabel>공연 중</Performance.gerundLabel>
+  <Performance.gerundLabel>공연</Performance.gerundLabel>
   <Performance.verb>공연</Performance.verb>
 
   <!--715565262_181031_Colony Manager-->

@@ -1368,65 +1368,6 @@
   <Make_Apparel_2MilitaryParka.description>군용 파카를 만듭니다.</Make_Apparel_2MilitaryParka.description>
   <Make_Apparel_2MilitaryParka.jobString>군용 파카 만드는 중.</Make_Apparel_2MilitaryParka.jobString>
 
-  <!--1684134687_190526_Girls_Frontline_Sangvis_Ferri_Weapons-->
-  <Make_SangvisGun_Alchemist.label>철혈 총검 제작</Make_SangvisGun_Alchemist.label>
-  <Make_SangvisGun_Alchemist.description>철혈 총검을 제작합니다.</Make_SangvisGun_Alchemist.description>
-  <Make_SangvisGun_Alchemist.jobString>철혈 총검 제작 중.</Make_SangvisGun_Alchemist.jobString>
-  <Make_SangvisGun_Architect.label>아키텍트 미사일 제작</Make_SangvisGun_Architect.label>
-  <Make_SangvisGun_Architect.description>아키텍트 미사일을 제작합니다.</Make_SangvisGun_Architect.description>
-  <Make_SangvisGun_Architect.jobString>아키텍트 미사일 제작 중.</Make_SangvisGun_Architect.jobString>
-  <Make_SangvisGun_Beak.label>비크 샷건 제작</Make_SangvisGun_Beak.label>
-  <Make_SangvisGun_Beak.description>비크 샷건을 제작합니다.</Make_SangvisGun_Beak.description>
-  <Make_SangvisGun_Beak.jobString>비크 샷건 제작 중.</Make_SangvisGun_Beak.jobString>
-  <Make_SangvisMelee_Brute.label>브루트 소드 제작</Make_SangvisMelee_Brute.label>
-  <Make_SangvisMelee_Brute.description>브루트 소드를 제작합니다.</Make_SangvisMelee_Brute.description>
-  <Make_SangvisMelee_Brute.jobString>브루트 소드 제작 중.</Make_SangvisMelee_Brute.jobString>
-  <Make_SangvisGun_Destroyer.label>디스트로이어 런처 제작</Make_SangvisGun_Destroyer.label>
-  <Make_SangvisGun_Destroyer.description>디스트로이어 런처를 제작합니다.</Make_SangvisGun_Destroyer.description>
-  <Make_SangvisGun_Destroyer.jobString>디스트로이어 런처 제작 중.</Make_SangvisGun_Destroyer.jobString>
-  <Make_SangvisGun_Dreamer.label>드리머 라이플 제작</Make_SangvisGun_Dreamer.label>
-  <Make_SangvisGun_Dreamer.description>드리머 라이플을 제작합니다.</Make_SangvisGun_Dreamer.description>
-  <Make_SangvisGun_Dreamer.jobString>드리머 라이플 제작 중.</Make_SangvisGun_Dreamer.jobString>
-  <Make_SangvisGun_Executioner.label>엑스큐셔너 피스톨 제작</Make_SangvisGun_Executioner.label>
-  <Make_SangvisGun_Executioner.description>엑스큐셔너 피스톨을 제작합니다.</Make_SangvisGun_Executioner.description>
-  <Make_SangvisGun_Executioner.jobString>엑스큐셔너 피스톨 제작 중.</Make_SangvisGun_Executioner.jobString>
-  <Make_SangvisMelee_Executioner.label>엑스큐셔너 소드 제작</Make_SangvisMelee_Executioner.label>
-  <Make_SangvisMelee_Executioner.description>엑스큐셔너 소드를 제작합니다.</Make_SangvisMelee_Executioner.description>
-  <Make_SangvisMelee_Executioner.jobString>엑스큐셔너 소드 제작 중.</Make_SangvisMelee_Executioner.jobString>
-  <Make_SangvisGun_Gaia.label>가이아 런처 제작</Make_SangvisGun_Gaia.label>
-  <Make_SangvisGun_Gaia.description>가이아 런처를 제작합니다.</Make_SangvisGun_Gaia.description>
-  <Make_SangvisGun_Gaia.jobString>가이아 런처 제작 중.</Make_SangvisGun_Gaia.jobString>
-  <Make_SangvisGun_Guard.label>가드 피스톨 제작</Make_SangvisGun_Guard.label>
-  <Make_SangvisGun_Guard.description>가드 피스톨을 제작합니다.</Make_SangvisGun_Guard.description>
-  <Make_SangvisGun_Guard.jobString>가드 피스톨 제작 중.</Make_SangvisGun_Guard.jobString>
-  <Make_SangvisGun_GuardSWAP.label>가드 총검 제작</Make_SangvisGun_GuardSWAP.label>
-  <Make_SangvisGun_GuardSWAP.description>가드 총검을 제작합니다.</Make_SangvisGun_GuardSWAP.description>
-  <Make_SangvisGun_GuardSWAP.jobString>가드 총검 제작 중.</Make_SangvisGun_GuardSWAP.jobString>
-  <Make_SangvisGun_Intruder.label>인트루더 LMG 제작</Make_SangvisGun_Intruder.label>
-  <Make_SangvisGun_Intruder.description>인트루더 LMG를 제작합니다.</Make_SangvisGun_Intruder.description>
-  <Make_SangvisGun_Intruder.jobString>인트루더 LMG 제작 중.</Make_SangvisGun_Intruder.jobString>
-  <Make_SangvisGun_M4IWA.label>남겨진 무기상자 제작</Make_SangvisGun_M4IWA.label>
-  <Make_SangvisGun_M4IWA.description>남겨진 무기상자를 제작합니다.</Make_SangvisGun_M4IWA.description>
-  <Make_SangvisGun_M4IWA.jobString>남겨진 무기상자 제작 중.</Make_SangvisGun_M4IWA.jobString>
-  <Make_SangvisGun_Jaeger.label>예거 라이플 제작</Make_SangvisGun_Jaeger.label>
-  <Make_SangvisGun_Jaeger.description>예거 라이플을 제작합니다.</Make_SangvisGun_Jaeger.description>
-  <Make_SangvisGun_Jaeger.jobString>예거 라이플 제작 중.</Make_SangvisGun_Jaeger.jobString>
-  <Make_SangvisGun_JaegerSWAP.label>예거 엘리트 라이플 제작</Make_SangvisGun_JaegerSWAP.label>
-  <Make_SangvisGun_JaegerSWAP.description>예거 엘리트 라이플을 제작합니다.</Make_SangvisGun_JaegerSWAP.description>
-  <Make_SangvisGun_JaegerSWAP.jobString>예거 엘리트 라이플 제작 중.</Make_SangvisGun_JaegerSWAP.jobString>
-  <Make_SangvisGun_Ripper.label>리퍼 SMG 제작</Make_SangvisGun_Ripper.label>
-  <Make_SangvisGun_Ripper.description>리퍼 SMG를 제작합니다.</Make_SangvisGun_Ripper.description>
-  <Make_SangvisGun_Ripper.jobString>리퍼 SMG 제작 중.</Make_SangvisGun_Ripper.jobString>
-  <Make_SangvisGun_Striker.label>스트라이커 게틀링 제작.</Make_SangvisGun_Striker.label>
-  <Make_SangvisGun_Striker.description>스트라이커 게틀링을 제작합니다.</Make_SangvisGun_Striker.description>
-  <Make_SangvisGun_Striker.jobString>스트라이커 게틀링 제작 중.</Make_SangvisGun_Striker.jobString>
-  <Make_SangvisGun_StrikerSWAP.label>헤비 스트라이커 제작</Make_SangvisGun_StrikerSWAP.label>
-  <Make_SangvisGun_StrikerSWAP.description>헤비 스트라이커를 제작합니다.</Make_SangvisGun_StrikerSWAP.description>
-  <Make_SangvisGun_StrikerSWAP.jobString>헤비 스트라이커 제작 중.</Make_SangvisGun_StrikerSWAP.jobString>
-  <Make_SangvisGun_Vespid.label>베스피드 라이플 제작</Make_SangvisGun_Vespid.label>
-  <Make_SangvisGun_Vespid.description>베스피드 라이플을 제작합니다.</Make_SangvisGun_Vespid.description>
-  <Make_SangvisGun_Vespid.jobString>베스피드 라이플 제작 중.</Make_SangvisGun_Vespid.jobString>
-
   <!--1704214153_190617_WD_Expanded_Artillery-->
   <Make_Shell_WDCannonHighExplosive.label>대포용 고폭탄 만들기</Make_Shell_WDCannonHighExplosive.label>
   <Make_Shell_WDCannonHighExplosive.description>대포용 고폭탄을 만듭니다.</Make_Shell_WDCannonHighExplosive.description>

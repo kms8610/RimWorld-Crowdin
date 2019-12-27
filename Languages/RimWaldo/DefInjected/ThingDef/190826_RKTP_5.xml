@@ -1890,7 +1890,7 @@
   <SangvisGun_Beak.label>비크 샷건</SangvisGun_Beak.label>
   <SangvisGun_Beak.description>여름 블록버스터 액션 영화에서 빠질수 없는 오토바이 추격장면을 위해 고안된 최첨단 레버 액션 엽총입니다. 이 총을 돌리지 않으면 사형에 처해질 수 있습니다. 둠스데이 탄약은 포함되지 않습니다.</SangvisGun_Beak.description>
   <SangvisGun_Beak.tools.0.label>개머리판</SangvisGun_Beak.tools.0.label>
-  <SangvisGun_Beak.tools.1.label>바렐</SangvisGun_Beak.tools.1.label>
+  <SangvisGun_Beak.tools.1.label>총열</SangvisGun_Beak.tools.1.label>
   <Bullet_Beak.label>비크 샷건 탄약</Bullet_Beak.label>
   <SangvisMelee_Brute.label>브루트 소드</SangvisMelee_Brute.label>
   <SangvisMelee_Brute.description>생산이 용이하도록 첨단기술을 이용해 고안된 짧은 검입니다. 인체 공학적 특성과 관통력으로 인해 암살자에게 적합합니다.</SangvisMelee_Brute.description>
@@ -1957,8 +1957,8 @@
   <SangvisGun_Ripper.tools.0.label>손잡이</SangvisGun_Ripper.tools.0.label>
   <SangvisGun_Ripper.tools.1.label>총열</SangvisGun_Ripper.tools.1.label>
   <Bullet_Ripper.label>리퍼 탄약</Bullet_Ripper.label>
-  <SangvisGun_Striker.label>스트라이커 게틀링</SangvisGun_Striker.label>
-  <SangvisGun_Striker.description>제조가 용이하도록 고안된 3단 총열 게틀링입니다. 구경이 작기때문에 지속적으로 사격하기에 적합하지만, 관통력이 부족하여 중장갑을 두른 표적에게는 활용이 어렵습니다. CIWS 터렛, 액션 영화, 전투기, 그리고 철혈 회사의 파티용 음악단에서 자주 볼 수 있습니다.</SangvisGun_Striker.description>
+  <SangvisGun_Striker.label>스트라이커 개틀링</SangvisGun_Striker.label>
+  <SangvisGun_Striker.description>제조가 용이하도록 고안된 3단 총열 개틀링입니다. 구경이 작기때문에 지속적으로 사격하기에 적합하지만, 관통력이 부족하여 중장갑을 두른 표적에게는 활용이 어렵습니다. CIWS 터렛, 액션 영화, 전투기, 그리고 철혈 회사의 파티용 음악단에서 자주 볼 수 있습니다.</SangvisGun_Striker.description>
   <SangvisGun_Striker.tools.0.label>손잡이</SangvisGun_Striker.tools.0.label>
   <SangvisGun_Striker.tools.1.label>총열</SangvisGun_Striker.tools.1.label>
   <Bullet_Striker.label>스트라이커 탄약</Bullet_Striker.label>

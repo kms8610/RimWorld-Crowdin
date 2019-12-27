@@ -34,7 +34,7 @@
   <SewageTreatment.label>대형 정수시설</SewageTreatment.label>
   <SewageTreatment.description>효과적으로 오물을 정화하는 장치입니다. 한계에 도달할 경우 하수처리 과정 없이 그대로 오물을 배출합니다.</SewageTreatment.description>
   <SwimmingPools.label>수영장</SwimmingPools.label>
-  <SwimmingPools.description>수영장 짓는 중.</SwimmingPools.description>
+  <SwimmingPools.description>수영장을 건설할 수 있습니다.</SwimmingPools.description>
   <Irrigation.label>농업용 스프링클러</Irrigation.label>
   <Irrigation.description>매일 아침 토질을 일시적으로 개선하는 농업 용수 스프링클러를 연구합니다.</Irrigation.description>
   <FireSuppression.label>화재진압 스프링클러</FireSuppression.label>

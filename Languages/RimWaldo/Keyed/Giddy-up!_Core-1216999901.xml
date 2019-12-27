@@ -3,8 +3,8 @@
 
   <GUC_GiddyUp>Giddy up!</GUC_GiddyUp>
   <GUC_StatPart_MountMoveSpeed>기승 움직임 속도 (폰 이동속도를 무시합니다)</GUC_StatPart_MountMoveSpeed>
-  <GUC_StatPart_HandlingMultiplier>라이더의 조련 능력에 대한 배율</GUC_StatPart_HandlingMultiplier>
-  <GUC_StatPart_HandlingSkill>라이더의 동물 조련 능력</GUC_StatPart_HandlingSkill>
+  <GUC_StatPart_HandlingMultiplier>탑승자의 조련 능력에 대한 배율</GUC_StatPart_HandlingMultiplier>
+  <GUC_StatPart_HandlingSkill>탑승자의 동물 조련 능력</GUC_StatPart_HandlingSkill>
   <GUC_StatPart_SkillReq>동물에게 요구되는 능력</GUC_StatPart_SkillReq>
   <GUC_StatPart_LevelsAbove>기술 요구 사항보다 높은 레벨입니다.</GUC_StatPart_LevelsAbove>
   <GUC_StatPart_HandlingMovementImpact>레벨당 속도 영향 (모드 설정에서 조정할 수 있습니다)</GUC_StatPart_HandlingMovementImpact>

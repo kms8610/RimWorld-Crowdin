@@ -10,7 +10,7 @@
   <AllowAltDes>모드 범주 허용</AllowAltDes>
   <AllowAltDesTip>다른 모드의 지정된 건축 메뉴 변경을 허용합니다.</AllowAltDesTip>
   <RainIrrigation>비 관개</RainIrrigation>
-  <RainIrrigationTip>이제 비가 내리면 농업용 스프링클러와 같이 토질을 일시적으로 개선해 줍니다. 성능이 저하  저하될 수 있습니다.</RainIrrigationTip>
+  <RainIrrigationTip>이제 비가 내리면 농업용 스프링클러와 같이 토질을 일시적으로 개선해 줍니다. 성능이 저하 저하될 수 있습니다.</RainIrrigationTip>
   <GrowingZoneNotAllowed>재배구역에서 씨 뿌리기를 중단합니다.</GrowingZoneNotAllowed>
   <NoFertilizerFound>비료 없음</NoFertilizerFound>
   <AreaPlaceFertilizer>비료 구역</AreaPlaceFertilizer>

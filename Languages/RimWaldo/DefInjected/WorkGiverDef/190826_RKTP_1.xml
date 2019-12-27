@@ -406,9 +406,9 @@
   <HPGMCycle.label>인력 발전기 가동</HPGMCycle.label>
 
   <!--1778162471_190626_RazzleDazzle-->
-  <WorkGiver_Rehearser.verb>리허설</WorkGiver_Rehearser.verb>
-  <WorkGiver_Rehearser.gerund>리허설 중</WorkGiver_Rehearser.gerund>
-  <WorkGiver_PreparePerformance.verb>공연 준비</WorkGiver_PreparePerformance.verb>
+  <WorkGiver_Rehearser.verb>예행연습</WorkGiver_Rehearser.verb>
+  <WorkGiver_Rehearser.gerund>예행연습</WorkGiver_Rehearser.gerund>
+  <WorkGiver_PreparePerformance.verb>공연</WorkGiver_PreparePerformance.verb>
   <WorkGiver_PreparePerformance.gerund>공연 준비</WorkGiver_PreparePerformance.gerund>
   <WorkGiver_DoBillsAtGrandPiano.verb>음악 조율</WorkGiver_DoBillsAtGrandPiano.verb>
   <WorkGiver_DoBillsAtGrandPiano.gerund>음악 조율</WorkGiver_DoBillsAtGrandPiano.gerund>
@@ -570,11 +570,6 @@
   <DoBills_PJ_Bench.verb>조립</DoBills_PJ_Bench.verb>
   <DoBills_PJ_Bench.gerund>조립</DoBills_PJ_Bench.gerund>
   <DoBills_PJ_Bench.label>진보된 폴리알로이 무기 및 갑옷 제조</DoBills_PJ_Bench.label>
-
-  <!--935732834_181121_SeedsPlease-->
-  <DoBillsTableSeeds.label>씨앗 추출</DoBillsTableSeeds.label>
-  <DoBillsTableSeeds.verb>씨앗 추출</DoBillsTableSeeds.verb>
-  <DoBillsTableSeeds.gerund>씨앗 추출</DoBillsTableSeeds.gerund>
 
   <!--1185269798_190818_VGP Garden Fabrics-->
   <DoBillsTableLoom.label>베틀로 짜기</DoBillsTableLoom.label>
