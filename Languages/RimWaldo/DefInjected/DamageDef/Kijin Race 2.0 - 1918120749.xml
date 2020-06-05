@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-
-  <KijinDarkMatter.label>독</KijinDarkMatter.label>
-  <KijinDarkMatter.deathMessage>{0}는 음식에 맞아 사망</KijinDarkMatter.deathMessage>
-  <KijinPoison.label>독</KijinPoison.label>
-  <KijinPoison.deathMessage>{0}는 독에의해 사망.</KijinPoison.deathMessage>
-
-</LanguageData>

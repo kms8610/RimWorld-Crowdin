@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-
-  <Nuke.label>핵</Nuke.label>
-  <Nuke.deathMessage>{0}은(는) 완전히 사라졌습니다.</Nuke.deathMessage>
-  <Spore.label>포자</Spore.label>
-  <Spore.deathMessage>{0}은(는) 질식사했습니다.</Spore.deathMessage>
-
-</LanguageData>

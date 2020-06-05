@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<loadFolders>
+
+  <default>
+    <li IfModActive="dismarzero.VGP.VGPVegetableGarden">VGP Garden Tools - 2007063961</li>
+	<li IfModActive="hodlhodl.twitchtoolkit">Twitch Toolkit - 1718525787</li>
+	<li IfModActive="VanillaExpanded.VEE">Vanilla Events Expanded - 1938420742</li>
+	<li IfModActive="fridgeBaron.Immortals">Immortals - 1984905966</li>
+	<li IfModActive="automatic.gunplay">Gunplay - 2034896549</li>
+	<li IfModActive="spdskatr.projectrimfactory">Project RimFactory Revived - 2033979700</li>
+	<li IfModActive="sulusdacor.james76543.Meltup.AdvancedPowerPlus">Advanced Power Plus - 203240962</li>
+	<li IfModActive="Dubwise.Rimatomics">Rimatomics - 1127530465</li>
+	<li IfModActive="hodlhodl.toolkitcore">ToolkitCore - 2018368654</li>
+	<li IfModActive="VanillaExpanded.VWEL">Vanilla Weapons Expanded - Laser - 1989352844</li>
+	<li IfModActive="BOXrsxx.MorePracticalTraits">More Practical Traits - 1568700181</li>
+	<li IfModActive="sargoskar.witcherhunt">RimWorld - Witcher Monster Hunt - 2008529522</li>
+	<li IfModActive="Crustypeanut.WCE2.Core">War Crimes Expanded 2 Core - 2059450213</li>
+	<li IfModActive="Dubwise.DubsPerformanceAnalyzer">Dubs Performance Analyzer - 2038874626</li>
+	<li IfModActive="Flyingstar.AutoMortarsUnofficial">Auto-Mortars - 2054073477</li>
+	<li IfModActive="Atlas.AndroidTiers">Android tiers - 1386412863</li>
+	<li IfModActive="Solaris.BioReactor">BioReactor - 1564657272</li>
+	<li IfModActive="latta.infusion">Infusion 2 - 2063008864</li>
+	<li IfModActive="NotooShabby.AwesomeInventory">Awesome Inventory - 2050289408</li>
+	<li IfModActive="OskarPotocki.VanillaFactionsExpanded.SettlersModule">Vanilla Factions Expanded - Settlers - 2052918119</li>
+	<li IfModActive="mastertea.RandomPlus">RandomPlus - 1434137894</li>
+	<li IfModActive="Albion.GoExplore">Go Explore! - 1814100216</li>
+	<li IfModActive="Orion.FactionDiscovery">Faction Discovery - 751841890</li>
+	<li IfModActive="PeteTimesSix.CompactHediffs">Compact Hediffs - 2031734067</li>
+	<li IfModActive="fluffy.modmanager">Mod Manager - 1507748539</li>
+	<li IfModActive="Mlie.JinRohKerberosPanzerCopArmor">Jin-Roh Kerberos Panzer Cop Armor - 2038994354</li>
+	<li IfModActive="malkav73.rollers">Industrial Rollers Addon - 2060791442</li>
+	<li IfModActive="neceros.reinforcedwalls">Reinforced Walls - 1929389479</li>
+	<li IfModActive="tarojun.thrumboianrace">Thrumboian Race - 2011905435</li>
+	<li IfModActive="pelador.fireextinguisher">Fire Extinguisher - 2002292418</li>
+	<li IfModActive="LtBob.PreemptiveStrike.Rimworld">Preemptive Strike - 2056230561</li>
+	<li IfModActive="rimsenal.federation">Rimsenal - Federation Faction Pack - 736172213</li>
+	<li IfModActive="dragon.MMDrumcan.MOD">MMDrumcanMOD - 2100895553</li>
+	<li IfModActive="Daniledman.CyberFauna">Cyber Fauna - 1548649032</li>
+	<li IfModActive="FrozenSnowFox.VanillaBionicsExpansion">Vanilla Bionics Expansion - 1419675146</li>
+	<li IfModActive="notfood.MoreThanCapable">More Than Capable - 1803932954</li>
+	<li IfModActive="syrchalis.individuality">Individuality - 1497105115</li>
+	<li IfModActive="killface.facialstuff">Facial Stuff - 818322128</li>
+	<li IfModActive="Xahkarias.EvolvedOrgansRedux">EvolvedOrgansRedux - 1978492655</li>
+	<li IfModActive="kentington.saveourship2">Save Our Ship 2 - 1909914131</li>
+	<li IfModActive="OskarPotocki.VanillaFactionsExpanded.Core">Vanilla Factions Expanded - Core - 2023507013</li>
+	<li IfModActive="OskarPotocki.VanillaFactionsExpanded.MedievalModule">Vanilla Factions Expanded - Medieval - 2023513450</li>
+	<li IfModActive="VanillaExpanded.VCEF">Vanilla Fishing Expanded - 1914064942</li>
+	<li IfModActive="nmeijer.settlementinventory">Settlement Inventory - 2083067219</li>
+	<li IfModActive="Dubwise.DubsBadHygiene">Dubs Bad Hygiene - 836308268</li>
+	<li IfModActive="Aelanna.EccentricTech.Cosmetics">Eccentric Tech - Cosmetic Modifications - 2014890157</li>
+	<li IfModActive="dame.hotmeals">Thermodynamics - Hot Meals - 2110968173</li>
+	<li IfModActive="goudaquiche.LtfMedBay">Medical bay - 2101075718</li>
+	<li IfModActive="dismarzero.VGP.VGPThreeSistersPlants">VGP Three Sisters Plants - 2007063848</li>
+	<li IfModActive="dismarzero.VGP.VGPGardenDyesExpanded">VGP Garden Dyes Expanded - 2007062822</li>
+	<li IfModActive="Rearden.RNH">Regenerator Nanohive - 2022375442</li>
+	<li IfModActive="Mlie.MechanicalDefense2Walls">Mechanical Defense 2 Walls - 2016313260</li>
+    <li>RKTMModv1</li>
+    <li>RKTMModv2</li>
+  </default>
+
+</loadFolders>
