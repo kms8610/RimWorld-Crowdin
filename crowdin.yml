@@ -1,0 +1,6 @@
+files:
+  - source: "\U00EBAAA8\U00EB939C\U00EBAFB8\U00EBB288\U00EC97AD"
+    translation: "\U00EBAAA8\U00EB939C"
+    multilingual_spreadsheet: 1
+    first_line_contains_header: 1
+    scheme: 'identifier,none,none,source_phrase,ko'
