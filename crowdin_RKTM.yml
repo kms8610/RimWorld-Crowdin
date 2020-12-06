@@ -1,0 +1,4 @@
+files:
+  - source: "\U00EBB288\U00EC97AD\U00EC9E91\U00EC9785"
+    translation: /**/%two_letters_code%/%original_file_name%
+    scheme: 'identifier,none,none,source_phrase,translation'
